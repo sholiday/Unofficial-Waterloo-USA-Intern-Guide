@@ -30,7 +30,7 @@ there is no actual restriction for going in first year.
 Ask the pay in the interview. There is no reason not too.
 If they don't want to give it up, I'd recommend you don't take an offer.
 
-Don't believe 'competitive pay', that can range from $25/hr - $45/hr.
+Don't believe '*competitive pay*', that can range from $25/hr - $45/hr.
 
 ### Relocation
 Ask if they offer any help in terms of relocation.
@@ -62,7 +62,7 @@ Its useful for the visa.
 CECS and CDS/AIPT (now Cultural Vistas) will guide you through the process.
 If you have questions ask the awesome Cathy Stein. She's amazing.
 
-## Roomates
+## Roommates
 Chances are you're going to want to split an apartment.
 Contact your company and try to get emails of other Waterloo students going down the same time as you.
 
@@ -188,6 +188,11 @@ Note, if you have a Rogers/AT&T phone it will likely only get EDGE not 3G.
 If you just want a phone that makes phone calls and texts (weirdo) you can get some cheap pay as you go phone.
 I have a BOOST prepaid phone which I use for when people come to visit me and haven't had any trouble with it.
 
+## Shopping
+* Amazon has no tax in California
+* Amazon gives free shipping for 1 month through Prime, get one intern to signup at a time you can have free shipping all work term
+* Woot.com is awesome
+
 ## Area Specific Notes
 I've been to three main areas and will focus on info for those.
 If you are an intern and have more info let me know.
@@ -203,6 +208,8 @@ If you are an intern and have more info let me know.
 * Get a SafeWay Card, it's free and literally saved me over $100
 * Learn to love the Caltrain
 * Caltrain isn't like the GO, they check your tickets all the time
+* Go to Gilroy Premium Outlet Mall in Gilroy, it's amazing and has great deals
+* Pizza Hut is not as fancy in the US. It will blow your coworkers' minds if you tell them that Pizza Hut is a sit down restaurant with waiters
 
 ### New York
 * Really expensive
@@ -210,6 +217,8 @@ If you are an intern and have more info let me know.
 * Brokers fees are usually 1 month rent, often more than you'd like.
 * Brokers fees are super negotiable
 * More scammers here than any other place I encountered, see the place before you pay
+* Housing moves fast. We got an appointment to see a place, got on the subway right away and once we got out the place was already taken
+* Bring checks with you, that's how you secure a place
 * Don't live above 100th Street unless you aren't afraid of anything
 * Manhattan Costs Money
 * Wall street area is surprisingly dead in the evening
