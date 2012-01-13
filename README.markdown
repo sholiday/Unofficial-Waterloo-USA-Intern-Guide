@@ -1,6 +1,12 @@
 # Unofficial Waterloo USA Intern Guide
 *Or: How I Learned to Stop Worrying and Love the Greenback*
 
+[Attribution-NonCommercial-ShareAlike 2.5 Canada](http://creativecommons.org/licenses/by-nc-sa/2.5/ca/)
+
+*Contributors*
+
+* [Stephen Holiday](http://stephenholiday.com)
+
 ## Introduction
 
 This document is unofficial and not endorsed by my school or employers.
