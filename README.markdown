@@ -165,6 +165,7 @@ Some more tame ways
 * Wire transfer
 * Cash a check (takes 20-30 days I hear)
 * RBC Royal Bank (they have a cross boarder checking account, but the spread is 2.5%, I don't do this any more)
+* Using your family member who works at a bank and gets currency exchanged at cost (I'm told this is the best possible)
 
 If you end up with American funds in Canada, I recommend opening a US dollar account and convert it over time so you don't get bit by the exchange rate.
 
@@ -174,25 +175,38 @@ Keep in mind that some banks charge different spreads depending on how much you 
 $1,100 worked best for me.
 
 ## Getting your SSN
-Was a long time ago for me, all I remember was that it took a LONG time.
+Was a long time ago for me, please contribute to this section.
 
 ## Cell Service
 Unless you're one of those crazy people who wanders around for wifi (I'm looking at you Deepinder), you'll want to get cell service.
 
+If you just want a phone that makes phone calls and texts (weirdo) you can get some cheap pay as you go phone.
+I have a BOOST prepaid phone which I use for when people come to visit me and haven't had any trouble with it.
+
+### BlackBerry ###
 There are a few options. I'm a BlackBerry user who would die without BBM and Google Maps.
 The main problem is that people don't like giving you data without a 1-2 year commitment.
+This section is only about getting your BlackBerry on the network *with BIS*.
 
 I used to use T-Mobile with a weird prepaid plan but they stopped that and make you put down a deposit.
+I'm told that this may have changed, you may want to check this one in your state.
 
 My one friend knows a trick with AT&T where you can get them to check your Canadian credit history.
 I tried it and spend an hour arguing with the staff telling them it could be done and gave up.
 My friend told me it takes about three hours before they will relent, uggh.
 
-I'm told SimpleMobile is good and I will be trying them out this term.
+I tried SimpleMobile this term (Winter '12) and have mixed feelings.
+Their customer support is pretty terrible, they don't know what BIS is and they think data is data.
+But you can get it to work, and the service itself is fine (I think they actually are on T-Mobile).
+
 Note, if you have a Rogers/AT&T phone it will likely only get EDGE not 3G.
 
-If you just want a phone that makes phone calls and texts (weirdo) you can get some cheap pay as you go phone.
-I have a BOOST prepaid phone which I use for when people come to visit me and haven't had any trouble with it.
+### Smartphones ###
+Getting data for your smartphone is a lot easier than a dumb BlackBerry.
+
+I think T-Mobile and AT&T both offer options in this arena.
+
+In the past some groups were able to get a reduced rate by getting a family plan.
 
 ## Shopping
 * Amazon has no tax in California
@@ -216,6 +230,7 @@ If you are an intern and have more info let me know.
 * Caltrain isn't like the GO, they check your tickets all the time
 * Go to Gilroy Premium Outlet Mall in Gilroy, it's amazing and has great deals
 * Pizza Hut is not as fancy in the US. It will blow your coworkers' minds if you tell them that Pizza Hut is a sit down restaurant with waiters
+* Gilroy Premium Outlets is pretty awesome and worth a trip after your first paycheck
 
 ### New York
 * Really expensive
