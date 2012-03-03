@@ -158,7 +158,7 @@ There are a lot of ways to bring your hard earned dough back to Canada.
 
 Some really creative ways:
 
-* Bring it in cash across the boarder (10k limit, it's a lot in $20's, I don't do this anymore)
+* Bring it in cash across the border (10k limit, it's a lot in $20's, I don't do this anymore)
 * Mailing it by UPS/FedEx insured (got this from a TD Canada banker)
 * Buying equity on a cross listed item and selling it on a Canadian exchange (best rate I hear, but sounds tricky)
 
@@ -177,7 +177,25 @@ Keep in mind that some banks charge different spreads depending on how much you 
 $1,100 worked best for me.
 
 ## Getting your SSN
-Was a long time ago for me, all I remember was that it took a LONG time.
+
+Apply for your SSN as soon as you have been in the US for at least 10 days. It takes 10 days for SEVIS to sync up with the SSA's database of people eligible to apply for a social security number.
+
+
+### Application process
+1. Fill in form SS-5 available at the [Social Security Administration's website](http://ssa.gov/ssnumber/).
+2. Bring forms and documentation to your local SSA office.
+3. There is no step three.
+
+### SSA Offices
+
+Mountain View:
+ * Not as long of a wait to get into the office (not as much security screening), but took longer for the card to arrive.
+
+San Jose Downtown:
+ * Long wait just to get into the building (outdoor wait due to security screening), but card arrived in 2 business days (was promised two weeks).
+
+
+As with everything else, your mileage may vary.
 
 ## Cell Service
 Unless you're one of those crazy people who wanders around for wifi (I'm looking at you Deepinder), you'll want to get cell service.
