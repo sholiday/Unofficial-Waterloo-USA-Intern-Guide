@@ -201,6 +201,8 @@ Unless you're one of those crazy people who wanders around for wifi (I'm looking
 If you just want a phone that makes phone calls and texts (weirdo) you can get some cheap pay as you go phone.
 I have a BOOST prepaid phone which I use for when people come to visit me and haven't had any trouble with it.
 
+Akshay just sticks to using Rogers' BIS One Rate Plan - $35 for 500 MB of BIS data. Then, he uses a SIP client on it to make calls (Google Voice/Voip.ms). You don't pay too much to Rogers, and you save on roaming costs as well. Win/win.
+
 ### BlackBerry ###
 There are a few options. I'm a BlackBerry user who would die without BBM and Google Maps.
 The main problem is that people don't like giving you data without a 1-2 year commitment.
