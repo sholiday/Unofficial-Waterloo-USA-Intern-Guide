@@ -6,6 +6,7 @@
 *Contributors*
 
 * [Stephen Holiday](http://stephenholiday.com)
+* [Akshay Joshi](http://akshayjoshi.com)
 
 ## Introduction
 
@@ -104,8 +105,8 @@ Have a second (or third) copy of all travel documents:
 6. Map surrounding hotel/apartment
 7. Boarding pass
 
-Don't call it a job or say you are working!
-You're a poor little intern!
+Don't call it a job or say you are working! The J1 visa status is not meant for "working", but rather for "training" in the United States.
+Remember, you're just a poor little intern *training* in the United States!
 
 ## Once you Land
 Something super important you'll need to know...
