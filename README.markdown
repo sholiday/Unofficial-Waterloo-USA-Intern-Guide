@@ -215,6 +215,8 @@ Note, if you have a Rogers/AT&T phone it will likely only get EDGE not 3G.
 If you just want a phone that makes phone calls and texts (weirdo) you can get some cheap pay as you go phone.
 I have a BOOST prepaid phone which I use for when people come to visit me and haven't had any trouble with it.
 
+Akshay just sticks to using Rogers' BIS One Rate Plan - $35 for 500 MB of BIS data. Then, he uses a SIP client on it to make calls (Google Voice/Voip.ms). You don't pay too much to Rogers, and you save on roaming costs as well. Win/win.
+
 ## Shopping
 * Amazon has no tax in California
 * Amazon gives free shipping for 1 month through Prime, get one intern to signup at a time you can have free shipping all work term
