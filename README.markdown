@@ -150,6 +150,8 @@ Something to look into.
 Sometimes you can get BoA or TD America to look up your Canadian credit history.
 Really tough if you are under 21.
 
+One surefire way of getting a credit card fairly soon would be to apply for a Capital One credit card that's directly targeted for people with no credit histroy/newcomers. Beware this card is free for the first year, but costs around $30 per year after that.
+
 ### Bringing Money Back
 There are a lot of ways to bring your hard earned dough back to Canada.
 
