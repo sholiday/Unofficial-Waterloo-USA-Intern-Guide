@@ -149,9 +149,11 @@ You can get a Secured Credit card where you put some money into a special accoun
 Something to look into.
 
 Sometimes you can get BoA or TD America to look up your Canadian credit history.
+TD Ameritrade and BoA has a Canadian credit check form.
 Really tough if you are under 21.
 
-One surefire way of getting a credit card fairly soon would be to apply for a Capital One credit card that's directly targeted for people with no credit histroy/newcomers. Beware this card is free for the first year, but costs around $30 per year after that.
+One way of getting a credit card fairly soon would be to apply for a Capital One credit card that's directly targeted for people with no credit histroy/newcomers. Beware this card is free for the first year, but costs around $30 per year after that.
+Akshay was able to do it under 21.
 
 ### Bringing Money Back
 There are a lot of ways to bring your hard earned dough back to Canada.
@@ -187,11 +189,11 @@ Apply for your SSN as soon as you have been in the US for at least 10 days. It t
 
 ### SSA Offices
 
-Mountain View:
- * Not as long of a wait to get into the office (not as much security screening), but took longer for the card to arrive.
+### Mountain View
+Not as long of a wait to get into the office (not as much security screening), but took longer for the card to arrive.
 
-San Jose Downtown:
- * Long wait just to get into the building (outdoor wait due to security screening), but card arrived in 2 business days (was promised two weeks).
+### San Jose Downtown
+Long wait just to get into the building (outdoor wait due to security screening), but card arrived in 2 business days (was promised two weeks).
 
 As with everything else, your mileage may vary.
 
