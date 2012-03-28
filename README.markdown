@@ -8,7 +8,35 @@
 * [Stephen Holiday](http://stephenholiday.com)
 * [Akshay Joshi](http://akshayjoshi.com)
 
-## Introduction
+## Table of Contents
+* [Introduction](#Introduction)
+* [Getting The Job](#GettingTheJob)
+ * [The Pay](#ThePay)
+ * [Relocation](#Relocation)
+ * [Perks](#Perks)
+* [The Visa](#TheVisa)
+* [Roommates](#Roommates)
+* [Apartment Hunting](#ApartmentHunting)
+ * [Apartment Tips](#ApartmentTips)
+* [Before You Go](#BeforeYouGo)
+* [Once You Land](#OnceYouLand)
+* [Opening A Bank Account](#OpeningABankAccount)
+ * [Credit Cards](#CreditCards)
+ * [Bringing Money Back](#BringingMoneyBack)
+* [SSN](#SSN)
+ * [SSNApplication](#SSNApplication)
+ * [SSA Offices](#SSAOffices)
+* [Cell Serivice](#CellService)
+ * [BlackBerry](#BlackBerry) 
+ * [Smartphones](#Smartphones)
+* [Taxes](#Taxes)
+* [Shopping](#Shopping)
+* [Area Specific Notes](#AreaSpecificNotes)
+ * [San Francisco](#SanFrancisco)
+ * [Bay Area](#BayArea)
+ * [New York](#NewYork)
+ 
+## <a name="Introduction"></a> Introduction 
 
 This document is unofficial and not endorsed by my school or employers.
 I'm not a lawyer, a tax specialist nor do a purport to have any real knowledge.
@@ -20,7 +48,7 @@ This document is a work in progress.
 If you are a past intern and have thoughts/ideas to add to this document, let me know.
 Even better submit a pull request. I'll note you if you want to be noted.
 
-## Getting The Job
+## <a name="GettingTheJob"></a> Getting The Job
 
 For many, the JobMine process is familiar so I won't speak about that.
 You probably know how to get a job.
@@ -33,13 +61,13 @@ Which is something CECS says not to do in your first year.
 Even if you only have 4 months of school under your belt,
 there is no actual restriction for going in first year.
 
-### The Pay
+### <a name="ThePay"></a> The Pay
 Ask the pay in the interview. There is no reason not too.
 If they don't want to give it up, I'd recommend you don't take an offer.
 
 Don't believe '*competitive pay*', that can range from $25/hr - $45/hr.
 
-### Relocation
+### <a name="Relocation"></a> Relocation
 Ask if they offer any help in terms of relocation.
 
 Many companies offer a housing stipend (a bit of money, often taxable).
@@ -57,19 +85,19 @@ I've heard you can get much of it back if you save your receipts, something to l
 I'd recommend against working at a place that does not cover some part of your housing.
 If you have the financial ability to not care, then lucky you :-P.
 
-### Perks
+### <a name="Perks"></a> Perks
 Some companies have cool perks like food, bikes, transit passes, happy hour, snacks etc.
 
 It's worth checking out.
 
-## The Visa
+## <a name="TheVisa"></a> The Visa
 Once you have your offer, email your recruiter to get all the details about pay and start date.
 Its useful for the visa.
 
 CECS and CDS/AIPT (now Cultural Vistas) will guide you through the process.
 If you have questions ask the awesome Cathy Stein. She's amazing.
 
-## Roommates
+## <a name="Roommates"></a> Roommates
 Chances are you're going to want to split an apartment.
 Contact your company and try to get emails of other Waterloo students going down the same time as you.
 
@@ -78,11 +106,11 @@ It gives everyone a great opportunity to meet each other, get a feel for who wou
 
 I like to find outgoing people who like to travel on weekends, it's a personal choice.
 
-## Apartment Hunting
+## <a name="ApartmentHunting"></a> Apartment Hunting
 You'll want to start your search early.
 
 Check out the area specific section for more info.
-### General Tips
+### <a name="ApartmentTips"></a> Apartment Tips
 * Paying a deposit is common.
 * Don't pay a deposit of any kind to *see* an apartment.
 * Utilities included is less common than Waterloo.
@@ -94,7 +122,7 @@ Check out the area specific section for more info.
 * Use CECS's hot housing leads
 * Ask your company to ask current interns where they are living and any recommendations they have
 
-## Before You Go
+## <a name="BeforeYouGo"></a> Before You Go
 Have a second (or third) copy of all travel documents:
 
 1. DS-2019
@@ -108,10 +136,13 @@ Have a second (or third) copy of all travel documents:
 Don't call it a job or say you are working! The J1 visa status is not meant for "working", but rather for "training" in the United States.
 Remember, you're just a poor little intern *training* in the United States!
 
-## Once you Land
-Something super important you'll need to know...
+## <a name="OnceYouLand"></a>  Once you Land
 
-## Opening a Bank Account
+* Shared ride vans *can be* cheaper than taxis.
+* Keep expense receipts, good for taxes.
+* Something super important you'll need to know...
+
+## <a name="OpeningABankAccount"></a> Opening a Bank Account
 You'll want to do this as soon as you can, you can do this without an SSN.
 Bring your passport and drivers license as well as your student card.
 Most banks will give you a free checking account if you are a student.
@@ -137,7 +168,7 @@ Chase is OK there too.
 
 Wells Fargo is known for being super nice.
 
-### Credit Cards
+### <a name="CreditCards"></a> Credit Cards
 One thing that I and many others try to do right away is get a credit card.
 
 Getting credit in the US is very hard. Especially if you are under 21.
@@ -155,7 +186,7 @@ Really tough if you are under 21.
 One way of getting a credit card fairly soon would be to apply for a Capital One credit card that's directly targeted for people with no credit histroy/newcomers. Beware this card is free for the first year, but costs around $30 per year after that.
 Akshay was able to do it under 21.
 
-### Bringing Money Back
+### <a name="BringingMoneyBack"></a> Bringing Money Back
 There are a lot of ways to bring your hard earned dough back to Canada.
 
 Some really creative ways:
@@ -179,15 +210,15 @@ I suck at playing the market so I just transfer money over ~$1k at a time to try
 Keep in mind that some banks charge different spreads depending on how much you transfer.
 $1,100 worked best for me.
 
-## Getting your SSN
+## <a name="SSN"></a> Getting your SSN
 Apply for your SSN as soon as you have been in the US for at least 10 days. It takes 10 days for SEVIS to sync up with the SSA's database of people eligible to apply for a social security number.
 
-### Application process
+### <a name="SSNApplication"></a> SSN Application
 1. Fill in form SS-5 available at the [Social Security Administration's website](http://ssa.gov/ssnumber/).
 2. Bring forms and documentation to your local SSA office.
 3. There is no step three.
 
-### SSA Offices
+### <a name="SSAOffices"></a> SSA Offices
 
 ### Mountain View
 Not as long of a wait to get into the office (not as much security screening), but took longer for the card to arrive.
@@ -197,7 +228,7 @@ Long wait just to get into the building (outdoor wait due to security screening)
 
 As with everything else, your mileage may vary.
 
-## Cell Service
+## <a name="CellService"></a> Cell Service
 Unless you're one of those crazy people who wanders around for wifi (I'm looking at you Deepinder), you'll want to get cell service.
 
 If you just want a phone that makes phone calls and texts (weirdo) you can get some cheap pay as you go phone.
@@ -205,7 +236,7 @@ I have a BOOST prepaid phone which I use for when people come to visit me and ha
 
 Akshay just sticks to using Rogers' BIS One Rate Plan - $35 for 500 MB of BIS data. Then, he uses a SIP client on it to make calls (Google Voice/Voip.ms). You don't pay too much to Rogers, and you save on roaming costs as well. Win/win.
 
-### BlackBerry ###
+### <a name="BlackBerry"></a> BlackBerry ###
 There are a few options. I'm a BlackBerry user who would die without BBM and Google Maps.
 The main problem is that people don't like giving you data without a 1-2 year commitment.
 This section is only about getting your BlackBerry on the network *with BIS*.
@@ -223,14 +254,14 @@ But you can get it to work, and the service itself is fine (I think they actuall
 
 Note, if you have a Rogers/AT&T phone it will likely only get EDGE not 3G.
 
-### Smartphones ###
+### <a name="Smartphones"></a> Smartphones ###
 Getting data for your smartphone is a lot easier than a dumb BlackBerry.
 
 I think T-Mobile and AT&T both offer options in this arena.
 
 In the past some groups were able to get a reduced rate by getting a family plan.
 
-## Taxes ##
+## <a name="Taxes"></a> Taxes ##
 *Dislaimer*: No author of this document knows anything about taxes, accounting or even arithmetic.
 Do not rely on this document. Speak to a professional.
 
@@ -251,22 +282,22 @@ There are short versions of US forms for non-residents (you may not apply) which
 The main question Stephen had was whether I had to pay taxes twice in both Canada and the US.
 In his situation, Canada knew how much he was taxed in the US and applied some formula to not tax him twice.
 
-## Shopping
+## <a name="Shopping"></a> Shopping
 * Amazon has no tax in California
 * Amazon gives free shipping for 1 month through Prime, get one intern to signup at a time you can have free shipping all work term
 * Woot.com is awesome
 
-## Area Specific Notes
+## <a name="AreaSpecificNotes"></a> Area Specific Notes
 I've been to three main areas and will focus on info for those.
 If you are an intern and have more info let me know.
 
-### San Francisco
+### <a name="SanFrancisco"></a> San Francisco
 * Since SF is a city, prices are pretty high.
 * Stuff is slanted
 * Get a SafeWay Card, it's free and literally saved me over $100
 * BART from the airport to SF is super clean and ~$8.
 
-### Bay Area
+### <a name="BayArea"></a> Bay Area
 * Still expensive
 * Get a SafeWay Card, it's free and literally saved me over $100
 * Learn to love the Caltrain
@@ -275,7 +306,7 @@ If you are an intern and have more info let me know.
 * Pizza Hut is not as fancy in the US. It will blow your coworkers' minds if you tell them that Pizza Hut is a sit down restaurant with waiters
 * Gilroy Premium Outlets is pretty awesome and worth a trip after your first paycheck
 
-### New York
+### <a name="NewYork"></a> New York
 * Really expensive
 * Paying first and last months rent plus one month of security is super common.
 * Brokers fees are usually 1 month rent, often more than you'd like.
