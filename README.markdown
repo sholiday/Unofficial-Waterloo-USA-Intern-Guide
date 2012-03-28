@@ -42,7 +42,8 @@ This document is unofficial and not endorsed by my school or employers.
 I'm not a lawyer, a tax specialist nor do a purport to have any real knowledge.
 
 This is a collection of things I wished I knew when I went away on my first Co-op term to the US.
-I hope it helps you out. Many things contained in this document were gained through mistakes and conversations with older students.
+I hope it helps you out. Many things contained in this document were gained through mistakes and
+conversations with older students.
 
 This document is a work in progress.
 If you are a past intern and have thoughts/ideas to add to this document, let me know.
@@ -53,8 +54,9 @@ Even better submit a pull request. I'll note you if you want to be noted.
 For many, the JobMine process is familiar so I won't speak about that.
 You probably know how to get a job.
 
-Something to note is that many companies in the US (particularly California) are much more laid back and don't care if you wear a suit or not.
-Depends on the company. I suit up for Morgan Stanley but not Facebook.
+Something to note is that many companies in the US (particularly California) are much more
+laid back and don't care if you wear a suit or not. Depends on the company.
+I suit up for Morgan Stanley but not Facebook.
 
 If you read earlier, I got my first co-op in the US.
 Which is something CECS says not to do in your first year.
@@ -133,7 +135,8 @@ Have a second (or third) copy of all travel documents:
 6. Map surrounding hotel/apartment
 7. Boarding pass
 
-Don't call it a job or say you are working! The J1 visa status is not meant for "working", but rather for "training" in the United States.
+Don't call it a job or say you are working! The J1 visa status is not meant for "working",
+but rather for "training" in the United States.
 Remember, you're just a poor little intern *training* in the United States!
 
 ## <a name="OnceYouLand"></a>  Once you Land
@@ -173,7 +176,8 @@ One thing that I and many others try to do right away is get a credit card.
 
 Getting credit in the US is very hard. Especially if you are under 21.
 
-Keep in mind that instead of Interac for debit cards, all American debit cards (also known as "check cards") are actually VISA/MasterCard cards.
+Keep in mind that instead of Interac for debit cards, all American debit cards
+(also known as "check cards") are actually VISA/MasterCard cards.
 You can use them anywhere you would use a credit card except the money comes out of your account immediately.
 
 You can get a Secured Credit card where you put some money into a special account and that amount becomes your credit limit.
@@ -185,9 +189,18 @@ Really tough if you are under 21.
 
 #### Bank of America - Canadian Credit Check
 
-This worked for an 18 year old guy with two credit cards in good standing back in Canada. Apply for the card at the branch in person. When asked for your information, inform them that you would like to request a Canadian credit bureau check to augment your US credit bureau reports (especially important if it's your first work term in the States). If the representative is knowledgeable, they will process the credit card application normally and then will ask you to call a number (or call for you on your behalf) about 24-48 hours later (excluding weekends). If not, here's the number you can call: 1 888 503 6092. They'll ask for your Canadian SIN number and your last address in Canada. YMMV.
+This worked for an 18 year old guy with two credit cards in good standing back in Canada.
+Apply for the card at the branch in person. When asked for your information, inform them
+that you would like to request a Canadian credit bureau check to augment your US credit
+bureau reports (especially important if it's your first work term in the States). If the
+representative is knowledgeable, they will process the credit card application normally and
+then will ask you to call a number (or call for you on your behalf) about 24-48 hours later
+(excluding weekends). If not, here's the number you can call: 1 888 503 6092.
+They'll ask for your Canadian SIN number and your last address in Canada. YMMV.
 
-One surefire way of getting a credit card fairly soon would be to apply for a Capital One credit card that's directly targeted for people with no credit histroy/newcomers. Beware this card is free for the first year, but costs around $30 per year after that.
+One surefire way of getting a credit card fairly soon would be to apply for a Capital One
+credit card that's directly targeted for people with no credit histroy/newcomers.
+Beware this card is free for the first year, but costs around $30 per year after that.
 
 ### Bringing Money Back
 There are a lot of ways to bring your hard earned dough back to Canada.
@@ -206,7 +219,8 @@ Some more tame ways
 * RBC Royal Bank (they have a cross boarder checking account, but the spread is 2.5%, I don't do this any more)
 * Using your family member who works at a bank and gets currency exchanged at cost (I'm told this is the best possible)
 
-If you end up with American funds in Canada, I recommend opening a US dollar account and convert it over time so you don't get bit by the exchange rate.
+If you end up with American funds in Canada, I recommend opening a US dollar account and convert
+it over time so you don't get bit by the exchange rate.
 
 I suck at playing the market so I just transfer money over ~$1k at a time to try and even out my loss/gain.
 
@@ -214,7 +228,8 @@ Keep in mind that some banks charge different spreads depending on how much you 
 $1,100 worked best for me.
 
 ## <a name="SSN"></a> Getting your SSN
-Apply for your SSN as soon as you have been in the US for at least 10 days. It takes 10 days for SEVIS to sync up with the SSA's database of people eligible to apply for a social security number.
+Apply for your SSN as soon as you have been in the US for at least 10 days. It takes 10 days for
+SEVIS to sync up with the SSA's database of people eligible to apply for a social security number.
 
 ### <a name="SSNApplication"></a> SSN Application
 1. Fill in form SS-5 available at the [Social Security Administration's website](http://ssa.gov/ssnumber/).
@@ -227,17 +242,21 @@ Apply for your SSN as soon as you have been in the US for at least 10 days. It t
 Not as long of a wait to get into the office (not as much security screening), but took longer for the card to arrive.
 
 ### San Jose Downtown
-Long wait just to get into the building (outdoor wait due to security screening), but card arrived in 2 business days (was promised two weeks).
+Long wait just to get into the building (outdoor wait due to security screening), but card
+arrived in 2 business days (was promised two weeks).
 
 As with everything else, your mileage may vary.
 
 ## <a name="CellService"></a> Cell Service
-Unless you're one of those crazy people who wanders around for wifi (I'm looking at you Deepinder), you'll want to get cell service.
+Unless you're one of those crazy people who wanders around for wifi (I'm looking at you Deepinder),
+you'll want to get cell service.
 
 If you just want a phone that makes phone calls and texts (weirdo) you can get some cheap pay as you go phone.
 I have a BOOST prepaid phone which I use for when people come to visit me and haven't had any trouble with it.
 
-Akshay just sticks to using Rogers' BIS One Rate Plan - $35 for 500 MB of BIS data. Then, he uses a SIP client on it to make calls (Google Voice/Voip.ms). You don't pay too much to Rogers, and you save on roaming costs as well. Win/win.
+Akshay just sticks to using Rogers' BIS One Rate Plan - $35 for 500 MB of BIS data.
+Then, he uses a SIP client on it to make calls (Google Voice/Voip.ms).
+You don't pay too much to Rogers, and you save on roaming costs as well. Win/win.
 
 ### <a name="BlackBerry"></a> BlackBerry ###
 There are a few options. I'm a BlackBerry user who would die without BBM and Google Maps.
