@@ -230,6 +230,27 @@ I think T-Mobile and AT&T both offer options in this arena.
 
 In the past some groups were able to get a reduced rate by getting a family plan.
 
+## Taxes ##
+*Dislaimer*: No author of this document knows anything about taxes, accounting or even arithmetic.
+Do not rely on this document. Speak to a professional.
+
+CECS has [some information](http://www.ceca.uwaterloo.ca/students/international/US_Income_Tax.php) on taxes.
+Stephen plans on being lazy and using "Peter Cuttini" (contact info on Waterloo site) this term.
+He's heard good things about him for co-op students. (Around $300).
+
+H&R Block will also do it for around $300.
+
+Sadly you will have to pay taxes on your hard-earned income.
+Chances are you already paid the American ones in your paycheque.
+Depending on your State and situation you will end up receiving much (50% is not unreasonable) of that back.
+You may owe money in Canada.
+You definitely have to fill out both Canadian Federal and Provincial forms as well as US Federal and State.
+
+There are short versions of US forms for non-residents (you may not apply) which Stephen used last tax year.
+
+The main question Stephen had was whether I had to pay taxes twice in both Canada and the US.
+In his situation, Canada knew how much he was taxed in the US and applied some formula to not tax him twice.
+
 ## Shopping
 * Amazon has no tax in California
 * Amazon gives free shipping for 1 month through Prime, get one intern to signup at a time you can have free shipping all work term
