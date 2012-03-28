@@ -150,7 +150,8 @@ Don't call it a job or say you are working! The J1 visa status is not meant for 
 but rather for "training" in the United States.
 Remember, you're just a poor little intern *training* in the United States!
 
-I prefer keeping all the above as a digital copy in my Dropbox/Google Docs so I have instant access to them just in case I lose anything.
+I prefer keeping all the above as a digital copy in my Dropbox/Google Docs so
+I have instant access to them just in case I lose anything.
 
 ## <a name="OnceYouLand"></a>  Once you Land
 
@@ -185,7 +186,18 @@ Chase is OK there too.
 
 Wells Fargo is known for being super nice.
 
-Citibank has a Student account (no fees, and allows you to sign-up without an SSN). I signed up for an account while I was still in a hotel and didn't have a social security number yet.
+You will not need a SSN to open an account at the four listed banks.
+Bring your passport and visa. You don't even need a permanent address.
+Some have had luck with using their hotel's or their company's.
+
+I've always kept a US bank account open.
+It's super useful to have. If you come back to the US again you're all setup.
+If you travel you can get cash easy. If you want to buy stuff online it's great.
+
+Some people want to close their account to avoid bank fees.
+Most banks (BoA, Chase, Wells Fargo) offer a _student account_ for 5 years from when you signup.
+Bring your student ID card.
+They don't require any minimum activity other than some nominal balance.
 
 ### <a name="CreditCards"></a> Credit Cards
 One thing that I and many others try to do right away is get a credit card.
@@ -193,7 +205,7 @@ One thing that I and many others try to do right away is get a credit card.
 Getting credit in the US is very hard. Especially if you are under 21.
 
 Keep in mind that instead of Interac for debit cards, all American debit cards (also known as "check cards") are actually VISA/MasterCard cards.
-You can use them anywhere you would use a credit card except the money comes out of your account immediately. Citibank (see above) has all their checking debit cards to be "MasterCard debit cards".
+You can use them anywhere you would use a credit card except the money comes out of your account immediately.
 
 You can get a Secured Credit card where you put some money into a special account and that amount becomes your credit limit.
 Something to look into.
