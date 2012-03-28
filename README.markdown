@@ -183,10 +183,13 @@ Sometimes you can get BoA or TD America to look up your Canadian credit history.
 TD Ameritrade and BoA has a Canadian credit check form.
 Really tough if you are under 21.
 
-One way of getting a credit card fairly soon would be to apply for a Capital One credit card that's directly targeted for people with no credit histroy/newcomers. Beware this card is free for the first year, but costs around $30 per year after that.
-Akshay was able to do it under 21.
+#### Bank of America - Canadian Credit Check
 
-### <a name="BringingMoneyBack"></a> Bringing Money Back
+This worked for an 18 year old guy with two credit cards in good standing back in Canada. Apply for the card at the branch in person. When asked for your information, inform them that you would like to request a Canadian credit bureau check to augment your US credit bureau reports (especially important if it's your first work term in the States). If the representative is knowledgeable, they will process the credit card application normally and then will ask you to call a number (or call for you on your behalf) about 24-48 hours later (excluding weekends). If not, here's the number you can call: 1 888 503 6092. They'll ask for your Canadian SIN number and your last address in Canada. YMMV.
+
+One surefire way of getting a credit card fairly soon would be to apply for a Capital One credit card that's directly targeted for people with no credit histroy/newcomers. Beware this card is free for the first year, but costs around $30 per year after that.
+
+### Bringing Money Back
 There are a lot of ways to bring your hard earned dough back to Canada.
 
 Some really creative ways:
