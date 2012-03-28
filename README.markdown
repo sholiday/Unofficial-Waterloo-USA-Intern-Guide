@@ -7,6 +7,7 @@
 
 * [Akshay Joshi](http://akshayjoshi.com)
 * [Aamir Mansoor](http://aam1r.com/)
+* [Chris Vandevelde](http://www.imlikeaninja.com)
 * Michael Truong
 * [Stephen Holiday](http://stephenholiday.com)
 
@@ -305,7 +306,9 @@ But you can get it to work, and the service itself is fine (I think they actuall
 Note, if you have a Rogers/AT&T phone it will likely only get EDGE not 3G.
 
 ### <a name="Smartphones"></a> Smartphones ###
-Getting data for your smartphone is a lot easier than a dumb BlackBerry. Those of you who have unlocked phones, congratulations! You can get a plan with a sim card, pop it in, and walk out of the store Facebooking up a storm.
+Getting data for your smartphone is a lot easier than a dumb BlackBerry.
+If you have an unlocked phone, it's really easy.
+You can get a plan with a sim card, pop it in, and walk out of the store Facebooking up a storm.
 
 I think T-Mobile and AT&T both offer options in this arena. 
 
@@ -350,6 +353,7 @@ If you are an intern and have more info let me know.
 * Get a SafeWay Card, it's free and literally saved me over $100.
 * There are some beautiful parts (check out the Presidio near the Golden Gate Bridge), some crazy parts (Haight-Ashbury has things you never imagined existed. Everyone is high.), and some very sketchy parts (Stay out of the Tenderloin, especially at night. I repeat, *stay out of the Tenderloin at night*.) Familiarize yourself with the neighbourhoods and use common sense.
 * Fun fact - it has [the lowest proportion of children of any major city in the US](http://www.huffingtonpost.com/2012/03/09/families-flee-san-francisco_n_1335639.html)! If you hate the smelly little buggers, you're in good company.
+
 #### <a name="SanFranciscoTransportation"></a> Transportation ####
 * MUNI is the basic transit service, there are buses, streetcars, cable cars (streetcars that go up steep hills, $6/ride and in tourist areas) and subways as well.
 * BART is a high-speed subway-ish system that goes around the more city-like parts of the Bay Area and hits more major destinations. BART from the airport to SF is super clean and ~$8.
