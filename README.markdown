@@ -24,9 +24,9 @@
  * [Credit Cards](#CreditCards)
  * [Bringing Money Back](#BringingMoneyBack)
 * [SSN](#SSN)
- * [SSNApplication](#SSNApplication)
+ * [SSN Application](#SSNApplication)
  * [SSA Offices](#SSAOffices)
-* [Cell Serivice](#CellService)
+* [Cell Service](#CellService)
  * [BlackBerry](#BlackBerry) 
  * [Smartphones](#Smartphones)
 * [Taxes](#Taxes)
@@ -41,7 +41,7 @@
 This document is unofficial and not endorsed by my school or employers.
 I'm not a lawyer, a tax specialist nor do a purport to have any real knowledge.
 
-This is a collection of things I wished I knew when I went away on my first Co-op term to the US.
+This is a collection of things I wished I knew when I went away on my first co-op term to the US.
 I hope it helps you out. Many things contained in this document were gained through mistakes and conversations with older students.
 
 This document is a work in progress.
@@ -78,6 +78,8 @@ If you are going to San Francisco, $500-750 round trip after tax as a guide.
 You could probably do better with connecting flights.
 New York is a lot cheaper.
 
+Asking your company to put you in a hotel for a few days has always worked out well for me. Instead of making housing decisions while still in Canada (which could be pretty risky), I prefer spending a few days in a hotel at my company's expense as I wrap-up apartment search.
+
 Sometimes stipends are large, sometimes they are not.
 If you're not sure, assume that your stipend will be taxed at ~26% in California.
 I've heard you can get much of it back if you save your receipts, something to look into.
@@ -95,10 +97,11 @@ Once you have your offer, email your recruiter to get all the details about pay 
 Its useful for the visa.
 
 CECS and CDS/AIPT (now Cultural Vistas) will guide you through the process.
-If you have questions ask the awesome Cathy Stein. She's amazing.
+If you have questions ask the awesome Cathy Stein (<cestein@uwaterloo.ca>). She's amazing.
 
 ## <a name="Roommates"></a> Roommates
-Chances are you're going to want to split an apartment.
+It's easier (and cheaper) to find a place for 3 or 4 people than it is to for a single person for a 4-month lease.
+
 Contact your company and try to get emails of other Waterloo students going down the same time as you.
 
 Contact them and ask them to meet up somewhere in Waterloo for dinner.
@@ -122,6 +125,13 @@ Check out the area specific section for more info.
 * Use CECS's hot housing leads
 * Ask your company to ask current interns where they are living and any recommendations they have
 
+Craigslist ends up becoming a website where co-ops end up on usually because of the volume of listings on that website. Before you do so, I would suggest checking "Vacation Rental" or "Corporate Housing" websites because they usually work better with our 4-month work terms. Some websites I've used are:
+
+* [Airbnb Sublets](http://www.airbnb.com/sublets) -- vacation rentals
+* [Vacation Rentals by Owner](http://vrbo.com) -- vacation rentals
+* [AMSI](http://www.amsires.com/) -- corporate housing
+* [Corporate Housing by Owner](http://www.corporatehousingbyowner.com/) -- corporte housing
+
 ## <a name="BeforeYouGo"></a> Before You Go
 Have a second (or third) copy of all travel documents:
 
@@ -135,6 +145,8 @@ Have a second (or third) copy of all travel documents:
 
 Don't call it a job or say you are working! The J1 visa status is not meant for "working", but rather for "training" in the United States.
 Remember, you're just a poor little intern *training* in the United States!
+
+I prefer keeping all the above as a digital copy in my Dropbox/Google Docs so I have instant access to them just in case I lose anything.
 
 ## <a name="OnceYouLand"></a>  Once you Land
 
@@ -156,6 +168,7 @@ You may not want one for several reasons:
 Choosing a Bank is up to you and your preferences.
 I'd stick to one of:
 
+* Citibank
 * Chase
 * Bank of America
 * Wells Fargo
@@ -168,13 +181,15 @@ Chase is OK there too.
 
 Wells Fargo is known for being super nice.
 
+Citibank has a Student account (no fees, and allows you to sign-up without an SSN). I signed up for an account while I was still in a hotel and didn't have a social security number yet.
+
 ### <a name="CreditCards"></a> Credit Cards
 One thing that I and many others try to do right away is get a credit card.
 
 Getting credit in the US is very hard. Especially if you are under 21.
 
 Keep in mind that instead of Interac for debit cards, all American debit cards (also known as "check cards") are actually VISA/MasterCard cards.
-You can use them anywhere you would use a credit card except the money comes out of your account immediately.
+You can use them anywhere you would use a credit card except the money comes out of your account immediately. Citibank (see above) has all their checking debit cards to be "MasterCard debit cards".
 
 You can get a Secured Credit card where you put some money into a special account and that amount becomes your credit limit.
 Something to look into.
