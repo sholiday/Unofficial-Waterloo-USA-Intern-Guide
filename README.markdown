@@ -5,8 +5,10 @@
 
 *Contributors*
 
-* [Stephen Holiday](http://stephenholiday.com)
 * [Akshay Joshi](http://akshayjoshi.com)
+* [Aamir Mansoor](http://aam1r.com/)
+* Michael Truong
+* [Stephen Holiday](http://stephenholiday.com)
 
 ## Table of Contents
 * [Introduction](#Introduction)
@@ -305,6 +307,8 @@ Stephen plans on being lazy and using "Peter Cuttini" (contact info on Waterloo 
 He's heard good things about him for co-op students. (Around $300).
 
 H&R Block will also do it for around $300.
+
+Some people have had luck with this [free government program](http://www.irs.gov/individuals/article/0,,id=107626,00.html).
 
 Sadly you will have to pay taxes on your hard-earned income.
 Chances are you already paid the American ones in your paycheque.
