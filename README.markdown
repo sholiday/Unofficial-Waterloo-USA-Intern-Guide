@@ -35,6 +35,7 @@
 * [Shopping](#Shopping)
 * [Area Specific Notes](#AreaSpecificNotes)
  * [San Francisco](#SanFrancisco)
+  * [Transportation] (#SanFranciscoTransportation)
  * [Bay Area](#BayArea)
  * [New York](#NewYork)
  
@@ -304,9 +305,9 @@ But you can get it to work, and the service itself is fine (I think they actuall
 Note, if you have a Rogers/AT&T phone it will likely only get EDGE not 3G.
 
 ### <a name="Smartphones"></a> Smartphones ###
-Getting data for your smartphone is a lot easier than a dumb BlackBerry.
+Getting data for your smartphone is a lot easier than a dumb BlackBerry. Those of you who have unlocked phones, congratulations! You can get a plan with a sim card, pop it in, and walk out of the store Facebooking up a storm.
 
-I think T-Mobile and AT&T both offer options in this arena.
+I think T-Mobile and AT&T both offer options in this arena. 
 
 In the past some groups were able to get a reduced rate by getting a family plan.
 
@@ -343,10 +344,17 @@ I've been to three main areas and will focus on info for those.
 If you are an intern and have more info let me know.
 
 ### <a name="SanFrancisco"></a> San Francisco
-* Since SF is a city, prices are pretty high.
-* Stuff is slanted
-* Get a SafeWay Card, it's free and literally saved me over $100
-* BART from the airport to SF is super clean and ~$8.
+* Since SF is a city, prices are pretty high - it has [the highest rent in the country](http://www.huffingtonpost.com/2012/03/14/san-francisco-rents-the-highest-in-nation_n_1345275.html), for example.
+* It's very tough to find housing in the city, especially for cheap (as of Spring 2012). Craigslist is your best resource; email early and email often.
+* Stuff is slanted. They're not exaggerating in movies and pictures, the hills are *steep*. You know that scene in The Princess Diaries where she's pushing her scooter up the hill? I know you watched it - that's not a cheap scooter, those hills are vicious.
+* Get a SafeWay Card, it's free and literally saved me over $100.
+* There are some beautiful parts (check out the Presidio near the Golden Gate Bridge), some crazy parts (Haight-Ashbury has things you never imagined existed. Everyone is high.), and some very sketchy parts (Stay out of the Tenderloin, especially at night. I repeat, *stay out of the Tenderloin at night*.) Familiarize yourself with the neighbourhoods and use common sense.
+* Fun fact - it has [the lowest proportion of children of any major city in the US](http://www.huffingtonpost.com/2012/03/09/families-flee-san-francisco_n_1335639.html)! If you hate the smelly little buggers, you're in good company.
+#### <a name="SanFranciscoTransportation"></a> Transportation ####
+* MUNI is the basic transit service, there are buses, streetcars, cable cars (streetcars that go up steep hills, $6/ride and in tourist areas) and subways as well.
+* BART is a high-speed subway-ish system that goes around the more city-like parts of the Bay Area and hits more major destinations. BART from the airport to SF is super clean and ~$8.
+* Caltrain is a light-rail system that goes through all of Silicon Valley for under $10. If you've heard of the GO train in the GTA, it's the same thing.
+* Clipper Card is a free card you can get and load with money which can be used on all of these transit systems seamlessly. Get one.
 
 ### <a name="BayArea"></a> Bay Area
 * Still expensive
