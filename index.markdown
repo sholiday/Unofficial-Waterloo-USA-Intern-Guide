@@ -14,34 +14,35 @@ title: Unofficial Waterloo USA Intern Guide
 * Michael Truong
 * [Stephen Holiday](http://stephenholiday.com)
 
+<section id="Contents" />
 ## Table of Contents
 * [Introduction](#Introduction)
 * [Getting The Job](#GettingTheJob)
- * [The Pay](#ThePay)
- * [Relocation](#Relocation)
- * [Perks](#Perks)
+  * [The Pay](#ThePay)
+  * [Relocation](#Relocation)
+  * [Perks](#Perks)
 * [The Visa](#TheVisa)
 * [Roommates](#Roommates)
 * [Apartment Hunting](#ApartmentHunting)
- * [Apartment Tips](#ApartmentTips)
+  * [Apartment Tips](#ApartmentTips)
 * [Before You Go](#BeforeYouGo)
 * [Once You Land](#OnceYouLand)
 * [Opening A Bank Account](#OpeningABankAccount)
- * [Credit Cards](#CreditCards)
- * [Bringing Money Back](#BringingMoneyBack)
+  * [Credit Cards](#CreditCards)
+  * [Bringing Money Back](#BringingMoneyBack)
 * [SSN](#SSN)
- * [SSN Application](#SSNApplication)
- * [SSA Offices](#SSAOffices)
+  * [SSN Application](#SSNApplication)
+  * [SSA Offices](#SSAOffices)
 * [Cell Service](#CellService)
- * [BlackBerry](#BlackBerry) 
- * [Smartphones](#Smartphones)
+  * [BlackBerry](#BlackBerry) 
+  * [Smartphones](#Smartphones)
 * [Taxes](#Taxes)
 * [Shopping](#Shopping)
 * [Area Specific Notes](#AreaSpecificNotes)
- * [San Francisco](#SanFrancisco)
-  * [Transportation](#SanFranciscoTransportation)
- * [Bay Area](#BayArea)
- * [New York](#NewYork)
+  * [San Francisco](#SanFrancisco)
+    * [Transportation](#SanFranciscoTransportation)
+  * [Bay Area](#BayArea)
+  * [New York](#NewYork)
 
 <section id="Introduction" />
 ## Introduction
@@ -148,7 +149,7 @@ Craigslist ends up becoming a website where co-ops end up on usually because of 
 * [Airbnb Sublets](http://www.airbnb.com/sublets) -- vacation rentals
 * [Vacation Rentals by Owner](http://vrbo.com) -- vacation rentals
 * [AMSI](http://www.amsires.com/) -- corporate housing
-* [Corporate Housing by Owner](http://www.corporatehousingbyowner.com/) -- corporte housing
+* [Corporate Housing by Owner](http://www.corporatehousingbyowner.com/) -- Corporate housing
 
 <section id="BeforeYouGo" />
 ## Before You Go
