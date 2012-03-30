@@ -172,6 +172,7 @@ Craigslist ends up becoming a website where co-ops end up on usually because of 
 * [Vacation Rentals by Owner](http://vrbo.com) -- vacation rentals
 * [AMSI](http://www.amsires.com/) -- corporate housing
 * [Corporate Housing by Owner](http://www.corporatehousingbyowner.com/) -- Corporate housing
+* [PadMapper](http://www.padmapper.com/) -- A great way to visualize Craigslist.
 
 <section id="Living-CellService" />
 ### Cell Service
@@ -287,7 +288,7 @@ then will ask you to call a number (or call for you on your behalf) about 24-48 
 They'll ask for your Canadian SIN number and your last address in Canada. YMMV.
 
 One surefire way of getting a credit card fairly soon would be to apply for a Capital One
-credit card that's directly targeted for people with no credit histroy/newcomers.
+credit card that's directly targeted for people with no credit history/newcomers.
 Beware this card is free for the first year, but costs around $30 per year after that.
 
 <section id="Money-Convert" />
@@ -318,7 +319,7 @@ $1,100 worked best for me.
 
 <section id="Money-Taxes" />
 ### Taxes
-*Dislaimer*: No author of this document knows anything about taxes, accounting or even arithmetic.
+*Disclaimer*: No author of this document knows anything about taxes, accounting or even arithmetic.
 Do not rely on this document. Speak to a professional.
 
 CECS has [some information](http://www.ceca.uwaterloo.ca/students/international/US_Income_Tax.php) on taxes.
@@ -342,11 +343,12 @@ In his situation, Canada knew how much he was taxed in the US and applied some f
 
 ---
 
-<section id="Shopping" />
-## Shopping
+<section id="MISC" />
+## MISC
 * Amazon has no tax in California
 * Amazon gives free shipping for 1 month through Prime, get one intern to signup at a time you can have free shipping all work term
 * Woot.com is awesome
+* Waterloo holds [alumni events](http://alumni.uwaterloo.ca/alumni/events/usa/) which are often open to students.
 
 ---
 
@@ -357,8 +359,8 @@ If you are an intern and have more info let me know.
 
 <section id="Area-SF" />
 ### San Francisco
-* Since SF is a city, prices are pretty high - it has [the highest rent in the country](http://www.huffingtonpost.com/2012/03/14/san-francisco-rents-the-highest-in-nation_n_1345275.html), for example.
-* It's very tough to find housing in the city, especially for cheap (as of Spring 2012). Craigslist is your best resource; email early and email often.
+* Since SF is a city, prices are pretty high.
+* It's very tough to find housing in the city, especially for cheap.
 * Stuff is slanted. They're not exaggerating in movies and pictures, the hills are *steep*. You know that scene in The Princess Diaries where she's pushing her scooter up the hill? I know you watched it - that's not a cheap scooter, those hills are vicious.
 * Get a SafeWay Card, it's free and literally saved me over $100.
 * There are some beautiful parts (check out the Presidio near the Golden Gate Bridge), some crazy parts (Haight-Ashbury has things you never imagined existed. Everyone is high.), and some very sketchy parts (Stay out of the Tenderloin, especially at night. I repeat, *stay out of the Tenderloin at night*.) Familiarize yourself with the neighbourhoods and use common sense.
@@ -370,6 +372,12 @@ If you are an intern and have more info let me know.
 * Caltrain is a light-rail system that goes through all of Silicon Valley for under $10. If you've heard of the GO train in the GTA, it's the same thing.
 * Clipper Card is a free card you can get and load with money which can be used on all of these transit systems seamlessly. Get one.
 
+#### Housing
+* [Paramount/SFO Housing](http://www.sfohousing.com/) is pretty decent (Park or Herbert).
+  The internet is slow. They are older buildings.
+  
+  * 2010F - Stephen has stayed at the Park. Liked it, would recommend
+
 <section id="Area-BayArea" />
 ### Bay Area
 * Still expensive
@@ -378,7 +386,26 @@ If you are an intern and have more info let me know.
 * Caltrain isn't like the GO, they check your tickets all the time
 * Go to Gilroy Premium Outlet Mall in Gilroy, it's amazing and has great deals
 * Pizza Hut is not as fancy in the US. It will blow your coworkers' minds if you tell them that Pizza Hut is a sit down restaurant with waiters
-* Gilroy Premium Outlets is pretty awesome and worth a trip after your first paycheck
+* Gilroy Premium Outlets is pretty awesome and worth a trip after your first paycheque
+
+#### Housing
+* Foster City - [Sand Cove Apartments](http://www.woodmontrentals.com/sand-cove-apartments) is a good apartment complex
+  and they are very helpful with setting up housing for people out of the country.
+  They do flexible leasing and month to month rentals.
+  In the past, QuinStreet co-ops have lived at the other properties owned by the parent company
+  (Woodmont, who seem to own a lot of land around here).
+
+  * 2010W - Stephen - Liked it, very close to the old QuinStreet buildings. 2 Bedroom 2 Bath $1909/mo.
+
+
+
+* Mountain View - [Central Park at Whisman Station](http://www.centralpark-apts.com/) is a good apartment complex
+  and they are very helpful with setting up housing for people out of the country.
+  20 minute walk from Caltrain. Not that convent for transit.
+  Safeway is about 2 miles away.
+  
+  * 2012W - Stephen - We pay 2700/mo unfurnished plus utilities for 3 bedrooms.
+    Clean and very nice. Less than 20 minute bike ride to Google.
 
 <section id="Area-NYC" />
 ### New York City
@@ -400,3 +427,12 @@ If you are an intern and have more info let me know.
 * Get a Duane Reade Card
 * Watch your stuff on the subway, wallet in front and all that stuff
 * Flying into LGA is cheaper, NJ transit is good, hard with two suitcases
+
+#### Housing
+* Brooklyn (Bay Ridge) - 328 91st Street, Brooklyn (close to the subway).
+  The landlord is Annette Sobczynski (718-974-0368 annetteeve@hotmail.com).
+  Multiple furnished apartments.
+
+  * 2011S - Stephen - It was fully furnished for 1900/month, 2 bedrooms,
+    large kitchen and a pullout bed in the living room. Stayed for 1 month while
+    looking for apartments in Manhattan.
