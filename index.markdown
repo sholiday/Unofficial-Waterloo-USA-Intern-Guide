@@ -18,7 +18,9 @@ I'm not a lawyer, a tax specialist nor do a purport to have any real knowledge.
 This is a collection of things I wished I knew when I went away on my first co-op term to the US.
 I hope it helps you out. Many things contained in this document were gained through mistakes and conversations with older students.
 
-This document is a work in progress.
+This document is a work in progress. While I may say I, that's actually one of us (contributors).
+So you should become one of us so you could be I. Do I got it?
+
 If you are a past intern and have thoughts/ideas to add to this document, [let me know](mailto:stephen.holiday@gmail.com).
 Even better submit a pull request. I'll note you if you want to be noted.
 
