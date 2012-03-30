@@ -1,7 +1,10 @@
+---
+layout: base
+title: Unofficial Waterloo USA Intern Guide
+---
+
 # Unofficial Waterloo USA Intern Guide
 *Or: How I Learned to Stop Worrying and Love the Greenback*
-
-[Attribution-NonCommercial-ShareAlike 2.5 Canada](http://creativecommons.org/licenses/by-nc-sa/2.5/ca/)
 
 *Contributors*
 
@@ -36,11 +39,12 @@
 * [Shopping](#Shopping)
 * [Area Specific Notes](#AreaSpecificNotes)
  * [San Francisco](#SanFrancisco)
-  * [Transportation] (#SanFranciscoTransportation)
+  * [Transportation](#SanFranciscoTransportation)
  * [Bay Area](#BayArea)
  * [New York](#NewYork)
- 
-## <a name="Introduction"></a> Introduction 
+
+<section id="Introduction" />
+## Introduction
 
 This document is unofficial and not endorsed by my school or employers.
 I'm not a lawyer, a tax specialist nor do a purport to have any real knowledge.
@@ -52,7 +56,8 @@ This document is a work in progress.
 If you are a past intern and have thoughts/ideas to add to this document, let me know.
 Even better submit a pull request. I'll note you if you want to be noted.
 
-## <a name="GettingTheJob"></a> Getting The Job
+<section id="GettingTheJob" />
+## Getting The Job
 
 For many, the JobMine process is familiar so I won't speak about that.
 You probably know how to get a job.
@@ -66,13 +71,15 @@ Which is something CECS says not to do in your first year.
 Even if you only have 4 months of school under your belt,
 there is no actual restriction for going in first year.
 
-### <a name="ThePay"></a> The Pay
+<section id="ThePay" />
+### The Pay
 Ask the pay in the interview. There is no reason not too.
 If they don't want to give it up, I'd recommend you don't take an offer.
 
 Don't believe '*competitive pay*', that can range from $25/hr - $45/hr.
 
-### <a name="Relocation"></a> Relocation
+<section id="Relocation" />
+### Relocation
 Ask if they offer any help in terms of relocation.
 
 Many companies offer a housing stipend (a bit of money, often taxable).
@@ -92,19 +99,22 @@ I've heard you can get much of it back if you save your receipts, something to l
 I'd recommend against working at a place that does not cover some part of your housing.
 If you have the financial ability to not care, then lucky you :-P.
 
-### <a name="Perks"></a> Perks
+<section id="Perks" />
+### Perks
 Some companies have cool perks like food, bikes, transit passes, happy hour, snacks etc.
 
 It's worth checking out.
 
-## <a name="TheVisa"></a> The Visa
+<section id="TheVisa" />
+## The Visa
 Once you have your offer, email your recruiter to get all the details about pay and start date.
 Its useful for the visa.
 
 CECS and CDS/AIPT (now Cultural Vistas) will guide you through the process.
 If you have questions ask the awesome Cathy Stein (<cestein@uwaterloo.ca>). She's amazing.
 
-## <a name="Roommates"></a> Roommates
+<section id="Roommates" />
+## Roommates
 It's easier (and cheaper) to find a place for 3 or 4 people than it is to for a single person for a 4-month lease.
 
 Contact your company and try to get emails of other Waterloo students going down the same time as you.
@@ -114,11 +124,14 @@ It gives everyone a great opportunity to meet each other, get a feel for who wou
 
 I like to find outgoing people who like to travel on weekends, it's a personal choice.
 
-## <a name="ApartmentHunting"></a> Apartment Hunting
+<section id="ApartmentHunting" />
+## Apartment Hunting
 You'll want to start your search early.
 
 Check out the area specific section for more info.
-### <a name="ApartmentTips"></a> Apartment Tips
+
+<section id="ApartmentTips" />
+### Apartment Tips
 * Paying a deposit is common.
 * Don't pay a deposit of any kind to *see* an apartment.
 * Utilities included is less common than Waterloo.
@@ -137,7 +150,8 @@ Craigslist ends up becoming a website where co-ops end up on usually because of 
 * [AMSI](http://www.amsires.com/) -- corporate housing
 * [Corporate Housing by Owner](http://www.corporatehousingbyowner.com/) -- corporte housing
 
-## <a name="BeforeYouGo"></a> Before You Go
+<section id="BeforeYouGo" />
+## Before You Go
 Have a second (or third) copy of all travel documents:
 
 1. DS-2019
@@ -155,13 +169,15 @@ Remember, you're just a poor little intern *training* in the United States!
 I prefer keeping all the above as a digital copy in my Dropbox/Google Docs so
 I have instant access to them just in case I lose anything.
 
-## <a name="OnceYouLand"></a>  Once you Land
+<section id="OnceYouLand" />
+## Once you Land
 
 * Shared ride vans *can be* cheaper than taxis.
 * Keep expense receipts, good for taxes.
 * Something super important you'll need to know...
 
-## <a name="OpeningABankAccount"></a> Opening a Bank Account
+<section id="OpeningABankAccount" />
+## Opening a Bank Account
 You'll want to do this as soon as you can, you can do this without an SSN.
 Bring your passport and drivers license as well as your student card.
 Most banks will give you a free checking account if you are a student.
@@ -201,7 +217,8 @@ Most banks (BoA, Chase, Wells Fargo) offer a _student account_ for 5 years from 
 Bring your student ID card.
 They don't require any minimum activity other than some nominal balance.
 
-### <a name="CreditCards"></a> Credit Cards
+<section id="CreditCards" />
+### Credit Cards
 One thing that I and many others try to do right away is get a credit card.
 
 Getting credit in the US is very hard. Especially if you are under 21.
@@ -231,6 +248,7 @@ One surefire way of getting a credit card fairly soon would be to apply for a Ca
 credit card that's directly targeted for people with no credit histroy/newcomers.
 Beware this card is free for the first year, but costs around $30 per year after that.
 
+<section id="BringingMoneyBack" />
 ### Bringing Money Back
 There are a lot of ways to bring your hard earned dough back to Canada.
 
@@ -256,16 +274,19 @@ I suck at playing the market so I just transfer money over ~$1k at a time to try
 Keep in mind that some banks charge different spreads depending on how much you transfer.
 $1,100 worked best for me.
 
-## <a name="SSN"></a> Getting your SSN
+<section id="SSN" />
+## Getting your SSN
 Apply for your SSN as soon as you have been in the US for at least 10 days. It takes 10 days for
 SEVIS to sync up with the SSA's database of people eligible to apply for a social security number.
 
-### <a name="SSNApplication"></a> SSN Application
+<section id="SSNApplication" />
+### SSN Application
 1. Fill in form SS-5 available at the [Social Security Administration's website](http://ssa.gov/ssnumber/).
 2. Bring forms and documentation to your local SSA office.
 3. There is no step three.
 
-### <a name="SSAOffices"></a> SSA Offices
+<section id="SSAOffices" />
+### SSA Offices
 
 ### Mountain View
 Not as long of a wait to get into the office (not as much security screening), but took longer for the card to arrive.
@@ -276,7 +297,8 @@ arrived in 2 business days (was promised two weeks).
 
 As with everything else, your mileage may vary.
 
-## <a name="CellService"></a> Cell Service
+<section id="CellService" />
+## Cell Service
 Unless you're one of those crazy people who wanders around for wifi (I'm looking at you Deepinder),
 you'll want to get cell service.
 
@@ -287,7 +309,8 @@ Akshay just sticks to using Rogers' BIS One Rate Plan - $35 for 500 MB of BIS da
 Then, he uses a SIP client on it to make calls (Google Voice/Voip.ms).
 You don't pay too much to Rogers, and you save on roaming costs as well. Win/win.
 
-### <a name="BlackBerry"></a> BlackBerry ###
+<section id="BlackBerry" />
+### BlackBerry
 There are a few options. I'm a BlackBerry user who would die without BBM and Google Maps.
 The main problem is that people don't like giving you data without a 1-2 year commitment.
 This section is only about getting your BlackBerry on the network *with BIS*.
@@ -305,7 +328,8 @@ But you can get it to work, and the service itself is fine (I think they actuall
 
 Note, if you have a Rogers/AT&T phone it will likely only get EDGE not 3G.
 
-### <a name="Smartphones"></a> Smartphones ###
+<section id="Smartphones" />
+### Smartphones
 Getting data for your smartphone is a lot easier than a dumb BlackBerry.
 If you have an unlocked phone, it's really easy.
 You can get a plan with a sim card, pop it in, and walk out of the store Facebooking up a storm.
@@ -314,7 +338,8 @@ I think T-Mobile and AT&T both offer options in this arena.
 
 In the past some groups were able to get a reduced rate by getting a family plan.
 
-## <a name="Taxes"></a> Taxes ##
+<section id="Taxes" />
+## Taxes
 *Dislaimer*: No author of this document knows anything about taxes, accounting or even arithmetic.
 Do not rely on this document. Speak to a professional.
 
@@ -337,16 +362,19 @@ There are short versions of US forms for non-residents (you may not apply) which
 The main question Stephen had was whether I had to pay taxes twice in both Canada and the US.
 In his situation, Canada knew how much he was taxed in the US and applied some formula to not tax him twice.
 
-## <a name="Shopping"></a> Shopping
+<section id="Shopping" />
+## Shopping
 * Amazon has no tax in California
 * Amazon gives free shipping for 1 month through Prime, get one intern to signup at a time you can have free shipping all work term
 * Woot.com is awesome
 
-## <a name="AreaSpecificNotes"></a> Area Specific Notes
+<section id="AreaSpecificNotes" />
+## Area Specific Notes
 I've been to three main areas and will focus on info for those.
 If you are an intern and have more info let me know.
 
-### <a name="SanFrancisco"></a> San Francisco
+<section id="SanFrancisco" />
+### San Francisco
 * Since SF is a city, prices are pretty high - it has [the highest rent in the country](http://www.huffingtonpost.com/2012/03/14/san-francisco-rents-the-highest-in-nation_n_1345275.html), for example.
 * It's very tough to find housing in the city, especially for cheap (as of Spring 2012). Craigslist is your best resource; email early and email often.
 * Stuff is slanted. They're not exaggerating in movies and pictures, the hills are *steep*. You know that scene in The Princess Diaries where she's pushing her scooter up the hill? I know you watched it - that's not a cheap scooter, those hills are vicious.
@@ -354,13 +382,15 @@ If you are an intern and have more info let me know.
 * There are some beautiful parts (check out the Presidio near the Golden Gate Bridge), some crazy parts (Haight-Ashbury has things you never imagined existed. Everyone is high.), and some very sketchy parts (Stay out of the Tenderloin, especially at night. I repeat, *stay out of the Tenderloin at night*.) Familiarize yourself with the neighbourhoods and use common sense.
 * Fun fact - it has [the lowest proportion of children of any major city in the US](http://www.huffingtonpost.com/2012/03/09/families-flee-san-francisco_n_1335639.html)! If you hate the smelly little buggers, you're in good company.
 
-#### <a name="SanFranciscoTransportation"></a> Transportation ####
+<section id="SanFranciscoTransportation" />
+#### Transportation
 * MUNI is the basic transit service, there are buses, streetcars, cable cars (streetcars that go up steep hills, $6/ride and in tourist areas) and subways as well.
 * BART is a high-speed subway-ish system that goes around the more city-like parts of the Bay Area and hits more major destinations. BART from the airport to SF is super clean and ~$8.
 * Caltrain is a light-rail system that goes through all of Silicon Valley for under $10. If you've heard of the GO train in the GTA, it's the same thing.
 * Clipper Card is a free card you can get and load with money which can be used on all of these transit systems seamlessly. Get one.
 
-### <a name="BayArea"></a> Bay Area
+<section id="BayArea" />
+### Bay Area
 * Still expensive
 * Get a SafeWay Card, it's free and literally saved me over $100
 * Learn to love the Caltrain
@@ -369,7 +399,8 @@ If you are an intern and have more info let me know.
 * Pizza Hut is not as fancy in the US. It will blow your coworkers' minds if you tell them that Pizza Hut is a sit down restaurant with waiters
 * Gilroy Premium Outlets is pretty awesome and worth a trip after your first paycheck
 
-### <a name="NewYork"></a> New York
+<section id="NewYork" />
+### New York
 * Really expensive
 * Paying first and last months rent plus one month of security is super common.
 * Brokers fees are usually 1 month rent, often more than you'd like.
