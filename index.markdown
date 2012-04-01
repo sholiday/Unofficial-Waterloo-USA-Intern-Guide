@@ -359,6 +359,11 @@ In his situation, Canada knew how much he was taxed in the US and applied some f
 I've been to three main areas and will focus on info for those.
 If you are an intern and have more info let me know.
 
+<section id="Area-California" />
+### California (General)
+* In-n-out burger is must try. Checkout the Animal Style burger on their [secret menu](http://www.in-n-out.com/secretmenu.asp).
+* Many people like [Chipotle](http://www.chipotle.com/)
+
 <section id="Area-SF" />
 ### San Francisco
 * Since SF is a city, prices are pretty high.
@@ -371,7 +376,8 @@ If you are an intern and have more info let me know.
 #### Transportation
 * MUNI is the basic transit service, there are buses, streetcars, cable cars (streetcars that go up steep hills, $6/ride and in tourist areas) and subways as well.
 * BART is a high-speed subway-ish system that goes around the more city-like parts of the Bay Area and hits more major destinations. BART from the airport to SF is super clean and ~$8.
-* Caltrain is a light-rail system that goes through all of Silicon Valley for under $10. If you've heard of the GO train in the GTA, it's the same thing.
+* Caltrain is a light-rail system that goes through all of Silicon Valley for under $10.
+  If you've heard of the GO train in the GTA, it's similar. They do often check tickets though!
 * Clipper Card is a free card you can get and load with money which can be used on all of these transit systems seamlessly. Get one.
 
 #### Housing
@@ -380,6 +386,9 @@ If you are an intern and have more info let me know.
   
   * 2010F - Stephen has stayed at the Park. Liked it, would recommend
 
+### Food
+
+  
 <section id="Area-BayArea" />
 ### Bay Area
 * Still expensive
@@ -408,6 +417,14 @@ If you are an intern and have more info let me know.
   
   * 2012W - Stephen - We pay 2700/mo unfurnished plus utilities for 3 bedrooms.
     Clean and very nice. Less than 20 minute bike ride to Google.
+    
+<section id="Area-BayArea" />
+### San Diego
+
+#### Food
+* Stephen waited in the rain for 2 hours to eat at [Phil's BBQ](http://www.philsbbq.net/).
+  The ribs are amazing.
+
 
 <section id="Area-NYC" />
 ### New York City
@@ -416,7 +433,8 @@ If you are an intern and have more info let me know.
 * Brokers fees are usually 1 month rent, often more than you'd like.
 * Brokers fees are super negotiable
 * More scammers here than any other place I encountered, see the place before you pay
-* Housing moves fast. We got an appointment to see a place, got on the subway right away and once we got out the place was already taken
+* Housing moves fast. We got an appointment to see a place, got on the subway right away
+  and once we got out the place was already taken
 * Bring checks with you, that's how you secure a place
 * Don't live above 100th Street unless you aren't afraid of anything
 * Manhattan Costs Money
@@ -438,3 +456,26 @@ If you are an intern and have more info let me know.
   * 2011S - Stephen - It was fully furnished for 1900/month, 2 bedrooms,
     large kitchen and a pullout bed in the living room. Stayed for 1 month while
     looking for apartments in Manhattan.
+    
+#### Food
+* There are so many places to eat in NYC, try new stuff!
+* Halcart at 53rd and 6th is to die for.
+  Make sure you go to the [right one](http://www.yelp.com/biz/53rd-and-6th-halal-cart-new-york)
+  Get the hot sauce. There will be a line, it is worth it.
+* Pizza - In NY it's a different kind of food. It's also highly contentious which place is best.
+  * [Grimaldi's](http://www.grimaldis.com/) is usually number 1 or 2 on most lists.
+    It will be packed. Go on a weeknight. You will stand outside for 20-45 minutes or more.
+    On Saturday expect over an hour. You can do take out which will be a bit faster. Eat it under
+    the Brooklyn bridge!
+  * [Lombardi's](http://www.firstpizza.com/) is really good and in Manhattan.
+    The wait is more reasonable.
+* [Fat Cat](http://www.fatcatmusic.org/) is a nice bar and has lots of pool tables,
+  ping-pong tables and even scrabble. Prices are decent. Also allow people under 21 in before a certain time.
+* [Dallas BBQ](http://www.dallasbbq.com/) is really good and has awesome prices.
+* [Carmines](http://carminesnyc.com/) is family style (gigantic plates) Italian food and really tasty.
+  Pretty busy.
+
+#### Activities
+* [Kayak on the river](http://www.downtownboathouse.org/) for free!
+* The [American Museum of Natural History](http://www.amnh.org/) is large and fun!
+* Go to a comedy club.
