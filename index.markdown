@@ -427,6 +427,7 @@ If you are an intern and have more info let me know.
 * BART is a high-speed subway-ish system that goes around the more city-like 
   parts of the Bay Area and hits more major destinations. BART from the airport 
   to SF is super clean and ~$8.
+* Airport shuttle is a good alternative to Taxi and BART if you have no one to split the bill with and if you have a lot of luggage. For only $16 they will drop if you off in front of almost any hotel. I used GO Lorrie's Airport Shuttle to get to Park Hotel.
 * Caltrain is a light-rail system that goes through all of Silicon Valley for 
   under $10. If you've heard of the GO train in the GTA, it's similar. They do 
   often check tickets though!
