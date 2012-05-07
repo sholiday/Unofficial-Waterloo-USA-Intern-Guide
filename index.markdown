@@ -55,10 +55,10 @@ under your belt, there is no actual restriction for going in first year.
 
 <section id="Jobs-Pay" />
 ### Pay
-Ask the pay in the interview. There is no reason not too. If they don't want to 
-give it up, I'd recommend you don't take an offer.
-
-Don't believe '*competitive pay*', that can range from $25/hr - $45/hr.
+Ask the pay in the interview. There is no reason not too. If they give you some
+'*competitive pay*' BS, ask them in an email before you accept their offer.
+'*Competitive pay*' can range from $25/hr - $45/hr with or without housing and
+plane tickets.
 
 <section id="Jobs-Relocation" />
 ### Relocation
@@ -68,8 +68,7 @@ Many companies offer a housing stipend (a bit of money, often taxable).
 Some will put you up in subsidized or free housing (Amazon, Apple etc).
 
 Ask if they cover flight. If you are going to San Francisco, $500-750 round trip 
-after tax as a guide. You could probably do better with connecting flights. New 
-York is a lot cheaper.
+after tax as a guide. New York is a lot cheaper.
 
 Asking your company to put you in a hotel for a few days has always worked out 
 well for me. Instead of making housing decisions while still in Canada (which 
@@ -86,7 +85,7 @@ housing. If you have the financial ability to not care, then lucky you :-P.
 <section id="Jobs-Perks" />
 ### Perks
 Some companies have cool perks like food, bikes, transit passes, happy hour, 
-snacks etc.
+snacks, game rooms, pool tables, ping pong, fooseball, etc.
 
 It's worth checking out.
 
@@ -123,13 +122,19 @@ I have instant access to them just in case I lose anything.
 
 <section id="Paperwork-SSN" />
 ### Getting your SSN
-Apply for your SSN as soon as you have been in the US for at least 10 days. It 
+Apply for your SSN as soon as you have been in the US for at least *10 days*. It 
 takes 10 days for SEVIS to sync up with the SSA's database of people eligible to apply for a social security number.
+Yes, you have to wait for them to copy by hand and deliver the data by pidgeon. If you apply early, they'll lie to you
+that it will be okay if you do it, but it will not work and you will just have to try again later.
 
 #### SSN Application
 1. Fill in form SS-5 available at the [Social Security Administration's website](http://ssa.gov/ssnumber/).
 2. Bring forms and documentation to your local SSA office.
-3. There is no step three.
+
+OR
+
+1. Show up, fill out the form while waiting. There's a good chance that they'll have a pile of those forms for
+you and you have to wait a long time anyway.
 
 #### SSA Offices
 
@@ -176,11 +181,16 @@ choice.
 * Cashing a Canadian cheque in the US takes a long time (even if it's a USD 
   account), cash is recommended.
 * Sometimes you can get your stipend ahead of time if you already have an 
-  American bank account.
+  American bank account. Note that if you get your stipend in December for
+  a winter work term, you'll have to do taxes during your work term for the
+  stipend money.
 * Use CECS's hot housing leads
 * Ask your company to ask current interns where they are living and any 
   recommendations they have
-* Check the Area Specific notes for specific recommendations 
+* Check the Area Specific notes for specific recommendations
+* There are "hotels" with weekly rates lower than renting an apartment
+* Some places are very low tech, so, if looking for a hotel, you are best
+  off walking around the area and asking every hotel about their rates.
 
 Craigslist is an option. Before you do so, we would suggest checking "Vacation 
 Rental" or "Corporate Housing" websites because they usually work better with 
@@ -208,7 +218,17 @@ Getting data for your smartphone is a lot easier than a BlackBerry.
 If you have an unlocked phone, it's really easy. You can get a plan with a sim 
 card, pop it in, and walk out of the store Facebooking up a storm.
 
-I think T-Mobile and AT&T both offer options in this arena. 
+I think T-Mobile and AT&T both offer options in this arena.
+
+Simple mobile is also very good if you don't care about data speeds. They have
+a fixed price, pay up front, no hidden fees. I've never had problems
+with the voice or texting service. They have unlimited to 52 countries for $10 extra.
+(but you don't need it if you just call Canada - read on) They limit
+you to about 120kbps (yes, kilobits) with the $40 plan. You can get more with
+the $60 plan, but it's not much better in San Francisco because of the limitations
+of their network, and they might throttle you anyway. If you choose these guys,
+you might have to change your phone's APN settings to get data. Look at the
+instructions on their website.
 
 In the past some groups were able to get a reduced rate by getting a family 
 plan.
@@ -241,6 +261,16 @@ data. Then, he uses a SIP client on it to make calls (Google Voice/Voip.ms).
 You don't pay too much to Rogers, and you save on roaming costs as well. 
 Win/win.
 
+<section id="Living-CellService-LongDistance" />
+### Long distance
+The reason you don't need to pay extra for long distance to Canada is you can use
+Google Voice for this. Normally to use Google Voice to call Canada for free, you dial a number
+and then type in the number you want to call and they connect you. This is not necessary
+if you have an Android phone. Get the Google Voice app and it will do this for you transparently, so
+you can just call Canada for free and it will use Google Voice. It's really, really nice.
+Note that you need to have an internet connection to take advantage of the automated Google
+Voice proxying.
+
 ---
 
 <section id="Money" />
@@ -249,7 +279,8 @@ Win/win.
 ### Banks
 You'll want to do this as soon as you can, you can do this without an SSN.
 Bring your passport and drivers license as well as your student card. Most banks 
-will give you a free checking account if you are a student.
+will give you a free checking account if you are a student. You might have to deposit
+~$25 for them to open an account, because they want you to have a non-zero balance.
 
 Note: Some banks have a savings account.
 You may not want one for several reasons:
@@ -269,7 +300,11 @@ If you are in NY Chase is the one to open.
 There are so many Chase branches and ATMs.
 
 Bank of America is pretty good in the SF/Bay Area.
-Chase is OK there too.
+Chase is OK there too. They also have many branches there - and they are
+very nice!
+
+BoA and Chase have ATMs that scan cheques instead of using envelopes.
+Others might have this too.
 
 Wells Fargo is known for being super nice.
 
@@ -283,7 +318,7 @@ If you travel you can get cash easy. If you want to buy stuff online it's great.
 
 Some people want to close their account to avoid bank fees.
 Most banks (BoA, Chase, Wells Fargo) offer a _student account_ for 5 years from 
-when you signup. Bring your student ID card. They don't require any minimum 
+when you sign up. Bring your student ID card. They don't require any minimum 
 activity other than some nominal balance.
 
 <section id="Money-Credit" />
@@ -328,7 +363,7 @@ There are a lot of ways to bring your hard earned dough back to Canada.
 Some really creative ways:
 
 * Bring it in cash across the border (10k limit, it's a lot in $20's, I don't do  
-  this anymore)
+  this anymore).
 * Mailing it by UPS/FedEx insured (got this from a TD Canada banker)
 * Buying equity on a cross listed item and selling it on a Canadian exchange 
   (best rate I hear, but sounds tricky)
@@ -410,7 +445,9 @@ If you are an intern and have more info let me know.
   are *steep*. You know that scene in The Princess Diaries where she's pushing 
   her scooter up the hill? We know you watched it - that's not a cheap scooter, 
   those hills are vicious.
-* Get a SafeWay Card, it's free and literally saved me over $100.
+* Get a SafeWay Card, it's free and literally saved me over $100. Also, tell them
+  you'll fill it out later and you're in a hurry. That way you get the discounts,
+  but they don't have your personal information.
 * There are some beautiful parts (check out the Presidio near the Golden Gate 
   Bridge), some crazy parts (Haight-Ashbury has things you never imagined 
   existed. Everyone is high.), and some very sketchy parts (Stay out of the 
