@@ -227,16 +227,8 @@ with the voice or texting service. They have unlimited to 52 countries for $10 e
 you to about 120kbps (yes, kilobits) with the $40 plan. You can get more with
 the $60 plan, but it's not much better in San Francisco because of the limitations
 of their network, and they might throttle you anyway. If you choose these guys,
-you might have to chagne your phone's APN settings to get data. Look at the
+you might have to change your phone's APN settings to get data. Look at the
 instructions on their website.
-
-The reason you don't need to pay extra for long distance to Canada is you can use
-Google Voice for this. Normally to use Google Voice to call Canada for free, you dial a number
-and then type in the number you want to call and they connect you. This is not necessary
-if you have an Android phone. Get the app and it will do this for you transparently, so
-you can just call Canada for free and it will use Google Voice. It's really, really nice.
-Note that you need to have an internet connection to take advantage of the automated Google
-Voice proxying.
 
 In the past some groups were able to get a reduced rate by getting a family 
 plan.
@@ -269,6 +261,16 @@ data. Then, he uses a SIP client on it to make calls (Google Voice/Voip.ms).
 You don't pay too much to Rogers, and you save on roaming costs as well. 
 Win/win.
 
+<section id="Living-CellService-LongDistance" />
+### Long distance
+The reason you don't need to pay extra for long distance to Canada is you can use
+Google Voice for this. Normally to use Google Voice to call Canada for free, you dial a number
+and then type in the number you want to call and they connect you. This is not necessary
+if you have an Android phone. Get the Google Voice app and it will do this for you transparently, so
+you can just call Canada for free and it will use Google Voice. It's really, really nice.
+Note that you need to have an internet connection to take advantage of the automated Google
+Voice proxying.
+
 ---
 
 <section id="Money" />
@@ -278,7 +280,7 @@ Win/win.
 You'll want to do this as soon as you can, you can do this without an SSN.
 Bring your passport and drivers license as well as your student card. Most banks 
 will give you a free checking account if you are a student. You might have to deposit
-$25 for them to open an account, though.
+~$25 for them to open an account, because they want you to have a non-zero balance.
 
 Note: Some banks have a savings account.
 You may not want one for several reasons:
@@ -299,7 +301,10 @@ There are so many Chase branches and ATMs.
 
 Bank of America is pretty good in the SF/Bay Area.
 Chase is OK there too. They also have many branches there - and they are
-very nice! No need for envelopes, they scan your cheques, etc.
+very nice!
+
+BoA and Chase have ATMs that scan cheques instead of using envelopes.
+Others might have this too.
 
 Wells Fargo is known for being super nice.
 
