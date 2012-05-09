@@ -30,11 +30,12 @@ request. I'll note you if you want to be noted.
 ### Contributors
 
 * [Akshay Joshi](http://akshayjoshi.com)
-* [Aamir Mansoor](http://aam1r.com/)
+* [Aamir Mansoor](http://aam1r.com)
 * [Chris Vandevelde](http://www.imlikeaninja.com)
+* [Edward Sun](http://www.edwardsun.com)
 * Michael Truong
 * [Stephen Holiday](http://stephenholiday.com)
-* [Viktor Stanchev](http://viktorstanchev.com/)
+* [Viktor Stanchev](http://viktorstanchev.com)
 
 ### License
 <a href="http://creativecommons.org/licenses/by-nc-sa/2.5/ca/">Attribution-NonCommercial-ShareAlike 2.5 Canada</a>
@@ -201,10 +202,6 @@ AirBnB is also a viable option, especially in the SF Bay Area. If you are stuck
 in situations where you are unable to move in for a couple of days, finding
 a place on AirBnB will get you a better value for less cost than a hotel. Just
 remember to use common sense and good judgement. Always read the reviews.
-
-If you are the adventurous type and enjoy living in hostel-like acommodations, 
-I highly recommend Pacific Tradewinds in San Francisco. It's feels very home-y
-and undoubtedly a great place to meet technical folks and entrepreneurs.
 
 * [Airbnb Sublets](http://www.airbnb.com/sublets) -- vacation rentals
 * [Vacation Rentals by Owner](http://vrbo.com) -- vacation rentals
@@ -486,6 +483,11 @@ If you are an intern and have more info let me know.
   Herbert). The internet is slow. They are older buildings.
   
   * 2010F - Stephen has stayed at the Park. Liked it, would recommend
+
+* [Pacific Tradewinds](http://www.san-francisco-hostel.com/) is highly recommended by one intern who is adventurous and enjoyed living in hostel-like acommodations, 
+
+  * 2012W - Recommended by an intern. It's feels very home-y
+and undoubtedly a great place to meet technical folks and entrepreneurs.
 
 ### Food
 * Hipsters just drink tea.
