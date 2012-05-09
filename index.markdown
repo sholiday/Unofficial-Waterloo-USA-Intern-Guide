@@ -197,6 +197,15 @@ Craigslist is an option. Before you do so, we would suggest checking "Vacation
 Rental" or "Corporate Housing" websites because they usually work better with 
 our 4-month work terms. Some websites I've used are:
 
+AirBnB is also a viable option, especially in the SF Bay Area. If you are stuck
+in situations where you are unable to move in for a couple of days, finding
+a place on AirBnB will get you a better value for less cost than a hotel. Just
+remember to use common sense and good judgement. Always read the reviews.
+
+If you are the adventurous type and enjoy living in hostel-like acommodations, 
+I highly recommend Pacific Tradewinds in San Francisco. It's feels very home-y
+and undoubtedly a great place to meet technical folks and entrepreneurs.
+
 * [Airbnb Sublets](http://www.airbnb.com/sublets) -- vacation rentals
 * [Vacation Rentals by Owner](http://vrbo.com) -- vacation rentals
 * [AMSI](http://www.amsires.com/) -- corporate housing
