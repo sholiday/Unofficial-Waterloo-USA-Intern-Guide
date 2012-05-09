@@ -34,6 +34,7 @@ request. I'll note you if you want to be noted.
 * [Chris Vandevelde](http://www.imlikeaninja.com)
 * [Edward Sun](http://www.edwardsun.com)
 * Michael Truong
+* Nansen Lin
 * [Stephen Holiday](http://stephenholiday.com)
 * [Viktor Stanchev](http://viktorstanchev.com)
 
@@ -592,3 +593,15 @@ and undoubtedly a great place to meet technical folks and entrepreneurs.
 * The [American Museum of Natural History](http://www.amnh.org/) is large and 
   fun!
 * Go to a comedy club.
+
+<section id="Area-Coopersburg-PA" />
+### Coopersburg, PA
+* Driving/Bus is probably the easiest/ cheapest way to get into PA from ON.
+* Bank of America is near Lutron campus and are experienced with dealing with international co-ops 
+* quiet town 
+* minimum necessities close by (food, convenience, pharm, bank), government related tasks (eg: SSN app) have to be done in Allentown (20 min drive north), 
+* not much to do within walking distance, with a car the area becomes more interesting
+* "Nearby" towns/ cities include (Philly/NYC)
+* plaza near BOA has decent food (Mex, Chinese, Italian, diner),  two large grocery stores (it is worth getting the "bonus cards")
+* famous Musikfestival during summer
+* climate is similar to ON but slightly warmer on average
