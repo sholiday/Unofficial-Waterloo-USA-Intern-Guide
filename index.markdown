@@ -34,6 +34,7 @@ request. I'll note you if you want to be noted.
 * [Chris Vandevelde](http://www.imlikeaninja.com)
 * Michael Truong
 * [Stephen Holiday](http://stephenholiday.com)
+* [Viktor Stanchev](http://viktorstanchev.com/)
 
 ### License
 <a href="http://creativecommons.org/licenses/by-nc-sa/2.5/ca/">Attribution-NonCommercial-ShareAlike 2.5 Canada</a>
@@ -56,7 +57,7 @@ under your belt, there is no actual restriction for going in first year.
 <section id="Jobs-Pay" />
 ### Pay
 Ask the pay in the interview. There is no reason not too. If they give you some
-'*competitive pay*' BS, ask them in an email before you accept their offer.
+'*competitive pay*' ask them in an email before you accept their offer.
 '*Competitive pay*' can range from $25/hr - $45/hr with or without housing and
 plane tickets.
 
@@ -279,8 +280,7 @@ Voice proxying.
 ### Banks
 You'll want to do this as soon as you can, you can do this without an SSN.
 Bring your passport and drivers license as well as your student card. Most banks 
-will give you a free checking account if you are a student. You might have to deposit
-~$25 for them to open an account, because they want you to have a non-zero balance.
+will give you a free checking account if you are a student.
 
 Note: Some banks have a savings account.
 You may not want one for several reasons:
@@ -291,7 +291,6 @@ You may not want one for several reasons:
 Choosing a Bank is up to you and your preferences.
 I'd stick to one of:
 
-* Citibank
 * Chase
 * Bank of America
 * Wells Fargo
