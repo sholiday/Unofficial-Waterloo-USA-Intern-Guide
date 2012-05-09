@@ -379,6 +379,9 @@ The main question Stephen had was whether I had to pay taxes twice in both
 Canada and the US. In his situation, Canada knew how much he was taxed in the US 
 and applied some formula to not tax him twice.
 
+The IRS has a [good section](http://www.irs.gov/businesses/small/international/article/0,,id=129233,00.html)
+on how many exceptions you can claim.
+
 ---
 
 <section id="MISC" />
