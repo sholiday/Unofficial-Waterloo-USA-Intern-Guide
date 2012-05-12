@@ -291,6 +291,7 @@ Voice proxying.
 You'll want to do this as soon as you can, you can do this without an SSN.
 Bring your passport and drivers license as well as your student card. Most banks 
 will give you a free checking account if you are a student.
+
 Note: Some banks have a savings account.
 You may not want one for several reasons:
 
@@ -478,8 +479,9 @@ If you are an intern and have more info let me know.
 * Caltrain is a light-rail system that goes through all of Silicon Valley for 
   under $10. If you've heard of the GO train in the GTA, it's similar. They do 
   often check tickets though!
-* Clipper Card is a free card you can get and load with money which can be used 
-  on all of these transit systems seamlessly. Get one.
+* Clipper Card is a free card you can get and load with money which can be used on all of these transit systems seamlessly. Get one.
+* For larger road trips: rent a zipcar. 5 people in a car only end up paying $15 each, don't need to pay for gas.
+* Ubers: popular alternative to taxis, just sign up here: [https://www.uber.com] You get a private driver and payment is hassle free - since they'll automatically charge your CC. You can request an Uber via SMS, or from their iPhone + Android app. The seats are extremely comfortable. 
 
 #### Housing
 * [Paramount/SFO Housing](http://www.sfohousing.com/) has decent pricing (Park or 
@@ -497,7 +499,7 @@ and undoubtedly a great place to meet technical folks and entrepreneurs.
 ### Food
 * Hipsters just drink tea.
 * If you are looking for cheap, delicious meals, head over to Chinatown. Big boxes of dim sum for ~$4, bubble tea is only ~$2 (they call it boba)
-  
+   
 <section id="Area-BayArea" />
 ### Bay Area
 * Still expensive
