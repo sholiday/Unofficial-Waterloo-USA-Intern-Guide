@@ -37,6 +37,7 @@ request. I'll note you if you want to be noted.
 * Nansen Lin
 * [Stephen Holiday](http://stephenholiday.com)
 * [Viktor Stanchev](http://viktorstanchev.com)
+* Elisa Lou
 
 ### License
 <a href="http://creativecommons.org/licenses/by-nc-sa/2.5/ca/">Attribution-NonCommercial-ShareAlike 2.5 Canada</a>
@@ -106,6 +107,8 @@ She's amazing.
 
 <section id="Paperwork-BeforeYouGo" />
 ### Before You Go
+If you are US citizen, most of these things do not apply to you. Just make sure that you have your US passport on you, and health insurance card.
+
 Have a second (or third) copy of all travel documents:
 
 1. DS-2019
@@ -288,7 +291,6 @@ Voice proxying.
 You'll want to do this as soon as you can, you can do this without an SSN.
 Bring your passport and drivers license as well as your student card. Most banks 
 will give you a free checking account if you are a student.
-
 Note: Some banks have a savings account.
 You may not want one for several reasons:
 
@@ -325,7 +327,7 @@ If you travel you can get cash easy. If you want to buy stuff online it's great.
 Some people want to close their account to avoid bank fees.
 Most banks (BoA, Chase, Wells Fargo) offer a _student account_ for 5 years from 
 when you sign up. Bring your student ID card. They don't require any minimum 
-activity other than some nominal balance.
+activity other than some nominal balance ($1500 for BoA).
 
 <section id="Money-Credit" />
 ### Credit Cards
@@ -480,8 +482,8 @@ If you are an intern and have more info let me know.
   on all of these transit systems seamlessly. Get one.
 
 #### Housing
-* [Paramount/SFO Housing](http://www.sfohousing.com/) is pretty decent (Park or 
-  Herbert). The internet is slow. They are older buildings.
+* [Paramount/SFO Housing](http://www.sfohousing.com/) has decent pricing (Park or 
+  Herbert). The internet is slow. They are older buildings, and note that there are no kitchen facilities to use in Herbert. 
   
   * 2010F - Stephen has stayed at the Park. Liked it, would recommend
 
@@ -490,8 +492,11 @@ If you are an intern and have more info let me know.
   * 2012W - Recommended by an intern. It's feels very home-y
 and undoubtedly a great place to meet technical folks and entrepreneurs.
 
+* If you would rather live in a more student-populated area, Berkeley is recommended. The commute to the downtown area is 15-20 min, but is worth it if you want to meet people your age. 
+
 ### Food
 * Hipsters just drink tea.
+* If you are looking for cheap, delicious meals, head over to Chinatown. Big boxes of dim sum for ~$4, bubble tea is only ~$2 (they call it boba)
   
 <section id="Area-BayArea" />
 ### Bay Area
