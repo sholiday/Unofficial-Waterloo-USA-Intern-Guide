@@ -13,15 +13,11 @@ title: Unofficial Waterloo USA Intern Guide
 
 **This document is unofficial and not endorsed by my school or employers.**
 
-I'm not a lawyer, a tax specialist nor do a purport to have any real knowledge.
+We're not lawyers, tax specialists nor do we purport to have any real knowledge.
 
-This is a collection of things I wished I knew when I went away on my first
-co-op term to the US. I hope it helps you out. Many things contained in this
+This is a collection of things we wished we knew when we went away on our first
+co-op terms in the US. We hope it helps you out. Many things contained in this
 document were gained through mistakes and conversations with older students.
-
-This document is a work in progress. While I may say I, that's actually one of
-us (contributors). So you should become one of us so you could be I. Do us got
-it?
 
 If you are a past intern and have thoughts/ideas to add to this document,
 [let me know](mailto:stephen.holiday@gmail.com). Even better submit a pull
@@ -47,15 +43,15 @@ request. I'll note you if you want to be noted.
 <section id="Jobs" />
 ## Jobs
 
-For many, the JobMine process is familiar so I won't speak about that.
+For many, the JobMine process is familiar so we won't speak about that.
 You probably know how to get a job.
 
 Something to note is that many companies in the US (particularly California) are
-much more laid back and don't care if you wear a suit or not. Depends on the company. I suit up for Morgan Stanley but not Facebook.
+much more laid back and don't care if you wear a suit or not. Depends on the company. We suit up for Morgan Stanley but not Facebook.
 
-If you read earlier, I got my first co-op in the US. Which is something CECS
-says not to do in your first year. Even if you only have 4 months of school
+CECS says not to do US in your first year. Even if you only have 4 months of school
 under your belt, there is no actual restriction for going in first year.
+Some of us have done it without trouble successfully.
 
 <section id="Jobs-Pay" />
 ### Pay
@@ -74,16 +70,16 @@ Some will put you up in subsidized or free housing (Amazon, Apple etc).
 Ask if they cover flight. If you are going to San Francisco, $500-750 round trip
 after tax as a guide. New York is a lot cheaper.
 
-Asking your company to put you in a hotel for a few days has always worked out
-well for me. Instead of making housing decisions while still in Canada (which
-could be pretty risky), I prefer spending a few days in a hotel at my company's
-expense as I wrap-up apartment search.
+Asking your company to put you in a hotel for a few days can work well.
+Instead of making housing decisions while still in Canada (which
+could be pretty risky), some prefer spending a few days in a hotel at my company's
+expense as they wrap-up apartment search.
 
 Sometimes stipends are large, sometimes they are not. If you're not sure, assume
-that your stipend will be taxed at ~26% in California. I've heard you can get
+that your stipend will be taxed at ~26% in California. We've heard you can get
 much of it back if you save your receipts, something to look into.
 
-I'd recommend against working at a place that does not cover some part of your
+We'd recommend against working at a place that does not cover some part of your
 housing. If you have the financial ability to not care, then lucky you :-P.
 
 <section id="Jobs-Perks" />
@@ -102,8 +98,6 @@ Once you have your offer, email your recruiter to get all the details about pay
 and start date. Its useful for the visa.
 
 CECS and CDS/AIPT (now Cultural Vistas) will guide you through the process.
-If you have questions ask the awesome Cathy Stein (<cestein@uwaterloo.ca>).
-She's amazing.
 
 <section id="Paperwork-BeforeYouGo" />
 ### Before You Go
@@ -121,8 +115,8 @@ Don't call it a job or say you are working! The J1 visa status is not meant for
 "working", but rather for "training" in the United States. Remember, you're just
 a poor little intern *training* in the United States!
 
-I prefer keeping all the above as a digital copy in my Dropbox/Google Docs so
-I have instant access to them just in case I lose anything.
+Some prefer keeping all the above as a digital copy in my Dropbox/Google Docs so
+they have instant access to them just in case I lose anything.
 
 If you are US citizen, some of the above do not apply to you.
 Make sure that you have your US passport, and health insurance card and boarding pass.
@@ -174,7 +168,7 @@ Contact them and ask them to meet up somewhere in Waterloo for dinner.
 It gives everyone a great opportunity to meet each other, get a feel for who
 would be a good roommate.
 
-I like to find outgoing people who like to travel on weekends, it's a personal
+Some like to find outgoing people who like to travel on weekends, it's a personal
 choice.
 
 <section id="Living-Tips" />
@@ -206,7 +200,7 @@ our 4-month work terms. Some websites I've used are:
 AirBnB is also a viable option, especially in the SF Bay Area. If you are stuck
 in situations where you are unable to move in for a couple of days, finding
 a place on AirBnB will get you a better value for less cost than a hotel. Just
-remember to use common sense and good judgement. Always read the reviews.
+remember to use common sense and good judgment. Always read the reviews.
 
 * [Airbnb Sublets](http://www.airbnb.com/sublets) -- vacation rentals
 * [Vacation Rentals by Owner](http://vrbo.com) -- vacation rentals
@@ -221,8 +215,8 @@ Unless you're one of those crazy people who wanders around for wifi (I'm looking
 at you Deepinder), you'll want to get cell service.
 
 If you just want a phone that makes phone calls and texts (weirdo) you can get
-some cheap pay as you go phone. I have a BOOST prepaid phone which I use for
-when people come to visit me and haven't had any trouble with it.
+some cheap pay as you go phone. Stephen has a BOOST prepaid phone which he uses for
+when people come to visit him and hasn't had any trouble with it.
 
 <section id="Living-CellService-Smartphones" />
 #### Smartphones
@@ -230,10 +224,10 @@ Getting data for your smartphone is a lot easier than a BlackBerry.
 If you have an unlocked phone, it's really easy. You can get a plan with a sim
 card, pop it in, and walk out of the store Facebooking up a storm.
 
-I think T-Mobile and AT&T both offer options in this arena.
+We think T-Mobile and AT&T both offer options in this arena.
 
 Simple mobile is also very good if you don't care about data speeds. They have
-a fixed price, pay up front, no hidden fees. I've never had problems
+a fixed price, pay up front, no hidden fees. We've never had problems
 with the voice or texting service. They have unlimited to 52 countries for $10 extra.
 (but you don't need it if you just call Canada - read on) They limit
 you to about 120kbps (yes, kilobits) with the $40 plan. You can get more with
@@ -247,23 +241,23 @@ plan.
 
 <section id="Living-CellService-BlackBerry" />
 #### BlackBerry
-There are a few options. I'm a BlackBerry user who would die without BBM and
+There are a few options. Stephen's a BlackBerry user who would die without BBM and
 Google Maps. The main problem is that people don't like giving you data without
 a 1-2 year commitment. This section is only about getting your BlackBerry on the
 network *with BIS*.
 
-I used to use T-Mobile with a weird prepaid plan but they stopped that and make
-you put down a deposit. I'm told that this may have changed, you may want to
+He used to use T-Mobile with a weird prepaid plan but they stopped that and make
+you put down a deposit. He's told that this may have changed, you may want to
 check this one in your state.
 
-My one friend knows a trick with AT&T where you can get them to check your
-Canadian credit history. I tried it and spend an hour arguing with the staff
-telling them it could be done and gave up. My friend told me it takes about
+His one friend knows a trick with AT&T where you can get them to check your
+Canadian credit history. He tried it and spend an hour arguing with the staff
+telling them it could be done and gave up. His friend told me it takes about
 three hours before they will relent, uggh.
 
-I tried SimpleMobile this term (Winter '12) and have mixed feelings. Their
+He tried SimpleMobile Winter '12 and had mixed feelings. Their
 customer support is pretty terrible, they don't know what BIS is and they think
-data is data. But you can get it to work, and the service itself is fine (I
+data is data. But you can get it to work, and the service itself is fine (He
 think they actually are on T-Mobile).
 
 Note, if you have a Rogers/AT&T phone it will likely only get EDGE not 3G.
@@ -300,7 +294,7 @@ You may not want one for several reasons:
 * Having interest income in the US can complicate taxes (not an expert)
 
 Choosing a Bank is up to you and your preferences.
-I'd stick to one of:
+Stephen suggest you stick to one of:
 
 * Chase
 * Bank of America
@@ -322,7 +316,7 @@ You will not need a SSN to open an account at the four listed banks.
 Bring your passport and visa. You don't even need a permanent address.
 Some have had luck with using their hotel's or their company's.
 
-I've always kept a US bank account open.
+Stephen's always kept a US bank account open.
 It's super useful to have. If you come back to the US again you're all setup.
 If you travel you can get cash easy. If you want to buy stuff online it's great.
 
@@ -333,9 +327,9 @@ activity other than some nominal balance. Some _savings_ accounts have fees.
 
 <section id="Money-Credit" />
 ### Credit Cards
-One thing that I and many others try to do right away is get a credit card.
+One thing that many try to do right away is get a credit card.
 
-Getting credit in the US is very hard. Especially if you are under 21.
+Getting credit in the US can be tricky. Especially if you are under 21.
 
 Keep in mind that instead of Interac for debit cards, all American debit cards
 (also known as "check cards") are actually VISA/MasterCard cards. You can use
@@ -372,7 +366,7 @@ There are a lot of ways to bring your hard earned dough back to Canada.
 
 Some really creative ways:
 
-* Bring it in cash across the border (10k limit, it's a lot in $20's, I don't do
+* Bring it in cash across the border (10k limit, it's a lot in $20's, Stephen doesn't do
   this anymore).
 * Mailing it by UPS/FedEx insured (got this from a TD Canada banker)
 * Buying equity on a cross listed item and selling it on a Canadian exchange
@@ -380,19 +374,20 @@ Some really creative ways:
 
 Some more tame ways:
 
-* xe.com, this is my preferred method. 1.5% spread which is pretty good.
+* xe.com, this is the preferred method. 1.5% spread which is pretty good.
 * Wire transfer
 * Cash a check (takes 20-30 days I hear)
 * RBC Royal Bank (they have a cross boarder checking account, but the spread is
-  2.5%, I don't do this any more)
+  2.5%, Stephen doesn't do this any more)
 * Using your family member who works at a bank and gets currency exchanged at
-  cost (I'm told this is the best possible)
+  cost (We're told this is the best possible)
 
-If you end up with American funds in Canada, I recommend opening a US dollar
+If you end up with American funds in Canada, Stephen recommends opening a US dollar
 account and convert it over time so you don't get bit by the exchange rate.
 
-I suck at playing the market so I just transfer money over ~$1k at a time to try
-and even out my loss/gain.
+Stephen suck at playing the market so he just transfer money over ~$1k at a time to try
+and even out my loss/gain. Stephen and Chris love xe.com's bid system.
+With xe, you can make a trade right away or set a transaction to occur once the rate hits some desired value.
 
 Keep in mind that some banks charge different spreads depending on how much you
 transfer. $1,100 worked best for me.
@@ -420,7 +415,7 @@ Federal and Provincial forms as well as US Federal and State.
 There are short versions of US forms for non-residents (you may not apply) which
 Stephen used last tax year.
 
-The main question Stephen had was whether I had to pay taxes twice in both
+The main question Stephen had was whether he had to pay taxes twice in both
 Canada and the US. In his situation, Canada knew how much he was taxed in the US
 and applied some formula to not tax him twice.
 
@@ -464,7 +459,7 @@ If you are an intern and have more info let me know.
 * There are some beautiful parts (check out the Presidio near the Golden Gate
   Bridge), some crazy parts (Haight-Ashbury has things you never imagined
   existed. Everyone is high.), and some very sketchy parts (Stay out of the
-  Tenderloin, especially at night. I repeat,
+  Tenderloin, especially at night. We repeat,
   *stay out of the Tenderloin at night*.) Familiarize yourself with the
   neighbourhoods and use common sense.
 * Fun fact - it has [the lowest proportion of children of any major city in the US](http://www.huffingtonpost.com/2012/03/09/families-flee-san-francisco_n_1335639.html)!
