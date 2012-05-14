@@ -252,7 +252,7 @@ check this one in your state.
 
 His one friend knows a trick with AT&T where you can get them to check your
 Canadian credit history. He tried it and spend an hour arguing with the staff
-telling them it could be done and gave up. His friend told me it takes about
+telling them it could be done and gave up. His friend told him it takes about
 three hours before they will relent, uggh.
 
 He tried SimpleMobile Winter '12 and had mixed feelings. Their
@@ -390,7 +390,7 @@ and even out my loss/gain. Stephen and Chris love xe.com's bid system.
 With xe, you can make a trade right away or set a transaction to occur once the rate hits some desired value.
 
 Keep in mind that some banks charge different spreads depending on how much you
-transfer. $1,100 worked best for me.
+transfer. $1,100 worked best for Stephen.
 
 <section id="Money-Taxes" />
 ### Taxes
