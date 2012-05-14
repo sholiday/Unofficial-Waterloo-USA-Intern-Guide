@@ -329,7 +329,7 @@ If you travel you can get cash easy. If you want to buy stuff online it's great.
 Some people want to close their account to avoid bank fees.
 Most banks (BoA, Chase, Wells Fargo) offer a _student account_ for 5 years from
 when you sign up. Bring your student ID card. They don't require any minimum
-activity other than some nominal balance ($1500 for BoA).
+activity other than some nominal balance. Some _savings_ accounts have fees.
 
 <section id="Money-Credit" />
 ### Credit Cards
