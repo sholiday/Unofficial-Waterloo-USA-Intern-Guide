@@ -370,14 +370,14 @@ Some really creative ways:
   this anymore).
 * Mailing it by UPS/FedEx insured (got this from a TD Canada banker)
 * Buying equity on a cross listed item and selling it on a Canadian exchange
-  (best rate I hear, but sounds tricky)
+  (best rate I hear, but sounds tricky). This is called [Norbet's Gambit](http://www.finiki.org/index.php?title=Norbert%27s_Gambit).
 
 Some more tame ways:
 
-* xe.com, this is the preferred method. 1.5% spread which is pretty good.
+* xe.com, this is the preferred method. generally 1.5% spread which is pretty good.
 * Wire transfer
 * Cash a check (takes 20-30 days I hear)
-* RBC Royal Bank (they have a cross boarder checking account, but the spread is
+* RBC Royal Bank (they have a cross boarder checking account, but the spread is usually
   2.5%, Stephen doesn't do this any more)
 * Using your family member who works at a bank and gets currency exchanged at
   cost (We're told this is the best possible)
@@ -391,6 +391,8 @@ With xe, you can make a trade right away or set a transaction to occur once the 
 
 Keep in mind that some banks charge different spreads depending on how much you
 transfer. $1,100 worked best for Stephen.
+
+Spreads are not always fixed, weekends can cost more so be careful.
 
 <section id="Money-Taxes" />
 ### Taxes
