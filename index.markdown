@@ -476,10 +476,16 @@ If you are an intern and have more info let me know.
   to SF is super clean and ~$8.
 * Caltrain is a light-rail system that goes through all of Silicon Valley for
   under $10. If you've heard of the GO train in the GTA, it's similar. They do
+* An Airport shuttle is a good alternative to Taxi and BART especially if you have a lot of luggage.
+  For only $16 they will drop if you off in front of almost any hotel. I used GO Lorrie's Airport Shuttle to get to Park Hotel.
+* Caltrain is a light-rail system that goes through all of Silicon Valley for 
+  under $10. If you've heard of the GO train in the GTA, it's similar. They do 
   often check tickets though!
 * Clipper Card is a free card you can get and load with money which can be used on all of these transit systems seamlessly. Get one.
 * For larger road trips: rent a zipcar. 5 people in a car only end up paying $15 each, don't need to pay for gas.
-* Ubers: popular alternative to taxis, just sign up here: [https://www.uber.com] You get a private driver and payment is hassle free - since they'll automatically charge your CC. You can request an Uber via SMS, or from their iPhone + Android app. The seats are extremely comfortable.
+* Ubers: popular alternative to taxis, just sign up here: [https://www.uber.com]
+  You get a private driver and payment is hassle free - since they'll automatically charge your CC.
+  You can request an Uber via SMS, or from their iPhone + Android app. The seats are extremely comfortable.
 
 #### Housing
 * [Paramount/SFO Housing](http://www.sfohousing.com/) has decent pricing (Park or
@@ -599,6 +605,7 @@ Big boxes of dim sum for ~$4, bubble tea is only ~$2 (they call it boba)
 * The [American Museum of Natural History](http://www.amnh.org/) is large and
   fun!
 * Go to a comedy club.
+<<<<<<< HEAD
 
 <section id="Area-Coopersburg-PA" />
 ### Coopersburg, PA
@@ -611,3 +618,5 @@ Big boxes of dim sum for ~$4, bubble tea is only ~$2 (they call it boba)
 * plaza near BOA has decent food (Mex, Chinese, Italian, diner),  two large grocery stores (it is worth getting the "bonus cards")
 * famous Musikfestival during summer
 * climate is similar to ON but slightly warmer on average
+=======
+>>>>>>> c39997eeabf358c1bc9c1bb58e0d56069e978be9
