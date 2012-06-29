@@ -34,6 +34,7 @@ request. I'll note you if you want to be noted.
 * Nansen Lin
 * [Stephen Holiday](http://stephenholiday.com)
 * [Viktor Stanchev](http://viktorstanchev.com)
+* [Zameer Manji](http://zameermanji.com)
 
 ### License
 <a href="http://creativecommons.org/licenses/by-nc-sa/2.5/ca/">Attribution-NonCommercial-ShareAlike 2.5 Canada</a>
@@ -238,6 +239,32 @@ instructions on their website.
 
 In the past some groups were able to get a reduced rate by getting a family
 plan.
+
+##### Straight Talk
+
+[Straight Talk](https://www.straighttalk.com/) is an option if data speeds are
+a concern. They have unlimited calling, texting and data for $45 a month without
+a contract. There is also a plan for unlimited calling to select international
+countries for $60 a month also with unlimited texting and data. Note that the
+unlimited isn't 100% unlimited, if you use more than 80-100MB a day you will
+likely get kicked off. They operate as a AT&T/T-Mobile reseller so you will get
+the benefits of AT&T's network, e.g 4G data without doing business with them.
+
+To get service you must order a micro-SIM or SIM card from their
+[store](http://straighttalksim.com/) along with a one month or three month plan.
+The card is roughly $15 and it takes 3 days to ship. If your GSM phone can
+operate on AT&T, e.g. iPhone and most GSM phones, you should order an *AT&T*
+compatible SIM card as they have the best GSM network in the country.
+
+Once you have received everything you can
+[activate](https://www.straighttalk.com/Activate) your service online using the
+SIM Card and the plan you purchased. If you are porting a number from another
+carrier it takes about another day for everything to finish. They have pretty
+good customer service so if anything goes wrong you should call them
+immediately. Since they are not a big carrier most phones, e.g. iPhone, do not
+have the APN settings built in for data. The package you receive contains the
+APN settings you need. You will need to figure out how to set the settings for
+your phone.
 
 <section id="Living-CellService-BlackBerry" />
 #### BlackBerry
