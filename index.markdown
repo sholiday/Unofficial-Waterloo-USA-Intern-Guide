@@ -605,7 +605,6 @@ Big boxes of dim sum for ~$4, bubble tea is only ~$2 (they call it boba)
 * The [American Museum of Natural History](http://www.amnh.org/) is large and
   fun!
 * Go to a comedy club.
-<<<<<<< HEAD
 
 <section id="Area-Coopersburg-PA" />
 ### Coopersburg, PA
@@ -618,5 +617,3 @@ Big boxes of dim sum for ~$4, bubble tea is only ~$2 (they call it boba)
 * plaza near BOA has decent food (Mex, Chinese, Italian, diner),  two large grocery stores (it is worth getting the "bonus cards")
 * famous Musikfestival during summer
 * climate is similar to ON but slightly warmer on average
-=======
->>>>>>> c39997eeabf358c1bc9c1bb58e0d56069e978be9
