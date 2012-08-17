@@ -32,6 +32,7 @@ request. I'll note you if you want to be noted.
 * Elisa Lou
 * Michael Truong
 * Nansen Lin
+* [Prashanth Madhi](http://ece.uwaterloo.ca/~pmadhiya)
 * [Stephen Holiday](http://stephenholiday.com)
 * [Viktor Stanchev](http://viktorstanchev.com)
 * [Zameer Manji](http://zameermanji.com)
@@ -321,7 +322,7 @@ You may not want one for several reasons:
 * Having interest income in the US can complicate taxes (not an expert)
 
 Choosing a Bank is up to you and your preferences.
-Stephen suggest you stick to one of:
+Stephen suggests you stick to one of:
 
 * Chase
 * Bank of America
@@ -339,7 +340,7 @@ Others might have this too.
 
 Wells Fargo is known for being super nice.
 
-You will not need a SSN to open an account at the four listed banks.
+You will *not* need a SSN to open an account at the three listed banks.
 Bring your passport and visa. You don't even need a permanent address.
 Some have had luck with using their hotel's or their company's.
 
@@ -351,6 +352,16 @@ Some people want to close their account to avoid bank fees.
 Most banks (BoA, Chase, Wells Fargo) offer a _student account_ for 5 years from
 when you sign up. Bring your student ID card. They don't require any minimum
 activity other than some nominal balance. Some _savings_ accounts have fees.
+
+#### Starting Money
+You should bring money down to start with, it will help with deposits and first/last month rent.
+
+You may also want a simple way to access your funds in Canada without a huge fee. Note, xe.com will likely get you a better rate. But the following method is very flexible. This method worked out pretty well for Prashanth: 
+
+1. Open a U.S Bank Account with your Canadian Bank (Prashanth used TD but recommend RBC, RBC has a US branch as well though none in California) 
+2. Transfer some money to this account to last you for a few weeks in US
+3. Get a US Dollar Credit Card from Canada and use this for initial spending. If you are not eligible, you can ask your parents to open it for you and a get a credit card in your name. You can use this card until you have money in your US account.
+4. Open a US Bank account in either Chase, BOA, Wells Fargo.
 
 <section id="Money-Credit" />
 ### Credit Cards
@@ -401,7 +412,7 @@ Some really creative ways:
 
 Some more tame ways:
 
-* xe.com, this is the preferred method. generally 1.5% spread which is pretty good.
+* xe.com, this is the preferred method. Generally a 1.5% spread which is pretty good.
 * Wire transfer
 * Cash a check (takes 20-30 days I hear)
 * RBC Royal Bank (they have a cross boarder checking account, but the spread is usually
@@ -412,7 +423,7 @@ Some more tame ways:
 If you end up with American funds in Canada, Stephen recommends opening a US dollar
 account and convert it over time so you don't get bit by the exchange rate.
 
-Stephen suck at playing the market so he just transfer money over ~$1k at a time to try
+Stephen sucks at playing the market so he just transfer money over ~$1k at a time to try
 and even out my loss/gain. Stephen and Chris love xe.com's bid system.
 With xe, you can make a trade right away or set a transaction to occur once the rate hits some desired value.
 
@@ -426,20 +437,25 @@ Spreads are not always fixed, weekends can cost more so be careful.
 *Disclaimer*: No author of this document knows anything about taxes, accounting
 or even arithmetic. Do not rely on this document. Speak to a professional.
 
-CECS has [some information](http://www.ceca.uwaterloo.ca/students/international/US_Income_Tax.php) on taxes.
-Stephen plans on being lazy and using "Peter Cuttini" (contact info on Waterloo
-site) this term.
-He's heard good things about him for co-op students. (Around $300).
-
-H&R Block will also do it for around $300.
-
-Some people have had luck with this [free government program](http://www.irs.gov/individuals/article/0,,id=107626,00.html).
-
 Sadly you will have to pay taxes on your hard-earned income. Chances are you
 already paid the American ones in your paycheque. Depending on your State and
 situation you will end up receiving much (50% is not unreasonable) of that back.
 You may owe money in Canada. You definitely have to fill out both Canadian
 Federal and Provincial forms as well as US Federal and State.
+
+It's not to hard to fill them out yourself but it's fairly annoying.
+Make sure you file with your Canadian address as your home address.
+If you file with a Canadian address you get an automatic extension (not sure how long, believe it's 1 month).
+
+Some people have had luck with this [free government program](http://www.irs.gov/individuals/article/0,,id=107626,00.html).
+
+CECS has [some information](http://www.ceca.uwaterloo.ca/students/international/US_Income_Tax.php) on taxes.
+Stephen used "Peter Cuttini" (contact info on Waterloo site) for his 2011 taxes.
+He's heard good things about him for co-op students. (Around $300).
+Stephen was not very impressed with the work and will be likely doing them himself for 2012.
+He did them in 2011 and found them not much harder than discussing with your accountant.
+
+H&R Block will also do it for around $300.
 
 There are short versions of US forms for non-residents (you may not apply) which
 Stephen used last tax year.
@@ -461,6 +477,11 @@ on how many exceptions you can claim.
 * Woot.com is awesome
 * Waterloo holds [alumni events](http://alumni.uwaterloo.ca/alumni/events/usa/)
   which are often open to students.
+* CECS runs a photo contest every term, one for US coops and one for international coops.
+  They encourage you to take pictures with other Waterloo coops as well as to the places you visit.
+  They do have the right to use it for promotional purposes.
+  You get a certificate for participation as well as money for the top 3 winners.
+  It's a good way to share your experiences and you might be up for some money for grabs.
 
 ---
 
@@ -510,7 +531,7 @@ If you are an intern and have more info let me know.
   often check tickets though!
 * Clipper Card is a free card you can get and load with money which can be used on all of these transit systems seamlessly. Get one.
 * For larger road trips: rent a zipcar. 5 people in a car only end up paying $15 each, don't need to pay for gas.
-* Ubers: popular alternative to taxis, just sign up here: [https://www.uber.com]
+* Ubers: popular alternative to taxis, just sign up [here](https://www.uber.com)
   You get a private driver and payment is hassle free - since they'll automatically charge your CC.
   You can request an Uber via SMS, or from their iPhone + Android app. The seats are extremely comfortable.
 
@@ -543,6 +564,25 @@ Big boxes of dim sum for ~$4, bubble tea is only ~$2 (they call it boba)
   tell them that Pizza Hut is a sit down restaurant with waiters
 * Gilroy Premium Outlets is pretty awesome and worth a trip after your first
   paycheque
+
+#### Cupertino
+
+Checkout the Valley Fair Mall and Santana Row. Valley Fair Mall is a typical mall with everything that you expect in a Canadian Mall. Da' Anza and Stevens Creek has plenty of eatery's around. If you haven't tried California Pizza Kitchen, you have to go immediately. If you want to go clubbing you have to hit up SF or Mountain View.
+
+##### Malls/Shopping
+
+* Valley Fair Mall - http://www.valleyfairmall.net
+* Santana Row - http://www.santanarow.com
+* Stanford Shopping Center - http://www.simon.com/mall/landing/841/
+* AMC Theatre (North Wolfe Road)
+
+##### Restaurants
+
+* California Pizza Kitchen - http://www.cpk.com (there is one inside Valley Fair Mall)
+* Elephant Bar - http://www.elephantbar.com
+
+##### Beaches
+* Santa Cruz Boardwalk - http://www.beachboardwalk.com
 
 #### Housing
 * Foster City - [Sand Cove Apartments](http://www.woodmontrentals.com/sand-cove-apartments)
