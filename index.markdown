@@ -447,9 +447,9 @@ It's not to hard to fill them out yourself but it's fairly annoying.
 Make sure you file with your Canadian address as your home address.
 If you file with a Canadian address you get an automatic extension (not sure how long, believe it's 1 month).
 
-Some people have had luck with this [free government program](http://www.irs.gov/individuals/article/0,,id=107626,00.html).
+Some people have had luck with this [free government program][IRS-FreeTaxReturn].
 
-CECS has [some information](http://www.ceca.uwaterloo.ca/students/international/US_Income_Tax.php) on taxes.
+CECS has [some information][CECA-USIncomeTax] on taxes.
 Stephen used "Peter Cuttini" (contact info on Waterloo site) for his 2011 taxes.
 He's heard good things about him for co-op students. (Around $300).
 Stephen was not very impressed with the work and will be likely doing them himself for 2012.
@@ -464,8 +464,11 @@ The main question Stephen had was whether he had to pay taxes twice in both
 Canada and the US. In his situation, Canada knew how much he was taxed in the US
 and applied some formula to not tax him twice.
 
-The IRS has a [good section](http://www.irs.gov/businesses/small/international/article/0,,id=129233,00.html)
-on how many exceptions you can claim.
+The IRS has a [good section][IRS-AlienExemptions] on how many exceptions you can claim.
+
+[IRS-FreeTaxReturn]: http://www.irs.gov/Individuals/Free-Tax-Return-Preparation-for-You-by-Volunteers
+[CECA-USIncomeTax]: https://uwaterloo.ca/co-operative-education/working-abroad/common-terms-questions#If%20I%20work%20in%20the%20U.S.A,%20how%20does%20that%20affect%20my%20income%20tax?
+[IRS-AlienExemptions]: http://www.irs.gov/Individuals/International-Taxpayers/Aliens---How-Many-Exemptions-Can-Be-Claimed%3F
 
 ---
 
