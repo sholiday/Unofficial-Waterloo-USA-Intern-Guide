@@ -80,8 +80,8 @@ Sometimes stipends are large, sometimes they are not. If you're not sure, assume
 that your stipend will be taxed at ~26% in California. We've heard you can get
 much of it back if you save your receipts, something to look into.
 
-We'd recommend against working at a place that does not cover some part of your
-housing. If you have the financial ability to not care, then lucky you :-P.
+We recommend working at a place that covers some part of your housing,
+unless you have the financial ability to not care.
 
 <section id="Jobs-Perks" />
 ### Perks
