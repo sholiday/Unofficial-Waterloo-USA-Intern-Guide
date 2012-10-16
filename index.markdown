@@ -72,10 +72,9 @@ Some will put you up in subsidized or free housing (Amazon, Apple etc).
 Ask if they cover flight. If you are going to San Francisco, $500-750 round trip
 after tax as a guide. New York is a lot cheaper.
 
-Asking your company to put you in a hotel for a few days can work well.
-Instead of making housing decisions while still in Canada (which
-could be pretty risky), some prefer spending a few days in a hotel at my company's
-expense as they wrap-up apartment search.
+Some people prefer spending a few days in a hotel at their company's expense
+as they wrap-up apartment search (as making housing decisions while still in
+Canada can be risky).
 
 Sometimes stipends are large, sometimes they are not. If you're not sure, assume
 that your stipend will be taxed at ~26% in California. We've heard you can get
