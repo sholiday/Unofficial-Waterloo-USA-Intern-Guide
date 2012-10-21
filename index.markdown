@@ -37,6 +37,7 @@ request. I'll note you if you want to be noted.
 * [Akshay Joshi](http://akshayjoshi.com)
 * [Aamir Mansoor](http://aam1r.com)
 * [Chris Vandevelde](http://www.imlikeaninja.com)
+* [Dennis Ideler](http://dennisideler.com)
 * [Edward Sun](http://www.edwardsun.com)
 * Elisa Lou
 * Michael Truong
