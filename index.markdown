@@ -544,10 +544,12 @@ If you are an intern and have more info let me know.
   under $10. If you've heard of the GO train in the GTA, it's similar. They do 
   often check tickets though!
 * Clipper Card is a free card you can get and load with money which can be used on all of these transit systems seamlessly. Get one.
-* For larger road trips: rent a zipcar. 5 people in a car only end up paying $15 each, don't need to pay for gas.
-* Ubers: popular alternative to taxis, just sign up [here](https://www.uber.com)
-  You get a private driver and payment is hassle free - since they'll automatically charge your CC.
-  You can request an Uber via SMS, or from their iPhone + Android app. The seats are extremely comfortable.
+* For larger road trips, rent a [zipcar](http://www.zipcar.com/) (car sharing
+  service). 5 people in a car only end up paying $15 each, don't need to pay for gas.
+* [Ubers](http://uber.com): popular and stylish alternative to taxis.
+  You get a private driver and payment is hassle free--they'll automatically
+  charge the credit card you have on file (including tip).
+  You can request an Uber via SMS, or from their iPhone or Android app. The seats are extremely comfortable.
 
 #### Housing
 * [Paramount/SFO Housing](http://www.sfohousing.com/) has decent pricing (Park or
@@ -585,18 +587,18 @@ Checkout the Valley Fair Mall and Santana Row. Valley Fair Mall is a typical mal
 
 ##### Malls/Shopping
 
-* Valley Fair Mall - http://www.valleyfairmall.net
-* Santana Row - http://www.santanarow.com
-* Stanford Shopping Center - http://www.simon.com/mall/landing/841/
+* [Valley Fair Mall](http://www.valleyfairmall.net)
+* [Santana Row](http://www.santanarow.com)
+* [Stanford Shopping Center](http://www.simon.com/mall/landing/841/)
 * AMC Theatre (North Wolfe Road)
 
 ##### Restaurants
 
-* California Pizza Kitchen - http://www.cpk.com (there is one inside Valley Fair Mall)
-* Elephant Bar - http://www.elephantbar.com
+* [California Pizza Kitchen](http://www.cpk.com) (there is one inside Valley Fair Mall)
+* [Elephant Bar](http://www.elephantbar.com)
 
 ##### Beaches
-* Santa Cruz Boardwalk - http://www.beachboardwalk.com
+* [Santa Cruz Boardwalk](http://www.beachboardwalk.com)
 
 #### Housing
 * Foster City - [Sand Cove Apartments](http://www.woodmontrentals.com/sand-cove-apartments)
