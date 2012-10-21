@@ -132,7 +132,7 @@ Some prefer keeping all the above as a digital copy in my Dropbox/Google Docs so
 they have instant access to them just in case I lose anything.
 
 If you are US citizen, some of the above do not apply to you.
-Make sure that you have your US passport, and health insurance card and boarding pass.
+Make sure you have your US passport, health insurance card, and boarding pass.
 
 <section id="Paperwork-SSN" />
 ### Getting your SSN
@@ -188,14 +188,14 @@ choice.
 
 <section id="Living-Tips" />
 ### Apartment Hunting Tips
-* Paying a deposit is common.
-* Don't pay a deposit of any kind to *see* an apartment.
-* Utilities included is less common than Waterloo.
+* Paying a deposit is common
+* Don't pay a deposit of any kind to *see* an apartment
+* Utilities included is less common than Waterloo
 * 4-month leases are harder to come by than Waterloo
-* Paying the first months rent in full by certified check is not uncommon
-* Bring enough money for first months rent and security
+* Paying the first months rent in full by certified check is common
+* Bring enough money for first month's rent and security
 * Cashing a Canadian cheque in the US takes a long time (even if it's a USD
-  account), cash is recommended.
+  account)--cash is recommended
 * Sometimes you can get your stipend ahead of time if you already have an
   American bank account. Note that if you get your stipend in December for
   a winter work term, you'll have to do taxes during your work term for the
@@ -208,21 +208,19 @@ choice.
 * Some places are very low tech, so, if looking for a hotel, you are best
   off walking around the area and asking every hotel about their rates.
 
-Craigslist is an option. Before you do so, we would suggest checking "Vacation
-Rental" or "Corporate Housing" websites because they usually work better with
-our 4-month work terms. Some websites I've used are:
+*Vacation Rentals* or *Corporate Housing* work well for our 4-month terms.
+Some websites I've used are:
 
-AirBnB is also a viable option, especially in the SF Bay Area. If you are stuck
-in situations where you are unable to move in for a couple of days, finding
-a place on AirBnB will get you a better value for less cost than a hotel. Just
-remember to use common sense and good judgment. Always read the reviews.
-
-* [Airbnb Sublets](http://www.airbnb.com/sublets) -- vacation rentals
+* [Airbnb Sublets](http://www.airbnb.com/sublets) -- monthly vacation rentals
+* [Airbnb](http://www.airbnb.com/) -- nightly vacation rentals
+  * Good for when you're unable to move in for a couple of days, especially in
+    the SF Bay Area. Typically cheaper than a hotel. Use common sense and good
+    judgement, always read the reviews.
 * [Vacation Rentals by Owner](http://vrbo.com) -- vacation rentals
 * [AMSI](http://www.amsires.com/) -- corporate housing
 * [Corporate Housing by Owner](http://www.corporatehousingbyowner.com/)
-  -- Corporate housing
-* [PadMapper](http://www.padmapper.com/) -- A great way to visualize Craigslist.
+  -- corporate housing
+* [PadMapper](http://www.padmapper.com/) -- Craigslist & Kijiji listings on a map
 
 <section id="Living-CellService" />
 ### Cell Service
@@ -404,7 +402,7 @@ check to augment your US credit bureau reports (especially important if it's
 your first work term in the States). If the representative is knowledgeable,
 they will process the credit card application normally and then will ask you to
 call a number (or call for you on your behalf) about 24-48 hours later
-(excluding weekends). If not, here's the number you can call: 1 888 503 6092.
+(excluding weekends). If not, here's the number you can call: 1-888-503-6092.
 They'll ask for your Canadian SIN number and your last address in Canada. YMMV.
 
 One surefire way of getting a credit card fairly soon would be to apply for a
@@ -426,7 +424,7 @@ Some really creative ways:
 
 Some more tame ways:
 
-* xe.com, this is the preferred method. Generally a 1.5% spread which is pretty good.
+* [xe.com](http://www.xe.com/), this is the preferred method. Generally a 1.5% spread which is pretty good.
 * Wire transfer
 * Cash a check (takes 20-30 days I hear)
 * RBC Royal Bank (they have a cross boarder checking account, but the spread is usually
@@ -449,7 +447,7 @@ Spreads are not always fixed, weekends can cost more so be careful.
 <section id="Money-Taxes" />
 ### Taxes
 *Disclaimer*: No author of this document knows anything about taxes, accounting
-or even arithmetic. Do not rely on this document. Speak to a professional.
+or, even arithmetic. Do not rely on this document. Speak to a professional.
 
 Sadly you will have to pay taxes on your hard-earned income. Chances are you
 already paid the American ones in your paycheque. Depending on your State and
@@ -490,13 +488,13 @@ The IRS has a [good section][IRS-AlienExemptions] on how many exceptions you can
 <section id="Misc">
 ## Miscellaneous
 * Amazon has no tax in California
-* Amazon gives free shipping for 1 month through Prime, get one intern to signup
-  at a time you can have free shipping all work term
+* Amazon gives free shipping for 1 month through Prime. Get one intern to signup
+  at a time so you can have free shipping all work term
 * Woot.com is awesome
 * Waterloo holds [alumni events](http://alumni.uwaterloo.ca/alumni/events/usa/)
   which are often open to students.
-* CECS runs a photo contest every term, one for US coops and one for international coops.
-  They encourage you to take pictures with other Waterloo coops as well as to the places you visit.
+* CECS runs a photo contest every term, one for US co-ops and one for international co-ops.
+  They encourage you to take pictures with other Waterloo co-ops and of the places you visit.
   They do have the right to use it for promotional purposes.
   You get a certificate for participation as well as money for the top 3 winners.
   It's a good way to share your experiences and you might be up for some money for grabs.
@@ -510,7 +508,7 @@ If you are an intern and have more info let me know.
 
 <section id="Area-California" />
 ### California (General)
-* In-n-out burger is must try. Checkout the Animal Style burger on their [secret menu](http://www.in-n-out.com/secretmenu.asp).
+* In-N-Out burger is a must try. Checkout the Animal Style burger on their [secret menu](http://www.in-n-out.com/secretmenu.asp).
 * Many people like [Chipotle](http://www.chipotle.com/)
 
 <section id="Area-SF" />
@@ -541,9 +539,9 @@ If you are an intern and have more info let me know.
   parts of the Bay Area and hits more major destinations. BART from the airport
   to SF is super clean and ~$8.
 * Caltrain is a light-rail system that goes through all of Silicon Valley for
-  under $10. If you've heard of the GO train in the GTA, it's similar. They do
-* An Airport shuttle is a good alternative to Taxi and BART especially if you have a lot of luggage.
-  For only $16 they will drop if you off in front of almost any hotel. I used GO Lorrie's Airport Shuttle to get to Park Hotel.
+  under $10. If you've heard of the GO train in the GTA, it's similar.
+* An Airport shuttle is a good alternative to Taxi and BART, especially if you have a lot of luggage.
+  For only $16 they will drop you off in front of almost any hotel. I used GO Lorrie's Airport Shuttle to get to Park Hotel.
 * Caltrain is a light-rail system that goes through all of Silicon Valley for 
   under $10. If you've heard of the GO train in the GTA, it's similar. They do 
   often check tickets though!
