@@ -132,7 +132,7 @@ a poor little intern *training* in the United States!
 Some prefer keeping all the above as a digital copy in my Dropbox/Google Docs so
 they have instant access to them just in case I lose anything.
 
-If you are US citizen, some of the above do not apply to you.
+If you are a US citizen, some of the above do not apply to you.
 Make sure you have your US passport, health insurance card, and boarding pass.
 
 <section id="Paperwork-SSN" />
