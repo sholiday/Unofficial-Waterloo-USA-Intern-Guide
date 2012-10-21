@@ -616,7 +616,7 @@ Checkout the Valley Fair Mall and Santana Row. Valley Fair Mall is a typical mal
   for people out of the country. 20 minute walk from Caltrain. Not that convent
   for transit. Safeway is about 2 miles away.
 
-  * 2012W - Stephen - We pay 2700/mo unfurnished plus utilities for 3 bedrooms.
+  * 2012W - Stephen - We pay $2700/mo unfurnished plus utilities for 3 bedrooms.
     Clean and very nice. Less than 20 minute bike ride to Google.
 
 <section id="Area-BayArea" />
@@ -653,18 +653,18 @@ Checkout the Valley Fair Mall and Santana Row. Valley Fair Mall is a typical mal
 
 #### Housing
 * Brooklyn (Bay Ridge) - 328 91st Street, Brooklyn (close to the subway).
-  The landlord is Annette Sobczynski (718-974-0368 annetteeve@hotmail.com).
+  The landlord is Annette Sobczynski (718-974-0368, annetteeve@hotmail.com).
   Multiple furnished apartments.
 
-  * 2011S - Stephen - It was fully furnished for 1900/month, 2 bedrooms,
+  * 2011S - Stephen - It was fully furnished for $1900/month, 2 bedrooms,
     large kitchen and a pullout bed in the living room. Stayed for 1 month while
     looking for apartments in Manhattan.
 
 #### Food
 * There are so many places to eat in NYC, try new stuff!
 * Halcart at 53rd and 6th is to die for.
-  Make sure you go to the [right one](http://www.yelp.com/biz/53rd-and-6th-halal-cart-new-york)
-  Get the hot sauce. There will be a line, it is worth it.
+  Make sure you go to the [right one](http://www.yelp.com/biz/53rd-and-6th-halal-cart-new-york).
+  Get the hot sauce. There will be a line, it's worth it.
 * Pizza - In NY it's a different kind of food. It's also highly contentious
   which place is best.
 
@@ -677,7 +677,7 @@ Checkout the Valley Fair Mall and Santana Row. Valley Fair Mall is a typical mal
     The wait is more reasonable.
 
 * [Fat Cat](http://www.fatcatmusic.org/) is a nice bar and has lots of pool
-  tables, ping-pong tables and even scrabble. Prices are decent. Also allow
+  tables, ping-pong tables and even scrabble. Prices are decent. Also allows
   people under 21 in before a certain time.
 * [Dallas BBQ](http://www.dallasbbq.com/) is really good and has awesome prices.
 * [Carmines](http://carminesnyc.com/) is family style (gigantic plates) Italian
@@ -691,14 +691,15 @@ Checkout the Valley Fair Mall and Santana Row. Valley Fair Mall is a typical mal
 
 <section id="Area-Coopersburg-PA" />
 ### Coopersburg, PA
-* Driving/Bus is probably the easiest/ cheapest way to get into PA from ON.
+* Driving/Bus is probably the easiest and cheapest way to get into PA from ON.
 * Bank of America is near Lutron campus and are experienced with dealing with international co-ops
-* quiet town
-* minimum necessities close by (food, convenience, pharm, bank), government related tasks (eg: SSN app) have to be done in Allentown (20 min drive north),
-* not much to do within walking distance, with a car the area becomes more interesting
-* "Nearby" towns/ cities include (Philly/NYC)
-* plaza near BOA has decent food (Mex, Chinese, Italian, diner),  two large grocery stores (it is worth getting the "bonus cards")
-* famous Musikfestival during summer
-* climate is similar to ON but slightly warmer on average
+* Quiet town
+* Minimum necessities close by (food, convenience, pharmacy, bank).
+  Government related tasks (e.g. SSN application) have to be done in Allentown (20 min drive north).
+* Not much to do within walking distance. The area becomes more interesting with a car.
+* "Nearby" towns/cities include: Philly, NYC
+* Plaza near BOA has decent food (Mex, Chinese, Italian, diner) and two large grocery stores (it's worth getting the "bonus cards")
+* [Musikfest](http://www.fest.org/), a popular free music festival during summer
+* Climate is similar to ON but slightly warmer on average
 
 </section
