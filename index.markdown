@@ -211,9 +211,11 @@ Some websites I've used are:
 
 * [Airbnb Sublets](http://www.airbnb.com/sublets) -- monthly vacation rentals
 * [Airbnb](http://www.airbnb.com/) -- nightly vacation rentals
+
   * Good for when you're unable to move in for a couple of days, especially in
     the SF Bay Area. Typically cheaper than a hotel. Use common sense and good
     judgement, always read the reviews.
+
 * [Vacation Rentals by Owner](http://vrbo.com) -- vacation rentals
 * [AMSI](http://www.amsires.com/) -- corporate housing
 * [Corporate Housing by Owner](http://www.corporatehousingbyowner.com/)
@@ -550,10 +552,14 @@ If you are an intern and have more info let me know.
 #### Housing
 * [Paramount/SFO Housing](http://www.sfohousing.com/) has decent pricing (Park or
   Herbert). The internet is slow. They are older buildings, and note that there are no kitchen facilities to use in Herbert.
+
   * 2010F - Stephen has stayed at the Park. Liked it, would recommend
+
 * [Pacific Tradewinds](http://www.san-francisco-hostel.com/) is highly recommended by one intern who is adventurous and enjoyed living in hostel-like acommodations,
+
   * 2012W - Recommended by an intern. It's feels very home-y
-and undoubtedly a great place to meet technical folks and entrepreneurs.
+    and undoubtedly a great place to meet technical folks and entrepreneurs.
+
 * If you would rather live in a more student-populated area, Berkeley is an option.
 The commute to the downtown area is 15-20 min, but is worth it if you want to meet people your age.
 
@@ -599,12 +605,15 @@ Checkout the Valley Fair Mall and Santana Row. Valley Fair Mall is a typical mal
   country. They do flexible leasing and month to month rentals.
   In the past, QuinStreet co-ops have lived at the other properties owned by the
   parent company (Woodmont, who seem to own a lot of land around here).
+
   * 2010W - Stephen - Liked it, very close to the old QuinStreet buildings.
     2 Bedroom 2 Bath $1909/mo.
+
 * Mountain View - [Central Park at Whisman Station](http://www.centralpark-apts.com/)
   is a good apartment complex and they are very helpful with setting up housing
   for people out of the country. 20 minute walk from Caltrain. Not that convent
   for transit. Safeway is about 2 miles away.
+
   * 2012W - Stephen - We pay $2700/mo unfurnished plus utilities for 3 bedrooms.
     Clean and very nice. Less than 20 minute bike ride to Google.
 
@@ -644,6 +653,7 @@ Checkout the Valley Fair Mall and Santana Row. Valley Fair Mall is a typical mal
 * Brooklyn (Bay Ridge) - 328 91st Street, Brooklyn (close to the subway).
   The landlord is Annette Sobczynski (718-974-0368, annetteeve@hotmail.com).
   Multiple furnished apartments.
+
   * 2011S - Stephen - It was fully furnished for $1900/month, 2 bedrooms,
     large kitchen and a pullout bed in the living room. Stayed for 1 month while
     looking for apartments in Manhattan.
@@ -655,12 +665,15 @@ Checkout the Valley Fair Mall and Santana Row. Valley Fair Mall is a typical mal
   Get the hot sauce. There will be a line, it's worth it.
 * Pizza - In NY it's a different kind of food. It's also highly contentious
   which place is best.
+
   * [Grimaldi's](http://www.grimaldis.com/) is usually number 1 or 2 on most
     lists. It will be packed. Go on a weeknight. You will stand outside for
     20-45 minutes or more. On Saturday expect over an hour. You can do take out
     which will be a bit faster. Eat it under the Brooklyn bridge!
+
   * [Lombardi's](http://www.firstpizza.com/) is really good and in Manhattan.
     The wait is more reasonable.
+
 * [Fat Cat](http://www.fatcatmusic.org/) is a nice bar and has lots of pool
   tables, ping-pong tables and even scrabble. Prices are decent. Also allows
   people under 21 in before a certain time.
