@@ -17,7 +17,7 @@ title: Unofficial Waterloo USA Intern Guide
 * [Miscellaneous](#Misc)
 * [Area Specific](#Area)
 
-<section id="Introduction">
+<section id="Introduction" />
 ## Introduction
 
 **This document is unofficial and not endorsed by my school or employers.**
@@ -50,10 +50,9 @@ request. I'll note you if you want to be noted.
 ### License
 <a href="http://creativecommons.org/licenses/by-nc-sa/2.5/ca/">Attribution-NonCommercial-ShareAlike 2.5 Canada</a>
 
-</section>
 ---
 
-<section id="Jobs">
+<section id="Jobs" />
 ## Jobs
 
 For many, the JobMine process is familiar so we won't speak about that.
@@ -101,10 +100,9 @@ snacks, game rooms, pool tables, ping pong, fooseball, etc.
 
 It's worth checking out.
 
-</section>
 ---
 
-<section id="Paperwork">
+<section id="Paperwork" />
 ## Paperwork
 <section id="Paperwork-J1Visa" />
 ### J-1 Visa
@@ -163,10 +161,9 @@ screening), but card arrived in 2 business days (was promised two weeks).
 
 As with everything else, your mileage may vary.
 
-</section>
 ---
 
-<section id="Living">
+<section id="Living" />
 <section id="Living-Housing" />
 ## Housing
 You'll want to start your search early.
@@ -317,10 +314,9 @@ you can just call Canada for free and it will use Google Voice. It's really, rea
 Note that you need to have an internet connection to take advantage of the automated Google
 Voice proxying.
 
-</section>
 ---
 
-<section id="Money">
+<section id="Money" />
 ## Money
 <section id="Money-Banks" />
 ### Banks
@@ -483,10 +479,9 @@ The IRS has a [good section][IRS-AlienExemptions] on how many exceptions you can
 [CECA-USIncomeTax]: https://uwaterloo.ca/co-operative-education/working-abroad/common-terms-questions#If%20I%20work%20in%20the%20U.S.A,%20how%20does%20that%20affect%20my%20income%20tax?
 [IRS-AlienExemptions]: http://www.irs.gov/Individuals/International-Taxpayers/Aliens---How-Many-Exemptions-Can-Be-Claimed%3F
 
-</section>
 ---
 
-<section id="Misc">
+<section id="Misc" />
 ## Miscellaneous
 * Amazon has no tax in California
 * Amazon gives free shipping for 1 month through Prime. Get one intern to signup
@@ -499,10 +494,9 @@ The IRS has a [good section][IRS-AlienExemptions] on how many exceptions you can
   They do have the right to use it for promotional purposes.
   You get a certificate for participation as well as money for the top 3 winners.
   It's a good way to share your experiences and you might be up for some money for grabs.
-</section>
 ---
 
-<section id="Area">
+<section id="Area" />
 ## Area Specific Notes
 I've been to three main areas and will focus on info for those.
 If you are an intern and have more info let me know.
@@ -702,5 +696,3 @@ Checkout the Valley Fair Mall and Santana Row. Valley Fair Mall is a typical mal
 * Plaza near BOA has decent food (Mex, Chinese, Italian, diner) and two large grocery stores (it's worth getting the "bonus cards")
 * [Musikfest](http://www.fest.org/), a popular free music festival during summer
 * Climate is similar to ON but slightly warmer on average
-
-</section
