@@ -445,8 +445,8 @@ Spreads are not always fixed, weekends can cost more so be careful.
 
 <section id="Money-Taxes" />
 ### Taxes
-*Disclaimer*: No author of this document knows anything about taxes, accounting
-or, even arithmetic. Do not rely on this document. Speak to a professional.
+*Disclaimer*: No author of this document knows anything about taxes, accounting,
+or even arithmetic. Do not rely on this document. Speak to a professional.
 
 Sadly you will have to pay taxes on your hard-earned income. Chances are you
 already paid the American ones in your paycheque. Depending on your State and
