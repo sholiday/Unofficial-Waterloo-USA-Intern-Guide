@@ -485,7 +485,6 @@ The IRS has a [good section][IRS-AlienExemptions] on how many exceptions you can
 
 <section id="Misc" />
 ## Miscellaneous
-* Amazon has no tax in California
 * Amazon gives free shipping for 1 month through Prime. Get one intern to signup
   at a time so you can have free shipping all work term
 * Woot.com is awesome
