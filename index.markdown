@@ -34,14 +34,15 @@ request. I'll note you if you want to be noted.
 
 ### Contributors
 
-* [Akshay Joshi](http://akshayjoshi.com)
 * [Aamir Mansoor](http://aam1r.com)
+* [Akshay Joshi](http://akshayjoshi.com)
 * [Chris Vandevelde](http://www.imlikeaninja.com)
 * [Dennis Ideler](http://dennisideler.com)
 * [Edward Sun](http://www.edwardsun.com)
-* Elisa Lou
-* Michael Truong
-* Nansen Lin
+* [Elisa Lou](http://aimango.wordpress.com/)
+* [Eric Yam](www.ericyam.com)
+* [Michael Truong](http://www.linkedin.com/in/truongmichael)
+* [Nansen Lin](http://www.linkedin.com/pub/nansen-lin/28/6b4/92a)
 * [Prashanth Madhi](http://ece.uwaterloo.ca/~pmadhiya)
 * [Stephen Holiday](http://stephenholiday.com)
 * [Viktor Stanchev](http://viktorstanchev.com)
