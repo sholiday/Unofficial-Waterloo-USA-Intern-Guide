@@ -49,7 +49,8 @@ request. I'll note you if you want to be noted.
 * [Zameer Manji](http://zameermanji.com)
 
 ### License
-<a href="http://creativecommons.org/licenses/by-nc-sa/2.5/ca/">Attribution-NonCommercial-ShareAlike 2.5 Canada</a>
+<a href="http://creativecommons.org/licenses/by-nc-sa/2.5/ca/">
+Attribution-NonCommercial-ShareAlike 2.5 Canada</a>
 
 ---
 
@@ -60,10 +61,11 @@ For many, the JobMine process is familiar so we won't speak about that.
 You probably know how to get a job.
 
 Something to note is that many companies in the US (particularly California) are
-much more laid back and don't care if you wear a suit or not. Depends on the company. We suit up for Morgan Stanley but not Facebook.
+much more laid back and don't care if you wear a suit or not. Depends on the
+company. We suit up for Morgan Stanley but not Facebook.
 
-CECS says not to do US in your first year. Even if you only have 4 months of school
-under your belt, there is no actual restriction for going in first year.
+CECS says not to do US in your first year. Even if you only have 4 months of
+school under your belt, there is no actual restriction for going in first year.
 Some of us have done it without trouble successfully.
 
 <section id="Jobs-Pay" />
@@ -137,18 +139,26 @@ Make sure you have your US passport, health insurance card, and boarding pass.
 <section id="Paperwork-SSN" />
 ### Getting your SSN
 Apply for your SSN as soon as you have been in the US for at least *10 days*. It
-takes 10 days for SEVIS to sync up with the SSA's database of people eligible to apply for a social security number.
-Yes, you have to wait for them to copy by hand and deliver the data by pidgeon. If you apply early, they'll lie to you
-that it will be okay if you do it, but it will not work and you will just have to try again later.
+takes 10 days for SEVIS to sync up with the SSA's database of people eligible to
+apply for a social security number. Yes, you have to wait for them to copy by
+hand and deliver the data by pidgeon. If you apply early, they'll lie to you
+that it will be okay if you do it, but it will not work and you will just have
+to try again later.
+
+Some people have entered the US ahead of time by driving to Buffalo or Detroit.
+They enter on their J1 to to get the SEVIS wait process started as well as get
+a cell phone or bank account. Keep in mind that the immigration center in
+Buffalo can take an hour and a half.
 
 #### SSN Application
-1. Fill in form SS-5 available at the [Social Security Administration's website](http://ssa.gov/ssnumber/).
+1. Fill in form SS-5 available at the
+   [Social Security Administration's website](http://ssa.gov/ssnumber/).
 2. Bring forms and documentation to your local SSA office.
 
 OR
 
-1. Show up, fill out the form while waiting. There's a good chance that they'll have a pile of those forms for
-you and you have to wait a long time anyway.
+1. Show up, fill out the form while waiting. There's a good chance that they'll
+   have a pile of those forms for you and you have to wait a long time anyway.
 
 #### SSA Offices
 
@@ -298,7 +308,7 @@ three hours before they will relent, uggh.
 He tried SimpleMobile Winter '12 and had mixed feelings. Their
 customer support is pretty terrible, they don't know what BIS is and they think
 data is data. But you can get it to work, and the service itself is fine (He
-think they actually are on T-Mobile).
+thinks they actually are on T-Mobile).
 
 Note, if you have a Rogers/AT&T phone it will likely only get EDGE not 3G.
 
@@ -342,6 +352,8 @@ Stephen suggests you stick to one of:
 
 If you are in NY Chase is the one to open.
 There are so many Chase branches and ATMs.
+Several people have been told that Chase is pretty conservative when it
+comes to giving credit cards to "new Americans".
 
 Bank of America is pretty good in the SF/Bay Area.
 Chase is OK there too. They also have many branches there - and they are
@@ -351,6 +363,7 @@ BoA and Chase have ATMs that scan cheques instead of using envelopes.
 Others might have this too.
 
 Wells Fargo is known for being super nice.
+Wells Fargo has been seen by at least one person as being tougher for a CC.
 
 You will *not* need a SSN to open an account at the three listed banks.
 Bring your passport and visa. You don't even need a permanent address.
@@ -360,19 +373,29 @@ Stephen's always kept a US bank account open.
 It's super useful to have. If you come back to the US again you're all setup.
 If you travel you can get cash easy. If you want to buy stuff online it's great.
 
+Eric says that keeping your bank account open is also great for getting credit in the
+future.
+
 Some people want to close their account to avoid bank fees.
 Most banks (BoA, Chase, Wells Fargo) offer a _student account_ for 5 years from
 when you sign up. Bring your student ID card. They don't require any minimum
 activity other than some nominal balance. Some _savings_ accounts have fees.
 
 #### Starting Money
-You should bring money down to start with, it will help with deposits and first/last month rent.
+You should bring money down to start with, it will help with deposits and
+first/last month rent.
 
-You may also want a simple way to access your funds in Canada without a huge fee. Note, xe.com will likely get you a better rate. But the following method is very flexible. This method worked out pretty well for Prashanth: 
+You may also want a simple way to access your funds in Canada without a huge
+fee. Note, xe.com will likely get you a better rate. But the following method is
+very flexible. This method worked out pretty well for Prashanth: 
 
-1. Open a U.S Bank Account with your Canadian Bank (Prashanth used TD but recommend RBC, RBC has a US branch as well though none in California) 
+1. Open a U.S Bank Account with your Canadian Bank (Prashanth used TD but
+   recommend RBC, RBC has a US branch as well though none in California) 
 2. Transfer some money to this account to last you for a few weeks in US
-3. Get a US Dollar Credit Card from Canada and use this for initial spending. If you are not eligible, you can ask your parents to open it for you and a get a credit card in your name. You can use this card until you have money in your US account.
+3. Get a US Dollar Credit Card from Canada and use this for initial spending.
+   If you are not eligible, you can ask your parents to open it for you and a
+   get a credit card in your name. You can use this card until you have money
+   in your US account.
 4. Open a US Bank account in either Chase, BOA, Wells Fargo.
 
 <section id="Money-Credit" />
@@ -392,6 +415,25 @@ account and that amount becomes your credit limit. Something to look into.
 Sometimes you can get BoA or TD America to look up your Canadian credit history.
 TD Ameritrade and BoA has a Canadian credit check form.
 Really tough if you are under 21.
+
+Eric would like to stress the importance of getting a credit card and building credit
+history in the States. It's expecially useful if you plan to move to the US after you
+graduate.
+
+There are some
+[things to consider](http://www.mint.com/blog/how-to/10-credit-score-commandments/)
+when dealing with credit cards. Particularly not using all of your available
+credit. Many say you should use less than 30% of your credit to maintain a good
+score.
+
+Eric says the following about BoA's credit policy:
+> BoA credit card policy is to not tell you what the maximum credit limit you
+> can get. You have to request a number and then they'll negotiate via phone. My
+> suggestion is once you have about a month or two of usage on your credit card,
+> you request a large credit increase online (usually double what your limit
+> currently is). Then in about 30 minutes you can call 866 506 5068 (direct line
+> to a credit department agent) to negotiate an increase. Results vary widely on
+> this one.
 
 #### Bank of America - Canadian Credit Check
 
@@ -416,33 +458,42 @@ There are a lot of ways to bring your hard earned dough back to Canada.
 
 Some really creative ways:
 
-* Bring it in cash across the border (10k limit, it's a lot in $20's, Stephen doesn't do
-  this anymore).
+* Bring it in cash across the border (if it's over 10k you need to declare it.
+  it's a lot in $20's, Stephen doesn't do this anymore).
 * Mailing it by UPS/FedEx insured (got this from a TD Canada banker)
 * Buying equity on a cross listed item and selling it on a Canadian exchange
-  (best rate I hear, but sounds tricky). This is called [Norbet's Gambit](http://www.finiki.org/index.php?title=Norbert%27s_Gambit).
+  (best rate I hear, but sounds tricky). This is called
+  [Norbet's Gambit](http://www.finiki.org/index.php?title=Norbert%27s_Gambit).
 
 Some more tame ways:
 
-* [xe.com](http://www.xe.com/), this is the preferred method. Generally a 1.5% spread which is pretty good.
+* [xe.com](http://www.xe.com/), this is the preferred method.
+  Generally a 1.5% spread which is pretty good.
 * Wire transfer
 * Cash a check (takes 20-30 days I hear)
-* RBC Royal Bank (they have a cross boarder checking account, but the spread is usually
-  2.5%, Stephen doesn't do this any more)
+* RBC Royal Bank (they have a cross boarder checking account, but the spread is
+  usually 2.5%, Stephen doesn't do this any more)
 * Using your family member who works at a bank and gets currency exchanged at
   cost (We're told this is the best possible)
 
-If you end up with American funds in Canada, Stephen recommends opening a US dollar
-account and convert it over time so you don't get bit by the exchange rate.
+If you end up with American funds in Canada, Stephen recommends opening a US
+dollar account and convert it over time so you don't get bit by the exchange
+rate. You can use xe.com even with a USD account in Canada.
 
-Stephen sucks at playing the market so he just transfer money over ~$1k at a time to try
-and even out my loss/gain. Stephen and Chris love xe.com's bid system.
-With xe, you can make a trade right away or set a transaction to occur once the rate hits some desired value.
+Stephen also keeps some USD funds in a USD TD account in Canada so he can get
+small bills and sell USD to family without a spread.
+
+Stephen sucks at playing the market so he just transfer money over ~$1k at a
+time to try and even out my loss/gain. Stephen and Chris love xe.com's bid
+system. With xe, you can make a trade right away or set a transaction to occur
+once the rate hits some desired value.
 
 Keep in mind that some banks charge different spreads depending on how much you
 transfer. $1,100 worked best for Stephen.
 
 Spreads are not always fixed, weekends can cost more so be careful.
+
+Stephen's favourite method is still xe.com.
 
 <section id="Money-Taxes" />
 ### Taxes
@@ -457,15 +508,17 @@ Federal and Provincial forms as well as US Federal and State.
 
 It's not to hard to fill them out yourself but it's fairly annoying.
 Make sure you file with your Canadian address as your home address.
-If you file with a Canadian address you get an automatic extension (not sure how long, believe it's 1 month).
+If you file with a Canadian address you get an automatic extension (not sure how
+long, believe it's 1 month).
 
 Some people have had luck with this [free government program][IRS-FreeTaxReturn].
 
 CECS has [some information][CECA-USIncomeTax] on taxes.
 Stephen used "Peter Cuttini" (contact info on Waterloo site) for his 2011 taxes.
 He's heard good things about him for co-op students. (Around $300).
-Stephen was not very impressed with the work and will be likely doing them himself for 2012.
-He did them in 2011 and found them not much harder than discussing with your accountant.
+Stephen was not very impressed with the work and will be likely doing them
+himself for 2012. He did them in 2011 and found them not much harder than
+discussing with your accountant.
 
 H&R Block will also do it for around $300.
 
@@ -476,7 +529,8 @@ The main question Stephen had was whether he had to pay taxes twice in both
 Canada and the US. In his situation, Canada knew how much he was taxed in the US
 and applied some formula to not tax him twice.
 
-The IRS has a [good section][IRS-AlienExemptions] on how many exceptions you can claim.
+The IRS has a [good section][IRS-AlienExemptions] on how many exceptions you can
+claim.
 
 [IRS-FreeTaxReturn]: http://www.irs.gov/Individuals/Free-Tax-Return-Preparation-for-You-by-Volunteers
 [CECA-USIncomeTax]: https://uwaterloo.ca/co-operative-education/working-abroad/common-terms-questions#If%20I%20work%20in%20the%20U.S.A,%20how%20does%20that%20affect%20my%20income%20tax?
@@ -491,11 +545,14 @@ The IRS has a [good section][IRS-AlienExemptions] on how many exceptions you can
 * Woot.com is awesome
 * Waterloo holds [alumni events](http://alumni.uwaterloo.ca/alumni/events/usa/)
   which are often open to students.
-* CECS runs a photo contest every term, one for US co-ops and one for international co-ops.
-  They encourage you to take pictures with other Waterloo co-ops and of the places you visit.
+* CECS runs a photo contest every term, one for US co-ops and one for
+  international co-ops.
+  They encourage you to take pictures with other Waterloo co-ops and of the
+  places you visit.
   They do have the right to use it for promotional purposes.
-  You get a certificate for participation as well as money for the top 3 winners.
-  It's a good way to share your experiences and you might be up for some money for grabs.
+  You get a certificate for participation as well as money for the top 3
+  winners. It's a good way to share your experiences and you might be up for
+  some money for grabs.
 
 ---
 
@@ -508,6 +565,42 @@ If you are an intern and have more info let me know.
 ### California (General)
 * In-N-Out burger is a must try. Checkout the Animal Style burger on their [secret menu](http://www.in-n-out.com/secretmenu.asp).
 * Many people like [Chipotle](http://www.chipotle.com/)
+* Eric found [USAA](www.usaa.com) very useful for car rentals.
+
+  * The website will make it seem like its for active-duty military or veterans,
+    but everyone with an SSN is eligible for the shopping discounts.
+    Not eligible for the insurance, however.
+  * Car rental benefits are
+    [here](https://www.usaa.com/inet/pages/rental_cars_main_public?wa_ref=pub_global_products_travel_rentalcars)
+  * The main thing is that the underage fee is waived for all car companies
+    (which saves a heck of a lot of money) and there's a discount (usually 10%)
+    woven into there as well. You can also get these without going through USAA
+    but USAA has the benefit of combining the two into one discount code. Hertz
+    in particular allows for two discount codes, so you can often layer the 
+    discounts on and save a lot.
+  * Being part of USAA also means you get free club gold membership into Hertz,
+    which lets you build points for stuff like free day rentals, weekend
+    rentals, etc.
+  * Being with USAA is also helps if you are under 20 and want to rent a car.
+* Tips when actually renting:
+
+  * Insurance is usually peddled with the car rental at the counter
+    (eg. liability, loss damage insurance, colllision). If you have car
+    insurance in Canada either on your own or with your parents, they may cover
+    this already (be sure to have a copy of it on you when you drive).
+  * Go for the smallest car (sub-compact rental). You may want a larger vehicle
+    at the start, but you can often ask for a free upgrade at the counter and
+    they'll give you one. You can get a Civic, Corolla, Jetta or sometimes even
+    a VW Passat/other full size sedan just by asking.
+  * Some rental companies will often pick you up from where you are
+    living/working and drive you to their rental location.
+  * For Hertz, try and layer the discounts (CDP and PC codes). You can get cheap
+    rates like 50 dollars (tax included) for a 3 day weekend car rental. It
+    makes for some awesome road trips
+  * Avoid renting cars from airports unless necessary - they tack on a bunch of
+    dumb charges that you can't waive (eg. airport concession fee, terminal
+    fees, etc.). They also don't give free upgrades unless forced to via
+    discount codes.
 
 <section id="Area-SF" />
 ### San Francisco
@@ -581,7 +674,26 @@ Big boxes of dim sum for ~$4, bubble tea is only ~$2 (they call it boba)
 
 #### Cupertino
 
-Checkout the Valley Fair Mall and Santana Row. Valley Fair Mall is a typical mall with everything that you expect in a Canadian Mall. Da' Anza and Stevens Creek has plenty of eatery's around. If you haven't tried California Pizza Kitchen, you have to go immediately. If you want to go clubbing you have to hit up SF or Mountain View.
+Checkout the Valley Fair Mall and Santana Row. Valley Fair Mall is a typical
+mall with everything that you expect in a Canadian Mall. Da' Anza and Stevens
+Creek has plenty of eatery's around. If you haven't tried California Pizza 
+Kitchen, you have to go immediately. If you want to go clubbing you have to hit
+up SF or Mountain View.
+
+* [Harumi Sushi](http://www.yelp.com/biz/harumi-sushi-cupertino)
+* [Gyu Kaku](http://www.yelp.com/biz/gyu-kaku-cupertino) for Japanese BBQ.
+* [Kong Tofu](http://www.yelp.com/biz/kong-tofu-and-bbq-korean-cuisine-cupertino)
+  for good Korean food.
+* [Arya Persian Cuisine](http://www.yelp.com/biz/arya-global-cuisine-cupertino)
+  for nice kebabs and such. A little pricey.
+* [Ike's Lair](http://www.yelp.com/biz/ikes-lair-cupertino-2) for Sandwiches
+* [Little Sheep](http://www.yelp.com/biz/little-sheep-cupertino) for nice Hot
+  pot.
+* [Adamsons French Dip](http://www.yelp.com/biz/adamsons-french-dip-sunnyvale)
+  for some nice beef sandwiches.
+* [Omee J](http://www.yelp.com/biz/omee-j-santa-clara-2) for sushi.
+* [Orenchi](http://www.yelp.com/biz/orenchi-ramen-santa-clara) for Ramen
+  (long wait).
 
 ##### Malls/Shopping
 
