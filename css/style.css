@@ -7,8 +7,11 @@
 
 
 
-
-
+body {
+	background-image: url(img/bgnoise.png);
+	background-position: initial initial;
+	background-repeat: initial initial;
+}
 
 
 
