@@ -40,7 +40,7 @@ request. I'll note you if you want to be noted.
 * [Dennis Ideler](http://dennisideler.com)
 * [Edward Sun](http://www.edwardsun.com)
 * [Elisa Lou](http://aimango.wordpress.com/)
-* [Eric Yam](www.ericyam.com)
+* [Eric Yam](http://www.ericyam.com)
 * [Michael Truong](http://www.linkedin.com/in/truongmichael)
 * [Nansen Lin](http://www.linkedin.com/pub/nansen-lin/28/6b4/92a)
 * [Prashanth Madhi](http://ece.uwaterloo.ca/~pmadhiya)
@@ -190,10 +190,7 @@ the same time as you.
 
 Contact them and ask them to meet up somewhere in Waterloo for dinner.
 It gives everyone a great opportunity to meet each other, get a feel for who
-would be a good roommate.
-
-Some like to find outgoing people who like to travel on weekends, it's a personal
-choice.
+would be a good roommate for your style.
 
 <section id="Living-Tips" />
 ### Apartment Hunting Tips
@@ -231,7 +228,8 @@ Some websites I've used are:
 * [AMSI](http://www.amsires.com/) -- corporate housing
 * [Corporate Housing by Owner](http://www.corporatehousingbyowner.com/)
   -- corporate housing
-* [PadMapper](http://www.padmapper.com/) -- Craigslist & Kijiji listings on a map
+* [PadMapper](http://www.padmapper.com/) -- Craigslist & Kijiji listings on a
+  map
 
 <section id="Living-CellService" />
 ### Cell Service
@@ -239,8 +237,8 @@ Unless you're one of those crazy people who wanders around for wifi (I'm looking
 at you Deepinder), you'll want to get cell service.
 
 If you just want a phone that makes phone calls and texts (weirdo) you can get
-some cheap pay as you go phone. Stephen has a BOOST prepaid phone which he uses for
-when people come to visit him and hasn't had any trouble with it.
+some cheap pay as you go phone. Stephen has a BOOST prepaid phone which he uses
+for when people come to visit him and hasn't had any trouble with it.
 
 <section id="Living-CellService-Smartphones" />
 #### Smartphones
@@ -252,13 +250,13 @@ We think T-Mobile and AT&T both offer options in this arena.
 
 Simple mobile is also very good if you don't care about data speeds. They have
 a fixed price, pay up front, no hidden fees. We've never had problems
-with the voice or texting service. They have unlimited to 52 countries for $10 extra.
-(but you don't need it if you just call Canada - read on) They limit
+with the voice or texting service. They have unlimited to 52 countries for $10
+extra. (but you don't need it if you just call Canada - read on) They limit
 you to about 120kbps (yes, kilobits) with the $40 plan. You can get more with
-the $60 plan, but it's not much better in San Francisco because of the limitations
-of their network, and they might throttle you anyway. If you choose these guys,
-you might have to change your phone's APN settings to get data. Look at the
-instructions on their website.
+the $60 plan, but it's not much better in San Francisco because of the
+limitations of their network, and they might throttle you anyway. If you choose
+these guys, you might have to change your phone's APN settings to get data. Look
+at the instructions on their website.
 
 In the past some groups were able to get a reduced rate by getting a family
 plan.
@@ -291,10 +289,10 @@ your phone.
 
 <section id="Living-CellService-BlackBerry" />
 #### BlackBerry
-There are a few options. Stephen's a BlackBerry user who would die without BBM and
-Google Maps. The main problem is that people don't like giving you data without
-a 1-2 year commitment. This section is only about getting your BlackBerry on the
-network *with BIS*.
+There are a few options. Stephen's a BlackBerry user who would die without BBM
+and Google Maps. The main problem is that people don't like giving you data
+without a 1-2 year commitment. This section is only about getting your
+BlackBerry on the network *with BIS*.
 
 He used to use T-Mobile with a weird prepaid plan but they stopped that and make
 you put down a deposit. He's told that this may have changed, you may want to
@@ -319,13 +317,14 @@ Win/win.
 
 <section id="Living-CellService-LongDistance" />
 ### Long distance
-The reason you don't need to pay extra for long distance to Canada is you can use
-Google Voice for this. Normally to use Google Voice to call Canada for free, you dial a number
-and then type in the number you want to call and they connect you. This is not necessary
-if you have an Android phone. Get the Google Voice app and it will do this for you transparently, so
-you can just call Canada for free and it will use Google Voice. It's really, really nice.
-Note that you need to have an internet connection to take advantage of the automated Google
-Voice proxying.
+The reason you don't need to pay extra for long distance to Canada is you can
+use Google Voice for this. Normally to use Google Voice to call Canada for free,
+you dial a number and then type in the number you want to call and they connect
+you. This is not necessary if you have an Android phone. Get the Google Voice
+app and it will do this for you transparently, so you can just call Canada for
+free and it will use Google Voice. It's really, really nice. Note that you need
+to have an internet connection to take advantage of the automated Google Voice
+proxying.
 
 ---
 
@@ -373,8 +372,8 @@ Stephen's always kept a US bank account open.
 It's super useful to have. If you come back to the US again you're all setup.
 If you travel you can get cash easy. If you want to buy stuff online it's great.
 
-Eric says that keeping your bank account open is also great for getting credit in the
-future.
+Eric says that keeping your bank account open is also great for getting credit
+in the future.
 
 Some people want to close their account to avoid bank fees.
 Most banks (BoA, Chase, Wells Fargo) offer a _student account_ for 5 years from
@@ -416,9 +415,9 @@ Sometimes you can get BoA or TD America to look up your Canadian credit history.
 TD Ameritrade and BoA has a Canadian credit check form.
 Really tough if you are under 21.
 
-Eric would like to stress the importance of getting a credit card and building credit
-history in the States. It's expecially useful if you plan to move to the US after you
-graduate.
+Eric would like to stress the importance of getting a credit card and building
+credit history in the States. It's expecially useful if you plan to move to the
+US after you graduate.
 
 There are some
 [things to consider](http://www.mint.com/blog/how-to/10-credit-score-commandments/)
@@ -511,7 +510,8 @@ Make sure you file with your Canadian address as your home address.
 If you file with a Canadian address you get an automatic extension (not sure how
 long, believe it's 1 month).
 
-Some people have had luck with this [free government program][IRS-FreeTaxReturn].
+Some people have had luck with this
+[free government program][IRS-FreeTaxReturn].
 
 CECS has [some information][CECA-USIncomeTax] on taxes.
 Stephen used "Peter Cuttini" (contact info on Waterloo site) for his 2011 taxes.
@@ -563,7 +563,8 @@ If you are an intern and have more info let me know.
 
 <section id="Area-California" />
 ### California (General)
-* In-N-Out burger is a must try. Checkout the Animal Style burger on their [secret menu](http://www.in-n-out.com/secretmenu.asp).
+* In-N-Out burger is a must try. Checkout the Animal Style burger on their 
+  [secret menu](http://www.in-n-out.com/secretmenu.asp).
 * Many people like [Chipotle](http://www.chipotle.com/)
 * Eric found [USAA](www.usaa.com) very useful for car rentals.
 
@@ -619,8 +620,8 @@ If you are an intern and have more info let me know.
   Tenderloin, especially at night. We repeat,
   *stay out of the Tenderloin at night*.) Familiarize yourself with the
   neighbourhoods and use common sense.
-* Fun fact - it has [the lowest proportion of children of any major city in the US](http://www.huffingtonpost.com/2012/03/09/families-flee-san-francisco_n_1335639.html)!
-  If you hate the smelly little buggers, you're in good company.
+* Fun fact - it has [the lowest proportion of children](http://www.huffingtonpost.com/2012/03/09/families-flee-san-francisco_n_1335639.html)
+  of any major city in the US!
 
 #### Transportation
 * MUNI is the basic transit service, there are buses, streetcars, cable cars
@@ -629,32 +630,40 @@ If you are an intern and have more info let me know.
 * BART is a high-speed subway-ish system that goes around the more city-like
   parts of the Bay Area and hits more major destinations. BART from the airport
   to SF is super clean and ~$8.
-* An Airport shuttle is a good alternative to Taxi and BART, especially if you have a lot of luggage.
-  For only $16 they will drop you off in front of almost any hotel. I used GO Lorrie's Airport Shuttle to get to Park Hotel.
+* An Airport shuttle is a good alternative to Taxi and BART, especially if you
+  have a lot of luggage. For only $16 they will drop you off in front of almost
+  any hotel. I used GO Lorrie's Airport Shuttle to get to Park Hotel.
 * Caltrain is a light-rail system that goes through all of Silicon Valley for 
   under $10. If you've heard of the GO train in the GTA, it's similar. They do 
   often check tickets though!
-* Clipper Card is a free card you can get and load with money which can be used on all of these transit systems seamlessly. Get one.
+* Clipper Card is a free card you can get and load with money which can be used
+  on all of these transit systems seamlessly. Get one.
 * For larger road trips, rent a [zipcar](http://www.zipcar.com/) (car sharing
-  service). 5 people in a car only end up paying $15 each, don't need to pay for gas.
+  service). 5 people in a car only end up paying $15 each, don't need to pay for
+  gas.
 * [Ubers](http://uber.com): popular and stylish alternative to taxis.
   You get a private driver and payment is hassle free--they'll automatically
   charge the credit card you have on file (including tip).
-  You can request an Uber via SMS, or from their iPhone or Android app. The seats are extremely comfortable.
+  You can request an Uber via SMS, or from their iPhone or Android app. The
+  seats are extremely comfortable.
 
 #### Housing
-* [Paramount/SFO Housing](http://www.sfohousing.com/) has decent pricing (Park or
-  Herbert). The internet is slow. They are older buildings, and note that there are no kitchen facilities to use in Herbert.
+* [Paramount/SFO Housing](http://www.sfohousing.com/) has decent pricing (Park
+  or Herbert). The internet is slow. They are older buildings, and note that
+  there are no kitchen facilities to use in Herbert.
 
   * 2010F - Stephen has stayed at the Park. Liked it, would recommend
 
-* [Pacific Tradewinds](http://www.san-francisco-hostel.com/) is highly recommended by one intern who is adventurous and enjoyed living in hostel-like acommodations,
+* [Pacific Tradewinds](http://www.san-francisco-hostel.com/) is highly
+  recommended by one intern who is adventurous and enjoyed living in hostel-like
+  acommodations.
 
   * 2012W - Recommended by an intern. It's feels very home-y
     and undoubtedly a great place to meet technical folks and entrepreneurs.
 
-* If you would rather live in a more student-populated area, Berkeley is an option.
-The commute to the downtown area is 15-20 min, but is worth it if you want to meet people your age.
+* If you would rather live in a more student-populated area, Berkeley is an
+  option. The commute to the downtown area is 15-20 min, but is worth it if you
+  want to meet people your age.
 
 ### Food
 * If you are looking for cheap, delicious meals, head over to Chinatown.
@@ -672,6 +681,63 @@ Big boxes of dim sum for ~$4, bubble tea is only ~$2 (they call it boba)
 * Gilroy Premium Outlets is pretty awesome and worth a trip after your first
   paycheque
 
+#### Activites
+
+
+* [Helicopter Flying](http://verticalcfi.com/) Yes you get to control the
+  helicopter. No license or classes required. Ask for the introductory flight
+  lesson.
+* [Aerobatic Flying](http://www.aerodynamicaviation.com/store_gift_certificates.php)
+  Yes you get to fly the plane and make it do loops and stuff. No license or
+  classes required. Look for the gift certificate for aerobatic flying.
+* [Skydiving](http://www.santacruz-skydiving.com/) - Eric says it's much better
+  than the one near Toronto (he's done both). This one you fall for a full
+  minute and you land on the beach. Try and time for an hour or so before
+  sunset. He says it's awesome skydiving onto a beach while the sun sets.
+* [Paintballing](http://santaclarapaintball.com/) - They usually have good
+  groupon deals.
+* [Skeet shooting](http://www.coyoteclays.com/) - no license or classes required.
+* [Computer History Museum](http://www.yelp.com/biz/computer-history-museum-mountain-view)
+  You can easily spend a whole day here.
+* [Planet Granite](http://planetgranite.com/locations/sunnyvale/sv_faq.php) for
+  those who want to indoor rock climb
+* Stanford football game - Eric says they're just like the movies!
+
+#### Trips
+
+* Yosemite National Park
+  * Upper Yosemite falls is a long hike (4 hours) but its well worth the views.
+    Fairly popular route. Bring water and good shoes and be prepared to be tired.
+  * If you're willing to spend two days hiking, you can hike the famous half
+    dome.
+* Las Vegas
+  * Cirque de Soleil shows are a must.
+  * Grand Canyon if you have a day or two. Drive out is about 4 hours each way
+    however so be warned.
+  * Hoover Dam has a nice indoor tour where you get to see the generators and
+    water tunnels. Also a beautiful sight.
+  * Casinos and restaurants of course on the strip.
+
+* Hawaii (you will need at least four days to a week)
+  * One thing about Hawaii is you need to pick which island(s) you want to see.
+    They each specialize in different things.
+  * in Oahu:
+    * [Surfing](http://www.yelp.com/biz/waikiki-surf-lessons-honolulu)
+    * [Jet skiing](http://www.yelp.com/biz/aloha-jet-ski-rentals-honolulu#query:jet%20ski)!
+      You can drive up to 70-75km/h on these jet skis, and its right next to the
+      military airbase -so you can often see and hear F22 raptors flying over
+      your head. Makes for a pretty awesome experience
+    * [Beautiful view of Honolulu and the surrounding ocean](http://www.yelp.com/biz/diamond-head-state-monument-honolulu):
+      about a 20-30 minute hike up.
+  * on Big island:
+    * [Playing with molten lava](http://www.kalapanaculturaltours.com/)! The 
+      national park on the island is alright, but this tour company actual takes
+      you out to the lava fields and lets you get up close to molten lava. You
+      can even poke it with a stick if you want. One of the highlights of Eric's
+      Hawaii trip.
+    * [Driving an ATV in the Hawaiian forest](http://www.yelp.com/biz/atv-outfitters-hawaii-halaula-2)
+      - A pretty fun ATV driving adventure, and you get to see a couple of awesome waterfalls as well
+
 #### Cupertino
 
 Checkout the Valley Fair Mall and Santana Row. Valley Fair Mall is a typical
@@ -680,6 +746,18 @@ Creek has plenty of eatery's around. If you haven't tried California Pizza
 Kitchen, you have to go immediately. If you want to go clubbing you have to hit
 up SF or Mountain View.
 
+##### Malls/Shopping
+
+* [Valley Fair Mall](http://www.valleyfairmall.net)
+* [Santana Row](http://www.santanarow.com)
+* [Stanford Shopping Center](http://www.simon.com/mall/landing/841/)
+* AMC Theatre (North Wolfe Road)
+
+##### Restaurants
+
+* [California Pizza Kitchen](http://www.cpk.com) (there is one inside Valley
+  Fair Mall)
+* [Elephant Bar](http://www.elephantbar.com)
 * [Harumi Sushi](http://www.yelp.com/biz/harumi-sushi-cupertino)
 * [Gyu Kaku](http://www.yelp.com/biz/gyu-kaku-cupertino) for Japanese BBQ.
 * [Kong Tofu](http://www.yelp.com/biz/kong-tofu-and-bbq-korean-cuisine-cupertino)
@@ -694,18 +772,6 @@ up SF or Mountain View.
 * [Omee J](http://www.yelp.com/biz/omee-j-santa-clara-2) for sushi.
 * [Orenchi](http://www.yelp.com/biz/orenchi-ramen-santa-clara) for Ramen
   (long wait).
-
-##### Malls/Shopping
-
-* [Valley Fair Mall](http://www.valleyfairmall.net)
-* [Santana Row](http://www.santanarow.com)
-* [Stanford Shopping Center](http://www.simon.com/mall/landing/841/)
-* AMC Theatre (North Wolfe Road)
-
-##### Restaurants
-
-* [California Pizza Kitchen](http://www.cpk.com) (there is one inside Valley Fair Mall)
-* [Elephant Bar](http://www.elephantbar.com)
 
 ##### Beaches
 * [Santa Cruz Boardwalk](http://www.beachboardwalk.com)
@@ -733,8 +799,8 @@ up SF or Mountain View.
 ### San Diego
 
 #### Food
-* Stephen waited in the rain for 2 hours to eat at [Phil's BBQ](http://www.philsbbq.net/).
-  The ribs are amazing.
+* Stephen waited in the rain for 2 hours to eat at
+  [Phil's BBQ](http://www.philsbbq.net/). The ribs are amazing.
 
 
 <section id="Area-NYC" />
@@ -802,12 +868,16 @@ up SF or Mountain View.
 <section id="Area-Coopersburg-PA" />
 ### Coopersburg, PA
 * Driving/Bus is probably the easiest and cheapest way to get into PA from ON.
-* Bank of America is near Lutron campus and are experienced with dealing with international co-ops
+* Bank of America is near Lutron campus and are experienced with dealing with
+  international co-ops
 * Quiet town
 * Minimum necessities close by (food, convenience, pharmacy, bank).
-  Government related tasks (e.g. SSN application) have to be done in Allentown (20 min drive north).
-* Not much to do within walking distance. The area becomes more interesting with a car.
+  Government related tasks (e.g. SSN application) have to be done in Allentown
+  (20 min drive north).
+* Not much to do within walking distance. The area becomes more interesting with
+  a car.
 * "Nearby" towns/cities include: Philly, NYC
-* Plaza near BOA has decent food (Mex, Chinese, Italian, diner) and two large grocery stores (it's worth getting the "bonus cards")
+* Plaza near BOA has decent food (Mex, Chinese, Italian, diner) and two large
+  grocery stores (it's worth getting the "bonus cards")
 * [Musikfest](http://www.fest.org/), a popular free music festival during summer
 * Climate is similar to ON but slightly warmer on average
