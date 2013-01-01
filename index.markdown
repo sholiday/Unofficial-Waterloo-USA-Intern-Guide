@@ -526,7 +526,7 @@ Some people have had luck with this
 
 CECS has [some information][CECA-USIncomeTax] on taxes.
 Stephen used "Peter Cuttini" (contact info on Waterloo site) for his 2011 taxes.
-He's heard good things about him for co-op students. (Around $300).
+He's heard good things about him for co-op students (cost: around $300).
 Stephen was not very impressed with the work and will be likely doing them
 himself for 2012. He did them in 2011 and found them not much harder than
 discussing with your accountant.
@@ -538,7 +538,7 @@ Stephen used last tax year.
 
 The main question Stephen had was whether he had to pay taxes twice in both
 Canada and the U.S.. In his situation, Canada knew how much he was taxed in the U.S.
-and applied some formula to not tax him twice.
+and applied some formula to not tax him twice (covered in U.S. visa orientation).
 
 The IRS has a [good section][IRS-AlienExemptions] on how many exceptions you can
 claim.
@@ -558,19 +558,19 @@ claim.
   which are often open to students.
 * CECS runs a photo contest every term, one for US co-ops and one for
   international co-ops.
-  They encourage you to take pictures with other Waterloo co-ops and of the
-  places you visit.
-  They do have the right to use it for promotional purposes.
-  You get a certificate for participation as well as money for the top 3
-  winners. It's a good way to share your experiences and you might be up for
-  some money for grabs.
+  * They encourage you to take pictures with other Waterloo co-ops and of the
+    places you visit.
+  * They do have the right to use it for promotional purposes.
+  * You get a certificate for participation as well as money for the top 3
+    winners. It's a good way to share your experiences and you might be up for
+    some money for grabs.
 
 ---
 
 <section id="Area" />
 ## Area Specific Notes
 I've been to three main areas and will focus on info for those.
-If you are an intern and have more info let me know.
+If you are an intern and have more info let me know (areas edited appropriately).
 
 <section id="Area-California" />
 ### California (General)
@@ -817,29 +817,37 @@ up SF or Mountain View.
 <section id="Area-NYC" />
 ### New York City
 * Really expensive (not as much as California / Washington, but still) in general.
+
 * Paying first and last months rent plus one month of security is super common.
 * Brokers fees are usually 1 month rent, often more than you'd like.
   * Brokers fees are super negotiable - if you know how to play the game.
-* More scammers here than any other place encountered, see the place before you pay
+  
+* More scammers here than any other place encountered, always see the place before you pay.
 * Housing moves fast. We got an appointment to see a place, got on the subway
   right away and once we got out the place was already taken
   * Moral: Bring checks with you, that's how you secure a place
+
 * Don't live above 100th Street unless you aren't afraid of anything
 * Manhattan Costs Money - but the neighbourhood / conditions may be worth it.
 * Wall Street area is surprisingly dead in the evening.
+
 * Brooklyn is much cheaper, consider it (also scarier at night)
 * Middle of Brooklyn can be a little sketchier, but Bay Ridge is super beautiful
-* Get a MetroCard pass on your first day, $104/mo for unlimited travel is a
-  great deal
+
+* Get an MTA MetroCard pass when you arrive, $104/30-day for unlimited travel is a great deal.
+  * Best part of this is that it pays for itself after 40 rides.
+  
 * Trader Joe's is cheap
-* Chase bank is everywhere (also in Duane Reade)
-  * Get a Duane Reade Card
+* Chase Bank is literally everywhere (also in Duane Reade)
+* Get a Duane Reade Card
+
 * Watch your stuff on the subway, wallet in front, don't stare at people, etc.
 * Flying into LGA is cheaper, NJ transit is good, hard with two suitcases
   * If needed, take a taxi from LGA - but be prepared to pay ~$50 
     (which is average in rush hour).
-* Get an MTA MetroPass card for 30-day unlimited if you co-op in NYC.
-  * Best part of this is that it pays for itself after 40 rides.
+
+* There is literally a church after every block - these are more popular
+  to visit than Tim Horton's is in Canada (scary, huh?).
 
 #### Housing
 * Brooklyn (Bay Ridge) - 328 91st Street, Brooklyn (close to the subway).
@@ -855,6 +863,9 @@ up SF or Mountain View.
   Brooklyn area. ($5500/4mo/1person) -- Contrary to popular belief, this 
   residence accepts students from ALL universities, not just Brooklyn College.
   
+  * Michael Shao currently lives here. He'll update with more once the term
+    continues onwards (he's been there about a day).
+  
 * Manhattan - EHS might not be the best option - people consider it, 
   but remember that the minimum is $7500/term (which is for a triple room, plus
   you don't get to define the term). 
@@ -866,10 +877,12 @@ up SF or Mountain View.
   residence plus a full meal plan, except you don't even get fed here.
 
 #### Food
-* There are so many places to eat in NYC, try new stuff!
+* There are so many places to eat in NYC, be sure to try new stuff!
+
 * Halcart at 53rd and 6th is to die for.
   Make sure you go to the [right one](http://www.yelp.com/biz/53rd-and-6th-halal-cart-new-york).
   Get the hot sauce. There will be a line, it's worth it.
+  
 * Pizza - In NY it's a different kind of food. It's also highly contentious
   which place is best.
 
@@ -884,7 +897,9 @@ up SF or Mountain View.
 * [Fat Cat](http://www.fatcatmusic.org/) is a nice bar and has lots of pool
   tables, ping-pong tables and even scrabble. Prices are decent. Also allows
   people under 21 in before a certain time.
+  
 * [Dallas BBQ](http://www.dallasbbq.com/) is really good and has awesome prices.
+
 * [Carmines](http://carminesnyc.com/) is family style (gigantic plates) Italian
   food and really tasty. Pretty busy.
 
@@ -892,7 +907,7 @@ up SF or Mountain View.
 * [Kayak on the river](http://www.downtownboathouse.org/) for free!
 * The [American Museum of Natural History](http://www.amnh.org/) is large and
   fun!
-* Go to a comedy club.
+* Go to a comedy club (no suggestions on where yet, though).
 
 <section id="Area-Coopersburg-PA" />
 ### Coopersburg, PA
