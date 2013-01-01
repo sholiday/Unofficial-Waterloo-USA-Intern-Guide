@@ -22,12 +22,12 @@ title: Unofficial Waterloo USA Intern Guide
 
 **This document is unofficial and not endorsed by the University of Waterloo or any prospective employers.**
 
-None of the included writers are lawyers or tax specialists, nor do we purport to have any real knowledge
-about the contents of this document.
+None of the included writers are lawyers or tax specialists, nor do any of us purport
+to have any real knowledge about the contents of this document.
 
-This is a collection of things we wished we knew when we went away on our first
-co-op terms in the US. We hope it helps you out. Many things contained in this
-document were gained through mistakes and conversations with older students.
+This is a collection of things we as interns wished we knew when we went away 
+on our first co-op terms in the US. We hope it helps you out. Many things contained in this
+document were gained through mistakes made, as well as conversations with older students.
 
 If you are a past intern and have thoughts/ideas to add to this document,
 [let me know](mailto:stephen.holiday@gmail.com). Even better submit a pull
@@ -74,27 +74,29 @@ Some of us have done it without trouble successfully.
 ### Pay
 Ask about the pay in the interview; there is no reason not to. If they tell you that they offer
 '*competitive pay*' ask them exactly what the rate is in an email before you accept their offer.
-'*Competitive pay*' can range from $25/hr - $45/hr with or without housing and
-plane tickets.
+'*Competitive pay*' can range from $25/hr - $45/hr with or without housing and transportation.
 
 <section id="Jobs-Relocation" />
 ### Relocation
-Ask if they offer any help in terms of relocation.
+Ask if they offer any help in terms of relocation compensation - and if so, how much.
 
 Many companies offer a housing stipend (a bit of money, often taxable).
 Some will offer to put you up in subsidized or free housing (Amazon, Apple etc).
-Note that in some cases, if they offer, you don't HAVE to take it, and that stipulations
-could exist (Microsoft - $3300 vs. corporate housing)
+Note that in some cases, if they offer, you don't HAVE to take it, and that 
+stipulations for accepting this alternateive could exist 
+(Example: Microsoft gives interns $3300/term vs. you-have-to-pay-for corporate housing)
 
-Ask if they cover flight. If you are going to San Francisco, $500-750 round trip
-after tax as a guide. New York is a lot cheaper - $180 for a one-way trip during a
-seat sale. As for most flights, book well in advance (the visa office tells you not 
-to in an orientation session for first-time USA interns, but some writers can vouch against this. 
-Seat sales trump any "waiting period".)
+Ask if they cover transportation costs. If you are going to San Francisco, 
+Flights can cost roughly $500-750 round trip after tax. 
+New York is a lot cheaper - $180 for a one-way trip during a seat sale with Air Canada. 
+As for most flights, book well in advance (the visa office tells you not to 
+in an orientation session for first-time USA interns, but some writers can vouch against this. 
+Seat sales should trump any "waiting period".)
 
 Some people prefer spending a few days in a hotel at their company's expense
 as they wrap-up apartment search (as making housing decisions while still in
-Canada can be risky).
+Canada can be risky). The general consensus is that you should see the place
+before deciding if you will live there - MAKE SURE TO BRING CHEQUE/CASH WITH YOU.
 
 Sometimes stipends are large, sometimes they are not. If you're not sure, assume
 that your stipend will be taxed at ~26% in California. We've heard you can get
@@ -119,7 +121,7 @@ It's worth checking out. Ask past interns, ask the interviewer, or do your own r
 Once you have your offer, e-mail your recruiter to get all the details about pay
 and start date. It is useful for the visa. Also be sure to ask who is picking 
 up the J-1 visa expenses. These are tough to take on alone (~$1000), so 
-try to get it covered if at al possible.
+try to get it covered by your employer if at all possible.
 
 CECS and CDS/AIPT (now Cultural Vistas) will guide you through the process.
 
@@ -139,22 +141,22 @@ Don't call it a "job" or say you are "working"! The J-1 visa status is not meant
 "working", but rather for "training" in the United States. Remember, you're just
 a poor little intern *training* in the United States!
 
-Some intern prefer keeping all the above as a digital copy in my Dropbox/Google Docs so
+Some interns prefer keeping all the above as a digital copy in their Dropbox/Google Docs so
 they have instant access to them just in case they lose anything.
 
 If you are a US citizen, some of the above do not apply to you.
-Make sure you have your US passport, health insurance card, and boarding pass.
+Make sure you have your U.S. passport, health insurance card, and boarding pass.
 
 <section id="Paperwork-SSN" />
 ### Getting your SSN
-Apply for your SSN as soon as you have been in the US for at least *10 days*. It
+Apply for your SSN as soon as you have been in the U.S. for at least *10 days*. It
 takes 10 days for SEVIS to sync up with the SSA's database of people eligible to
 apply for a social security number. Yes, you have to wait for them to copy by
 hand and deliver the data by pidgeon. If you apply early, they'll lie to you
 that it will be okay if you do it, but it will not work and you will just have
 to try again later.
 
-Some people have entered the US ahead of time by driving to Buffalo or Detroit.
+Some people have entered the U.S. ahead of time by driving to Buffalo or Detroit.
 They enter on their J-1 to to get the SEVIS wait process started as well as get
 a cell phone or bank account. Keep in mind that the immigration center in
 Buffalo can take an hour and a half.
@@ -209,7 +211,7 @@ would be a good roommate for your style.
 * 4-month leases are harder to come by than Waterloo
 * Paying the first months rent in full by certified check is common
 * Bring enough money for first month's rent and security
-* Cashing a Canadian cheque in the US takes a long time (even if it's a USD
+* Cashing a Canadian cheque in the U.S. takes a long time (even if it's a U.S.D.
   account)--cash is recommended
 * Sometimes you can get your stipend ahead of time if you already have an
   American bank account. Note that if you get your stipend in December for
@@ -349,7 +351,7 @@ Note: Some banks have a savings account.
 You may not want one for several reasons:
 
 * There may be a minimum balance after 6 months
-* Having interest income in the US can complicate taxes (not an expert)
+* Having interest income in the U.S. can complicate taxes (not an expert)
 
 Choosing a Bank is up to you and your preferences.
 Stephen suggests you stick to one of:
@@ -377,8 +379,8 @@ You will *not* need a SSN to open an account at the three listed banks.
 Bring your passport and visa. You don't even need a permanent address.
 Some have had luck with using their hotel's or their company's.
 
-Stephen's always kept a US bank account open.
-It's super useful to have. If you come back to the US again you're all setup.
+Stephen's always kept a U.S. bank account open.
+It's super useful to have. If you come back to the U.S. again you're all setup.
 If you travel you can get cash easy. If you want to buy stuff online it's great.
 
 Eric says that keeping your bank account open is also great for getting credit
@@ -398,19 +400,19 @@ fee. Note, xe.com will likely get you a better rate. But the following method is
 very flexible. This method worked out pretty well for Prashanth: 
 
 1. Open a U.S Bank Account with your Canadian Bank (Prashanth used TD but
-   recommend RBC, RBC has a US branch as well though none in California) 
-2. Transfer some money to this account to last you for a few weeks in US
-3. Get a US Dollar Credit Card from Canada and use this for initial spending.
+   recommend RBC, RBC has a U.S. branch as well though none in California) 
+2. Transfer some money to this account to last you for a few weeks in U.S.
+3. Get a U.S. Dollar Credit Card from Canada and use this for initial spending.
    If you are not eligible, you can ask your parents to open it for you and a
    get a credit card in your name. You can use this card until you have money
-   in your US account.
-4. Open a US Bank account in either Chase, BOA, Wells Fargo.
+   in your U.S. account.
+4. Open a U.S. Bank account at either Chase, Bank of America, Wells Fargo.
 
 <section id="Money-Credit" />
 ### Credit Cards
 One thing that many try to do right away is get a credit card.
 
-Getting credit in the US can be tricky. Especially if you are under 21.
+Getting credit in the U.S. can be tricky; especially if you are under 21.
 
 Keep in mind that instead of Interac for debit cards, all American debit cards
 (also known as "check cards") are actually VISA/MasterCard cards. You can use
@@ -426,7 +428,7 @@ Really tough if you are under 21.
 
 Eric would like to stress the importance of getting a credit card and building
 credit history in the States. It's expecially useful if you plan to move to the
-US after you graduate.
+U.S. after you graduate.
 
 There are some
 [things to consider](http://www.mint.com/blog/how-to/10-credit-score-commandments/)
@@ -448,7 +450,7 @@ Eric says the following about BoA's credit policy:
 This worked for an 18 year old guy with two credit cards in good standing back
 in Canada. Apply for the card at the branch in person. When asked for your
 information, inform them that you would like to request a Canadian credit bureau
-check to augment your US credit bureau reports (especially important if it's
+check to augment your U.S. credit bureau reports (especially important if it's
 your first work term in the States). If the representative is knowledgeable,
 they will process the credit card application normally and then will ask you to
 call a number (or call for you on your behalf) about 24-48 hours later
@@ -484,12 +486,12 @@ Some more tame ways:
 * Using your family member who works at a bank and gets currency exchanged at
   cost (We're told this is the best possible)
 
-If you end up with American funds in Canada, Stephen recommends opening a US
+If you end up with American funds in Canada, Stephen recommends opening a U.S.
 dollar account and convert it over time so you don't get bit by the exchange
-rate. You can use xe.com even with a USD account in Canada.
+rate. You can use xe.com even with a U.S.D. account in Canada.
 
-Stephen also keeps some USD funds in a USD TD account in Canada so he can get
-small bills and sell USD to family without a spread.
+Stephen also keeps some U.S.D. funds in a U.S.D. TD account in Canada so he can get
+small bills and sell U.S.D. to family without a spread.
 
 Stephen sucks at playing the market so he just transfer money over ~$1k at a
 time to try and even out my loss/gain. Stephen and Chris love xe.com's bid
@@ -512,7 +514,7 @@ Sadly you will have to pay taxes on your hard-earned income. Chances are you
 already paid the American ones in your paycheque. Depending on your State and
 situation you will end up receiving much (50% is not unreasonable) of that back.
 You may owe money in Canada. You definitely have to fill out both Canadian
-Federal and Provincial forms as well as US Federal and State.
+Federal and Provincial forms as well as U.S. Federal and State.
 
 It's not to hard to fill them out yourself but it's fairly annoying.
 Make sure you file with your Canadian address as your home address.
@@ -531,11 +533,11 @@ discussing with your accountant.
 
 H&R Block will also do it for around $300.
 
-There are short versions of US forms for non-residents (you may not apply) which
+There are short versions of U.S. forms for non-residents (you may not apply) which
 Stephen used last tax year.
 
 The main question Stephen had was whether he had to pay taxes twice in both
-Canada and the US. In his situation, Canada knew how much he was taxed in the US
+Canada and the U.S.. In his situation, Canada knew how much he was taxed in the U.S.
 and applied some formula to not tax him twice.
 
 The IRS has a [good section][IRS-AlienExemptions] on how many exceptions you can
