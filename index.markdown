@@ -816,27 +816,30 @@ up SF or Mountain View.
 
 <section id="Area-NYC" />
 ### New York City
-* Really expensive
+* Really expensive (not as much as California / Washington, but still) in general.
 * Paying first and last months rent plus one month of security is super common.
 * Brokers fees are usually 1 month rent, often more than you'd like.
-* Brokers fees are super negotiable
-* More scammers here than any other place I encountered, see the place before
-  you pay
+  * Brokers fees are super negotiable - if you know how to play the game.
+* More scammers here than any other place encountered, see the place before you pay
 * Housing moves fast. We got an appointment to see a place, got on the subway
   right away and once we got out the place was already taken
-* Bring checks with you, that's how you secure a place
+  * Moral: Bring checks with you, that's how you secure a place
 * Don't live above 100th Street unless you aren't afraid of anything
-* Manhattan Costs Money
-* Wall street area is surprisingly dead in the evening
-* Brooklyn is much cheaper, consider it
+* Manhattan Costs Money - but the neighbourhood / conditions may be worth it.
+* Wall Street area is surprisingly dead in the evening.
+* Brooklyn is much cheaper, consider it (also scarier at night)
 * Middle of Brooklyn can be a little sketchier, but Bay Ridge is super beautiful
 * Get a MetroCard pass on your first day, $104/mo for unlimited travel is a
   great deal
 * Trader Joe's is cheap
 * Chase bank is everywhere (also in Duane Reade)
-* Get a Duane Reade Card
-* Watch your stuff on the subway, wallet in front and all that stuff
+  * Get a Duane Reade Card
+* Watch your stuff on the subway, wallet in front, don't stare at people, etc.
 * Flying into LGA is cheaper, NJ transit is good, hard with two suitcases
+  * If needed, take a taxi from LGA - but be prepared to pay ~$50 
+    (which is average in rush hour).
+* Get an MTA MetroPass card for 30-day unlimited if you co-op in NYC.
+  * Best part of this is that it pays for itself after 40 rides.
 
 #### Housing
 * Brooklyn (Bay Ridge) - 328 91st Street, Brooklyn (close to the subway).
@@ -846,6 +849,21 @@ up SF or Mountain View.
   * 2011S - Stephen - It was fully furnished for $1900/month, 2 bedrooms,
     large kitchen and a pullout bed in the living room. Stayed for 1 month while
     looking for apartments in Manhattan.
+
+* Residence Hall @ Brooklyn College - 1 Kenilworth Place. Cost was steep, but
+  close to subway and other cool places like Target. Literally centre of the
+  Brooklyn area. ($5500/4mo/1person) -- Contrary to popular belief, this 
+  residence accepts students from ALL universities, not just Brooklyn College.
+  
+* Manhattan - EHS might not be the best option - people consider it, 
+  but remember that the minimum is $7500/term (which is for a triple room, plus
+  you don't get to define the term). 
+  
+* U.S. schools operate on an entirely different (and unforgiving) schedule than
+  those in Canada (and especially Waterloo). This place (as well as 
+  University Place NY - but that place is just a dump in general) is probably
+  not worth your time or your money, as it's as expensive as a Waterloo on-campus
+  residence plus a full meal plan, except you don't even get fed here.
 
 #### Food
 * There are so many places to eat in NYC, try new stuff!
