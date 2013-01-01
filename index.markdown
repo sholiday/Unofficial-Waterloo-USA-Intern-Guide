@@ -20,9 +20,10 @@ title: Unofficial Waterloo USA Intern Guide
 <section id="Introduction" />
 ## Introduction
 
-**This document is unofficial and not endorsed by my school or employers.**
+**This document is unofficial and not endorsed by the University of Waterloo or any prospective employers.**
 
-We're not lawyers, tax specialists nor do we purport to have any real knowledge.
+None of the included writers are lawyers or tax specialists, nor do we purport to have any real knowledge
+about the contents of this document.
 
 This is a collection of things we wished we knew when we went away on our first
 co-op terms in the US. We hope it helps you out. Many things contained in this
@@ -41,6 +42,7 @@ request. I'll note you if you want to be noted.
 * [Edward Sun](http://www.edwardsun.com)
 * [Elisa Lou](http://aimango.wordpress.com/)
 * [Eric Yam](http://www.ericyam.com)
+* [Michael Shao](http://michaelshao.com)
 * [Michael Truong](http://www.linkedin.com/in/truongmichael)
 * [Nansen Lin](http://www.linkedin.com/pub/nansen-lin/28/6b4/92a)
 * [Prashanth Madhi](http://ece.uwaterloo.ca/~pmadhiya)
@@ -61,7 +63,7 @@ For many, the JobMine process is familiar so we won't speak about that.
 You probably know how to get a job.
 
 Something to note is that many companies in the US (particularly California) are
-much more laid back and don't care if you wear a suit or not. Depends on the
+much more laid back and do not care if you wear a suit or not. Depends on the
 company. We suit up for Morgan Stanley but not Facebook.
 
 CECS says not to do US in your first year. Even if you only have 4 months of
@@ -70,8 +72,8 @@ Some of us have done it without trouble successfully.
 
 <section id="Jobs-Pay" />
 ### Pay
-Ask the pay in the interview. There is no reason not too. If they give you some
-'*competitive pay*' ask them in an email before you accept their offer.
+Ask about the pay in the interview; there is no reason not to. If they tell you that they offer
+'*competitive pay*' ask them exactly what the rate is in an email before you accept their offer.
 '*Competitive pay*' can range from $25/hr - $45/hr with or without housing and
 plane tickets.
 
@@ -80,10 +82,15 @@ plane tickets.
 Ask if they offer any help in terms of relocation.
 
 Many companies offer a housing stipend (a bit of money, often taxable).
-Some will put you up in subsidized or free housing (Amazon, Apple etc).
+Some will offer to put you up in subsidized or free housing (Amazon, Apple etc).
+Note that in some cases, if they offer, you don't HAVE to take it, and that stipulations
+could exist (Microsoft - $3300 vs. corporate housing)
 
 Ask if they cover flight. If you are going to San Francisco, $500-750 round trip
-after tax as a guide. New York is a lot cheaper.
+after tax as a guide. New York is a lot cheaper - $180 for a one-way trip during a
+seat sale. As for most flights, book well in advance (the visa office tells you not 
+to in an orientation session for first-time USA interns, but some writers can vouch against this. 
+Seat sales trump any "waiting period".)
 
 Some people prefer spending a few days in a hotel at their company's expense
 as they wrap-up apartment search (as making housing decisions while still in
@@ -91,7 +98,7 @@ Canada can be risky).
 
 Sometimes stipends are large, sometimes they are not. If you're not sure, assume
 that your stipend will be taxed at ~26% in California. We've heard you can get
-much of it back if you save your receipts, something to look into.
+much of it back if you save your receipts; something to look into.
 
 We recommend working at a place that covers some part of your housing,
 unless you have the financial ability to not care.
@@ -101,7 +108,7 @@ unless you have the financial ability to not care.
 Some companies have cool perks like food, bikes, transit passes, happy hour,
 snacks, game rooms, pool tables, ping pong, fooseball, etc.
 
-It's worth checking out.
+It's worth checking out. Ask past interns, ask the interviewer, or do your own research!
 
 ---
 
@@ -109,8 +116,10 @@ It's worth checking out.
 ## Paperwork
 <section id="Paperwork-J1Visa" />
 ### J-1 Visa
-Once you have your offer, email your recruiter to get all the details about pay
-and start date. Its useful for the visa.
+Once you have your offer, e-mail your recruiter to get all the details about pay
+and start date. It is useful for the visa. Also be sure to ask who is picking 
+up the J-1 visa expenses. These are tough to take on alone (~$1000), so 
+try to get it covered if at al possible.
 
 CECS and CDS/AIPT (now Cultural Vistas) will guide you through the process.
 
@@ -126,12 +135,12 @@ Have a second (or third) copy of all travel documents:
 6. Map surrounding hotel/apartment
 7. Boarding pass
 
-Don't call it a job or say you are working! The J1 visa status is not meant for
+Don't call it a "job" or say you are "working"! The J-1 visa status is not meant for
 "working", but rather for "training" in the United States. Remember, you're just
 a poor little intern *training* in the United States!
 
-Some prefer keeping all the above as a digital copy in my Dropbox/Google Docs so
-they have instant access to them just in case I lose anything.
+Some intern prefer keeping all the above as a digital copy in my Dropbox/Google Docs so
+they have instant access to them just in case they lose anything.
 
 If you are a US citizen, some of the above do not apply to you.
 Make sure you have your US passport, health insurance card, and boarding pass.
@@ -146,7 +155,7 @@ that it will be okay if you do it, but it will not work and you will just have
 to try again later.
 
 Some people have entered the US ahead of time by driving to Buffalo or Detroit.
-They enter on their J1 to to get the SEVIS wait process started as well as get
+They enter on their J-1 to to get the SEVIS wait process started as well as get
 a cell phone or bank account. Keep in mind that the immigration center in
 Buffalo can take an hour and a half.
 
