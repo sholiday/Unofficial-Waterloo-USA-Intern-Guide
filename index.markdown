@@ -212,18 +212,18 @@ would be a good roommate for your style.
 * Paying the first months rent in full by certified check is common
 * Bring enough money for first month's rent and security
 * Cashing a Canadian cheque in the U.S. takes a long time (even if it's a U.S.D.
-  account)--cash is recommended
+  account)--cash is still the preferred method of choice for payments
 * Sometimes you can get your stipend ahead of time if you already have an
   American bank account. Note that if you get your stipend in December for
   a winter work term, you'll have to do taxes during your work term for the
   stipend money.
-* Use CECS's hot housing leads
-* Ask your company to ask current interns where they are living and any
+* Use CECS's hot housing leads (if they apply for your city)
+* Ask your company to ask current interns where they are living and what
   recommendations they have
 * Check the Area Specific notes for specific recommendations
 * There are "hotels" with weekly rates lower than renting an apartment
-* Some places are very low tech, so, if looking for a hotel, you are best
-  off walking around the area and asking every hotel about their rates.
+* Some places are very low tech, so, if looking for a hotel, the best option
+  is to just walk around the area and ask every hotel about their long-term rates.
 
 *Vacation Rentals* or *Corporate Housing* work well for our 4-month terms.
 Some websites I've used are:
@@ -257,7 +257,7 @@ Getting data for your smartphone is a lot easier than a BlackBerry.
 If you have an unlocked phone, it's really easy. You can get a plan with a sim
 card, pop it in, and walk out of the store Facebooking up a storm.
 
-We think T-Mobile and AT&T both offer options in this arena.
+T-Mobile and AT&T both offer options in this arena.
 
 Simple mobile is also very good if you don't care about data speeds. They have
 a fixed price, pay up front, no hidden fees. We've never had problems
@@ -297,6 +297,34 @@ immediately. Since they are not a big carrier most phones, e.g. iPhone, do not
 have the APN settings built in for data. The package you receive contains the
 APN settings you need. You will need to figure out how to set the settings for
 your phone.
+
+##### Roam Mobility
+
+[Roam Mobility](http://www.roammobility.com/) is another option if L/D is a 
+concern and you don't want to use Google Voice or another "alternative". 
+As of 2012, this company offers U.S. "roaming" service for $62/mo. It
+is "all-inclusive"; you get unlimited talk/text between the U.S. and Canada,
+and you get 2GB of data per month on top of that. You also get all of the same
+"bonus" features as T-Mobile, Sprint, or AT&T offer: Voicemail & Caller ID.
+
+Michael wishes Roam had service in Canada; he'd replace Bell in a heartbeat.
+You order a micro-SIM card from their SIM, which gets delivered to you.
+After activating it, you can add one-month plans (or however long you want,
+but one-month is the highest "discount rate" they offer).
+
+This company gives you an American number automatically when you register
+the SIM card, so you don't need to worry about porting over your old number.
+It works in any GSM-unlocked phone - Michael recommends the SGS2 (Samsung
+Galaxy S2) as it is the easiest to unlock (via software + Root); iPhones
+and other choices of smartphone are not as easily unlock-able, and thus
+the user pays more to unlock these "globalized" features of using their 
+phone on alternate carriers.
+
+In the end, the onus is on the user to do as much research as possible
+before selecting a carrier. Roam is easily the best for those who want
+to keep in contact with their American friends, while still being able
+to keep in touch with family or friends back home on the same device. 
+Offering data as well for $1/GB/mo is a ridiculously nice add-on, as well.
 
 <section id="Living-CellService-BlackBerry" />
 #### BlackBerry
@@ -341,6 +369,16 @@ proxying.
 
 <section id="Money" />
 ## Money
+
+As stated previously, be sure to bring at least $3,000 U.S.D. with you if you
+have not signed a lease or have a confirmed place to stay for the duration of 
+your internship. While the customs agent nor the visa provider check this, it
+is adviseable since you only have a small allotment amount of travel material
+that you can take with you on any flight (Porter offers one free bag, but some
+go with Air Canada for the more major airports and frequent service).
+
+Expect to spend $200 U.S.D. on arrival for food and other "move-in" material.
+
 <section id="Money-Banks" />
 ### Banks
 You'll want to do this as soon as you can, you can do this without an SSN.
@@ -356,14 +394,16 @@ You may not want one for several reasons:
 Choosing a Bank is up to you and your preferences.
 Stephen suggests you stick to one of:
 
-* Chase
+* Chase Bank (owned by J.P. Morgan and Chase)
 * Bank of America
 * Wells Fargo
 
-If you are in NY Chase is the one to open.
-There are so many Chase branches and ATMs.
-Several people have been told that Chase is pretty conservative when it
-comes to giving credit cards to "new Americans".
+If you are in NYC Chase is definitely the one to open.
+(There are literally as many Chase branches and ATMs as there are Tim Hortons
+in Canada.) Several people have been told that Chase is fairly conservative 
+when it comes to giving credit cards to "new Americans".
+(Banks in Canada like Bank of Montreal offer U.S.D. MasterCards, be sure to
+pick one up either on your own or from your parents to ensure you have capital!)
 
 Bank of America is pretty good in the SF/Bay Area.
 Chase is OK there too. They also have many branches there - and they are
