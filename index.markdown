@@ -20,13 +20,14 @@ title: Unofficial Waterloo USA Intern Guide
 <section id="Introduction" />
 ## Introduction
 
-**This document is unofficial and not endorsed by my school or employers.**
+**This document is unofficial and not endorsed by the University of Waterloo or any prospective employers.**
 
-We're not lawyers, tax specialists nor do we purport to have any real knowledge.
+None of the included writers are lawyers or tax specialists, nor do any of us purport
+to have any real knowledge about the contents of this document.
 
-This is a collection of things we wished we knew when we went away on our first
-co-op terms in the US. We hope it helps you out. Many things contained in this
-document were gained through mistakes and conversations with older students.
+This is a collection of things we as interns wished we knew when we went away 
+on our first co-op terms in the US. We hope it helps you out. Many things contained in this
+document were gained through mistakes made, as well as conversations with older students.
 
 If you are a past intern and have thoughts/ideas to add to this document,
 [let me know](mailto:stephen.holiday@gmail.com). Even better submit a pull
@@ -41,6 +42,7 @@ request. I'll note you if you want to be noted.
 * [Edward Sun](http://www.edwardsun.com)
 * [Elisa Lou](http://aimango.wordpress.com/)
 * [Eric Yam](http://www.ericyam.com)
+* [Michael Shao](http://michaelshao.com)
 * [Michael Truong](http://www.linkedin.com/in/truongmichael)
 * [Nansen Lin](http://www.linkedin.com/pub/nansen-lin/28/6b4/92a)
 * [Prashanth Madhi](http://ece.uwaterloo.ca/~pmadhiya)
@@ -61,7 +63,7 @@ For many, the JobMine process is familiar so we won't speak about that.
 You probably know how to get a job.
 
 Something to note is that many companies in the US (particularly California) are
-much more laid back and don't care if you wear a suit or not. Depends on the
+much more laid back and do not care if you wear a suit or not. Depends on the
 company. We suit up for Morgan Stanley but not Facebook.
 
 CECS says not to do US in your first year. Even if you only have 4 months of
@@ -70,28 +72,35 @@ Some of us have done it without trouble successfully.
 
 <section id="Jobs-Pay" />
 ### Pay
-Ask the pay in the interview. There is no reason not too. If they give you some
-'*competitive pay*' ask them in an email before you accept their offer.
-'*Competitive pay*' can range from $25/hr - $45/hr with or without housing and
-plane tickets.
+Ask about the pay in the interview; there is no reason not to. If they tell you that they offer
+'*competitive pay*' ask them exactly what the rate is in an email before you accept their offer.
+'*Competitive pay*' can range from $25/hr - $45/hr with or without housing and transportation.
 
 <section id="Jobs-Relocation" />
 ### Relocation
-Ask if they offer any help in terms of relocation.
+Ask if they offer any help in terms of relocation compensation - and if so, how much.
 
 Many companies offer a housing stipend (a bit of money, often taxable).
-Some will put you up in subsidized or free housing (Amazon, Apple etc).
+Some will offer to put you up in subsidized or free housing (Amazon, Apple etc).
+Note that in some cases, if they offer, you don't HAVE to take it, and that 
+stipulations for accepting this alternateive could exist 
+(Example: Microsoft gives interns $3300/term vs. you-have-to-pay-for corporate housing)
 
-Ask if they cover flight. If you are going to San Francisco, $500-750 round trip
-after tax as a guide. New York is a lot cheaper.
+Ask if they cover transportation costs. If you are going to San Francisco, 
+Flights can cost roughly $500-750 round trip after tax. 
+New York is a lot cheaper - $180 for a one-way trip during a seat sale with Air Canada. 
+As for most flights, book well in advance (the visa office tells you not to 
+in an orientation session for first-time USA interns, but some writers can vouch against this. 
+Seat sales should trump any "waiting period".)
 
 Some people prefer spending a few days in a hotel at their company's expense
 as they wrap-up apartment search (as making housing decisions while still in
-Canada can be risky).
+Canada can be risky). The general consensus is that you should see the place
+before deciding if you will live there - MAKE SURE TO BRING CHEQUE/CASH WITH YOU.
 
 Sometimes stipends are large, sometimes they are not. If you're not sure, assume
 that your stipend will be taxed at ~26% in California. We've heard you can get
-much of it back if you save your receipts, something to look into.
+much of it back if you save your receipts; something to look into.
 
 We recommend working at a place that covers some part of your housing,
 unless you have the financial ability to not care.
@@ -101,7 +110,7 @@ unless you have the financial ability to not care.
 Some companies have cool perks like food, bikes, transit passes, happy hour,
 snacks, game rooms, pool tables, ping pong, fooseball, etc.
 
-It's worth checking out.
+It's worth checking out. Ask past interns, ask the interviewer, or do your own research!
 
 ---
 
@@ -109,8 +118,10 @@ It's worth checking out.
 ## Paperwork
 <section id="Paperwork-J1Visa" />
 ### J-1 Visa
-Once you have your offer, email your recruiter to get all the details about pay
-and start date. Its useful for the visa.
+Once you have your offer, e-mail your recruiter to get all the details about pay
+and start date. It is useful for the visa. Also be sure to ask who is picking 
+up the J-1 visa expenses. These are tough to take on alone (~$1000), so 
+try to get it covered by your employer if at all possible.
 
 CECS and CDS/AIPT (now Cultural Vistas) will guide you through the process.
 
@@ -126,27 +137,27 @@ Have a second (or third) copy of all travel documents:
 6. Map surrounding hotel/apartment
 7. Boarding pass
 
-Don't call it a job or say you are working! The J1 visa status is not meant for
+Don't call it a "job" or say you are "working"! The J-1 visa status is not meant for
 "working", but rather for "training" in the United States. Remember, you're just
 a poor little intern *training* in the United States!
 
-Some prefer keeping all the above as a digital copy in my Dropbox/Google Docs so
-they have instant access to them just in case I lose anything.
+Some interns prefer keeping all the above as a digital copy in their Dropbox/Google Docs so
+they have instant access to them just in case they lose anything.
 
 If you are a US citizen, some of the above do not apply to you.
-Make sure you have your US passport, health insurance card, and boarding pass.
+Make sure you have your U.S. passport, health insurance card, and boarding pass.
 
 <section id="Paperwork-SSN" />
 ### Getting your SSN
-Apply for your SSN as soon as you have been in the US for at least *10 days*. It
+Apply for your SSN as soon as you have been in the U.S. for at least *10 days*. It
 takes 10 days for SEVIS to sync up with the SSA's database of people eligible to
 apply for a social security number. Yes, you have to wait for them to copy by
 hand and deliver the data by pidgeon. If you apply early, they'll lie to you
 that it will be okay if you do it, but it will not work and you will just have
 to try again later.
 
-Some people have entered the US ahead of time by driving to Buffalo or Detroit.
-They enter on their J1 to to get the SEVIS wait process started as well as get
+Some people have entered the U.S. ahead of time by driving to Buffalo or Detroit.
+They enter on their J-1 to to get the SEVIS wait process started as well as get
 a cell phone or bank account. Keep in mind that the immigration center in
 Buffalo can take an hour and a half.
 
@@ -200,19 +211,19 @@ would be a good roommate for your style.
 * 4-month leases are harder to come by than Waterloo
 * Paying the first months rent in full by certified check is common
 * Bring enough money for first month's rent and security
-* Cashing a Canadian cheque in the US takes a long time (even if it's a USD
-  account)--cash is recommended
+* Cashing a Canadian cheque in the U.S. takes a long time (even if it's a U.S.D.
+  account)--cash is still the preferred method of choice for payments
 * Sometimes you can get your stipend ahead of time if you already have an
   American bank account. Note that if you get your stipend in December for
   a winter work term, you'll have to do taxes during your work term for the
   stipend money.
-* Use CECS's hot housing leads
-* Ask your company to ask current interns where they are living and any
+* Use CECS's hot housing leads (if they apply for your city)
+* Ask your company to ask current interns where they are living and what
   recommendations they have
 * Check the Area Specific notes for specific recommendations
 * There are "hotels" with weekly rates lower than renting an apartment
-* Some places are very low tech, so, if looking for a hotel, you are best
-  off walking around the area and asking every hotel about their rates.
+* Some places are very low tech, so, if looking for a hotel, the best option
+  is to just walk around the area and ask every hotel about their long-term rates.
 
 *Vacation Rentals* or *Corporate Housing* work well for our 4-month terms.
 Some websites I've used are:
@@ -246,7 +257,7 @@ Getting data for your smartphone is a lot easier than a BlackBerry.
 If you have an unlocked phone, it's really easy. You can get a plan with a sim
 card, pop it in, and walk out of the store Facebooking up a storm.
 
-We think T-Mobile and AT&T both offer options in this arena.
+T-Mobile and AT&T both offer options in this arena.
 
 Simple mobile is also very good if you don't care about data speeds. They have
 a fixed price, pay up front, no hidden fees. We've never had problems
@@ -286,6 +297,34 @@ immediately. Since they are not a big carrier most phones, e.g. iPhone, do not
 have the APN settings built in for data. The package you receive contains the
 APN settings you need. You will need to figure out how to set the settings for
 your phone.
+
+##### Roam Mobility
+
+[Roam Mobility](http://www.roammobility.com/) is another option if L/D is a 
+concern and you don't want to use Google Voice or another "alternative". 
+As of 2012, this company offers U.S. "roaming" service for $62/mo. It
+is "all-inclusive"; you get unlimited talk/text between the U.S. and Canada,
+and you get 2GB of data per month on top of that. You also get all of the same
+"bonus" features as T-Mobile, Sprint, or AT&T offer: Voicemail & Caller ID.
+
+Michael wishes Roam had service in Canada; he'd replace Bell in a heartbeat.
+You order a micro-SIM card from their SIM, which gets delivered to you.
+After activating it, you can add one-month plans (or however long you want,
+but one-month is the highest "discount rate" they offer).
+
+This company gives you an American number automatically when you register
+the SIM card, so you don't need to worry about porting over your old number.
+It works in any GSM-unlocked phone - Michael recommends the SGS2 (Samsung
+Galaxy S2) as it is the easiest to unlock (via software + Root); iPhones
+and other choices of smartphone are not as easily unlock-able, and thus
+the user pays more to unlock these "globalized" features of using their 
+phone on alternate carriers.
+
+In the end, the onus is on the user to do as much research as possible
+before selecting a carrier. Roam is easily the best for those who want
+to keep in contact with their American friends, while still being able
+to keep in touch with family or friends back home on the same device. 
+Offering data as well for $1/GB/mo is a ridiculously nice add-on, as well.
 
 <section id="Living-CellService-BlackBerry" />
 #### BlackBerry
@@ -330,6 +369,16 @@ proxying.
 
 <section id="Money" />
 ## Money
+
+As stated previously, be sure to bring at least $3,000 U.S.D. with you if you
+have not signed a lease or have a confirmed place to stay for the duration of 
+your internship. While the customs agent nor the visa provider check this, it
+is adviseable since you only have a small allotment amount of travel material
+that you can take with you on any flight (Porter offers one free bag, but some
+go with Air Canada for the more major airports and frequent service).
+
+Expect to spend $200 U.S.D. on arrival for food and other "move-in" material.
+
 <section id="Money-Banks" />
 ### Banks
 You'll want to do this as soon as you can, you can do this without an SSN.
@@ -340,19 +389,21 @@ Note: Some banks have a savings account.
 You may not want one for several reasons:
 
 * There may be a minimum balance after 6 months
-* Having interest income in the US can complicate taxes (not an expert)
+* Having interest income in the U.S. can complicate taxes (not an expert)
 
 Choosing a Bank is up to you and your preferences.
 Stephen suggests you stick to one of:
 
-* Chase
+* Chase Bank (owned by J.P. Morgan and Chase)
 * Bank of America
 * Wells Fargo
 
-If you are in NY Chase is the one to open.
-There are so many Chase branches and ATMs.
-Several people have been told that Chase is pretty conservative when it
-comes to giving credit cards to "new Americans".
+If you are in NYC Chase is definitely the one to open.
+(There are as many Chase branches and ATMs as there are Tim Hortons
+in Canada.) Several people have been told that Chase is fairly conservative 
+when it comes to giving credit cards to "new Americans".
+(Banks in Canada like Bank of Montreal offer U.S.D. MasterCards, be sure to
+pick one up either on your own or from your parents to ensure you have capital!)
 
 Bank of America is pretty good in the SF/Bay Area.
 Chase is OK there too. They also have many branches there - and they are
@@ -368,8 +419,8 @@ You will *not* need a SSN to open an account at the three listed banks.
 Bring your passport and visa. You don't even need a permanent address.
 Some have had luck with using their hotel's or their company's.
 
-Stephen's always kept a US bank account open.
-It's super useful to have. If you come back to the US again you're all setup.
+Stephen's always kept a U.S. bank account open.
+It's super useful to have. If you come back to the U.S. again you're all setup.
 If you travel you can get cash easy. If you want to buy stuff online it's great.
 
 Eric says that keeping your bank account open is also great for getting credit
@@ -389,19 +440,19 @@ fee. Note, xe.com will likely get you a better rate. But the following method is
 very flexible. This method worked out pretty well for Prashanth: 
 
 1. Open a U.S Bank Account with your Canadian Bank (Prashanth used TD but
-   recommend RBC, RBC has a US branch as well though none in California) 
-2. Transfer some money to this account to last you for a few weeks in US
-3. Get a US Dollar Credit Card from Canada and use this for initial spending.
+   recommend RBC, RBC has a U.S. branch as well though none in California) 
+2. Transfer some money to this account to last you for a few weeks in U.S.
+3. Get a U.S. Dollar Credit Card from Canada and use this for initial spending.
    If you are not eligible, you can ask your parents to open it for you and a
    get a credit card in your name. You can use this card until you have money
-   in your US account.
-4. Open a US Bank account in either Chase, BOA, Wells Fargo.
+   in your U.S. account.
+4. Open a U.S. Bank account at either Chase, Bank of America, Wells Fargo.
 
 <section id="Money-Credit" />
 ### Credit Cards
 One thing that many try to do right away is get a credit card.
 
-Getting credit in the US can be tricky. Especially if you are under 21.
+Getting credit in the U.S. can be tricky; especially if you are under 21.
 
 Keep in mind that instead of Interac for debit cards, all American debit cards
 (also known as "check cards") are actually VISA/MasterCard cards. You can use
@@ -417,7 +468,7 @@ Really tough if you are under 21.
 
 Eric would like to stress the importance of getting a credit card and building
 credit history in the States. It's expecially useful if you plan to move to the
-US after you graduate.
+U.S. after you graduate.
 
 There are some
 [things to consider](http://www.mint.com/blog/how-to/10-credit-score-commandments/)
@@ -439,7 +490,7 @@ Eric says the following about BoA's credit policy:
 This worked for an 18 year old guy with two credit cards in good standing back
 in Canada. Apply for the card at the branch in person. When asked for your
 information, inform them that you would like to request a Canadian credit bureau
-check to augment your US credit bureau reports (especially important if it's
+check to augment your U.S. credit bureau reports (especially important if it's
 your first work term in the States). If the representative is knowledgeable,
 they will process the credit card application normally and then will ask you to
 call a number (or call for you on your behalf) about 24-48 hours later
@@ -475,12 +526,12 @@ Some more tame ways:
 * Using your family member who works at a bank and gets currency exchanged at
   cost (We're told this is the best possible)
 
-If you end up with American funds in Canada, Stephen recommends opening a US
+If you end up with American funds in Canada, Stephen recommends opening a U.S.
 dollar account and convert it over time so you don't get bit by the exchange
-rate. You can use xe.com even with a USD account in Canada.
+rate. You can use xe.com even with a U.S.D. account in Canada.
 
-Stephen also keeps some USD funds in a USD TD account in Canada so he can get
-small bills and sell USD to family without a spread.
+Stephen also keeps some U.S.D. funds in a U.S.D. TD account in Canada so he can get
+small bills and sell U.S.D. to family without a spread.
 
 Stephen sucks at playing the market so he just transfer money over ~$1k at a
 time to try and even out my loss/gain. Stephen and Chris love xe.com's bid
@@ -503,7 +554,7 @@ Sadly you will have to pay taxes on your hard-earned income. Chances are you
 already paid the American ones in your paycheque. Depending on your State and
 situation you will end up receiving much (50% is not unreasonable) of that back.
 You may owe money in Canada. You definitely have to fill out both Canadian
-Federal and Provincial forms as well as US Federal and State.
+Federal and Provincial forms as well as U.S. Federal and State.
 
 It's not to hard to fill them out yourself but it's fairly annoying.
 Make sure you file with your Canadian address as your home address.
@@ -515,19 +566,19 @@ Some people have had luck with this
 
 CECS has [some information][CECA-USIncomeTax] on taxes.
 Stephen used "Peter Cuttini" (contact info on Waterloo site) for his 2011 taxes.
-He's heard good things about him for co-op students. (Around $300).
+He's heard good things about him for co-op students (cost: around $300).
 Stephen was not very impressed with the work and will be likely doing them
 himself for 2012. He did them in 2011 and found them not much harder than
 discussing with your accountant.
 
 H&R Block will also do it for around $300.
 
-There are short versions of US forms for non-residents (you may not apply) which
+There are short versions of U.S. forms for non-residents (you may not apply) which
 Stephen used last tax year.
 
 The main question Stephen had was whether he had to pay taxes twice in both
-Canada and the US. In his situation, Canada knew how much he was taxed in the US
-and applied some formula to not tax him twice.
+Canada and the U.S.. In his situation, Canada knew how much he was taxed in the U.S.
+and applied some formula to not tax him twice (covered in U.S. visa orientation).
 
 The IRS has a [good section][IRS-AlienExemptions] on how many exceptions you can
 claim.
@@ -547,19 +598,19 @@ claim.
   which are often open to students.
 * CECS runs a photo contest every term, one for US co-ops and one for
   international co-ops.
-  They encourage you to take pictures with other Waterloo co-ops and of the
-  places you visit.
-  They do have the right to use it for promotional purposes.
-  You get a certificate for participation as well as money for the top 3
-  winners. It's a good way to share your experiences and you might be up for
-  some money for grabs.
+  * They encourage you to take pictures with other Waterloo co-ops and of the
+    places you visit.
+  * They do have the right to use it for promotional purposes.
+  * You get a certificate for participation as well as money for the top 3
+    winners. It's a good way to share your experiences and you might be up for
+    some money for grabs.
 
 ---
 
 <section id="Area" />
 ## Area Specific Notes
 I've been to three main areas and will focus on info for those.
-If you are an intern and have more info let me know.
+If you are an intern and have more info let me know (areas edited appropriately).
 
 <section id="Area-California" />
 ### California (General)
@@ -611,7 +662,7 @@ If you are an intern and have more info let me know.
   are *steep*. You know that scene in The Princess Diaries where she's pushing
   her scooter up the hill? We know you watched it - that's not a cheap scooter,
   those hills are vicious.
-* Get a SafeWay Card, it's free and literally saved me over $100. Also, tell them
+* Get a SafeWay Card, it's free and saved me over $100. Also, tell them
   you'll fill it out later and you're in a hurry. That way you get the discounts,
   but they don't have your personal information.
 * There are some beautiful parts (check out the Presidio near the Golden Gate
@@ -672,7 +723,7 @@ Big boxes of dim sum for ~$4, bubble tea is only ~$2 (they call it boba)
 <section id="Area-BayArea" />
 ### Bay Area
 * Still expensive
-* Get a SafeWay Card, it's free and literally saved me over $100
+* Get a SafeWay Card, it's free and saved me over $100
 * Learn to love the Caltrain
 * Caltrain isn't like the GO, they check your tickets all the time
 * Go to Gilroy Premium Outlet Mall in Gilroy, it's amazing and has great deals
@@ -805,27 +856,38 @@ up SF or Mountain View.
 
 <section id="Area-NYC" />
 ### New York City
-* Really expensive
+* Really expensive (not as much as California / Washington, but still) in general.
+
 * Paying first and last months rent plus one month of security is super common.
 * Brokers fees are usually 1 month rent, often more than you'd like.
-* Brokers fees are super negotiable
-* More scammers here than any other place I encountered, see the place before
-  you pay
+  * Brokers fees are super negotiable - if you know how to play the game.
+  
+* More scammers here than any other place encountered, always see the place before you pay.
 * Housing moves fast. We got an appointment to see a place, got on the subway
   right away and once we got out the place was already taken
-* Bring checks with you, that's how you secure a place
+  * Moral: Bring checks with you, that's how you secure a place
+
 * Don't live above 100th Street unless you aren't afraid of anything
-* Manhattan Costs Money
-* Wall street area is surprisingly dead in the evening
-* Brooklyn is much cheaper, consider it
+* Manhattan Costs Money - but the neighbourhood / conditions may be worth it.
+* Wall Street area is surprisingly dead in the evening.
+
+* Brooklyn is much cheaper, consider it (also scarier at night)
 * Middle of Brooklyn can be a little sketchier, but Bay Ridge is super beautiful
-* Get a MetroCard pass on your first day, $104/mo for unlimited travel is a
-  great deal
+
+* Get an MTA MetroCard pass when you arrive, $104/30-day for unlimited travel is a great deal.
+  * Best part of this is that it pays for itself after 40 rides.
+  
 * Trader Joe's is cheap
-* Chase bank is everywhere (also in Duane Reade)
+* Chase Bank is everywhere (also in Duane Reade)
 * Get a Duane Reade Card
-* Watch your stuff on the subway, wallet in front and all that stuff
+
+* Watch your stuff on the subway, wallet in front, don't stare at people, etc.
 * Flying into LGA is cheaper, NJ transit is good, hard with two suitcases
+  * If needed, take a taxi from LGA - but be prepared to pay ~$50 
+    (which is average in rush hour).
+
+* There is a church after every block - these are more popular
+  to visit than Tim Horton's is in Canada (scary, huh?).
 
 #### Housing
 * Brooklyn (Bay Ridge) - 328 91st Street, Brooklyn (close to the subway).
@@ -836,11 +898,32 @@ up SF or Mountain View.
     large kitchen and a pullout bed in the living room. Stayed for 1 month while
     looking for apartments in Manhattan.
 
+* Residence Hall @ Brooklyn College - 1 Kenilworth Place. Cost was steep, but
+  close to subway and other cool places like Target. Centre of the
+  Brooklyn area - called "Flatbush". ($5500/4mo/1person) -- Contrary to popular belief, this 
+  residence accepts students from ALL universities, not just students of Brooklyn College.
+  
+  * Michael Shao currently lives here. It's pretty cool - has included utilities, a
+    large exercise room, a separate study room, and awesome (high-efficiency but expensive)
+    laundry facilities (costs $6.50 per two loads of washer/dryer). 
+  
+* Manhattan - EHS might not be the best option - people consider it, 
+  but remember that the minimum is $7500/term (which is for a triple room, plus
+  you don't get to define the term). 
+  
+* U.S. schools operate on an entirely different (and unforgiving) schedule than
+  those in Canada (and especially Waterloo). This place (as well as 
+  University Place NY - but that place is just a dump in general) is probably
+  not worth your time or your money, as it's as expensive as a Waterloo on-campus
+  residence plus a full meal plan, except you don't even get fed here.
+
 #### Food
-* There are so many places to eat in NYC, try new stuff!
+* There are so many places to eat in NYC, be sure to try new stuff!
+
 * Halcart at 53rd and 6th is to die for.
   Make sure you go to the [right one](http://www.yelp.com/biz/53rd-and-6th-halal-cart-new-york).
   Get the hot sauce. There will be a line, it's worth it.
+  
 * Pizza - In NY it's a different kind of food. It's also highly contentious
   which place is best.
 
@@ -855,7 +938,9 @@ up SF or Mountain View.
 * [Fat Cat](http://www.fatcatmusic.org/) is a nice bar and has lots of pool
   tables, ping-pong tables and even scrabble. Prices are decent. Also allows
   people under 21 in before a certain time.
+  
 * [Dallas BBQ](http://www.dallasbbq.com/) is really good and has awesome prices.
+
 * [Carmines](http://carminesnyc.com/) is family style (gigantic plates) Italian
   food and really tasty. Pretty busy.
 
