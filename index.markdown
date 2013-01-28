@@ -399,7 +399,7 @@ Stephen suggests you stick to one of:
 * Wells Fargo
 
 If you are in NYC Chase is definitely the one to open.
-(There are literally as many Chase branches and ATMs as there are Tim Hortons
+(There are as many Chase branches and ATMs as there are Tim Hortons
 in Canada.) Several people have been told that Chase is fairly conservative 
 when it comes to giving credit cards to "new Americans".
 (Banks in Canada like Bank of Montreal offer U.S.D. MasterCards, be sure to
@@ -662,7 +662,7 @@ If you are an intern and have more info let me know (areas edited appropriately)
   are *steep*. You know that scene in The Princess Diaries where she's pushing
   her scooter up the hill? We know you watched it - that's not a cheap scooter,
   those hills are vicious.
-* Get a SafeWay Card, it's free and literally saved me over $100. Also, tell them
+* Get a SafeWay Card, it's free and saved me over $100. Also, tell them
   you'll fill it out later and you're in a hurry. That way you get the discounts,
   but they don't have your personal information.
 * There are some beautiful parts (check out the Presidio near the Golden Gate
@@ -723,7 +723,7 @@ Big boxes of dim sum for ~$4, bubble tea is only ~$2 (they call it boba)
 <section id="Area-BayArea" />
 ### Bay Area
 * Still expensive
-* Get a SafeWay Card, it's free and literally saved me over $100
+* Get a SafeWay Card, it's free and saved me over $100
 * Learn to love the Caltrain
 * Caltrain isn't like the GO, they check your tickets all the time
 * Go to Gilroy Premium Outlet Mall in Gilroy, it's amazing and has great deals
@@ -878,7 +878,7 @@ up SF or Mountain View.
   * Best part of this is that it pays for itself after 40 rides.
   
 * Trader Joe's is cheap
-* Chase Bank is literally everywhere (also in Duane Reade)
+* Chase Bank is everywhere (also in Duane Reade)
 * Get a Duane Reade Card
 
 * Watch your stuff on the subway, wallet in front, don't stare at people, etc.
@@ -886,7 +886,7 @@ up SF or Mountain View.
   * If needed, take a taxi from LGA - but be prepared to pay ~$50 
     (which is average in rush hour).
 
-* There is literally a church after every block - these are more popular
+* There is a church after every block - these are more popular
   to visit than Tim Horton's is in Canada (scary, huh?).
 
 #### Housing
@@ -899,12 +899,13 @@ up SF or Mountain View.
     looking for apartments in Manhattan.
 
 * Residence Hall @ Brooklyn College - 1 Kenilworth Place. Cost was steep, but
-  close to subway and other cool places like Target. Literally centre of the
-  Brooklyn area. ($5500/4mo/1person) -- Contrary to popular belief, this 
-  residence accepts students from ALL universities, not just Brooklyn College.
+  close to subway and other cool places like Target. Centre of the
+  Brooklyn area - called "Flatbush". ($5500/4mo/1person) -- Contrary to popular belief, this 
+  residence accepts students from ALL universities, not just students of Brooklyn College.
   
-  * Michael Shao currently lives here. He'll update with more once the term
-    continues onwards (he's been there about a day).
+  * Michael Shao currently lives here. It's pretty cool - has included utilities, a
+    large exercise room, a separate study room, and awesome (high-efficiency but expensive)
+    laundry facilities (costs $6.50 per two loads of washer/dryer). 
   
 * Manhattan - EHS might not be the best option - people consider it, 
   but remember that the minimum is $7500/term (which is for a triple room, plus
@@ -947,7 +948,7 @@ up SF or Mountain View.
 * [Kayak on the river](http://www.downtownboathouse.org/) for free!
 * The [American Museum of Natural History](http://www.amnh.org/) is large and
   fun!
-* Go to a comedy club (no suggestions on where yet, though).
+* Go to a comedy club.
 
 <section id="Area-Coopersburg-PA" />
 ### Coopersburg, PA
