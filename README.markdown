@@ -7,4 +7,3 @@ Go to [http://stephenholiday.com/Unofficial-Waterloo-USA-Intern-Guide](http://st
 for the full version.
 
 To contribute, edit the gh-pages branch.
-
