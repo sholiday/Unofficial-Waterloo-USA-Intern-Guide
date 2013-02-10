@@ -47,6 +47,7 @@ request. I'll note you if you want to be noted.
 * [Stephen Holiday](http://stephenholiday.com)
 * [Viktor Stanchev](http://viktorstanchev.com)
 * [Zameer Manji](http://zameermanji.com)
+* [Xenia Tay](http://xeniatay.com)
 
 ### License
 <a href="http://creativecommons.org/licenses/by-nc-sa/2.5/ca/">
@@ -170,6 +171,11 @@ but took longer for the card to arrive.
 Long wait just to get into the building (outdoor wait due to security
 screening), but card arrived in 2 business days (was promised two weeks).
 
+##### [Austin](http://www.yelp.com/biz/social-security-administration-austin-2)
+No security screening outdoors, short waiting time and very friendly service.
+Application process took less than 10 minutes and card arrived in 2 weeks as
+promised. 
+
 As with everything else, your mileage may vary.
 
 ---
@@ -208,7 +214,8 @@ would be a good roommate for your style.
   stipend money.
 * Use CECS's hot housing leads
 * Ask your company to ask current interns where they are living and any
-  recommendations they have
+  recommendations they have. Better yet, try to contact them directly so you 
+  can get other tips about events, activities, food in the area.
 * Check the Area Specific notes for specific recommendations
 * There are "hotels" with weekly rates lower than renting an apartment
 * Some places are very low tech, so, if looking for a hotel, you are best
@@ -246,7 +253,17 @@ Getting data for your smartphone is a lot easier than a BlackBerry.
 If you have an unlocked phone, it's really easy. You can get a plan with a sim
 card, pop it in, and walk out of the store Facebooking up a storm.
 
-We think T-Mobile and AT&T both offer options in this arena.
+T-Mobile has monthly 4G plans that range from $30/mo - $70/mo. Note: the plans 
+offer data at 'up to' 4G speeds. Xenia found her data a little slow, and 
+especially unreliable in moving vehicles, but overall it was good enough for 
+email/FB/Twitter. T-mobile will remind you monthly through text messages to
+renew your plan. If you choose not to renew, your plan is automatically
+converted to a pay-as-you-go plan, and you pay for calls/texts with any
+leftover balance in your T-mobile account. Your phone number will expire 3
+months after renewal, so you can keep it until next co-op, if you are returning
+to the US.
+
+AT&T might also offer good options for pay-as-you-go plans.
 
 Simple mobile is also very good if you don't care about data speeds. They have
 a fixed price, pay up front, no hidden fees. We've never had problems
@@ -260,6 +277,16 @@ at the instructions on their website.
 
 In the past some groups were able to get a reduced rate by getting a family
 plan.
+
+##### Micro-SIM cards
+Sometimes, locations that sell packages for prepaid plans only have normal SIM
+cards that aren't compatible with newer smartphones which require micro-SIMs.
+However, normal SIM cards are actually the same as micro-SIM cards, just with a
+larger plastic surface which can be cut off. 
+
+To turn the SIM into a micro-SIM, either find a store that cuts SIM cards, or
+DIY. There are tutorials online that teach you how to cut it, either with a
+scissors (risky) or a cutter you can get off Amazon for less than $5.
 
 ##### Straight Talk
 
@@ -365,8 +392,9 @@ Wells Fargo is known for being super nice.
 Wells Fargo has been seen by at least one person as being tougher for a CC.
 
 You will *not* need a SSN to open an account at the three listed banks.
-Bring your passport and visa. You don't even need a permanent address.
-Some have had luck with using their hotel's or their company's.
+They will need your J-1 Visa for filling in your bank details, so bring your 
+passport and visa. You don't even need a permanent address. Some have had luck 
+with using their hotel's or their company's.
 
 Stephen's always kept a US bank account open.
 It's super useful to have. If you come back to the US again you're all setup.
@@ -378,7 +406,13 @@ in the future.
 Some people want to close their account to avoid bank fees.
 Most banks (BoA, Chase, Wells Fargo) offer a _student account_ for 5 years from
 when you sign up. Bring your student ID card. They don't require any minimum
-activity other than some nominal balance. Some _savings_ accounts have fees.
+activity other than some nominal balance. 
+
+Alternatively, BOA offers an eBanking Checking account that is free if you 
+choose online eStatements and only use self-service options (ATMs, no tellers)
+for deposits/withdrawals. You can even deposit checks through their mobile app. 
+
+Some _savings_ accounts have fees.
 
 #### Starting Money
 You should bring money down to start with, it will help with deposits and
@@ -408,8 +442,11 @@ Keep in mind that instead of Interac for debit cards, all American debit cards
 them anywhere you would use a credit card except the money comes out of your
 account immediately.
 
-You can get a Secured Credit card where you put some money into a special
-account and that amount becomes your credit limit. Something to look into.
+You can get a Secured Credit card where you put a deposit ($300 - $500) into a
+special account and that amount becomes your credit limit. Something to look into. 
+You don't get this deposit back until ~2 years later, so keep that in mind. The 
+bank reps say that it is a good way to get a good credit rating though, if you 
+need that in the near future.
 
 Sometimes you can get BoA or TD America to look up your Canadian credit history.
 TD Ameritrade and BoA has a Canadian credit check form.
@@ -541,7 +578,9 @@ claim.
 <section id="Misc" />
 ## Miscellaneous
 * Amazon gives free shipping for 1 month through Prime. Get one intern to signup
-  at a time so you can have free shipping all work term
+  at a time so you can have free shipping all work term. Even better is Amazon 
+  Student, which gives you free 6 months of Prime and subsidizes Prime at $39/month 
+  after that. 
 * Woot.com is awesome
 * Waterloo holds [alumni events](http://alumni.uwaterloo.ca/alumni/events/usa/)
   which are often open to students.
@@ -553,6 +592,15 @@ claim.
   You get a certificate for participation as well as money for the top 3
   winners. It's a good way to share your experiences and you might be up for
   some money for grabs.
+* Daily deal sites like Groupon, Living Social and Amazon Local are good sources
+  for activities that you might not know exist in your area. 
+* Learn how to do some basic conversions from metric to imperial so you can
+  make conversation about the weather (fahrenheit), order ham from the deli
+  (ounces), drive without speeding (miles), etc.
+  
+  * Shortcut for estimating from F to C: (weather in F - 30) / 2 = weather in
+    C. This will be off by 1 or 2 degrees, but works well for situations like
+    figuring out what to wear in the morning.
 
 ---
 
@@ -881,3 +929,141 @@ up SF or Mountain View.
   grocery stores (it's worth getting the "bonus cards")
 * [Musikfest](http://www.fest.org/), a popular free music festival during summer
 * Climate is similar to ON but slightly warmer on average
+
+<section id="Area-Austin-TX" />
+### Austin, TX
+* Live music capital of the world, try to attend at least one live music event
+* Home to SXSW, also hosted the Formula 1 in Nov 2012
+* Don't believe anyone who tries to intimidate you with tales of barren
+  landscapes and cowboys. Austin is nothing like that!
+* Austinites LOVE their food. When someone mentions a new food place, everyone 
+  else chimes in with opinions/makes a mental note to try it. 
+* Way lower cost of living than SF, especially housing.
+* A very dog-friendly city. There are dog parks, dog-friendly restaurants and 
+  bars, even dog bakeries.
+* Very biker-friendly city too.
+* Public transport sucks. It's impossible to get around without a car. GET A CAR.
+* Watch out for deer crossing the roads/highways further out from downtown Austin.
+* Vintage shops, thift shops and local art along the street/bazaars make good 
+  places to shop for gifts. 
+* Downtown Austin is where the University of Texas is. West Lake is the richest 
+  area in Austin, and also where Bazaarvoice is located. 
+* Weather can get up to 40 celcius (110 F) in the summer, and drops to 30
+  celcius around mid-Sept. Even in December, weather might be something crazy like 
+  23 celcius. 
+* If it ever snows in the winter, nobody dares to drive and no one goes to
+  work. 
+* Shopping carts are also known as 'baskets', or 'buggies'. Use at own risk.
+
+#### Transport
+* Get a car, or a friend with one. If you don't live downtown, it's impossible
+  to get anywhere without driving. Places in Austin are very spread out. Ask
+  your company to subsidize/sponsor one, or give you a transport stipend. If
+  you are under 21, make sure you get this straightened out beforehand, because
+  car rental companies are iffy about car insurance, so you might not qualify
+  for rental. 
+* If you don't have a car, be prepared to spend a ton of money cabbing, even for 
+  trivial things like groceries. Ask Xenia for details about living by the 360
+  highway in West Lake (there is nothing there).
+* Yellow Cab Taxi Austin has a 
+  [mobile app](http://hailacabapp.com/) that you
+  can use to get a cab. It's nice if you have no clue what your exact location
+  is, just use the app and GPS it. Bonus: you don't have to speak to the
+  operator and repeat your personal details over and over again. You also get
+  to track your cab as it arrives and they will send you an email when your cab
+  is 0.4 miles away. Note: the waiting time for cabs is 20 minutes on average. 
+* Public transport (buses - Capital Metro) only exists near downtown and many
+  people have negative opinions about it. Still, if you are spending the whole
+  day downtown and don't want to walk or cab, it is a viable option. Xenia used
+  it once during the Formula 1 weekend and it did its job. 
+* Austin is home to 
+  [Mellow Johnny's](http://www.mellowjohnnys.com/) and is a
+  very bike-friendly place. People often bike along the 360 highway, and there
+  are nice trails in the local parks. Bear in mind there are some _very_ hilly
+  and slopey areas so figure out if you are capable of biking those paths
+  before getting a bike. 
+* Whether biking or driving, WATCH OUT FOR DEER, especially on a highway. They
+  can cause a lot of damage. Actually, watch out for them when walking to work
+  too (true story).
+
+#### Food
+* Tex-mex (Texas-Mexican) is amazing and very common in Austin. When eating
+  Tex-Mex, remember to get queso, because _melted cheese_! Good place are
+  Chuy's, Torchy's, Trudy's. 
+* Texas BBQ: try Rudy's, Salt Lick, County Line, Franklin's, Iron Works. Texas BBQ
+  is a must-try! Marbled beef brisket, mm. Ask your colleagues about their
+  favourite places too, they will likely all have different opinions. And then
+  you can try every single place.
+* Food trucks are delicious and a very different experience. Some delicious
+  ones are: Peached Tortilla (Vietnamese/Mex fusion), Chilantro
+  (Korean/American fusion), Be More Pacific, Mighty Cone. Some food trucks are
+  always moving around, with different schedules and location, so track them
+  down online, or you might get lucky and find them at an event/music festival.
+  Other food trucks stay in 'food truck parks', where there are a bunch of food
+  trucks along with some seating areas, completely outdoors. There is one right
+  along South Congress, very strongly recommended. 
+* The Oasis: overlooks Lake Travis, go there for a beautiful view. Tourists
+  like to go during sunset.
+* Hopdoddy: Fantastic burgers. 
+* Sway: Thai fusion. Expensive, but so delicious. Dishes are served to share.
+  Try the drinking vinegar too.
+* Uchi (Tyson Cole), or Uchiko (Paul Qui). Japanese fusion, dishes are served to
+  share. Very expensive, chef's tasting for 2 can go up to $250, consists of 10
+  dishes with dessert. Best meal of my life!
+* South Congress: Magnolia Cafe (24/7 diner), South Congress Cafe, Homeslice
+  (gourmet pizza), food trucks.
+* Other places: Foreign and Domestic, Barley Swine, La Condensa, East Side Pie, Contego,
+  Taverna, Mandola's Italian Market, Phil's Ice House. 
+
+#### Shopping
+* SoCo (South Congress). A street of one-of-a-kind, mostly local vintage/thrift
+  shops. You can also find roadside stalls selling local art/crafts. There's
+  also a big bazaar that goes on in the evening of First Thursday (of every
+  month). If you're hunting for a pair of cowboy boots, Allen's Boots is cowboy
+  boot heaven. You might also find a gem of a vintage pair hidden in [nearby
+  shops](http://vintagearoundtownguide.com).
+* The Domain: outdoor mall, home to an Apple AND Microsoft store. Austin Cake
+  Balls is also here, try the red velvet! The Domain is a huge mall with more
+  high-end, branded stores. They do have some affordable shops though, the
+  first H&M in Austin opened at the Domain in 2012. It takes forever to walk
+  from one end to another and there are two 'halves' to this mall separated by
+  Macy's. Do some planning before you go here.
+* Barton Creek Mall: indoor mall, full of typical stores, makes for good shopping.
+* The Arboretum: Another outdoor mall, located near The Domain.
+* North Cross Mall: Chaparral Ice Skating rink is located here, and you can get
+  a discount on entry price if you check in with Yelp.
+
+#### Activities
+* [These](https://twitter.com/xeniatay/austin) accounts on Twitter are all
+  relevant to news/music/food in Austin. [CultureMap
+  Austin](http://austin.culturemap.com) and [do512](http://do512.com/) have
+  good daily feeds on events.
+* [Alamo drafthouse](http://drafthouse.com): watch a movie while having a full
+  meal and a beer. Ninja-like waiters take your order (written) at the
+  beginning of the movie, and serve your food in 30 minutes or so. The Alamo
+  Drafthouses also do replays of old movies and special screenings for
+  holidays, etc.
+* Take a segway tour around downtown! 
+* Music festivals: SXSW, ACL, Fun Fun Fun Fest, and a ton of others. Live
+  concerts too! 
+* 6th street: a street of clubs and bars. East 6th is also dubbed 'dirty six',
+  West 6th is where the classier places are. There are some under-21 places,
+  one of them is 'The Library'. A lot of the bars always have live bands
+  playing.
+* University of Texas (UT). Attend a football game and soak in the Longhorn
+  spirit.
+* Go [water biking](http://austinwaterbikes.com). If you play it smart, you can
+  make it during sunset and watch the bats (population of 1.5mil) streaming out
+  from underneath the Congress bridge.
+* Armadillo Art Bazaar: occurs before Christmas, fantastic for gift-shopping.
+* Ice skate on the roof of Whole Foods during 'winter'.
+* Go [jet skiing](http://viplaketravis.com/)! Watch out for deals for other
+  outdoor activites on LivingSocial/Groupon/Amazon Local, you can get up to 50%
+  off on activities like paddle boating, kayaking, etc. 
+* Visit a [shooting range](http://www.redsguns.com/).
+* Volunteer at [Dance International](http://dancein.org) in exchange for
+  Ballroom dancing lessons for the whole term.
+* Visit San Antonio: the Riverwalk is a very touristy place, but it's gorgeous
+  and worth a visit.
+* Ride a horse or something.
+
