@@ -579,7 +579,7 @@ claim.
 ## Miscellaneous
 * Amazon gives free shipping for 1 month through Prime. Get one intern to signup
   at a time so you can have free shipping all work term. Even better is Amazon 
-  Student, which gives you free 6 months of Prime and subsidizes Prime at $39/month 
+  Student, which gives you free 6 months of Prime and subsidizes Prime at $39/year
   after that. 
 * Woot.com is awesome
 * Waterloo holds [alumni events](http://alumni.uwaterloo.ca/alumni/events/usa/)
