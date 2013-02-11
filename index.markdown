@@ -936,6 +936,7 @@ up SF or Mountain View.
 * Home to SXSW, also hosted the Formula 1 in Nov 2012
 * Don't believe anyone who tries to intimidate you with tales of barren
   landscapes and cowboys. Austin is nothing like that!
+* College football is a huge deal. The colour of the Texas Longhorns (University of Texas) is burnt orange.
 * Austinites LOVE their food. When someone mentions a new food place, everyone 
   else chimes in with opinions/makes a mental note to try it. 
 * Way lower cost of living than SF, especially housing.
