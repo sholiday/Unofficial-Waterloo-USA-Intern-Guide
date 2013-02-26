@@ -843,6 +843,18 @@ up SF or Mountain View.
   * 2012W - Stephen - We pay $2700/mo unfurnished plus utilities for 3 bedrooms.
     Clean and very nice. Less than 20 minute bike ride to Google.
 
+* Mountain View - [AvalonBay](http://www.avalonbay.com)
+  is okay if you have 1 person in the living room. ~$2600 a month for 
+  2 bedroom, unfurnished. Very close to the CalTrain; very close to Castro Street (restaurants)
+  and it's a 15 minute bike ride through a biking trail to Google/LinkedIn. They have 3 pools and a gym.
+
+  * 2012F - Viktor - Expect to not get your deposit of $750 back because they need to "clean" the place
+  and they charged us $600 for no reason (something's really messed up with their 
+  internal communications). The pool is not heated. It's a lie. It took them 2 months to sort out the
+  fact that we weren't supposed to pay for the first 3 days when they didn't give us the keys.
+  I guess they never did fix those charges. Their contract actually makes no sense if you try to read it. It's
+  ~20-30 pages and they try to squeeze all the money you have out of you.
+
 <section id="Area-BayArea" />
 ### San Diego
 
