@@ -41,6 +41,7 @@ request. I'll note you if you want to be noted.
 * [Edward Sun](http://www.edwardsun.com)
 * [Elisa Lou](http://aimango.wordpress.com/)
 * [Eric Yam](http://www.ericyam.com)
+* [Felix Fung](http://feli.xxx)
 * [Michael Truong](http://www.linkedin.com/in/truongmichael)
 * [Nansen Lin](http://www.linkedin.com/pub/nansen-lin/28/6b4/92a)
 * [Prashanth Madhi](http://ece.uwaterloo.ca/~pmadhiya)
@@ -536,16 +537,17 @@ Stephen's favourite method is still xe.com.
 *Disclaimer*: No author of this document knows anything about taxes, accounting,
 or even arithmetic. Do not rely on this document. Speak to a professional.
 
-Sadly you will have to pay taxes on your hard-earned income. Chances are you
-already paid the American ones in your paycheque. Depending on your State and
-situation you will end up receiving much (50% is not unreasonable) of that back.
-You may owe money in Canada. You definitely have to fill out both Canadian
-Federal and Provincial forms as well as US Federal and State.
+You will owe taxes in the US, which will likely be deducted directly from your
+paycheques. When you file your return, you may end up receiving much of that
+back (50% is not unreasonable). You will first file your US returns before
+filing your Canadian returns, where you may end up paying a bit to Canada as
+well.
 
-It's not to hard to fill them out yourself but it's fairly annoying.
-Make sure you file with your Canadian address as your home address.
-If you file with a Canadian address you get an automatic extension (not sure how
-long, believe it's 1 month).
+If you situation is uncomplicated, you can try to file your returns yourself.
+Someone wrote an [Unofficial Waterloo Intern Tax Guide][Unofficial-Tax-Guide]
+that will walk you through all the forms you need and answer most questions that
+come up. The author of that document was as thorough as he could, but if you
+have any concerns, you should seek a professional.
 
 Some people have had luck with this
 [free government program][IRS-FreeTaxReturn].
@@ -559,16 +561,7 @@ discussing with your accountant.
 
 H&R Block will also do it for around $300.
 
-There are short versions of US forms for non-residents (you may not apply) which
-Stephen used last tax year.
-
-The main question Stephen had was whether he had to pay taxes twice in both
-Canada and the US. In his situation, Canada knew how much he was taxed in the US
-and applied some formula to not tax him twice.
-
-The IRS has a [good section][IRS-AlienExemptions] on how many exceptions you can
-claim.
-
+[Unofficial-Tax-Guide]: http://feli.xxx/taxguide
 [IRS-FreeTaxReturn]: http://www.irs.gov/Individuals/Free-Tax-Return-Preparation-for-You-by-Volunteers
 [CECA-USIncomeTax]: https://uwaterloo.ca/co-operative-education/working-abroad/common-terms-questions#If%20I%20work%20in%20the%20U.S.A,%20how%20does%20that%20affect%20my%20income%20tax?
 [IRS-AlienExemptions]: http://www.irs.gov/Individuals/International-Taxpayers/Aliens---How-Many-Exemptions-Can-Be-Claimed%3F
