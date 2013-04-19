@@ -889,6 +889,9 @@ up SF or Mountain View.
     large kitchen and a pullout bed in the living room. Stayed for 1 month while
     looking for apartments in Manhattan.
 
+  * If you want a broker in Manhattan, you can contact [John Spalding](johns@nestseekers.com).
+    The fee is low for NY ($1000), and he tries really hard to get you into a place you'll like.
+
 #### Food
 * There are so many places to eat in NYC, try new stuff!
 * Halcart at 53rd and 6th is to die for.
