@@ -624,6 +624,10 @@ If you are an intern and have more info let me know.
     which lets you build points for stuff like free day rentals, weekend
     rentals, etc.
   * Being with USAA is also helps if you are under 20 and want to rent a car.
+* There's a very good list of concerts that is automatically updated every week
+    (ish) from [a mailing list](http://www.calweb.com/~skoepke/). It's simple
+    and comprehensive. Found [here](http://www.foopee.com/punk/the-list/).
+
 * Tips when actually renting:
 
   * Insurance is usually peddled with the car rental at the counter
