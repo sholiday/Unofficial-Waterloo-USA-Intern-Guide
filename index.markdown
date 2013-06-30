@@ -49,6 +49,7 @@ request. I'll note you if you want to be noted.
 * [Viktor Stanchev](http://viktorstanchev.com)
 * [Zameer Manji](http://zameermanji.com)
 * [Xenia Tay](http://xeniatay.com)
+* [Shale Craig](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ### License
 <a href="http://creativecommons.org/licenses/by-nc-sa/2.5/ca/">
@@ -66,7 +67,7 @@ Something to note is that many companies in the US (particularly California) are
 much more laid back and don't care if you wear a suit or not. Depends on the
 company. We suit up for Morgan Stanley but not Facebook.
 
-CECS says not to do US in your first year. Even if you only have 4 months of
+CECA says not to do US in your first year. Even if you only have 4 months of
 school under your belt, there is no actual restriction for going in first year.
 Some of us have done it without trouble successfully.
 
@@ -76,6 +77,10 @@ Ask the pay in the interview. There is no reason not too. If they give you some
 '*competitive pay*' ask them in an email before you accept their offer.
 '*Competitive pay*' can range from $25/hr - $45/hr with or without housing and
 plane tickets.
+
+The
+[Intern Project](http://internproject.io/choosing-an-internship/dont-take-your-highest-paying-offer/)
+has a recent blog post about `average` pay rates, whatever that means.
 
 <section id="Jobs-Relocation" />
 ### Relocation
@@ -89,10 +94,10 @@ after tax as a guide. New York is a lot cheaper.
 
 Some people prefer spending a few days in a hotel at their company's expense
 as they wrap-up apartment search (as making housing decisions while still in
-Canada can be risky).
+Canada [is risky](http://www.nbcbayarea.com/news/local/Beware-of-Bay-Area-Rent-Fraud-Scheme-135683043.html)).
 
 Sometimes stipends are large, sometimes they are not. If you're not sure, assume
-that your stipend will be taxed at ~26% in California. We've heard you can get
+your stipend will be taxed at ~26% in California. We've heard you can get
 much of it back if you save your receipts, something to look into.
 
 We recommend working at a place that covers some part of your housing,
@@ -114,7 +119,7 @@ It's worth checking out.
 Once you have your offer, email your recruiter to get all the details about pay
 and start date. Its useful for the visa.
 
-CECS and CDS/AIPT (now Cultural Vistas) will guide you through the process.
+CECA and CDS/AIPT (now Cultural Vistas) will guide you through the process.
 
 <section id="Paperwork-BeforeYouGo" />
 ### Before You Go
@@ -152,6 +157,8 @@ They enter on their J1 to to get the SEVIS wait process started as well as get
 a cell phone or bank account. Keep in mind that the immigration center in
 Buffalo can take an hour and a half.
 
+Once you receive your SSN, it is important to let your bank know, so you start building a credit score in the U.S.
+
 #### SSN Application
 1. Fill in form SS-5 available at the
    [Social Security Administration's website](http://ssa.gov/ssnumber/).
@@ -166,7 +173,7 @@ OR
 
 ##### Mountain View
 Not as long of a wait to get into the office (not as much security screening),
-but took longer for the card to arrive.
+but took longer for the card to arrive. Tends to be less of a wait in the morning, arrive 30 minutes before it opens.
 
 ##### San Jose Downtown
 Long wait just to get into the building (outdoor wait due to security
@@ -213,7 +220,7 @@ would be a good roommate for your style.
   American bank account. Note that if you get your stipend in December for
   a winter work term, you'll have to do taxes during your work term for the
   stipend money.
-* Use CECS's hot housing leads
+* Use CECA's hot housing leads
 * Ask your company to ask current interns where they are living and any
   recommendations they have. Better yet, try to contact them directly so you 
   can get other tips about events, activities, food in the area.
@@ -277,7 +284,7 @@ these guys, you might have to change your phone's APN settings to get data. Look
 at the instructions on their website.
 
 In the past some groups were able to get a reduced rate by getting a family
-plan.
+and friends plan.
 
 ##### Micro-SIM cards
 Sometimes, locations that sell packages for prepaid plans only have normal SIM
@@ -411,7 +418,7 @@ activity other than some nominal balance.
 
 Alternatively, BOA offers an eBanking Checking account that is free if you 
 choose online eStatements and only use self-service options (ATMs, no tellers)
-for deposits/withdrawals. You can even deposit checks through their mobile app. 
+for deposits/withdrawals. You can even deposit checks through their mobile app.
 
 Some _savings_ accounts have fees.
 
@@ -454,8 +461,10 @@ TD Ameritrade and BoA has a Canadian credit check form.
 Really tough if you are under 21.
 
 Eric would like to stress the importance of getting a credit card and building
-credit history in the States. It's expecially useful if you plan to move to the
+credit history in the States. It's especially useful if you plan to move to the
 US after you graduate.
+
+Shale would like to stress the importance of *linking* your bank accounts to your SSN, once it arrives. You likely **will not** build a credit history until this happens.
 
 There are some
 [things to consider](http://www.mint.com/blog/how-to/10-credit-score-commandments/)
@@ -507,7 +516,7 @@ Some more tame ways:
 * [xe.com](http://www.xe.com/), this is the preferred method.
   Generally a 1.5% spread which is pretty good.
 * Wire transfer
-* Cash a check (takes 20-30 days I hear)
+* Cash a check (takes 20-30 days I hear). Shale has had a lot of success depositing cheques from his American account directly into his Canadian account. The first cheque took 7 days, subsequent cheques were instant.
 * RBC Royal Bank (they have a cross boarder checking account, but the spread is
   usually 2.5%, Stephen doesn't do this any more)
 * Using your family member who works at a bank and gets currency exchanged at
@@ -552,7 +561,7 @@ have any concerns, you should seek a professional.
 Some people have had luck with this
 [free government program][IRS-FreeTaxReturn].
 
-CECS has [some information][CECA-USIncomeTax] on taxes.
+CECA has [some information][CECA-USIncomeTax] on taxes.
 Stephen used "Peter Cuttini" (contact info on Waterloo site) for his 2011 taxes.
 He's heard good things about him for co-op students. (Around $300).
 Stephen was not very impressed with the work and will be likely doing them
@@ -573,11 +582,10 @@ H&R Block will also do it for around $300.
 * Amazon gives free shipping for 1 month through Prime. Get one intern to signup
   at a time so you can have free shipping all work term. Even better is Amazon 
   Student, which gives you free 6 months of Prime and subsidizes Prime at $39/year
-  after that. 
+  after that. Shale ships everything to his office. Carrying a box home is much less painful than going to the postal office to pick up a missed package.
 * Woot.com is awesome
-* Waterloo holds [alumni events](http://alumni.uwaterloo.ca/alumni/events/usa/)
-  which are often open to students.
-* CECS runs a photo contest every term, one for US co-ops and one for
+* Waterloo holds [alumni events](http://alumni.uwaterloo.ca/alumni/events/usa/), [Facebook Page](https://www.facebook.com/uwaterloosf)  which are often open to students.
+* CECA runs a photo contest every term, one for US co-ops and one for
   international co-ops.
   They encourage you to take pictures with other Waterloo co-ops and of the
   places you visit.
@@ -675,12 +683,9 @@ If you are an intern and have more info let me know.
 * BART is a high-speed subway-ish system that goes around the more city-like
   parts of the Bay Area and hits more major destinations. BART from the airport
   to SF is super clean and ~$8.
-* An Airport shuttle is a good alternative to Taxi and BART, especially if you
-  have a lot of luggage. For only $16 they will drop you off in front of almost
-  any hotel. I used GO Lorrie's Airport Shuttle to get to Park Hotel.
 * Caltrain is a light-rail system that goes through all of Silicon Valley for 
   under $10. If you've heard of the GO train in the GTA, it's similar. They do 
-  often check tickets though!
+  often check tickets though, and you need to buy them before you board.
 * Clipper Card is a free card you can get and load with money which can be used
   on all of these transit systems seamlessly. Get one.
 * For larger road trips, rent a [zipcar](http://www.zipcar.com/) (car sharing
@@ -691,6 +696,15 @@ If you are an intern and have more info let me know.
   charge the credit card you have on file (including tip).
   You can request an Uber via SMS, or from their iPhone or Android app. The
   seats are extremely comfortable.
+
+#### Airports
+* An Airport shuttle is a good alternative to Taxi and BART, especially if you
+  have a lot of luggage. For only $16 they will drop you off in front of almost
+  any hotel. I used GO Lorrie's Airport Shuttle to get to Park Hotel.
+* From Palo Alto, the [KX Bus](http://www.samtrans.com/schedulesandmaps/timetables/KX.html) leaves from the bus area at the Palo Alto Caltrain station. It's cheaper than taking the Caltrain to SFO.
+* Some people prefer [Super Shuttle](http://www.supershuttle.com/). From a hotel, they cost ~25 for the first person. After the initial person, the cost goes down to ~10 per person for the next people.
+* If you are flying Delta, the curbside luggage check at SFO is free, and they can print you a boarding pass. This means you don't need to carry your luggage that much further, and it usually has a much shorter line.
+* Unless you live nearby, It is almost never worth flying to/from Oakland.
 
 #### Housing
 * [Paramount/SFO Housing](http://www.sfohousing.com/) has decent pricing (Park
@@ -720,11 +734,10 @@ Big boxes of dim sum for ~$4, bubble tea is only ~$2 (they call it boba)
 * Get a SafeWay Card, it's free and literally saved me over $100
 * Learn to love the Caltrain
 * Caltrain isn't like the GO, they check your tickets all the time
-* Go to Gilroy Premium Outlet Mall in Gilroy, it's amazing and has great deals
+* Go to Gilroy Premium Outlet Mall in Gilroy, it's amazing and has great deals.
+It's worth a trip after your first paycheque.
 * Pizza Hut is not as fancy in the US. It will blow your coworkers' minds if you
   tell them that Pizza Hut is a sit down restaurant with waiters
-* Gilroy Premium Outlets is pretty awesome and worth a trip after your first
-  paycheque
 
 #### Activites
 
@@ -782,6 +795,8 @@ Big boxes of dim sum for ~$4, bubble tea is only ~$2 (they call it boba)
       Hawaii trip.
     * [Driving an ATV in the Hawaiian forest](http://www.yelp.com/biz/atv-outfitters-hawaii-halaula-2)
       - A pretty fun ATV driving adventure, and you get to see a couple of awesome waterfalls as well
+
+* If you need gear, [Stanford outdoor gear](http://stanfordoutdoorgear.weebly.com/hourslocation.html) has awesome stuff. REI and others will rent camping gear too.
 
 #### Cupertino
 
