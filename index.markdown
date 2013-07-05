@@ -121,6 +121,8 @@ and start date. Its useful for the visa.
 
 CECA and CDS/AIPT (now Cultural Vistas) will guide you through the process.
 
+Note: It is possible to extend your Visa up to one year total if you are staying at the same company.
+However, you will not be able to work for a different employer in a consecutive term unless you applied for the visa before you leave for the states.
 <section id="Paperwork-BeforeYouGo" />
 ### Before You Go
 Have a second (or third) copy of all travel documents:
