@@ -146,6 +146,12 @@ they have instant access to them just in case I lose anything.
 If you are a US citizen, some of the above do not apply to you.
 Make sure you have your US passport, health insurance card, and boarding pass.
 
+Amir got through the airport with only the DS-2019, and being asked for reason of travel and a US address.
+He thought he did something wrong, but as long as you have the stamp in your passport that says
+J1 you are fine -- they won't always ask to see all the documents above.
+If you are on a connection flight it doesn't hurt to ask the person at the gate
+waiting area to double-check your connection flight. Amir found out he would miss his connection flight -- Delta airlines reroute his flight for free and he was bumped to first class and also got to San Francisco earlier than he would've even without the delay.
+
 <section id="Paperwork-SSN" />
 ### Getting your SSN
 Apply for your SSN as soon as you have been in the US for at least *10 days*. It
