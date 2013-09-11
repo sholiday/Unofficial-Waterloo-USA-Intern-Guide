@@ -146,9 +146,7 @@ they have instant access to them just in case I lose anything.
 If you are a US citizen, some of the above do not apply to you.
 Make sure you have your US passport, health insurance card, and boarding pass.
 
-Amir got through the airport with only the DS-2019, and being asked for reason of travel and a US address.
-He thought he did something wrong, but as long as you have the stamp in your passport that says
-J1 you are fine -- they won't always ask to see all the documents above.
+If you get the stamp in your passport, that's how you know you did it right.
 If you are on a connection flight it doesn't hurt to ask the person at the gate
 waiting area to double-check your connection flight. Amir found out he would miss his connection flight -- Delta airlines reroute his flight for free and he was bumped to first class and also got to San Francisco earlier than he would've even without the delay.
 
@@ -165,6 +163,8 @@ Some people have entered the US ahead of time by driving to Buffalo or Detroit.
 They enter on their J1 to to get the SEVIS wait process started as well as get
 a cell phone or bank account. Keep in mind that the immigration center in
 Buffalo can take an hour and a half.
+
+A couple notes for those with name that contain hyphens (like Amir's) but go by a shorter version (Amir is short for Amir-Reza). My training plan had "Amir-Reza", while my I-94 has "Amir", while my passport has "Amir Reza". When applying for my SSN, I ran into some issues since each document had a slightly different variation, but the lady at the counter was nice enough to do it anyway. Bottom line: Always use your full name (exclude hyphens since hyphens are not used in government registries) when applying for, as well dealing with any documents you'll need for your SSN.
 
 Once you receive your SSN, it is important to let your bank know, so you start building a credit score in the U.S.
 
