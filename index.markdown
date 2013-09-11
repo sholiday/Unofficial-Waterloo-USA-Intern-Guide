@@ -50,6 +50,7 @@ request. I'll note you if you want to be noted.
 * [Zameer Manji](http://zameermanji.com)
 * [Xenia Tay](http://xeniatay.com)
 * [Shale Craig](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+* [Amir Sharif](http://www.amirsharif.com)
 
 ### License
 <a href="http://creativecommons.org/licenses/by-nc-sa/2.5/ca/">
@@ -145,6 +146,10 @@ they have instant access to them just in case I lose anything.
 If you are a US citizen, some of the above do not apply to you.
 Make sure you have your US passport, health insurance card, and boarding pass.
 
+If you get the stamp in your passport, that's how you know you did it right.
+If you are on a connection flight it doesn't hurt to ask the person at the gate
+waiting area to double-check your connection flight. Amir found out he would miss his connection flight -- Delta airlines reroute his flight for free and he was bumped to first class and also got to San Francisco earlier than he would've even without the delay.
+
 <section id="Paperwork-SSN" />
 ### Getting your SSN
 Apply for your SSN as soon as you have been in the US for at least *10 days*. It
@@ -158,6 +163,8 @@ Some people have entered the US ahead of time by driving to Buffalo or Detroit.
 They enter on their J1 to to get the SEVIS wait process started as well as get
 a cell phone or bank account. Keep in mind that the immigration center in
 Buffalo can take an hour and a half.
+
+A couple notes for those with name that contain hyphens (like Amir's) but go by a shorter version (Amir is short for Amir-Reza). My training plan had "Amir-Reza", while my I-94 has "Amir", while my passport has "Amir Reza". When applying for my SSN, I ran into some issues since each document had a slightly different variation, but the lady at the counter was nice enough to do it anyway. Bottom line: Always use your full name (exclude hyphens since hyphens are not used in government registries) when applying for, as well dealing with any documents you'll need for your SSN.
 
 Once you receive your SSN, it is important to let your bank know, so you start building a credit score in the U.S.
 
@@ -184,7 +191,7 @@ screening), but card arrived in 2 business days (was promised two weeks).
 ##### [Austin](http://www.yelp.com/biz/social-security-administration-austin-2)
 No security screening outdoors, short waiting time and very friendly service.
 Application process took less than 10 minutes and card arrived in 2 weeks as
-promised. 
+promised.
 
 As with everything else, your mileage may vary.
 
@@ -224,7 +231,7 @@ would be a good roommate for your style.
   stipend money.
 * Use CECA's hot housing leads
 * Ask your company to ask current interns where they are living and any
-  recommendations they have. Better yet, try to contact them directly so you 
+  recommendations they have. Better yet, try to contact them directly so you
   can get other tips about events, activities, food in the area.
 * Check the Area Specific notes for specific recommendations
 * There are "hotels" with weekly rates lower than renting an apartment
@@ -259,13 +266,15 @@ for when people come to visit him and hasn't had any trouble with it.
 
 <section id="Living-CellService-Smartphones" />
 #### Smartphones
-Getting data for your smartphone is a lot easier than a BlackBerry.
+Getting data for your smartphone is a lot easier with a BlackBerry.
 If you have an unlocked phone, it's really easy. You can get a plan with a sim
 card, pop it in, and walk out of the store Facebooking up a storm.
 
-T-Mobile has monthly 4G plans that range from $30/mo - $70/mo. Note: the plans 
-offer data at 'up to' 4G speeds. Xenia found her data a little slow, and 
-especially unreliable in moving vehicles, but overall it was good enough for 
+Amir unlocked his BlackBerry 9900 phone [for a couple dollars](http://freemyblackberry.com/index.php) then bought the $50/mo T-Mobile pre-paid plan. $10 for the new SIM, and it has Unlimited Text/Unlimited Talk/500MB Data. The data is actually unlimited, but the first 500MB is 4G while anything after is throttled at 2G but with no extra cost. Incoming calls and texts from Canada are free, but outgoing is not (ask people to text you, then call them using Google Talk). All in all he paid for everything under $220 (including tax) for the 4 months, up-front.
+
+T-Mobile has monthly 4G plans that range from $30/mo - $70/mo. Note: the plans
+offer data at 'up to' 4G speeds. Xenia found her data a little slow, and
+especially unreliable in moving vehicles, but overall it was good enough for
 email/FB/Twitter. T-mobile will remind you monthly through text messages to
 renew your plan. If you choose not to renew, your plan is automatically
 converted to a pay-as-you-go plan, and you pay for calls/texts with any
@@ -292,7 +301,7 @@ and friends plan.
 Sometimes, locations that sell packages for prepaid plans only have normal SIM
 cards that aren't compatible with newer smartphones which require micro-SIMs.
 However, normal SIM cards are actually the same as micro-SIM cards, just with a
-larger plastic surface which can be cut off. 
+larger plastic surface which can be cut off.
 
 To turn the SIM into a micro-SIM, either find a store that cuts SIM cards, or
 DIY. There are tutorials online that teach you how to cut it, either with a
@@ -402,8 +411,8 @@ Wells Fargo is known for being super nice.
 Wells Fargo has been seen by at least one person as being tougher for a CC.
 
 You will *not* need a SSN to open an account at the three listed banks.
-They will need your J-1 Visa for filling in your bank details, so bring your 
-passport and visa. You don't even need a permanent address. Some have had luck 
+They will need your J-1 Visa for filling in your bank details, so bring your
+passport and visa. You don't even need a permanent address. Some have had luck
 with using their hotel's or their company's.
 
 Stephen's always kept a US bank account open.
@@ -416,9 +425,9 @@ in the future.
 Some people want to close their account to avoid bank fees.
 Most banks (BoA, Chase, Wells Fargo) offer a _student account_ for 5 years from
 when you sign up. Bring your student ID card. They don't require any minimum
-activity other than some nominal balance. 
+activity other than some nominal balance.
 
-Alternatively, BOA offers an eBanking Checking account that is free if you 
+Alternatively, BOA offers an eBanking Checking account that is free if you
 choose online eStatements and only use self-service options (ATMs, no tellers)
 for deposits/withdrawals. You can even deposit checks through their mobile app.
 
@@ -430,10 +439,10 @@ first/last month rent.
 
 You may also want a simple way to access your funds in Canada without a huge
 fee. Note, xe.com will likely get you a better rate. But the following method is
-very flexible. This method worked out pretty well for Prashanth: 
+very flexible. This method worked out pretty well for Prashanth:
 
 1. Open a U.S Bank Account with your Canadian Bank (Prashanth used TD but
-   recommend RBC, RBC has a US branch as well though none in California) 
+   recommend RBC, RBC has a US branch as well though none in California)
 2. Transfer some money to this account to last you for a few weeks in US
 3. Get a US Dollar Credit Card from Canada and use this for initial spending.
    If you are not eligible, you can ask your parents to open it for you and a
@@ -453,9 +462,9 @@ them anywhere you would use a credit card except the money comes out of your
 account immediately.
 
 You can get a Secured Credit card where you put a deposit ($300 - $500) into a
-special account and that amount becomes your credit limit. Something to look into. 
-You don't get this deposit back until ~2 years later, so keep that in mind. The 
-bank reps say that it is a good way to get a good credit rating though, if you 
+special account and that amount becomes your credit limit. Something to look into.
+You don't get this deposit back until ~2 years later, so keep that in mind. The
+bank reps say that it is a good way to get a good credit rating though, if you
 need that in the near future.
 
 Sometimes you can get BoA or TD America to look up your Canadian credit history.
@@ -582,7 +591,7 @@ H&R Block will also do it for around $300.
 <section id="Misc" />
 ## Miscellaneous
 * Amazon gives free shipping for 1 month through Prime. Get one intern to signup
-  at a time so you can have free shipping all work term. Even better is Amazon 
+  at a time so you can have free shipping all work term. Even better is Amazon
   Student, which gives you free 6 months of Prime and subsidizes Prime at $39/year
   after that. Shale ships everything to his office. Carrying a box home is much less painful than going to the postal office to pick up a missed package.
 * Woot.com is awesome
@@ -596,11 +605,11 @@ H&R Block will also do it for around $300.
   winners. It's a good way to share your experiences and you might be up for
   some money for grabs.
 * Daily deal sites like Groupon, Living Social and Amazon Local are good sources
-  for activities that you might not know exist in your area. 
+  for activities that you might not know exist in your area.
 * Learn how to do some basic conversions from metric to imperial so you can
   make conversation about the weather (fahrenheit), order ham from the deli
   (ounces), drive without speeding (miles), etc.
-  
+
   * Shortcut for estimating from F to C: (weather in F - 30) / 2 = weather in
     C. This will be off by 1 or 2 degrees, but works well for situations like
     figuring out what to wear in the morning.
@@ -614,7 +623,7 @@ If you are an intern and have more info let me know.
 
 <section id="Area-California" />
 ### California (General)
-* In-N-Out burger is a must try. Checkout the Animal Style burger on their 
+* In-N-Out burger is a must try. Checkout the Animal Style burger on their
   [secret menu](http://www.in-n-out.com/secretmenu.asp).
 * Many people like [Chipotle](http://www.chipotle.com/)
 * Eric found [USAA](www.usaa.com) very useful for car rentals.
@@ -628,7 +637,7 @@ If you are an intern and have more info let me know.
     (which saves a heck of a lot of money) and there's a discount (usually 10%)
     woven into there as well. You can also get these without going through USAA
     but USAA has the benefit of combining the two into one discount code. Hertz
-    in particular allows for two discount codes, so you can often layer the 
+    in particular allows for two discount codes, so you can often layer the
     discounts on and save a lot.
   * Being part of USAA also means you get free club gold membership into Hertz,
     which lets you build points for stuff like free day rentals, weekend
@@ -685,8 +694,8 @@ If you are an intern and have more info let me know.
 * BART is a high-speed subway-ish system that goes around the more city-like
   parts of the Bay Area and hits more major destinations. BART from the airport
   to SF is super clean and ~$8.
-* Caltrain is a light-rail system that goes through all of Silicon Valley for 
-  under $10. If you've heard of the GO train in the GTA, it's similar. They do 
+* Caltrain is a light-rail system that goes through all of Silicon Valley for
+  under $10. If you've heard of the GO train in the GTA, it's similar. They do
   often check tickets though, and you need to buy them before you board.
 * Clipper Card is a free card you can get and load with money which can be used
   on all of these transit systems seamlessly. Get one.
@@ -790,7 +799,7 @@ It's worth a trip after your first paycheque.
     * [Beautiful view of Honolulu and the surrounding ocean](http://www.yelp.com/biz/diamond-head-state-monument-honolulu):
       about a 20-30 minute hike up.
   * on Big island:
-    * [Playing with molten lava](http://www.kalapanaculturaltours.com/)! The 
+    * [Playing with molten lava](http://www.kalapanaculturaltours.com/)! The
       national park on the island is alright, but this tour company actual takes
       you out to the lava fields and lets you get up close to molten lava. You
       can even poke it with a stick if you want. One of the highlights of Eric's
@@ -804,7 +813,7 @@ It's worth a trip after your first paycheque.
 
 Checkout the Valley Fair Mall and Santana Row. Valley Fair Mall is a typical
 mall with everything that you expect in a Canadian Mall. Da' Anza and Stevens
-Creek has plenty of eatery's around. If you haven't tried California Pizza 
+Creek has plenty of eatery's around. If you haven't tried California Pizza
 Kitchen, you have to go immediately. If you want to go clubbing you have to hit
 up SF or Mountain View.
 
@@ -858,12 +867,12 @@ up SF or Mountain View.
     Clean and very nice. Less than 20 minute bike ride to Google.
 
 * Mountain View - [AvalonBay](http://www.avalonbay.com)
-  is okay if you have 1 person in the living room. ~$2600 a month for 
+  is okay if you have 1 person in the living room. ~$2600 a month for
   2 bedroom, unfurnished. Very close to the CalTrain; very close to Castro Street (restaurants)
   and it's a 15 minute bike ride through a biking trail to Google/LinkedIn. They have 3 pools and a gym.
 
   * 2012F - Viktor - Expect to not get your deposit of $750 back because they need to "clean" the place
-  and they charged us $600 for no reason (something's really messed up with their 
+  and they charged us $600 for no reason (something's really messed up with their
   internal communications). The pool is not heated. It's a lie. It took them 2 months to sort out the
   fact that we weren't supposed to pay for the first 3 days when they didn't give us the keys.
   I guess they never did fix those charges. Their contract actually makes no sense if you try to read it. It's
@@ -966,23 +975,23 @@ up SF or Mountain View.
 * Don't believe anyone who tries to intimidate you with tales of barren
   landscapes and cowboys. Austin is nothing like that!
 * College football is a huge deal. The colour of the Texas Longhorns (University of Texas) is burnt orange.
-* Austinites LOVE their food. When someone mentions a new food place, everyone 
-  else chimes in with opinions/makes a mental note to try it. 
+* Austinites LOVE their food. When someone mentions a new food place, everyone
+  else chimes in with opinions/makes a mental note to try it.
 * Way lower cost of living than SF, especially housing.
-* A very dog-friendly city. There are dog parks, dog-friendly restaurants and 
+* A very dog-friendly city. There are dog parks, dog-friendly restaurants and
   bars, even dog bakeries.
 * Very biker-friendly city too.
 * Public transport sucks. It's impossible to get around without a car. GET A CAR.
 * Watch out for deer crossing the roads/highways further out from downtown Austin.
-* Vintage shops, thift shops and local art along the street/bazaars make good 
-  places to shop for gifts. 
-* Downtown Austin is where the University of Texas is. West Lake is the richest 
-  area in Austin, and also where Bazaarvoice is located. 
+* Vintage shops, thift shops and local art along the street/bazaars make good
+  places to shop for gifts.
+* Downtown Austin is where the University of Texas is. West Lake is the richest
+  area in Austin, and also where Bazaarvoice is located.
 * Weather can get up to 40 celcius (110 F) in the summer, and drops to 30
-  celcius around mid-Sept. Even in December, weather might be something crazy like 
-  23 celcius. 
+  celcius around mid-Sept. Even in December, weather might be something crazy like
+  23 celcius.
 * If it ever snows in the winter, nobody dares to drive and no one goes to
-  work. 
+  work.
 * Shopping carts are also known as 'baskets', or 'buggies'. Use at own risk.
 
 #### Transport
@@ -991,27 +1000,27 @@ up SF or Mountain View.
   your company to subsidize/sponsor one, or give you a transport stipend. If
   you are under 21, make sure you get this straightened out beforehand, because
   car rental companies are iffy about car insurance, so you might not qualify
-  for rental. 
-* If you don't have a car, be prepared to spend a ton of money cabbing, even for 
+  for rental.
+* If you don't have a car, be prepared to spend a ton of money cabbing, even for
   trivial things like groceries. Ask Xenia for details about living by the 360
   highway in West Lake (there is nothing there).
-* Yellow Cab Taxi Austin has a 
+* Yellow Cab Taxi Austin has a
   [mobile app](http://hailacabapp.com/) that you
   can use to get a cab. It's nice if you have no clue what your exact location
   is, just use the app and GPS it. Bonus: you don't have to speak to the
   operator and repeat your personal details over and over again. You also get
   to track your cab as it arrives and they will send you an email when your cab
-  is 0.4 miles away. Note: the waiting time for cabs is 20 minutes on average. 
+  is 0.4 miles away. Note: the waiting time for cabs is 20 minutes on average.
 * Public transport (buses - Capital Metro) only exists near downtown and many
   people have negative opinions about it. Still, if you are spending the whole
   day downtown and don't want to walk or cab, it is a viable option. Xenia used
-  it once during the Formula 1 weekend and it did its job. 
-* Austin is home to 
+  it once during the Formula 1 weekend and it did its job.
+* Austin is home to
   [Mellow Johnny's](http://www.mellowjohnnys.com/) and is a
   very bike-friendly place. People often bike along the 360 highway, and there
   are nice trails in the local parks. Bear in mind there are some _very_ hilly
   and slopey areas so figure out if you are capable of biking those paths
-  before getting a bike. 
+  before getting a bike.
 * Whether biking or driving, WATCH OUT FOR DEER, especially on a highway. They
   can cause a lot of damage. Actually, watch out for them when walking to work
   too (true story).
@@ -1019,7 +1028,7 @@ up SF or Mountain View.
 #### Food
 * Tex-mex (Texas-Mexican) is amazing and very common in Austin. When eating
   Tex-Mex, remember to get queso, because _melted cheese_! Good place are
-  Chuy's, Torchy's, Trudy's. 
+  Chuy's, Torchy's, Trudy's.
 * Texas BBQ: try Rudy's, Salt Lick, County Line, Franklin's, Iron Works. Texas BBQ
   is a must-try! Marbled beef brisket, mm. Ask your colleagues about their
   favourite places too, they will likely all have different opinions. And then
@@ -1031,10 +1040,10 @@ up SF or Mountain View.
   down online, or you might get lucky and find them at an event/music festival.
   Other food trucks stay in 'food truck parks', where there are a bunch of food
   trucks along with some seating areas, completely outdoors. There is one right
-  along South Congress, very strongly recommended. 
+  along South Congress, very strongly recommended.
 * The Oasis: overlooks Lake Travis, go there for a beautiful view. Tourists
   like to go during sunset.
-* Hopdoddy: Fantastic burgers. 
+* Hopdoddy: Fantastic burgers.
 * Sway: Thai fusion. Expensive, but so delicious. Dishes are served to share.
   Try the drinking vinegar too.
 * Uchi (Tyson Cole), or Uchiko (Paul Qui). Japanese fusion, dishes are served to
@@ -1043,7 +1052,7 @@ up SF or Mountain View.
 * South Congress: Magnolia Cafe (24/7 diner), South Congress Cafe, Homeslice
   (gourmet pizza), food trucks.
 * Other places: Foreign and Domestic, Barley Swine, La Condensa, East Side Pie, Contego,
-  Taverna, Mandola's Italian Market, Phil's Ice House. 
+  Taverna, Mandola's Italian Market, Phil's Ice House.
 
 #### Shopping
 * SoCo (South Congress). A street of one-of-a-kind, mostly local vintage/thrift
@@ -1073,9 +1082,9 @@ up SF or Mountain View.
   beginning of the movie, and serve your food in 30 minutes or so. The Alamo
   Drafthouses also do replays of old movies and special screenings for
   holidays, etc.
-* Take a segway tour around downtown! 
+* Take a segway tour around downtown!
 * Music festivals: SXSW, ACL, Fun Fun Fun Fest, and a ton of others. Live
-  concerts too! 
+  concerts too!
 * 6th street: a street of clubs and bars. East 6th is also dubbed 'dirty six',
   West 6th is where the classier places are. There are some under-21 places,
   one of them is 'The Library'. A lot of the bars always have live bands
@@ -1089,7 +1098,7 @@ up SF or Mountain View.
 * Ice skate on the roof of Whole Foods during 'winter'.
 * Go [jet skiing](http://viplaketravis.com/)! Watch out for deals for other
   outdoor activites on LivingSocial/Groupon/Amazon Local, you can get up to 50%
-  off on activities like paddle boating, kayaking, etc. 
+  off on activities like paddle boating, kayaking, etc.
 * Visit a [shooting range](http://www.redsguns.com/).
 * Volunteer at [Dance International](http://dancein.org) in exchange for
   Ballroom dancing lessons for the whole term.
