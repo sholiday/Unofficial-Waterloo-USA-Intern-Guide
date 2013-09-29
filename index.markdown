@@ -624,9 +624,9 @@ If you are an intern and have more info let me know.
 <section id="Area-California" />
 ### California (General)
 * In-N-Out burger is a must try. Checkout the Animal Style burger on their
-  [secret menu](http://www.in-n-out.com/secretmenu.asp).
-* Many people like [Chipotle](http://www.chipotle.com/)
-* Eric found [USAA](www.usaa.com) very useful for car rentals.
+  [secret menu](http://www.in-n-out.com/menu/not-so-secret-menu.aspx).
+* Many people like [Chipotle](https://www.chipotle.com/)
+* Eric found [USAA](https://www.usaa.com) very useful for car rentals.
 
   * The website will make it seem like its for active-duty military or veterans,
     but everyone with an SSN is eligible for the shopping discounts.
@@ -750,7 +750,7 @@ It's worth a trip after your first paycheque.
 * Pizza Hut is not as fancy in the US. It will blow your coworkers' minds if you
   tell them that Pizza Hut is a sit down restaurant with waiters
 
-#### Activites
+#### Activities
 
 
 * [Helicopter Flying](http://verticalcfi.com/) Yes you get to control the
@@ -1097,7 +1097,7 @@ up SF or Mountain View.
 * Armadillo Art Bazaar: occurs before Christmas, fantastic for gift-shopping.
 * Ice skate on the roof of Whole Foods during 'winter'.
 * Go [jet skiing](http://viplaketravis.com/)! Watch out for deals for other
-  outdoor activites on LivingSocial/Groupon/Amazon Local, you can get up to 50%
+  outdoor activities on LivingSocial/Groupon/Amazon Local, you can get up to 50%
   off on activities like paddle boating, kayaking, etc.
 * Visit a [shooting range](http://www.redsguns.com/).
 * Volunteer at [Dance International](http://dancein.org) in exchange for
