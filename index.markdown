@@ -513,37 +513,48 @@ $30 per year after that.
 ### Bringing Money Back
 There are a lot of ways to bring your hard earned dough back to Canada.
 
-Some really creative ways:
+The main thing to keep in mind is that while some broker may not charge a "fee" the rate they
+offer may be several pips from [mid-market rates](http://www.xe.com/faq/rates_buyorsellrates.php).
 
+#### What Stephen Does
+Here's what Stephen thinks is the way most people will want to bring their money back: [xe.com](xe.com)
+
+* [xe.com](xe.com) generally (spreads are not fixed) has a good rate. About 1.5% off of the rate posted by Google.
+* You do need to validate your identity, they will probbably ask to scan your ID.
+* The actual transfer does take a while, less than a week. (Depending on your bank)
+* Use the Bid feature. You can set a transaction to occur when the rate hits some desired value.
+* Don't trade on weekends. Weekends have less volume and a higher spread.
+
+Stephen sucks at playing the market so he just transfer money over ~$1k at a
+time to try and even out my loss/gain. Stephen and Chris love xe.com's bid
+system. With xe, you can make a trade right away or set a transaction to occur
+once the rate hits some desired value.
+
+#### Some Creative Ways
+
+* Capital One Credit Card - I heard that they [eat the 1% MasterCard / Visa network fee](http://www.bankrate.com/finance/credit-cards/latest-currency-conversion-fees-1.aspx).
 * Bring it in cash across the border (if it's over 10k you need to declare it.
   it's a lot in $20's, Stephen doesn't do this anymore).
 * Mailing it by UPS/FedEx insured (got this from a TD Canada banker)
 * Buying equity on a cross listed item and selling it on a Canadian exchange
   (best rate I hear, but sounds tricky). This is called
   [Norbet's Gambit](http://www.finiki.org/index.php?title=Norbert%27s_Gambit).
-
-Some more tame ways:
-
-* [xe.com](http://www.xe.com/), this is the preferred method.
-  Generally a 1.5% spread which is pretty good.
-* Wire transfer
-* Cash a check (takes 20-30 days I hear). Shale has had a lot of success depositing cheques from his American account directly into his Canadian account. The first cheque took 7 days, subsequent cheques were instant.
-* RBC Royal Bank (they have a cross boarder checking account, but the spread is
-  usually 2.5%, Stephen doesn't do this any more)
 * Using your family member who works at a bank and gets currency exchanged at
   cost (We're told this is the best possible)
 
+#### Not Recommend Ways
+
+* Wire transfer (mad fees)
+* Cash a check (takes 20-30 days for the first I hear). Keep in mind, bank currency rates are generally terrible.
+  usually 2.5%, Stephen doesn't do this any more)
+
+#### Miscellaneous
 If you end up with American funds in Canada, Stephen recommends opening a US
 dollar account and convert it over time so you don't get bit by the exchange
 rate. You can use xe.com even with a USD account in Canada.
 
 Stephen also keeps some USD funds in a USD TD account in Canada so he can get
 small bills and sell USD to family without a spread.
-
-Stephen sucks at playing the market so he just transfer money over ~$1k at a
-time to try and even out my loss/gain. Stephen and Chris love xe.com's bid
-system. With xe, you can make a trade right away or set a transaction to occur
-once the rate hits some desired value.
 
 Keep in mind that some banks charge different spreads depending on how much you
 transfer. $1,100 worked best for Stephen.
