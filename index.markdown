@@ -51,6 +51,7 @@ request. I'll note you if you want to be noted.
 * [Xenia Tay](http://xeniatay.com)
 * [Shale Craig](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 * [Amir Sharif](http://www.amirsharif.com)
+* [Joshua Kalpin](http://github.com/kapin)
 
 ### License
 <a href="http://creativecommons.org/licenses/by-nc-sa/2.5/ca/">
@@ -686,6 +687,9 @@ If you are an intern and have more info let me know.
   are *steep*. You know that scene in The Princess Diaries where she's pushing
   her scooter up the hill? We know you watched it - that's not a cheap scooter,
   those hills are vicious.
+* Bring a very good pair of walking shoes or buy them when you get there; especially
+  if you have flat feet or any other leg or foot issues. As mentioned before, the 
+  hills are vicious and the easiest way to get around the city is to walk places.
 * Get a SafeWay Card, it's free and literally saved me over $100. Also, tell them
   you'll fill it out later and you're in a hurry. That way you get the discounts,
   but they don't have your personal information.
