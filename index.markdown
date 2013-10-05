@@ -181,6 +181,12 @@ OR
 
 #### SSA Offices
 
+##### San Francisco - Chinatown
+Go early and still expect to be there at least 2 hours. They will check your bag on 
+the way in, but no additional security. Make sure you are paying attention to when 
+your number because of how busy it is. Card arrival time was all over the place. Some
+people got it as early as 1 week, while others waited 2-3 weeks.
+
 ##### Mountain View
 Not as long of a wait to get into the office (not as much security screening),
 but took longer for the card to arrive. Tends to be less of a wait in the morning, arrive 30 minutes before it opens.
@@ -406,7 +412,10 @@ Chase is OK there too. They also have many branches there - and they are
 very nice!
 
 BoA and Chase have ATMs that scan cheques instead of using envelopes.
-Others might have this too.
+Others might have this too. 
+
+Chase's mobile app can also deposit cheques for you using the phone's camera. 
+Josh worked with the person who built this at Chase. It is very secure.
 
 Wells Fargo is known for being super nice.
 Wells Fargo has been seen by at least one person as being tougher for a CC.
@@ -705,7 +714,8 @@ If you are an intern and have more info let me know.
 #### Transportation
 * MUNI is the basic transit service, there are buses, streetcars, cable cars
   (streetcars that go up steep hills, $6/ride and in tourist areas) and subways
-  as well.
+  as well. The busses are almost never on time. If you can take a streetcar, 
+  take that instead.
 * BART is a high-speed subway-ish system that goes around the more city-like
   parts of the Bay Area and hits more major destinations. BART from the airport
   to SF is super clean and ~$8.
@@ -719,7 +729,9 @@ If you are an intern and have more info let me know.
   gas.
 * [Ubers](http://uber.com): popular and stylish alternative to taxis.
   You get a private driver and payment is hassle free--they'll automatically
-  charge the credit card you have on file (including tip).
+  charge the credit card you have on file (including tip). UberX is the cheapest
+  option when ordering a ride, and if you have a large group it can be cheaper to
+  order multiple UberX vehicles instead of a SUV.
   You can request an Uber via SMS, or from their iPhone or Android app. The
   seats are extremely comfortable.
 
@@ -753,6 +765,9 @@ If you are an intern and have more info let me know.
 ### Food
 * If you are looking for cheap, delicious meals, head over to Chinatown.
 Big boxes of dim sum for ~$4, bubble tea is only ~$2 (they call it boba)
+* If you want a burrito, most places in the Mission are dirt cheap and
+  give you an amazing Burrito. Josh's favourite is El Farolito at 24th
+  and Mission (Cash Only).
 
 <section id="Area-BayArea" />
 ### Bay Area
