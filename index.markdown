@@ -36,22 +36,22 @@ request. I'll note you if you want to be noted.
 
 * [Aamir Mansoor](http://aam1r.com)
 * [Akshay Joshi](http://akshayjoshi.com)
+* [Amir Sharif](http://www.amirsharif.com)
 * [Chris Vandevelde](http://www.imlikeaninja.com)
 * [Dennis Ideler](http://dennisideler.com)
 * [Edward Sun](http://www.edwardsun.com)
 * [Elisa Lou](http://aimango.wordpress.com/)
 * [Eric Yam](http://www.ericyam.com)
 * [Felix Fung](http://feli.xxx)
+* [Joshua Kalpin](http://github.com/kapin)
 * [Michael Truong](http://www.linkedin.com/in/truongmichael)
 * [Nansen Lin](http://www.linkedin.com/pub/nansen-lin/28/6b4/92a)
 * [Prashanth Madhi](http://ece.uwaterloo.ca/~pmadhiya)
+* [Shale Craig](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 * [Stephen Holiday](http://stephenholiday.com)
 * [Viktor Stanchev](http://viktorstanchev.com)
-* [Zameer Manji](http://zameermanji.com)
 * [Xenia Tay](http://xeniatay.com)
-* [Shale Craig](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-* [Amir Sharif](http://www.amirsharif.com)
-* [Joshua Kalpin](http://github.com/kapin)
+* [Zameer Manji](http://zameermanji.com)
 
 ### License
 <a href="http://creativecommons.org/licenses/by-nc-sa/2.5/ca/">
