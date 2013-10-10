@@ -538,9 +538,9 @@ The main thing to keep in mind is that while some broker may not charge a "fee" 
 offer may be several pips from [mid-market rates](http://www.xe.com/faq/rates_buyorsellrates.php).
 
 #### What Kevin Does
-If you are with TD Canada and TD Bank, they will transfer your money between countries without any fees. For Kevin, this involved a five-minute phone call and a 2 business day wait. You can either open an American dollar account in TD Canada or have them exchange your money for CAD and deposit it in your Canadian checking account. It may be a good idea to use a USD account at TD Canada, then exchange money when the exchange rate is better.
+If you are with TD Canada and TD Bank, they will transfer your money between countries. For Kevin, this involved a five-minute phone call and a 2 business day wait. You can either open an American dollar account in TD Canada or have them exchange your money for CAD and deposit it in your Canadian checking account. It may be a good idea to use a USD account at TD Canada, then exchange money when the exchange rate is better.
 
-Kevin thinks that all of the below methods are laughable, since his method involves no fees.
+TD insists that [there are no fees for this service](http://www.tdbank.com/personal/cross-border-banking.html), but it may be the case that they charge somewhere between 0.5% and 1.5% depending on the amount transferred. YMMV.
 
 #### What Stephen Does
 Here's what Stephen thinks is the way most people will want to bring their money back: [xe.com](xe.com)
