@@ -44,15 +44,16 @@ request. I'll note you if you want to be noted.
 * [Eric Yam](http://www.ericyam.com)
 * [Felix Fung](http://feli.xxx)
 * [Joshua Kalpin](http://github.com/kapin)
+* [Kevin James](http://thekev.in)
 * [Michael Truong](http://www.linkedin.com/in/truongmichael)
 * [Nansen Lin](http://www.linkedin.com/pub/nansen-lin/28/6b4/92a)
 * [Prashanth Madhi](http://ece.uwaterloo.ca/~pmadhiya)
+* [Rickey Wang](http://www.rickeyw.com/)
 * [Shale Craig](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 * [Stephen Holiday](http://stephenholiday.com)
 * [Viktor Stanchev](http://viktorstanchev.com)
 * [Xenia Tay](http://xeniatay.com)
 * [Zameer Manji](http://zameermanji.com)
-* [Kevin James](http://thekev.in)
 
 ### License
 <a href="http://creativecommons.org/licenses/by-nc-sa/2.5/ca/">
@@ -539,11 +540,6 @@ There are a lot of ways to bring your hard earned dough back to Canada.
 The main thing to keep in mind is that while some broker may not charge a "fee" the rate they
 offer may be several pips from [mid-market rates](http://www.xe.com/faq/rates_buyorsellrates.php).
 
-#### What Kevin Does
-If you are with TD Canada and TD Bank, they will transfer your money between countries. For Kevin, this involved a five-minute phone call and a 2 business day wait. You can either open an American dollar account in TD Canada or have them exchange your money for CAD and deposit it in your Canadian checking account. It may be a good idea to use a USD account at TD Canada, then exchange money when the exchange rate is better.
-
-TD insists that [there are no fees for this service](http://www.tdbank.com/personal/cross-border-banking.html), but it may be the case that they charge somewhere between 0.5% and 1.5% depending on the amount transferred. YMMV.
-
 #### What Stephen Does
 Here's what Stephen thinks is the way most people will want to bring their money back: [xe.com](xe.com)
 
@@ -569,6 +565,15 @@ once the rate hits some desired value.
   [Norbet's Gambit](http://www.finiki.org/index.php?title=Norbert%27s_Gambit).
 * Using your family member who works at a bank and gets currency exchanged at
   cost (We're told this is the best possible)
+
+#### What Kevin Does If you are with TD Canada and TD Bank, they will transfer
+your money between countries. For Kevin, this involved a five-minute phone call
+and a 2 business day wait. You can either open an American dollar account in TD
+Canada or have them exchange your money for CAD and deposit it in your Canadian
+checking account. It may be a good idea to use a USD account at TD Canada, then
+exchange money when the exchange rate is better.
+
+TD insists that [there are no fees for this service](http://www.tdbank.com/personal/cross-border-banking.html), but it may be the case that they charge somewhere between 0.5% and 1.5% depending on the amount transferred. YMMV.
 
 #### Not Recommend Ways
 
@@ -1185,18 +1190,18 @@ up SF or Mountain View.
 #### Housing
 * The usual websites will do. If you speak Chinese, check out [CSSA-IIT](http://www.cssa-iit.org/) or [Chinese of Chicago](http://bbs.chineseofchicago.com/) for housing. Most are near Chinatown, IIT, UIC, or Loyola.
 * Try to target your research on the North and North West of Chicago, for safety reasons. Stay close to the 'L'. Here are some nice neighbourhoods you'd want to stay in:
-<pre>
-*Lincoln Park
-*Bucktown
-*Wicker Park (Not West Wicker Park)
-*Ukrainian Village
-*East Village
-*Noble Square
-*Logan Square
-*Near North Side (Expensive) 
-*South Loop 
-*Lakeview
-</pre>
+
+  * Lincoln Park
+  * Bucktown
+  * Wicker Park (Not West Wicker Park)
+  * Ukrainian Village
+  * East Village
+  * Noble Square
+  * Logan Square
+  * Near North Side (Expensive) 
+  * South Loop
+  * Lakeview
+
 * The price for a rent in those neighbourhoods is between 500$ and a 1000$/month, for a shared apartment with your own room. Normally the rooms are not furnished, so always ask details. 
 * Also, in every case, you will have to pay two rents the first month, one for your rent and one for the deposit. 
 * Demographic data is available on [NYTimes](http://projects.nytimes.com/census/2010/explorer).
