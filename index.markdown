@@ -52,6 +52,7 @@ request. I'll note you if you want to be noted.
 * [Viktor Stanchev](http://viktorstanchev.com)
 * [Xenia Tay](http://xeniatay.com)
 * [Zameer Manji](http://zameermanji.com)
+* [Kevin James](http://thekev.in)
 
 ### License
 <a href="http://creativecommons.org/licenses/by-nc-sa/2.5/ca/">
@@ -108,7 +109,7 @@ unless you have the financial ability to not care.
 <section id="Jobs-Perks" />
 ### Perks
 Some companies have cool perks like food, bikes, transit passes, happy hour,
-snacks, game rooms, pool tables, ping pong, fooseball, etc.
+snacks, game rooms, pool tables, ping pong, foosball, etc.
 
 It's worth checking out.
 
@@ -136,6 +137,7 @@ Have a second (or third) copy of all travel documents:
 5. Resume (for customs, weird eh)
 6. Map surrounding hotel/apartment
 7. Boarding pass
+8. Proof of cash-on-hand (for customs, you may need to prove you have $2000 or more)
 
 Don't call it a job or say you are working! The J1 visa status is not meant for
 "working", but rather for "training" in the United States. Remember, you're just
@@ -147,7 +149,8 @@ they have instant access to them just in case I lose anything.
 If you are a US citizen, some of the above do not apply to you.
 Make sure you have your US passport, health insurance card, and boarding pass.
 
-If you get the stamp in your passport, that's how you know you did it right.
+If you get the stamp in your passport, that's how you know you did it right. This is changing / has changed: I9's are online / supposed to be online. Depending where you land, they may or may not have instituted online-only I9's.
+
 If you are on a connection flight it doesn't hurt to ask the person at the gate
 waiting area to double-check your connection flight. Amir found out he would miss his connection flight -- Delta airlines reroute his flight for free and he was bumped to first class and also got to San Francisco earlier than he would've even without the delay.
 
@@ -200,6 +203,9 @@ No security screening outdoors, short waiting time and very friendly service.
 Application process took less than 10 minutes and card arrived in 2 weeks as
 promised.
 
+##### Boston / Cambridge
+No security screening outdoors, ID check as you enter. Short waiting time and friendly service. Application process took 15 minutes and card arrived in 3 business days (was promised two weeks).
+
 As with everything else, your mileage may vary.
 
 ---
@@ -212,7 +218,7 @@ You'll want to start your search early.
 Check out the area specific section for more info.
 <section id="Living-Roommates" />
 ### Roommates
-It's easier (and cheaper) to find a place for 3 or 4 people than it is to for a
+It's easier (and cheaper) to find a place for 3 or 4 people than it is for a
 single person for a 4-month lease.
 
 Contact your company and try to get emails of other Waterloo students going down
@@ -394,6 +400,7 @@ You may not want one for several reasons:
 
 * There may be a minimum balance after 6 months
 * Having interest income in the US can complicate taxes (not an expert)
+* Some savings accounts require fees which may end up being more than the interest on your account
 
 Choosing a Bank is up to you and your preferences.
 Stephen suggests you stick to one of:
@@ -401,6 +408,8 @@ Stephen suggests you stick to one of:
 * Chase
 * Bank of America
 * Wells Fargo
+
+Kevin suggests you use TD Bank, especially if ATMs are convenient for where you live / work. TD Bank hours are generally better than any other American banks (they are open late on weekdays and for several hours on weekends).
 
 If you are in NY Chase is the one to open.
 There are so many Chase branches and ATMs.
@@ -420,10 +429,10 @@ Josh worked with the person who built this at Chase. It is very secure.
 Wells Fargo is known for being super nice.
 Wells Fargo has been seen by at least one person as being tougher for a CC.
 
-You will *not* need a SSN to open an account at the three listed banks.
+You will *not* need a SSN to open an account at the four listed banks.
 They will need your J-1 Visa for filling in your bank details, so bring your
 passport and visa. You don't even need a permanent address. Some have had luck
-with using their hotel's or their company's.
+with using their hotel's or their company's. Once you do receive your SSN, it is a good idea to update this with your bank in order to build a scredit rating in America.
 
 Stephen's always kept a US bank account open.
 It's super useful to have. If you come back to the US again you're all setup.
@@ -433,7 +442,7 @@ Eric says that keeping your bank account open is also great for getting credit
 in the future.
 
 Some people want to close their account to avoid bank fees.
-Most banks (BoA, Chase, Wells Fargo) offer a _student account_ for 5 years from
+Most banks (BoA, Chase, Wells Fargo, TD) offer a _student account_ for 5 years from
 when you sign up. Bring your student ID card. They don't require any minimum
 activity other than some nominal balance.
 
@@ -514,6 +523,8 @@ call a number (or call for you on your behalf) about 24-48 hours later
 (excluding weekends). If not, here's the number you can call: 1-888-503-6092.
 They'll ask for your Canadian SIN number and your last address in Canada. YMMV.
 
+Kevin was in the same situation and followed the same process at TD Bank with similar results.
+
 One surefire way of getting a credit card fairly soon would be to apply for a
 Capital One credit card that's directly targeted for people with no credit
 history/newcomers. Beware this card is free for the first year, but costs around
@@ -525,6 +536,11 @@ There are a lot of ways to bring your hard earned dough back to Canada.
 
 The main thing to keep in mind is that while some broker may not charge a "fee" the rate they
 offer may be several pips from [mid-market rates](http://www.xe.com/faq/rates_buyorsellrates.php).
+
+#### What Kevin Does
+If you are with TD Canada and TD Bank, they will transfer your money between countries. For Kevin, this involved a five-minute phone call and a 2 business day wait. You can either open an American dollar account in TD Canada or have them exchange your money for CAD and deposit it in your Canadian checking account. It may be a good idea to use a USD account at TD Canada, then exchange money when the exchange rate is better.
+
+TD insists that [there are no fees for this service](http://www.tdbank.com/personal/cross-border-banking.html), but it may be the case that they charge somewhere between 0.5% and 1.5% depending on the amount transferred. YMMV.
 
 #### What Stephen Does
 Here's what Stephen thinks is the way most people will want to bring their money back: [xe.com](xe.com)
