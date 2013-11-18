@@ -43,7 +43,7 @@ request. I'll note you if you want to be noted.
 * [Elisa Lou](http://aimango.wordpress.com/)
 * [Eric Yam](http://www.ericyam.com)
 * [Felix Fung](http://feli.xxx)
-* [Joshua Kalpin](http://github.com/kapin)
+* [Joshua Kalpin](http://joshuakalp.in)
 * [Kevin James](http://thekev.in)
 * [Michael Truong](http://www.linkedin.com/in/truongmichael)
 * [Nansen Lin](http://www.linkedin.com/pub/nansen-lin/28/6b4/92a)
@@ -426,6 +426,9 @@ very nice!
 BoA and Chase have ATMs that scan cheques instead of using envelopes.
 Others might have this too. 
 
+Chase offers Disney debit cards with everything from Mickey Mouse
+to Disney princesses on them. Josh enjoyed this option.
+
 Chase's mobile app can also deposit cheques for you using the phone's camera. 
 Josh worked with the person who built this at Chase. It is very secure.
 
@@ -657,6 +660,8 @@ H&R Block will also do it for around $300.
   * Shortcut for estimating from F to C: (weather in F - 30) / 2 = weather in
     C. This will be off by 1 or 2 degrees, but works well for situations like
     figuring out what to wear in the morning.
+* Meetups are a great way to learn new things and meet new people.
+  See [meetup.com](http://meetup.com) for more details on specific groups.
 
 ---
 
@@ -764,6 +769,7 @@ If you are an intern and have more info let me know.
   any hotel. I used GO Lorrie's Airport Shuttle to get to Park Hotel.
 * From Palo Alto, the [KX Bus](http://www.samtrans.com/schedulesandmaps/timetables/KX.html) leaves from the bus area at the Palo Alto Caltrain station. It's cheaper than taking the Caltrain to SFO.
 * Some people prefer [Super Shuttle](http://www.supershuttle.com/). From a hotel, they cost ~25 for the first person. After the initial person, the cost goes down to ~10 per person for the next people.
+* Others like gettting an Uber from the airport. It is a $65 flat fee to/from the airport.
 * If you are flying Delta, the curbside luggage check at SFO is free, and they can print you a boarding pass. This means you don't need to carry your luggage that much further, and it usually has a much shorter line.
 * Unless you live nearby, It is almost never worth flying to/from Oakland.
 
