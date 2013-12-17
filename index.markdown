@@ -1182,6 +1182,8 @@ up SF or Mountain View.
 * Metra is commuter rail, often only run during weekday rush hours (like most GO Trains). It's also more expensive than CTA. 
 * Pace is the regional bus service that goes to the subrubs.
 * Divvy is the bike-sharing program, like Toronto's Bixi.
+* Chicago drivers are among the worst in America. Be careful. 
+* Taxis are easy to come by in Downtown/Loop. Sketchiness vary. Try not to use credit cards on taxis because your credit card info may get stolen. If you do attempt to use credit card, some may tell you that the machine is down, which more often than not is a lie. 
 
 #### Food
 * Near North Side has a lot of food options. Although a lot of them are fancy restaurants, there are also many affodable ones. Giordano's and Portillo's were wonderful.
