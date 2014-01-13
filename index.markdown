@@ -51,6 +51,7 @@ request. I'll note you if you want to be noted.
 * [Rickey Wang](http://www.rickeyw.com/)
 * [Shale Craig](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 * [Stephen Holiday](http://stephenholiday.com)
+* [Tony Dong](http://tony-dong.com)
 * [Viktor Stanchev](http://viktorstanchev.com)
 * [Xenia Tay](http://xeniatay.com)
 * [Zameer Manji](http://zameermanji.com)
@@ -192,6 +193,9 @@ Go early and still expect to be there at least 2 hours. They will check your bag
 the way in, but no additional security. Make sure you are paying attention to when 
 your number because of how busy it is. Card arrival time was all over the place. Some
 people got it as early as 1 week, while others waited 2-3 weeks.
+
+##### San Francisco - SoMa
+Get there when it opens(9 am), bring all your paperwork and you'll be out of there in an hour. There is security on the way in. It takes about 2 weeks to get the card.
 
 ##### Mountain View
 Not as long of a wait to get into the office (not as much security screening),
