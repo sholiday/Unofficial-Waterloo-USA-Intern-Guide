@@ -43,6 +43,7 @@ request. I'll note you if you want to be noted.
 * [Elisa Lou](http://aimango.wordpress.com/)
 * [Eric Yam](http://www.ericyam.com)
 * [Felix Fung](http://feli.xxx)
+* [Gary Guo](ca.linkedin.com/pub/gary-guo/46/b0a/55b)
 * [Joshua Kalpin](http://joshuakalp.in)
 * [Kevin James](http://thekev.in)
 * [Michael Truong](http://www.linkedin.com/in/truongmichael)
@@ -318,6 +319,13 @@ In the past some groups were able to get a reduced rate by getting a family
 and friends plan.
 
 To save money on various taxes for his pre-paid T-Mobile plan, Rickey used [CallingMart](http://www.callingmart.com/).
+
+##### T-Mobile's Hidden Plan
+Gary writes in with this tip:
+
+T-Mobile offers a sort of "hidden" $30 a month plan. It has unlimited text and data and 100 minutes of talk. You get 5GB of data a month at 4G speeds and drop to 2G speeds (~56kb/s) if you go over the limit. To get this plan you MUST get an unactivated sim card. You can pick up a T-Mobile "sim kit" with an unactivated sim from either a Walgreens (most convenient since they are literally everywhere), a best buy or a walmart. Simply look in the electronic section. The sim kit should cost $10. Note that this only works if you own an unlocked phone (of course if you have a locked phone you can simply purchase an unlock code online for as little as $10 although you might need to check if your phone works on T-Mobile's band).
+
+The kit will direct you online where you can activate the card as well as choose the plan. The plan will only show up if you do it this way. You cannot find this plan in T-Mobile stores. The sim kit has a regular sized sim. If you need a micro sim you can either cut it yourself (google a stencil online, print and use scissors to cut) or head to your nearest T-Mobile store and ask them to cut it.
 
 ##### Micro-SIM cards
 Sometimes, locations that sell packages for prepaid plans only have normal SIM
