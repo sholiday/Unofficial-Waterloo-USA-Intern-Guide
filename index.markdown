@@ -37,6 +37,7 @@ request. I'll note you if you want to be noted.
 * [Aamir Mansoor](http://aam1r.com)
 * [Akshay Joshi](http://akshayjoshi.com)
 * [Amir Sharif](http://www.amirsharif.com)
+* [Avi Itskovich](http://itskovi.ch/)
 * [Chris Vandevelde](http://www.imlikeaninja.com)
 * [Dennis Ideler](http://dennisideler.com)
 * [Edward Sun](http://www.edwardsun.com)
@@ -641,6 +642,8 @@ himself for 2012. He did them in 2011 and found them not much harder than
 discussing with your accountant.
 
 H&R Block will also do it for around $300.
+
+If you are traveling on a Canadian Passport to the US to visit (not J-1), you are likely on a B-2 visa. This tidbit is useful if you travel to the US for pleasure after the completion of your J-1.
 
 [Unofficial-Tax-Guide]: http://feli.xxx/taxguide
 [IRS-FreeTaxReturn]: http://www.irs.gov/Individuals/Free-Tax-Return-Preparation-for-You-by-Volunteers
