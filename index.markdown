@@ -44,6 +44,7 @@ request. I'll note you if you want to be noted.
 * [Elisa Lou](http://aimango.wordpress.com/)
 * [Eric Yam](http://www.ericyam.com)
 * [Felix Fung](http://feli.xxx)
+* [Felix Mo](http://felixmo.com)
 * [Gary Guo](ca.linkedin.com/pub/gary-guo/46/b0a/55b)
 * [Joshua Kalpin](http://joshuakalp.in)
 * [Kevin James](http://thekev.in)
@@ -80,7 +81,7 @@ Some of us have done it without trouble successfully.
 
 <section id="Jobs-Pay" />
 ### Pay
-Ask the pay in the interview. There is no reason not too. If they give you some
+Ask the pay in the interview. There is no reason not to. If they give you some
 '*competitive pay*' ask them in an email before you accept their offer.
 '*Competitive pay*' can range from $25/hr - $45/hr with or without housing and
 plane tickets.
@@ -94,9 +95,9 @@ has a recent blog post about `average` pay rates, whatever that means.
 Ask if they offer any help in terms of relocation.
 
 Many companies offer a housing stipend (a bit of money, often taxable).
-Some will put you up in subsidized or free housing (Amazon, Apple etc).
+Some will put you up in subsidized or free housing (Amazon, Apple, etc).
 
-Ask if they cover flight. If you are going to San Francisco, $500-750 round trip
+Ask if they cover flights. If you are going to San Francisco, use $500-750 round trip
 after tax as a guide. New York is a lot cheaper.
 
 Some people prefer spending a few days in a hotel at their company's expense
@@ -128,8 +129,8 @@ and start date. Its useful for the visa.
 
 CECA and CDS/AIPT (now Cultural Vistas) will guide you through the process.
 
-Note: It is possible to extend your Visa up to one year total if you are staying at the same company.
-However, you will not be able to work for a different employer in a consecutive term unless you applied for the visa before you leave for the states.
+Note: It is possible to extend your visa up to one year total if you are staying at the same company.
+However, you will not be able to work for a different employer in a consecutive term unless you applied for the visa before you leave for the US.
 <section id="Paperwork-BeforeYouGo" />
 ### Before You Go
 Have a second (or third) copy of all travel documents:
@@ -143,7 +144,7 @@ Have a second (or third) copy of all travel documents:
 7. Boarding pass
 8. Proof of cash-on-hand (for customs, you may need to prove you have $2000 or more)
 
-Don't call it a job or say you are working! The J1 visa status is not meant for
+Don't call it a job or say you are working! The J-1 visa status is not meant for
 "working", but rather for "training" in the United States. Remember, you're just
 a poor little intern *training* in the United States!
 
@@ -153,7 +154,7 @@ they have instant access to them just in case I lose anything.
 If you are a US citizen, some of the above do not apply to you.
 Make sure you have your US passport, health insurance card, and boarding pass.
 
-If you get the stamp in your passport, that's how you know you did it right. This is changing / has changed: I9's are online / supposed to be online. Depending where you land, they may or may not have instituted online-only I9's.
+If you get the stamp in your passport, that's how you know you did it right. This is changing / has changed: I-94's are [online](https://i94.cbp.dhs.gov/I94/request.html) / supposed to be online. Depending where you land, they may or may not have instituted online-only I-94's.
 
 If you are on a connection flight it doesn't hurt to ask the person at the gate
 waiting area to double-check your connection flight. Amir found out he would miss his connection flight -- Delta airlines reroute his flight for free and he was bumped to first class and also got to San Francisco earlier than he would've even without the delay.
@@ -163,18 +164,18 @@ waiting area to double-check your connection flight. Amir found out he would mis
 Apply for your SSN as soon as you have been in the US for at least *10 days*. It
 takes 10 days for SEVIS to sync up with the SSA's database of people eligible to
 apply for a social security number. Yes, you have to wait for them to copy by
-hand and deliver the data by pidgeon. If you apply early, they'll lie to you
+hand and deliver the data by pigeon. If you apply early, they'll lie to you
 that it will be okay if you do it, but it will not work and you will just have
 to try again later.
 
 Some people have entered the US ahead of time by driving to Buffalo or Detroit.
-They enter on their J1 to to get the SEVIS wait process started as well as get
+They enter on their J-1 to to get the SEVIS wait process started as well as get
 a cell phone or bank account. Keep in mind that the immigration center in
 Buffalo can take an hour and a half.
 
 A couple notes for those with name that contain hyphens (like Amir's) but go by a shorter version (Amir is short for Amir-Reza). My training plan had "Amir-Reza", while my I-94 has "Amir", while my passport has "Amir Reza". When applying for my SSN, I ran into some issues since each document had a slightly different variation, but the lady at the counter was nice enough to do it anyway. Bottom line: Always use your full name (exclude hyphens since hyphens are not used in government registries) when applying for, as well dealing with any documents you'll need for your SSN.
 
-Ensure your full name is on the mailbox that the SS card will be delivered to. If your full name is not on the mailbox, USPS will return your SS card back to the Social Security Administration processing centre to be shredded. 
+Ensure your full name is on the mailbox that the Social Security Card will be delivered to. If your full name is not on the mailbox, USPS will return your card back to the Social Security Administration processing centre to be shredded. 
 
 Once you receive your SSN, it is important to let your bank know, so you start building a credit score in the U.S.
 
@@ -190,20 +191,20 @@ OR
 
 #### SSA Offices
 
-##### San Francisco - Chinatown
-Go early and still expect to be there at least 2 hours. They will check your bag on 
+##### [San Francisco - Chinatown](http://www.yelp.ca/biz/social-security-administration-san-francisco-4)
+Go early and still expect to be there for at least 2 hours. They will check your bag on 
 the way in, but no additional security. Make sure you are paying attention to when 
-your number because of how busy it is. Card arrival time was all over the place. Some
+your number is called because of how busy it is. Card arrival time was all over the place. Some
 people got it as early as 1 week, while others waited 2-3 weeks.
 
-##### San Francisco - SoMa
-Get there when it opens(9 am), bring all your paperwork and you'll be out of there in an hour. There is security on the way in. It takes about 2 weeks to get the card.
+##### [San Francisco - SoMa](http://www.yelp.ca/biz/social-security-administration-san-francisco)
+Get there when it opens (9 AM), bring all your paperwork and you'll be out of there in an hour. There is security on the way in. It takes about 2 weeks to get the card.
 
-##### Mountain View
+##### [Mountain View](http://www.yelp.ca/biz/social-security-administration-mountain-view)
 Not as long of a wait to get into the office (not as much security screening),
 but took longer for the card to arrive. Tends to be less of a wait in the morning, arrive 30 minutes before it opens.
 
-##### San Jose Downtown
+##### [San Jose - Downtown](http://www.yelp.ca/biz/social-security-administration-san-jose-3)
 Long wait just to get into the building (outdoor wait due to security
 screening), but card arrived in 2 business days (was promised two weeks).
 
@@ -212,7 +213,7 @@ No security screening outdoors, short waiting time and very friendly service.
 Application process took less than 10 minutes and card arrived in 2 weeks as
 promised.
 
-##### Boston / Cambridge
+##### [Boston / Cambridge](http://www.yelp.ca/biz/social-security-administration-cambridge-3)
 No security screening outdoors, ID check as you enter. Short waiting time and friendly service. Application process took 15 minutes and card arrived in 3 business days (was promised two weeks).
 
 As with everything else, your mileage may vary.
@@ -279,17 +280,17 @@ Some websites I've used are:
 
 <section id="Living-CellService" />
 ### Cell Service
-Unless you're one of those crazy people who wanders around for wifi (I'm looking
+Unless you're one of those crazy people who wanders around for Wi-Fi (I'm looking
 at you Deepinder), you'll want to get cell service.
 
 If you just want a phone that makes phone calls and texts (weirdo) you can get
-some cheap pay as you go phone. Stephen has a BOOST prepaid phone which he uses
+some cheap pay as you go phone. Stephen has a [BOOST](http://www.boostmobile.com/) prepaid phone which he uses
 for when people come to visit him and hasn't had any trouble with it.
 
 <section id="Living-CellService-Smartphones" />
 #### Smartphones
 Getting data for your smartphone is a lot easier with a BlackBerry.
-If you have an unlocked phone, it's really easy. You can get a plan with a sim
+If you have an unlocked phone, it's really easy. You can get a plan with a SIM
 card, pop it in, and walk out of the store Facebooking up a storm.
 
 Amir unlocked his BlackBerry 9900 phone [for a couple dollars](http://freemyblackberry.com/index.php) then bought the $50/mo T-Mobile pre-paid plan. $10 for the new SIM, and it has Unlimited Text/Unlimited Talk/500MB Data. The data is actually unlimited, but the first 500MB is 4G while anything after is throttled at 2G but with no extra cost. Incoming calls and texts from Canada are free, but outgoing is not (ask people to text you, then call them using Google Talk). All in all he paid for everything under $220 (including tax) for the 4 months, up-front.
@@ -297,16 +298,16 @@ Amir unlocked his BlackBerry 9900 phone [for a couple dollars](http://freemyblac
 T-Mobile has monthly 4G plans that range from $30/mo - $70/mo. Note: the plans
 offer data at 'up to' 4G speeds. Xenia found her data a little slow, and
 especially unreliable in moving vehicles, but overall it was good enough for
-email/FB/Twitter. T-mobile will remind you monthly through text messages to
+email/FB/Twitter. T-Mobile will remind you monthly through text messages to
 renew your plan. If you choose not to renew, your plan is automatically
 converted to a pay-as-you-go plan, and you pay for calls/texts with any
-leftover balance in your T-mobile account. Your phone number will expire 3
-months after renewal, so you can keep it until next co-op, if you are returning
+leftover balance in your T-Mobile account. Your phone number will expire 3
+months after renewal, so you can keep it until your next co-op term, if you are returning
 to the US.
 
 AT&T might also offer good options for pay-as-you-go plans.
 
-Simple mobile is also very good if you don't care about data speeds. They have
+[Simple Mobile](http://www.simplemobile.com/) is also very good if you don't care about data speeds. They have
 a fixed price, pay up front, no hidden fees. We've never had problems
 with the voice or texting service. They have unlimited to 52 countries for $10
 extra. (but you don't need it if you just call Canada - read on) They limit
@@ -324,9 +325,9 @@ To save money on various taxes for his pre-paid T-Mobile plan, Rickey used [Call
 ##### T-Mobile's Hidden Plan
 Gary writes in with this tip:
 
-T-Mobile offers a sort of "hidden" $30 a month plan. It has unlimited text and data and 100 minutes of talk. You get 5GB of data a month at 4G speeds and drop to 2G speeds (~56kb/s) if you go over the limit. To get this plan you MUST get an unactivated sim card. You can pick up a T-Mobile "sim kit" with an unactivated sim from either a Walgreens (most convenient since they are literally everywhere), a best buy or a walmart. Simply look in the electronic section. The sim kit should cost $10. Note that this only works if you own an unlocked phone (of course if you have a locked phone you can simply purchase an unlock code online for as little as $10 although you might need to check if your phone works on T-Mobile's band).
+T-Mobile offers a sort of "hidden" $30/month plan. It has unlimited text and data and 100 minutes of talk. You get 5GB of data a month at 4G speeds and drop to 2G speeds (~56kb/s) if you go over the limit. To get this plan you MUST get an unactivated SIM card. You can pick up a T-Mobile "SIM kit" with an unactivated SIM from either a Walgreens (most convenient since they are literally everywhere), a Best Buy or a Wal-Mart; simply look in the electronics section. The SIM kit should cost $10. Note that this only works if you own an unlocked phone (of course if you have a locked phone you can simply purchase an unlock code online for as little as $10 although you might need to check if your phone works on T-Mobile's band).
 
-The kit will direct you online where you can activate the card as well as choose the plan. The plan will only show up if you do it this way. You cannot find this plan in T-Mobile stores. The sim kit has a regular sized sim. If you need a micro sim you can either cut it yourself (google a stencil online, print and use scissors to cut) or head to your nearest T-Mobile store and ask them to cut it.
+The kit will direct you online where you can activate the card as well as choose the plan. The plan will only show up if you do it this way. You cannot find this plan in T-Mobile stores. The SIM kit has a regular sized SIM. If you need a micro-SIM you can either cut it yourself (Google a stencil online, print and use scissors to cut) or head to your nearest T-Mobile store and ask them to cut it.
 
 ##### Micro-SIM cards
 Sometimes, locations that sell packages for prepaid plans only have normal SIM
@@ -382,7 +383,7 @@ three hours before they will relent, uggh.
 
 He tried SimpleMobile Winter '12 and had mixed feelings. Their
 customer support is pretty terrible, they don't know what BIS is and they think
-data is data. But you can get it to work, and the service itself is fine (He
+data is data. But you can get it to work, and the service itself is fine (he
 thinks they actually are on T-Mobile).
 
 Note, if you have a Rogers/AT&T phone it will likely only get EDGE not 3G.
@@ -420,7 +421,7 @@ You may not want one for several reasons:
 * Having interest income in the US can complicate taxes (not an expert)
 * Some savings accounts require fees which may end up being more than the interest on your account
 
-Choosing a Bank is up to you and your preferences.
+Choosing a bank is up to you and your preferences.
 Stephen suggests you stick to one of:
 
 * Chase
@@ -429,7 +430,7 @@ Stephen suggests you stick to one of:
 
 Kevin suggests you use TD Bank, especially if ATMs are convenient for where you live / work. TD Bank hours are generally better than any other American banks (they are open late on weekdays and for several hours on weekends).
 
-If you are in NY Chase is the one to open.
+If you are in NY, Chase is the one to open.
 There are so many Chase branches and ATMs.
 Several people have been told that Chase is pretty conservative when it
 comes to giving credit cards to "new Americans".
@@ -451,9 +452,9 @@ Wells Fargo is known for being super nice.
 Wells Fargo has been seen by at least one person as being tougher for a CC.
 
 You will *not* need a SSN to open an account at the four listed banks.
-They will need your J-1 Visa for filling in your bank details, so bring your
+They will need your J-1 visa for filling in your bank details, so bring your
 passport and visa. You don't even need a permanent address. Some have had luck
-with using their hotel's or their company's. Once you do receive your SSN, it is a good idea to update this with your bank in order to build a scredit rating in America.
+with using their hotel's or their company's. Once you do receive your SSN, it is a good idea to update this with your bank in order to build a credit rating in America.
 
 Stephen's always kept a US bank account open.
 It's super useful to have. If you come back to the US again you're all setup.
@@ -467,7 +468,7 @@ Most banks (BoA, Chase, Wells Fargo, TD) offer a _student account_ for 5 years f
 when you sign up. Bring your student ID card. They don't require any minimum
 activity other than some nominal balance.
 
-Alternatively, BOA offers an eBanking Checking account that is free if you
+Alternatively, BoA offers an eBanking Checking account that is free if you
 choose online eStatements and only use self-service options (ATMs, no tellers)
 for deposits/withdrawals. You can even deposit checks through their mobile app.
 
@@ -562,14 +563,14 @@ offer may be several pips from [mid-market rates](http://www.xe.com/faq/rates_bu
 Here's what Stephen thinks is the way most people will want to bring their money back: [xe.com](xe.com)
 
 * [xe.com](xe.com) generally (spreads are not fixed) has a good rate. About 1.5% off of the rate posted by Google.
-* You do need to validate your identity, they will probbably ask to scan your ID.
+* You do need to validate your identity, they will probably ask to scan your ID.
 * The actual transfer does take a while, less than a week. (Depending on your bank)
 * Use the Bid feature. You can set a transaction to occur when the rate hits some desired value.
 * Don't trade on weekends. Weekends have less volume and a higher spread.
 
 Stephen sucks at playing the market so he just transfer money over ~$1k at a
 time to try and even out my loss/gain. Stephen and Chris love xe.com's bid
-system. With xe, you can make a trade right away or set a transaction to occur
+system. With XE, you can make a trade right away or set a transaction to occur
 once the rate hits some desired value.
 
 #### Some Creative Ways
@@ -580,7 +581,7 @@ once the rate hits some desired value.
 * Mailing it by UPS/FedEx insured (got this from a TD Canada banker)
 * Buying equity on a cross listed item and selling it on a Canadian exchange
   (best rate I hear, but sounds tricky). This is called
-  [Norbet's Gambit](http://www.finiki.org/index.php?title=Norbert%27s_Gambit).
+  [Norbert's Gambit](http://www.finiki.org/index.php?title=Norbert%27s_Gambit).
 * Using your family member who works at a bank and gets currency exchanged at
   cost (We're told this is the best possible)
 
@@ -654,7 +655,7 @@ If you are traveling on a Canadian Passport to the US to visit (not J-1), you ar
 
 <section id="Misc" />
 ## Miscellaneous
-* Amazon gives free shipping for 1 month through Prime. Get one intern to signup
+* Amazon gives free shipping for 1 month through Prime. Get one intern to sign up
   at a time so you can have free shipping all work term. Even better is Amazon
   Student, which gives you free 6 months of Prime and subsidizes Prime at $39/year
   after that. Shale ships everything to his office. Carrying a box home is much less painful than going to the postal office to pick up a missed package.
@@ -716,7 +717,7 @@ If you are an intern and have more info let me know.
 * Tips when actually renting:
 
   * Insurance is usually peddled with the car rental at the counter
-    (eg. liability, loss damage insurance, colllision). If you have car
+    (eg. liability, loss damage insurance, collision). If you have car
     insurance in Canada either on your own or with your parents, they may cover
     this already (be sure to have a copy of it on you when you drive).
   * Go for the smallest car (sub-compact rental). You may want a larger vehicle
@@ -744,7 +745,7 @@ If you are an intern and have more info let me know.
 * Bring a very good pair of walking shoes or buy them when you get there; especially
   if you have flat feet or any other leg or foot issues. As mentioned before, the 
   hills are vicious and the easiest way to get around the city is to walk places.
-* Get a SafeWay Card, it's free and literally saved me over $100. Also, tell them
+* Get a Safeway Card, it's free and literally saved me over $100. Also, tell them
   you'll fill it out later and you're in a hurry. That way you get the discounts,
   but they don't have your personal information.
 * There are some beautiful parts (check out the Presidio near the Golden Gate
@@ -769,10 +770,10 @@ If you are an intern and have more info let me know.
   often check tickets though, and you need to buy them before you board.
 * Clipper Card is a free card you can get and load with money which can be used
   on all of these transit systems seamlessly. Get one.
-* For larger road trips, rent a [zipcar](http://www.zipcar.com/) (car sharing
+* For larger road trips, rent a [Zipcar](http://www.zipcar.com/) (car sharing
   service). 5 people in a car only end up paying $15 each, don't need to pay for
   gas.
-* [Ubers](http://uber.com): popular and stylish alternative to taxis.
+* [Uber](http://uber.com): popular and stylish alternative to taxis.
   You get a private driver and payment is hassle free--they'll automatically
   charge the credit card you have on file (including tip). UberX is the cheapest
   option when ordering a ride, and if you have a large group it can be cheaper to
@@ -781,12 +782,12 @@ If you are an intern and have more info let me know.
   seats are extremely comfortable.
 
 #### Airports
-* An Airport shuttle is a good alternative to Taxi and BART, especially if you
+* An airport shuttle is a good alternative to taxies and BART, especially if you
   have a lot of luggage. For only $16 they will drop you off in front of almost
   any hotel. I used GO Lorrie's Airport Shuttle to get to Park Hotel.
 * From Palo Alto, the [KX Bus](http://www.samtrans.com/schedulesandmaps/timetables/KX.html) leaves from the bus area at the Palo Alto Caltrain station. It's cheaper than taking the Caltrain to SFO.
-* Some people prefer [Super Shuttle](http://www.supershuttle.com/). From a hotel, they cost ~25 for the first person. After the initial person, the cost goes down to ~10 per person for the next people.
-* Others like gettting an Uber from the airport. It is a $65 flat fee to/from the airport.
+* Some people prefer [Super Shuttle](http://www.supershuttle.com/). From a hotel, they cost ~$25 for the first person. After the initial person, the cost goes down to ~$10 per person for the next people.
+* Others like getting an Uber from the airport. It is a $65 flat fee to/from the airport.
 * If you are flying Delta, the curbside luggage check at SFO is free, and they can print you a boarding pass. This means you don't need to carry your luggage that much further, and it usually has a much shorter line.
 * Unless you live nearby, It is almost never worth flying to/from Oakland.
 
@@ -799,7 +800,7 @@ If you are an intern and have more info let me know.
 
 * [Pacific Tradewinds](http://www.san-francisco-hostel.com/) is highly
   recommended by one intern who is adventurous and enjoyed living in hostel-like
-  acommodations.
+  accommodations.
 
   * 2012W - Recommended by an intern. It's feels very home-y
     and undoubtedly a great place to meet technical folks and entrepreneurs.
@@ -818,7 +819,7 @@ Big boxes of dim sum for ~$4, bubble tea is only ~$2 (they call it boba)
 <section id="Area-BayArea" />
 ### Bay Area
 * Still expensive
-* Get a SafeWay Card, it's free and literally saved me over $100
+* Get a Safeway Card, it's free and literally saved me over $100
 * Learn to love the Caltrain
 * Caltrain isn't like the GO, they check your tickets all the time
 * Go to Gilroy Premium Outlet Mall in Gilroy, it's amazing and has great deals.
@@ -840,7 +841,7 @@ It's worth a trip after your first paycheque.
   minute and you land on the beach. Try and time for an hour or so before
   sunset. He says it's awesome skydiving onto a beach while the sun sets.
 * [Paintballing](http://santaclarapaintball.com/) - They usually have good
-  groupon deals.
+  Groupon deals.
 * [Skeet shooting](http://www.coyoteclays.com/) - no license or classes required.
 * [Computer History Museum](http://www.yelp.com/biz/computer-history-museum-mountain-view)
   You can easily spend a whole day here.
@@ -898,7 +899,7 @@ up SF or Mountain View.
 * [Valley Fair Mall](http://www.valleyfairmall.net)
 * [Santana Row](http://www.santanarow.com)
 * [Stanford Shopping Center](http://www.simon.com/mall/landing/841/)
-* AMC Theatre (North Wolfe Road)
+* [AMC Theatre (North Wolfe Road)](https://www.amctheatres.com/movie-theatres/amc-cupertino-square-16)
 
 ##### Restaurants
 
@@ -917,7 +918,7 @@ up SF or Mountain View.
 * [Adamsons French Dip](http://www.yelp.com/biz/adamsons-french-dip-sunnyvale)
   for some nice beef sandwiches.
 * [Omee J](http://www.yelp.com/biz/omee-j-santa-clara-2) for sushi.
-* [Orenchi](http://www.yelp.com/biz/orenchi-ramen-santa-clara) for Ramen
+* [Orenchi](http://www.yelp.com/biz/orenchi-ramen-santa-clara) for ramen
   (long wait).
 
 ##### Beaches
@@ -1059,13 +1060,13 @@ up SF or Mountain View.
 * Very biker-friendly city too.
 * Public transport sucks. It's impossible to get around without a car. GET A CAR.
 * Watch out for deer crossing the roads/highways further out from downtown Austin.
-* Vintage shops, thift shops and local art along the street/bazaars make good
+* Vintage shops, thrift shops and local art along the street/bazaars make good
   places to shop for gifts.
 * Downtown Austin is where the University of Texas is. West Lake is the richest
   area in Austin, and also where Bazaarvoice is located.
-* Weather can get up to 40 celcius (110 F) in the summer, and drops to 30
-  celcius around mid-Sept. Even in December, weather might be something crazy like
-  23 celcius.
+* Weather can get up to 40 Celsius (110 F) in the summer, and drops to 30
+  Celsius around mid-Sept. Even in December, weather might be something crazy like
+  23 Celsius.
 * If it ever snows in the winter, nobody dares to drive and no one goes to
   work.
 * Shopping carts are also known as 'baskets', or 'buggies'. Use at own risk.
@@ -1095,14 +1096,14 @@ up SF or Mountain View.
   [Mellow Johnny's](http://www.mellowjohnnys.com/) and is a
   very bike-friendly place. People often bike along the 360 highway, and there
   are nice trails in the local parks. Bear in mind there are some _very_ hilly
-  and slopey areas so figure out if you are capable of biking those paths
+  and sloped areas so figure out if you are capable of biking those paths
   before getting a bike.
 * Whether biking or driving, WATCH OUT FOR DEER, especially on a highway. They
   can cause a lot of damage. Actually, watch out for them when walking to work
   too (true story).
 
 #### Food
-* Tex-mex (Texas-Mexican) is amazing and very common in Austin. When eating
+* Tex-Mex (Texas-Mexican) is amazing and very common in Austin. When eating
   Tex-Mex, remember to get queso, because _melted cheese_! Good place are
   Chuy's, Torchy's, Trudy's.
 * Texas BBQ: try Rudy's, Salt Lick, County Line, Franklin's, Iron Works. Texas BBQ
@@ -1153,7 +1154,7 @@ up SF or Mountain View.
   relevant to news/music/food in Austin. [CultureMap
   Austin](http://austin.culturemap.com) and [do512](http://do512.com/) have
   good daily feeds on events.
-* [Alamo drafthouse](http://drafthouse.com): watch a movie while having a full
+* [Alamo Drafthouse](http://drafthouse.com): watch a movie while having a full
   meal and a beer. Ninja-like waiters take your order (written) at the
   beginning of the movie, and serve your food in 30 minutes or so. The Alamo
   Drafthouses also do replays of old movies and special screenings for
@@ -1161,7 +1162,7 @@ up SF or Mountain View.
 * Take a segway tour around downtown!
 * Music festivals: SXSW, ACL, Fun Fun Fun Fest, and a ton of others. Live
   concerts too!
-* 6th street: a street of clubs and bars. East 6th is also dubbed 'dirty six',
+* 6th Street: a street of clubs and bars. East 6th is also dubbed 'dirty six',
   West 6th is where the classier places are. There are some under-21 places,
   one of them is 'The Library'. A lot of the bars always have live bands
   playing.
@@ -1191,28 +1192,28 @@ up SF or Mountain View.
 
 
 #### Transportation
-* CTA is really convenient. Unlike TTC, your transfer does not have to be in a continous direction of travel. You can take anything you like within the transfer window (i.e. free roundtrip).
+* CTA is really convenient. Unlike the TTC, your transfer does not have to be in a continuous direction of travel. You can take anything you like within the transfer window (i.e. free roundtrip).
 * If you take the train at 3 or 4am, then you are literally walking into the homeless' house. Try sit close to the train conductor and _always_ stay awake. 
 * Beware of Ventra double-charging. Ventra uses standard RFID technology as your credit card, so your transit fare may be charged to the wrong card if you slap your entire wallet on the machine. 
 * Metra is commuter rail, often only run during weekday rush hours (like most GO Trains). It's also more expensive than CTA. 
-* Pace is the regional bus service that goes to the subrubs.
+* Pace is the regional bus service that goes to the suburbs.
 * Divvy is the bike-sharing program, like Toronto's Bixi.
 * Chicago drivers are among the worst in America. Be careful. 
 * Taxis are easy to come by in Downtown/Loop. Sketchiness vary. Try not to use credit cards on taxis because your credit card info may get stolen. If you do attempt to use credit card, some may tell you that the machine is down, which more often than not is a lie. 
 
 #### Food
-* Near North Side has a lot of food options. Although a lot of them are fancy restaurants, there are also many affodable ones. Giordano's and Portillo's were wonderful.
+* Near North Side has a lot of food options. Although a lot of them are fancy restaurants, there are also many affordable ones. Giordano's and Portillo's were wonderful.
 * There are a lot of good restaurants in Chinatown. Take the Red line to Cermak-Chinatown. Along S Archer Ave, you will find Lao Sze Chuan's real Fuqi feipian, and Ming-Shun's kickass dim sum. There are too many good ones to list here.
 * Around Millenium Park, there is Wildberry for good brunch and Mariano's for cheap (relative to the loop) food.
-* Good Vietnamnese food in Uptown / Argyle area.
+* Good Vietnamese food in Uptown / Argyle area.
 * Take the Pink Line to 18th (Pilsen) to eat great Hispanic/Mexican food. (Do not go after dark)
 
 #### Safety
-* Some areas of the city are not safe. Always be aware of your surroundings, and take appropriate measurements to protect yourself. Use common sense.
+* Some areas of the city are not safe. Always be aware of your surroundings, and take appropriate measures to protect yourself. Use common sense.
 * Crime data is available on [Chicago Tribune](http://crime.chicagotribune.com/) and [Chicago Police Department](http://gis.chicagopolice.org/clearmap_crime_sums/startpage.htm). 
 
 ##### Avoid:
-* West of Wstern Avenue if you are south of North Ave. 
+* West of Western Avenue if you are south of North Ave. 
 * South of I-55 Stevenson (Lakefront, Hyde Park/Jackson Park, IIT Campus, uChicago Campus, and U.S. Cellular Field are OK during the day; take Jackson Park Express to Hyde Park area). Despite claims that Bronzeville is gentrifying, it is still quite sketchy.
 * CTA trains south of Roosevelt or Cermak-Chinatown, especially at night. 
 * Note that those are just guidelines, as there are no definite boundaries between a "bad" and a "good" area. Use your best judgement. 
@@ -1234,11 +1235,11 @@ up SF or Mountain View.
 </pre>
 * The price for a rent in those neighbourhoods is between 500$ and a 1000$/month, for a shared apartment with your own room. Normally the rooms are not furnished, so always ask details. 
 * Also, in every case, you will have to pay two rents the first month, one for your rent and one for the deposit. 
-* Demographic data is available on [NYTimes](http://projects.nytimes.com/census/2010/explorer).
+* Demographic data is available on [NY Times](http://projects.nytimes.com/census/2010/explorer).
 
 #### Activities
-* Many events throughout the year. Check reddit, yelp, timeout, etc...
-* Lakefront trail is beautiful. 
+* Many events throughout the year. Check Reddit, Yelp, Timeout, etc...
+* Lakefront Trail is beautiful. 
 * Lots of parks near the lake that you can explore.
 * Wicker Park is hipster central. Boystown is gay people zone, also very hipster. 
 * Bunch of theatres.
