@@ -1246,7 +1246,7 @@ up SF or Mountain View.
 * Amazing architecture everywhere, many Frank Lloyd Wright buildings here
 * Museums are everywhere as well. Make sure you give them your Chicago ZIP code, and ask for Chicago resident discount. The biggest ones are Museum of Science & Industry, Art Institute, and Field Museum. (Note to Torontonians: ROM is bigger than Field Museum)
 
-<section id="ft-overview" />
+<section id="FT-Overview" />
 ## Full-Time
 When you finish your degree, you may wish to pursue full-time employment with an
 employer in the US. Some may which to take a return offer to their final term
