@@ -1277,8 +1277,8 @@ of StackOverflow fame has written [a nice article on exploding offers](http://ww
 Turns out, that while the recruiter may pressure you with a deadline, they will
 happily extend it. If the company decided to make you an offer, they are
 probably pretty serious about trying to hire you. They'll let you take a few
-weeks if you give them a good reason. Stephen pushed back a return offer 3
-months.
+weeks if you give them a good reason. Stephen's friends pushed back return offers
+for over 3 months.
 
 The easiest way to negotiate is to have other competing offers. Once you get the
 details of a companies offer, tell them what the other companies offered you.
@@ -1360,5 +1360,4 @@ A common visa for non-Canadians.
 ### Miscellaneous
 
 #### Driver's License
-If you have a G in Ontario, you can take a written test in California to get a
-full license.
+If you have a G in Ontario, Stephen has heard that you can take a written test in California to get a full license. However, the California DMV seems to [say otherwise](http://www.dmv.ca.gov/dl/dl_info.htm#two500).
