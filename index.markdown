@@ -45,7 +45,7 @@ request. I'll note you if you want to be noted.
 * [Eric Yam](http://www.ericyam.com)
 * [Felix Fung](http://feli.xxx)
 * [Felix Mo](http://felixmo.com)
-* [Gary Guo](ca.linkedin.com/pub/gary-guo/46/b0a/55b)
+* [Gary Guo](http://ca.linkedin.com/pub/gary-guo/46/b0a/55b)
 * [Joshua Kalpin](http://joshuakalp.in)
 * [Kevin James](http://thekev.in)
 * [Michael Truong](http://www.linkedin.com/in/truongmichael)
