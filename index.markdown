@@ -157,7 +157,6 @@ I-94's are are [online](https://i94.cbp.dhs.gov/I94/request.html) / supposed to 
 Sometimes, you'll get the stamp in your passport, and will know you did it right.
 Depending where you land, they may or may not have instituted online-only I-94's.
 
-TODO: this should be moved to an "airports/flying" section
 If you are on a connection flight it doesn't hurt to ask the person at the gate
 waiting area to double-check your connection flight. Amir found out he would miss his connection flight -- Delta airlines reroute his flight for free and he was bumped to first class and also got to San Francisco earlier than he would've even without the delay.
 
