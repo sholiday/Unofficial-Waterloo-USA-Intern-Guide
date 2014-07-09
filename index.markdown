@@ -83,12 +83,12 @@ Some of us have done it without trouble successfully.
 ### Pay
 Ask the pay in the interview. There is no reason not to. If they give you some
 '*competitive pay*' ask them in an email before you accept their offer.
-'*Competitive pay*' can range from $25/hr - $45/hr with or without housing and
+'*competitive pay*' can range from $25/hr - $45/hr with or without housing and
 plane tickets.
 
 The
 [Intern Project](http://internproject.io/choosing-an-internship/dont-take-your-highest-paying-offer/)
-has a recent blog post about `average` pay rates, whatever that means.
+has a recent blog post about 'average' pay rates, whatever that means.
 
 <section id="Jobs-Relocation" />
 ### Relocation
@@ -124,10 +124,9 @@ It's worth checking out.
 ## Paperwork
 <section id="Paperwork-J1Visa" />
 ### J-1 Visa
-Once you have your offer, email your recruiter to get all the details about pay
-and start date. Its useful for the visa.
+Once you have your offer, email your recruiter to get all the details about pay, start date, and if they're using Cultural Vistas as a visa sponsor. Its useful for the visa.
 
-CECA and CDS/AIPT (now Cultural Vistas) will guide you through the process.
+CECA and Cultural Vistas will guide you through the process.
 
 Note: It is possible to extend your visa up to one year total if you are staying at the same company.
 However, you will not be able to work for a different employer in a consecutive term unless you applied for the visa before you leave for the US.
@@ -149,13 +148,16 @@ Don't call it a job or say you are working! The J-1 visa status is not meant for
 a poor little intern *training* in the United States!
 
 Some prefer keeping all the above as a digital copy in my Dropbox/Google Docs so
-they have instant access to them just in case I lose anything.
+they have instant access to them just in case they lose anything.
 
 If you are a US citizen, some of the above do not apply to you.
 Make sure you have your US passport, health insurance card, and boarding pass.
 
-If you get the stamp in your passport, that's how you know you did it right. This is changing / has changed: I-94's are [online](https://i94.cbp.dhs.gov/I94/request.html) / supposed to be online. Depending where you land, they may or may not have instituted online-only I-94's.
+I-94's are are [online](https://i94.cbp.dhs.gov/I94/request.html) / supposed to be online.
+Sometimes, you'll get the stamp in your passport, and will know you did it right.
+Depending where you land, they may or may not have instituted online-only I-94's.
 
+TODO: this should be moved to an "airports/flying" section
 If you are on a connection flight it doesn't hurt to ask the person at the gate
 waiting area to double-check your connection flight. Amir found out he would miss his connection flight -- Delta airlines reroute his flight for free and he was bumped to first class and also got to San Francisco earlier than he would've even without the delay.
 
@@ -234,9 +236,13 @@ single person for a 4-month lease.
 Contact your company and try to get emails of other Waterloo students going down
 the same time as you.
 
+The University typically sends out a spreadsheet of all students going to your area,
+grouped by employer.
+This is great, but takes a while to get started.
+
 Contact them and ask them to meet up somewhere in Waterloo for dinner.
 It gives everyone a great opportunity to meet each other, get a feel for who
-would be a good roommate for your style.
+would be a good roommate for you.
 
 <section id="Living-Tips" />
 ### Apartment Hunting Tips
@@ -262,14 +268,14 @@ would be a good roommate for your style.
   off walking around the area and asking every hotel about their rates.
 
 *Vacation Rentals* or *Corporate Housing* work well for our 4-month terms.
-Some websites I've used are:
+Some websites we've used successfully are:
 
 * [Airbnb Sublets](http://www.airbnb.com/sublets) -- monthly vacation rentals
 * [Airbnb](http://www.airbnb.com/) -- nightly vacation rentals
 
   * Good for when you're unable to move in for a couple of days, especially in
     the SF Bay Area. Typically cheaper than a hotel. Use common sense and good
-    judgement, always read the reviews.
+    judgment, always read the reviews.
 
 * [Vacation Rentals by Owner](http://vrbo.com) -- vacation rentals
 * [AMSI](http://www.amsires.com/) -- corporate housing
@@ -289,14 +295,11 @@ for when people come to visit him and hasn't had any trouble with it.
 
 <section id="Living-CellService-Smartphones" />
 #### Smartphones
-Getting data for your smartphone is a lot easier with a BlackBerry.
-If you have an unlocked phone, it's really easy. You can get a plan with a SIM
-card, pop it in, and walk out of the store Facebooking up a storm.
+In the past some groups were able to get a reduced rate by getting a family
+and friends plan.
 
-Amir unlocked his BlackBerry 9900 phone [for a couple dollars](http://freemyblackberry.com/index.php) then bought the $50/mo T-Mobile pre-paid plan. $10 for the new SIM, and it has Unlimited Text/Unlimited Talk/500MB Data. The data is actually unlimited, but the first 500MB is 4G while anything after is throttled at 2G but with no extra cost. Incoming calls and texts from Canada are free, but outgoing is not (ask people to text you, then call them using Google Talk). All in all he paid for everything under $220 (including tax) for the 4 months, up-front.
-
-T-Mobile has monthly 4G plans that range from $30/mo - $70/mo. Note: the plans
-offer data at 'up to' 4G speeds. Xenia found her data a little slow, and
+T-Mobile has monthly 4G plans that range from $30/mo - $70/mo, offering data
+at 'up to' 4G speeds. Xenia found her data a little slow, and
 especially unreliable in moving vehicles, but overall it was good enough for
 email/FB/Twitter. T-Mobile will remind you monthly through text messages to
 renew your plan. If you choose not to renew, your plan is automatically
@@ -304,6 +307,8 @@ converted to a pay-as-you-go plan, and you pay for calls/texts with any
 leftover balance in your T-Mobile account. Your phone number will expire 3
 months after renewal, so you can keep it until your next co-op term, if you are returning
 to the US.
+
+To save money on various taxes for his pre-paid T-Mobile plan, Rickey used [CallingMart](http://www.callingmart.com/).
 
 AT&T might also offer good options for pay-as-you-go plans.
 
@@ -317,19 +322,14 @@ limitations of their network, and they might throttle you anyway. If you choose
 these guys, you might have to change your phone's APN settings to get data. Look
 at the instructions on their website.
 
-In the past some groups were able to get a reduced rate by getting a family
-and friends plan.
-
-To save money on various taxes for his pre-paid T-Mobile plan, Rickey used [CallingMart](http://www.callingmart.com/).
-
 ##### T-Mobile's Hidden Plan
 Gary writes in with this tip:
 
-T-Mobile offers a sort of "hidden" $30/month plan. It has unlimited text and data and 100 minutes of talk. You get 5GB of data a month at 4G speeds and drop to 2G speeds (~56kb/s) if you go over the limit. To get this plan you MUST get an unactivated SIM card. You can pick up a T-Mobile "SIM kit" with an unactivated SIM from either a Walgreens (most convenient since they are literally everywhere), a Best Buy or a Wal-Mart; simply look in the electronics section. The SIM kit should cost $10. Note that this only works if you own an unlocked phone (of course if you have a locked phone you can simply purchase an unlock code online for as little as $10 although you might need to check if your phone works on T-Mobile's band).
+T-Mobile offers a sort of "hidden" $30/month plan. It has unlimited text and data and 100 minutes of talk. You get 5GB of data a month at 4G speeds and drop to 2G speeds (~56kb/s) if you go over the limit. To get this plan you MUST purchase an unactivated SIM card. You can pick up a T-Mobile "SIM kit" with an unactivated SIM from either a Walgreens (most convenient since they are literally everywhere), a Best Buy or a Wal-Mart; simply look in the electronics section. The SIM kit should cost $10. Note that this only works if you own an unlocked phone (of course if you have a locked phone you can simply purchase an unlock code online for as little as $10 although you might need to check if your phone works on T-Mobile's band).
 
-The kit will direct you online where you can activate the card as well as choose the plan. The plan will only show up if you do it this way. You cannot find this plan in T-Mobile stores. The SIM kit has a regular sized SIM. If you need a micro-SIM you can either cut it yourself (Google a stencil online, print and use scissors to cut) or head to your nearest T-Mobile store and ask them to cut it.
+The kit will direct you online where you can activate the card as well as choose the plan. The plan will only show up if you do it this way. You cannot find this plan in T-Mobile stores. The SIM kits come in micro, mini, and regular sizes.
 
-##### Micro-SIM cards
+##### Micro/Mini-SIM cards
 Sometimes, locations that sell packages for prepaid plans only have normal SIM
 cards that aren't compatible with newer smartphones which require micro-SIMs.
 However, normal SIM cards are actually the same as micro-SIM cards, just with a
@@ -367,6 +367,13 @@ your phone.
 
 <section id="Living-CellService-BlackBerry" />
 #### BlackBerry
+Getting data for your smartphone is a lot easier with a BlackBerry.
+If you have an unlocked phone, it's really easy. You can get a plan with a SIM
+card, pop it in, and walk out of the store Facebooking up a storm.
+
+Amir unlocked his BlackBerry 9900 phone [for a couple dollars](http://freemyblackberry.com/index.php) then bought the $50/mo T-Mobile pre-paid plan. $10 for the new SIM, and it has Unlimited Text/Unlimited Talk/500MB Data. The data is actually unlimited, but the first 500MB is 4G while anything after is throttled at 2G but with no extra cost. Incoming calls and texts from Canada are free, but outgoing is not (ask people to text you, then call them using Google Talk). All in all he paid for everything under $220 (including tax) for the 4 months, up-front.
+
+##### BIS
 There are a few options. Stephen's a BlackBerry user who would die without BBM
 and Google Maps. The main problem is that people don't like giving you data
 without a 1-2 year commitment. This section is only about getting your
@@ -398,11 +405,12 @@ Win/win.
 The reason you don't need to pay extra for long distance to Canada is you can
 use Google Voice for this. Normally to use Google Voice to call Canada for free,
 you dial a number and then type in the number you want to call and they connect
-you. This is not necessary if you have an Android phone. Get the Google Voice
-app and it will do this for you transparently, so you can just call Canada for
-free and it will use Google Voice. It's really, really nice. Note that you need
-to have an internet connection to take advantage of the automated Google Voice
-proxying.
+you. This is not necessary if you have an Android phone. Get the
+[Google Voice app](https://play.google.com/store/apps/details?id=com.google.android.apps.googlevoice&hl=en)
+and it does this transparently, so you can directly call Canada for free and it
+will use Google Voice. It's really, really nice.
+Note that you need to have an internet connection to take advantage of
+the automated Google Voice proxying.
 
 ---
 
