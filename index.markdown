@@ -1346,7 +1346,7 @@ General Resources:
 
 #### TN
 If you are a Canadian citizen, your employer will likely set you up with a TN
-visa. This is a pretty easy process. You will apply at the boarder so leave some
+visa. This is a pretty easy process. You will apply at the border so leave some
 extra time (15 minutes for the actual application and an hour for the extra
 wait). Stephen knows someone who missed their flight due to the wait for
 secondary.
