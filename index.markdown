@@ -588,7 +588,7 @@ once the rate hits some desired value.
 * Mailing it by UPS/FedEx insured (got this from a TD Canada banker)
 * Buying equity on a cross listed item and selling it on a Canadian exchange
   (best rate I hear, but sounds tricky). This is called
-  [Norbert's Gambit](http://www.finiki.org/index.php?title=Norbert%27s_Gambit).
+  [Norbert's Gambit](http://www.finiki.org/wiki/Norbert's_Gambit).
 * Using your family member who works at a bank and gets currency exchanged at
   cost (We're told this is the best possible)
 
@@ -986,7 +986,7 @@ up SF or Mountain View.
 * Wall street area is surprisingly dead in the evening
 * Brooklyn is much cheaper, consider it
 * Middle of Brooklyn can be a little sketchier, but Bay Ridge is super beautiful
-* Get a MetroCard pass on your first day, $104/mo for unlimited travel is a
+* Get a MetroCard pass on your first day, $112/mo for unlimited travel is a
   great deal
 * Trader Joe's is cheap
 * Chase bank is everywhere (also in Duane Reade)
@@ -1008,7 +1008,7 @@ up SF or Mountain View.
 
 #### Food
 * There are so many places to eat in NYC, try new stuff!
-* Halcart at 53rd and 6th is to die for.
+* Halcart (The Halal Guys) at 53rd and 6th is to die for.
   Make sure you go to the [right one](http://www.yelp.com/biz/53rd-and-6th-halal-cart-new-york).
   Get the hot sauce. There will be a line, it's worth it.
 * Pizza - In NY it's a different kind of food. It's also highly contentious
@@ -1028,11 +1028,13 @@ up SF or Mountain View.
 * [Dallas BBQ](http://www.dallasbbq.com/) is really good and has awesome prices.
 * [Carmines](http://carminesnyc.com/) is family style (gigantic plates) Italian
   food and really tasty. Pretty busy.
+* [Shake Shack](https://www.shakeshack.com/), "the East Coast In N Out".
 
 #### Activities
 * [Kayak on the river](http://www.downtownboathouse.org/) for free!
 * The [American Museum of Natural History](http://www.amnh.org/) is large and
-  fun!
+  fun! Avoid the line and the ticket fee if you work for a [sponsor company](http://www.amnh.org/join-support/corporate-giving/corporate-patron-program/corporate-patron-list).
+* Groupon has great deals for bike rentals in Central Park.
 * Go to a comedy club.
 
 <section id="Area-Coopersburg-PA" />
