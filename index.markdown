@@ -49,6 +49,7 @@ request. I'll note you if you want to be noted.
 * [Joshua Kalpin](http://joshuakalp.in)
 * [Kevin James](http://thekev.in)
 * [Michael Truong](http://www.linkedin.com/in/truongmichael)
+* [Michael Tu](http://www.tuzhucheng.com)
 * [Nansen Lin](http://www.linkedin.com/pub/nansen-lin/28/6b4/92a)
 * [Prashanth Madhi](http://ece.uwaterloo.ca/~pmadhiya)
 * [Rickey Wang](http://www.rickeyw.com/)
@@ -833,6 +834,7 @@ Big boxes of dim sum for ~$4, bubble tea is only ~$2 (they call it boba)
 It's worth a trip after your first paycheque.
 * Pizza Hut is not as fancy in the US. It will blow your coworkers' minds if you
   tell them that Pizza Hut is a sit down restaurant with waiters
+* If you want to get a second hand bike, there is a place in Burlingame operated by a very nice man named Alan Gorman that's pretty good. Search "Alan Gorman Bicycle Specialist" on Yelp. 
 
 #### Activities
 
