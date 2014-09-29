@@ -619,7 +619,7 @@ Transfers between the US/CAN accounts are unlimited and instantaneous - RBC Bank
 US even accepts Direct Deposits and cheque deposits via mobile service!
 
 
-#### Not Recommend Ways
+#### Not Recommended Ways
 
 * Wire transfer (mad fees)
 * Cash a check (takes 20-30 days for the first I hear). Keep in mind, bank currency rates are generally terrible.
