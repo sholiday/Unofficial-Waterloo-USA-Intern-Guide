@@ -48,6 +48,7 @@ request. I'll note you if you want to be noted.
 * [Gary Guo](http://ca.linkedin.com/pub/gary-guo/46/b0a/55b)
 * [Joshua Kalpin](http://joshuakalp.in)
 * [Kevin James](http://thekev.in)
+* [Michael Shao](http://michaelshao.com)
 * [Michael Truong](http://www.linkedin.com/in/truongmichael)
 * [Michael Tu](http://www.tuzhucheng.com)
 * [Nansen Lin](http://www.linkedin.com/pub/nansen-lin/28/6b4/92a)
@@ -218,6 +219,9 @@ promised.
 ##### [Boston / Cambridge](http://www.yelp.ca/biz/social-security-administration-cambridge-3)
 No security screening outdoors, ID check as you enter. Short waiting time and friendly service. Application process took 15 minutes and card arrived in 3 business days (was promised two weeks).
 
+##### [New York City - Brooklyn](http://www.yelp.ca/biz/social-security-administration-office-brooklyn)
+If you get there when it opens (8 AM), you can be in and out within 45 minutes. Security check on the way in - main entrance is on the side street with a small label marking "Social Security Administration Office". Quoted 10 business days to get the card.
+
 As with everything else, your mileage may vary.
 
 ---
@@ -364,6 +368,11 @@ immediately. Since they are not a big carrier most phones, e.g. iPhone, do not
 have the APN settings built in for data. The package you receive contains the
 APN settings you need. You will need to figure out how to set the settings for
 your phone.
+
+##### [WIND Mobile](http://www.windmobile.ca/usunlimited)
+A special deal offered by WIND goes like this: for $15/mo, you keep your Canadian plan (with WIND), and you get the US Unlimited Add-on; which includes unlimited data, talk/text/MMS between US/CAN numbers, and the best part, you're using the AT&T or T-Mobile network, so it'll always be connected!
+
+The cell service in Waterloo & Toronto is [pretty good too](http://www.windmobile.ca/network-and-coverage/coverage).
 
 <section id="Living-CellService-BlackBerry" />
 #### BlackBerry
@@ -601,6 +610,14 @@ checking account. It may be a good idea to use a USD account at TD Canada, then
 exchange money when the exchange rate is better.
 
 TD insists that [there are no fees for this service](http://www.tdbank.com/personal/cross-border-banking.html), but it may be the case that they charge somewhere between 0.5% and 1.5% depending on the amount transferred. YMMV.
+
+#### What Michael Does 
+If you are using [RBC](http://www.rbcroyalbank.com/), you can partner up with the US version, [RBC Bank](http://www.rbcbank.com/). 
+RBC, like TD, does transfers for free between countries. RBC in the US is purely online - 
+however you can use any PNC Bank ATM to withdraw money from your RBC account at no fee. 
+Transfers between the US/CAN accounts are unlimited and instantaneous - RBC Bank in the 
+US even accepts Direct Deposits and cheque deposits via mobile service!
+
 
 #### Not Recommend Ways
 
