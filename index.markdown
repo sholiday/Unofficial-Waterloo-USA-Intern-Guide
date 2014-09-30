@@ -48,6 +48,7 @@ request. I'll note you if you want to be noted.
 * [Gary Guo](http://ca.linkedin.com/pub/gary-guo/46/b0a/55b)
 * [Joshua Kalpin](http://joshuakalp.in)
 * [Kevin James](http://thekev.in)
+* [Michael Shao](http://michaelshao.com)
 * [Michael Truong](http://www.linkedin.com/in/truongmichael)
 * [Michael Tu](http://www.tuzhucheng.com)
 * [Nansen Lin](http://www.linkedin.com/pub/nansen-lin/28/6b4/92a)
@@ -218,6 +219,9 @@ promised.
 ##### [Boston / Cambridge](http://www.yelp.ca/biz/social-security-administration-cambridge-3)
 No security screening outdoors, ID check as you enter. Short waiting time and friendly service. Application process took 15 minutes and card arrived in 3 business days (was promised two weeks).
 
+##### [New York City - Brooklyn](http://www.yelp.ca/biz/social-security-administration-office-brooklyn)
+If you get there when it opens (8 AM), you can be in and out within 45 minutes. Security check on the way in - main entrance is on the side street with a small label marking "Social Security Administration Office". Quoted 10 business days to get the card.
+
 As with everything else, your mileage may vary.
 
 ---
@@ -365,6 +369,11 @@ have the APN settings built in for data. The package you receive contains the
 APN settings you need. You will need to figure out how to set the settings for
 your phone.
 
+##### [WIND Mobile](http://www.windmobile.ca/usunlimited)
+A special deal offered by WIND goes like this: for $15/mo, you keep your Canadian plan (with WIND), and you get the US Unlimited Add-on; which includes unlimited data, talk/text/MMS between US/CAN numbers, and the best part, you're using the AT&T or T-Mobile network, so it'll always be connected!
+
+The cell service in Waterloo & Toronto is [pretty good too](http://www.windmobile.ca/network-and-coverage/coverage).
+
 <section id="Living-CellService-BlackBerry" />
 #### BlackBerry
 Getting data for your smartphone is a lot easier with a BlackBerry.
@@ -441,7 +450,7 @@ Kevin suggests you use TD Bank, especially if ATMs are convenient for where you 
 If you are in NY, Chase is the one to open.
 There are so many Chase branches and ATMs.
 Several people have been told that Chase is pretty conservative when it
-comes to giving credit cards to "new Americans".
+comes to giving credit cards to "new Americans". You can, however, get a credit (yes, you heard me right, CREDIT) card with RBC Bank in the US if you are a Canadian citizen and have built a Canadian credit history.
 
 Bank of America is pretty good in the SF/Bay Area.
 Chase is OK there too. They also have many branches there - and they are
@@ -491,7 +500,7 @@ fee. Note, xe.com will likely get you a better rate. But the following method is
 very flexible. This method worked out pretty well for Prashanth:
 
 1. Open a U.S Bank Account with your Canadian Bank (Prashanth used TD but
-   recommend RBC, RBC has a US branch as well though none in California)
+   recommend RBC, RBC has a US branch as well though only exists online)
 2. Transfer some money to this account to last you for a few weeks in US
 3. Get a US Dollar Credit Card from Canada and use this for initial spending.
    If you are not eligible, you can ask your parents to open it for you and a
@@ -503,7 +512,7 @@ very flexible. This method worked out pretty well for Prashanth:
 ### Credit Cards
 One thing that many try to do right away is get a credit card.
 
-Getting credit in the US can be tricky. Especially if you are under 21.
+Getting credit in the US can be tricky. Especially if you are under 21. Unless you're a Canadian citizen, and have already built a credit history in Canada.
 
 Keep in mind that instead of Interac for debit cards, all American debit cards
 (also known as "check cards") are actually VISA/MasterCard cards. You can use
@@ -519,6 +528,12 @@ need that in the near future.
 Sometimes you can get BoA or TD America to look up your Canadian credit history.
 TD Ameritrade and BoA has a Canadian credit check form.
 Really tough if you are under 21.
+
+If you want a US-bank-based credit card to help build your US Credit History (if the USA is your desired full-time work location), RBC Bank (USA) has a policy of allowing
+people to sign up for [a credit card](http://www.rbcbank.com/borrowing-in-the-us/visa-credit-cards/index.html) with your Canadian SIN, then attaching it to
+your American SSN. The only "gotcha" is that you have to open an RBC account within 6 months of opening this card (you get it in about a week or two),
+or the credit account will be closed. The best part about this is that if you already have a Canadian credit card of any kind, and you keep a solid rating, 
+you are most likely eligible for this one. Look up [RBC Bank Credit Cards](http://www.rbcroyalbank.com/usbanking/creditcards.html)!
 
 Eric would like to stress the importance of getting a credit card and building
 credit history in the States. It's especially useful if you plan to move to the
@@ -602,7 +617,18 @@ exchange money when the exchange rate is better.
 
 TD insists that [there are no fees for this service](http://www.tdbank.com/personal/cross-border-banking.html), but it may be the case that they charge somewhere between 0.5% and 1.5% depending on the amount transferred. YMMV.
 
-#### Not Recommend Ways
+#### What Michael Does 
+If you are using [RBC](http://www.rbcroyalbank.com/), you can partner up with the US version, [RBC Bank](http://www.rbcbank.com/). 
+RBC, like TD, does transfers for free between countries (NOTE: USD --> USD only!). RBC Bank in the US is purely online - 
+the fee for a basic account is $2.95/month, but this is easily well-worth it for no-hassle, instantaneous transfers of USD between your US and Canadian RBC accounts.
+You can use any PNC Bank ATM in the US to withdraw (USD) money from your RBC account at no fee, as well as a multitude of other ATMs across the country. 
+Transfers between the US and Canadian accounts are unlimited and instantaneous - RBC Bank in the US even accepts Direct Deposits and cheque deposits via mobile service!
+The USD account in Canada should be free if you already have an existing service with them; a good rule of thumb is that it may not be worth it to sign up if you aren't already using them.
+
+Once the USD funds are in your Canadian RBC account, feel free to use XE trade or some other mechanism to convert it to CAD without losing too much in the exchange. 
+As recently as Sept. 2014, Michael got 1.0975 USD/CAD exchanged ($1000 USD).
+
+#### Not Recommended Ways
 
 * Wire transfer (mad fees)
 * Cash a check (takes 20-30 days for the first I hear). Keep in mind, bank currency rates are generally terrible.
