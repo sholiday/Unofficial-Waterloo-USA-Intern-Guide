@@ -500,7 +500,7 @@ fee. Note, xe.com will likely get you a better rate. But the following method is
 very flexible. This method worked out pretty well for Prashanth:
 
 1. Open a U.S Bank Account with your Canadian Bank (Prashanth used TD but
-   recommend RBC, RBC has a US branch as well though none in California)
+   recommend RBC, RBC has a US branch as well though only exists online)
 2. Transfer some money to this account to last you for a few weeks in US
 3. Get a US Dollar Credit Card from Canada and use this for initial spending.
    If you are not eligible, you can ask your parents to open it for you and a
@@ -613,11 +613,14 @@ TD insists that [there are no fees for this service](http://www.tdbank.com/perso
 
 #### What Michael Does 
 If you are using [RBC](http://www.rbcroyalbank.com/), you can partner up with the US version, [RBC Bank](http://www.rbcbank.com/). 
-RBC, like TD, does transfers for free between countries. RBC in the US is purely online - 
-however you can use any PNC Bank ATM to withdraw money from your RBC account at no fee. 
-Transfers between the US/CAN accounts are unlimited and instantaneous - RBC Bank in the 
-US even accepts Direct Deposits and cheque deposits via mobile service!
+RBC, like TD, does transfers for free between countries (NOTE: USD --> USD only!). RBC Bank in the US is purely online - 
+the fee for a basic account is $2.95/month, but this is easily well-worth it for no-hassle, instantaneous transfers of USD between your US and Canadian RBC accounts.
+You can use any PNC Bank ATM in the US to withdraw (USD) money from your RBC account at no fee, as well as a multitude of other ATMs across the country. 
+Transfers between the US and Canadian accounts are unlimited and instantaneous - RBC Bank in the US even accepts Direct Deposits and cheque deposits via mobile service!
+The USD account in Canada should be free if you already have an existing service with them; a good rule of thumb is that it may not be worth it to sign up if you aren't already using them.
 
+Once the USD funds are in your Canadian RBC account, feel free to use XE trade or some other mechanism to convert it to CAD without losing too much in the exchange. 
+As recently as Sept. 2014, Michael got 1.0975 USD/CAD exchanged ($1000 USD).
 
 #### Not Recommended Ways
 
