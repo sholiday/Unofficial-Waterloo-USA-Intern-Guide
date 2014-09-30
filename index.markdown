@@ -514,12 +514,6 @@ One thing that many try to do right away is get a credit card.
 
 Getting credit in the US can be tricky. Especially if you are under 21. Unless you're a Canadian citizen, and have already built a credit history in Canada.
 
-If you want a US-bank-based credit card to help build your US Credit History (if the USA is your desired full-time work location), RBC Bank (USA) has a policy of allowing
-people to sign up for [a credit card](http://www.rbcbank.com/borrowing-in-the-us/visa-credit-cards/index.html) with your Canadian SIN, then attaching it to
-your American SSN. The only "gotcha" is that you have to open an RBC account within 6 months of opening this card (you get it in about a week or two),
-or the credit account will be closed. The best part about this is that if you already have a Canadian credit card of any kind, and you keep a solid rating, 
-you are most likely eligible for this one. Look up [RBC Bank Credit Cards](http://www.rbcroyalbank.com/usbanking/creditcards.html)!
-
 Keep in mind that instead of Interac for debit cards, all American debit cards
 (also known as "check cards") are actually VISA/MasterCard cards. You can use
 them anywhere you would use a credit card except the money comes out of your
@@ -534,6 +528,12 @@ need that in the near future.
 Sometimes you can get BoA or TD America to look up your Canadian credit history.
 TD Ameritrade and BoA has a Canadian credit check form.
 Really tough if you are under 21.
+
+If you want a US-bank-based credit card to help build your US Credit History (if the USA is your desired full-time work location), RBC Bank (USA) has a policy of allowing
+people to sign up for [a credit card](http://www.rbcbank.com/borrowing-in-the-us/visa-credit-cards/index.html) with your Canadian SIN, then attaching it to
+your American SSN. The only "gotcha" is that you have to open an RBC account within 6 months of opening this card (you get it in about a week or two),
+or the credit account will be closed. The best part about this is that if you already have a Canadian credit card of any kind, and you keep a solid rating, 
+you are most likely eligible for this one. Look up [RBC Bank Credit Cards](http://www.rbcroyalbank.com/usbanking/creditcards.html)!
 
 Eric would like to stress the importance of getting a credit card and building
 credit history in the States. It's especially useful if you plan to move to the
