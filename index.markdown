@@ -100,7 +100,7 @@ Many companies offer a housing stipend (a bit of money, often taxable).
 Some will put you up in subsidized or free housing (Amazon, Apple, etc).
 
 Ask if they cover flights. If you are going to San Francisco, use $500-750 round trip
-after tax as a guide. New York is a lot cheaper.
+after tax as a guide. New York can be done for $200 if you find deals, but more realistically $300-$400 round trip.
 
 Some people prefer spending a few days in a hotel at their company's expense
 as they wrap-up apartment search (as making housing decisions while still in
@@ -111,12 +111,12 @@ your stipend will be taxed at ~26% in California. We've heard you can get
 much of it back if you save your receipts, something to look into.
 
 We recommend working at a place that covers some part of your housing,
-unless you have the financial ability to not care.
+unless you have the financial ability to not care. Rent in major cities like SF or NYC easily tops $1500, especially if you want to live close to down town.
 
 <section id="Jobs-Perks" />
 ### Perks
 Some companies have cool perks like food, bikes, transit passes, happy hour,
-snacks, game rooms, pool tables, ping pong, foosball, etc.
+snacks, game rooms, pool tables, ping pong, foosball, museum passes, etc.
 
 It's worth checking out.
 
@@ -242,7 +242,7 @@ the same time as you.
 
 The University typically sends out a spreadsheet of all students going to your area,
 grouped by employer.
-This is great, but takes a while to get started.
+This is great, but takes a while to get started. Someone usually makes a facebook group for major areas such as New York or the Bay Area, which can provide another place to meet potential roommates.
 
 Contact them and ask them to meet up somewhere in Waterloo for dinner.
 It gives everyone a great opportunity to meet each other, get a feel for who
@@ -632,7 +632,7 @@ As recently as Sept. 2014, Michael got 1.0975 USD/CAD exchanged ($1000 USD).
 
 * Wire transfer (mad fees)
 * Cash a check (takes 20-30 days for the first I hear). Keep in mind, bank currency rates are generally terrible.
-  usually 2.5%, Stephen doesn't do this any more)
+  usually 2.5%, Stephen doesn't do this any more). If you have family or a friend working at your bank, they may be able to waive the waiting period.
 
 #### Miscellaneous
 If you end up with American funds in Canada, Stephen recommends opening a US
@@ -1034,36 +1034,143 @@ up SF or Mountain View.
   * If you want a broker in Manhattan, you can contact [John Spalding](johns@nestseekers.com).
     The fee is low for NY ($1000), and he tries really hard to get you into a place you'll like.
 
+* [92Y](http://www.92y.org/residence) was a great place on the upper east side (Gossip Girl zone).
+  It was clean, had a brand new gym, weekly cleaning of sheets and stuff, had security 24/7. Be warned that many students
+  hated it because it was only the room (kitchen and bathroom were shared). They also have a very restrictive guest
+  policy, where guests have to be signed in for $10/night.
+
 #### Food
 * There are so many places to eat in NYC, try new stuff!
+* Yelp is your best friend. As Canadians, we underestimate it because it doesn't
+  have much content. In NYC every hole-in-the-wall has dozens of reviews, so use
+  Yelp to vet the places you want to go, or just find a random restaurant.
+* Rooftops are great. These tend to be bars, but you can also find restaurants, since many bars
+  are restaurants during the day. They offer great views, especially the ones in Brooklyn that
+  let you see the skyline. [VU Rooftop](http://www.vunyc.com/) in Manhattan also has one hell
+  of a view of the Empire State.
 * Halcart (The Halal Guys) at 53rd and 6th is to die for.
   Make sure you go to the [right one](http://www.yelp.com/biz/53rd-and-6th-halal-cart-new-york).
   Get the hot sauce. There will be a line, it's worth it.
 * Pizza - In NY it's a different kind of food. It's also highly contentious
-  which place is best.
+  which place is best. One thing is certain: any random hole in the wall will
+  still give you amazing pizza.
 
   * [Grimaldi's](http://www.grimaldis.com/) is usually number 1 or 2 on most
     lists. It will be packed. Go on a weeknight. You will stand outside for
     20-45 minutes or more. On Saturday expect over an hour. You can do take out
-    which will be a bit faster. Eat it under the Brooklyn bridge!
+    which will be a bit faster. Eat it under the Brooklyn bridge! Graham found
+    this place to be decidedly average and not worth the wait.
 
   * [Lombardi's](http://www.firstpizza.com/) is really good and in Manhattan.
     The wait is more reasonable.
 
+  * [Artichoke Pizza](http://www.artichokepizza.com/) has a few locations around the city,
+    and their signature dish, the artichoke pizza, is a gooey and delicious mess.
+
+* Bagels. They really are better in New York. Find a high rated bagel shop near you on Yelp,
+  it can be great for breakfast. [Russ and Daughters](http://www.russanddaughters.com/) has an
+  amazing smoked salmon and cream cheese bagel.
 * [Fat Cat](http://www.fatcatmusic.org/) is a nice bar and has lots of pool
   tables, ping-pong tables and even scrabble. Prices are decent. Also allows
   people under 21 in before a certain time.
 * [Dallas BBQ](http://www.dallasbbq.com/) is really good and has awesome prices.
+  This place was declared sub-par by a Texan intern, who presumably knows his stuff.
 * [Carmines](http://carminesnyc.com/) is family style (gigantic plates) Italian
   food and really tasty. Pretty busy.
 * [Shake Shack](https://www.shakeshack.com/), "the East Coast In N Out".
+* [Prosperity Dumpling](http://www.yelp.ca/biz/prosperity-dumpling-new-york) has
+  four dumplings for $1, and they are the best dumplings I have ever tasted.
+* [Smorgasburg](http://www.smorgasburg.com/) is a food festival ever Saturday and
+  Sunday in Brooklyn. It's a bit pricey for street food, but tastes good. The maple
+  lemonade is great there.
+* [Sprinkles](http://www.sprinkles.com/locations/new-york/new-york/cupcakes) is a
+  good desert shop (amazing cupcakes) and they have a cupcake ATM! The ATM is a
+  novelty, but I would recommend using it at least once, since it's cool to watch
+  and the cupcakes are as fresh as the ones you buy in the store.
 
 #### Activities
-* [Kayak on the river](http://www.downtownboathouse.org/) for free!
+* There is something for everybody in New York. If your underage or cash strapped,
+  there is plenty of free and all-ages stuff to do.
+* Many companies are museum sponsors, so check to see where your ID badge will get
+  you in free. Bloomberg ID's will get you (and friends) in EVERYWHERE. Also, talk to
+  your friends, and see where they can take you on their ID badges.
+
+##### Attractions
+* [Top of the Rock](http://www.topoftherocknyc.com/visitor/), it's like going to the top of the Empire State Building,
+  but better because you can actually see the Empire State Building. Very touristy,
+  expect to be waiting a while.
+* [9/11 Memorial](http://www.911memorial.org/). The museum is amazing, but make sure you book tickets ahead of time
+* [The Met](http://www.metmuseum.org/) is a MASSIVE museum that you'll never be able to see all of. Lots of Greek,
+  Roman, etc art. If you go, check out the faberge section, it's tiny but impressive
 * The [American Museum of Natural History](http://www.amnh.org/) is large and
-  fun! Avoid the line and the ticket fee if you work for a [sponsor company](http://www.amnh.org/join-support/corporate-giving/corporate-patron-program/corporate-patron-list).
-* Groupon has great deals for bike rentals in Central Park.
-* Go to a comedy club.
+  fun! Graham says it's a classic, but it's mostly dioramas and dinosaur bones so he
+  got tired of it after a while.
+* [Museum of Modern Art](http://www.moma.org/). Some of the temporary exhibits can be terrible,
+  but some of the other ones are cool, and of course they have the classics like Salvador Dali,
+  Picasso, Monet, Warhol, etc on the higher floors.
+* There are plenty of random little museums that are small, but have interesting content,
+  such as the [Museum of Sex](http://www.museumofsex.com/) (sorry, no corporate discounts here,
+  also, VERY graphic. When I say graphic, I mean like 10ft screen playing the porno "Deep Throat"
+  when you walk in.) or [Museum of Math](momath.org).
+* [Kayak on the river](http://www.downtownboathouse.org/) for free!
+* Grand Central and New York Public Library are iconic, close together, and free to look at, however,
+  they don't provide entertainment for long.
+* Yankee and Mets games are pretty cheep if you sit in the nosebleeds, and the stadiums are on the subway lines.
+
+##### Shows
+* Try getting [rush tickets](http://www.nytix.com/Links/Broadway/lotteryschedule.html)
+  (going to theatre day of and buying) or go to [TKTS](https://www.tdf.org/nyc/7/TKTS-ticket-booths)
+  in time square. Both options are day of only and will be 40-60% off.
+* [Shakespeare in the Park](http://www.publictheater.org/en/Free-Shakespeare-in-the-Park/)
+  puts on amazing high quality productions of Shakespeare plays for free in a
+  theatre in Central Park. You can get some decently well known actors such as
+  John Lithgow in these. You can get tickets via online lottery or lining up day of.
+  Lining up day of is the more reliable method (if you're willing to wait literally all day),
+  but the online lottery is possible to win, especially if you get your entire family requesting
+  tickets for you every week. If you end up with extra tickets, return them or bring friends!
+* Comedy in NYC is amazing. [Comedy Cellar](http://www.comedycellar.com/) (21+) was Graham's go to place,
+  and he even saw a surprise appearance by Aziz Ansari trying out new material. They have a two item
+  minimum, so be prepared to buy dinner, snacks, or beer. [Upright Citizen's Brigade](https://www.ucbtheatre.com/)
+  also has some hilarious shows. Some of the more obscure stuff if free, and still good.
+* Slam Poetry is also pretty good in NYC. [Nuyorican Poet's Cafe](http://www.nuyorican.org/) had
+  some good (and not so good) talent, and is all ages.
+* Wicked, Les Miz are both good. Blue man group is strange but kinda fun.
+* Don't get your hopes up for Book of Mormon.
+
+##### Parks and Walking
+* You can spend many days exploring parks like Central Park or Prospect Park.
+* Walking:
+
+  * Walk from Brooklyn to manhattan over the Brooklyn bridge. Daytime is better for seeing
+   the bridge, nighttime is better for the skyline, sunset is perfect.
+  * Wander any of the parks (Brooklyn bridge, central, prospect)
+  * The high line (really nice hike on an elevated converted train track in the middle of manhattan)
+  * Times square. You're in New York, so go be a tourist and see it once. Go look for like 5 min then
+    get the hell out and never go back
+
+* Central Park:
+  * Imagine memorial
+  * Chess Pavilion. They let you sign out chess pieces for free, and play on the tables around the pavilion.
+  * Row boats in the lake. Go ahead, take that special someone.
+  * A castle. It's tiny, but it's got a good view.
+  * The Ramble. This is a nice, really thickly forested area that is one of the few places you might get
+    to feel alone in NYC. Bring a book and read on the stones by the waterfall.
+  * Rental bikes. Groupon usually has deals for these, or you can usually just negotiate with the guy selling them.
+
+* Prospect Park
+
+  * Grand Army Plaza. It looks pretty and will make some nice photos.
+  * Brooklyn Botanical Garden. Beautiful flowers, though makes sure you time your trip to
+    get them when most are in season.
+  * Brooklyn public library
+  * Greenwood Cemetery is close by
+
+##### Misc.
+* Williamsburg flea on Sundays is fun. There are a few flea markets in the area,
+  go to the one on the water for sure, but look at the others as well. They have
+  some really cool crafts, but don't expect it to be cheap. These days area also
+  great hipster watching opportunities.
+
 
 <section id="Area-Coopersburg-PA" />
 ### Coopersburg, PA
