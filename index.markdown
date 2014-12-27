@@ -46,6 +46,7 @@ request. I'll note you if you want to be noted.
 * [Felix Fung](http://feli.xxx)
 * [Felix Mo](http://felixmo.com)
 * [Gary Guo](http://ca.linkedin.com/pub/gary-guo/46/b0a/55b)
+* [Graham Bleaney](http://bleaney.ca)
 * [Joshua Kalpin](http://joshuakalp.in)
 * [Kevin James](http://thekev.in)
 * [Michael Shao](http://michaelshao.com)
@@ -1026,14 +1027,11 @@ up SF or Mountain View.
 * Brooklyn (Bay Ridge) - 328 91st Street, Brooklyn (close to the subway).
   The landlord is Annette Sobczynski (718-974-0368, annetteeve@hotmail.com).
   Multiple furnished apartments.
-
-  * 2011S - Stephen - It was fully furnished for $1900/month, 2 bedrooms,
-    large kitchen and a pullout bed in the living room. Stayed for 1 month while
-    looking for apartments in Manhattan.
-
-  * If you want a broker in Manhattan, you can contact [John Spalding](johns@nestseekers.com).
-    The fee is low for NY ($1000), and he tries really hard to get you into a place you'll like.
-
+* 2011S - Stephen - It was fully furnished for $1900/month, 2 bedrooms,
+  large kitchen and a pullout bed in the living room. Stayed for 1 month while
+  looking for apartments in Manhattan.
+* If you want a broker in Manhattan, you can contact [John Spalding](johns@nestseekers.com).
+  The fee is low for NY ($1000), and he tries really hard to get you into a place you'll like.
 * [92Y](http://www.92y.org/residence) was a great place on the upper east side (Gossip Girl zone).
   It was clean, had a brand new gym, weekly cleaning of sheets and stuff, had security 24/7. Be warned that many students
   hated it because it was only the room (kitchen and bathroom were shared). They also have a very restrictive guest
@@ -1054,19 +1052,15 @@ up SF or Mountain View.
 * Pizza - In NY it's a different kind of food. It's also highly contentious
   which place is best. One thing is certain: any random hole in the wall will
   still give you amazing pizza.
-
   * [Grimaldi's](http://www.grimaldis.com/) is usually number 1 or 2 on most
     lists. It will be packed. Go on a weeknight. You will stand outside for
     20-45 minutes or more. On Saturday expect over an hour. You can do take out
     which will be a bit faster. Eat it under the Brooklyn bridge! Graham found
     this place to be decidedly average and not worth the wait.
-
   * [Lombardi's](http://www.firstpizza.com/) is really good and in Manhattan.
     The wait is more reasonable.
-
   * [Artichoke Pizza](http://www.artichokepizza.com/) has a few locations around the city,
     and their signature dish, the artichoke pizza, is a gooey and delicious mess.
-
 * Bagels. They really are better in New York. Find a high rated bagel shop near you on Yelp,
   it can be great for breakfast. [Russ and Daughters](http://www.russanddaughters.com/) has an
   amazing smoked salmon and cream cheese bagel.
@@ -1140,14 +1134,12 @@ up SF or Mountain View.
 ##### Parks and Walking
 * You can spend many days exploring parks like Central Park or Prospect Park.
 * Walking:
-
   * Walk from Brooklyn to manhattan over the Brooklyn bridge. Daytime is better for seeing
    the bridge, nighttime is better for the skyline, sunset is perfect.
   * Wander any of the parks (Brooklyn bridge, central, prospect)
   * The high line (really nice hike on an elevated converted train track in the middle of manhattan)
   * Times square. You're in New York, so go be a tourist and see it once. Go look for like 5 min then
     get the hell out and never go back
-
 * Central Park:
   * Imagine memorial
   * Chess Pavilion. They let you sign out chess pieces for free, and play on the tables around the pavilion.
@@ -1156,9 +1148,7 @@ up SF or Mountain View.
   * The Ramble. This is a nice, really thickly forested area that is one of the few places you might get
     to feel alone in NYC. Bring a book and read on the stones by the waterfall.
   * Rental bikes. Groupon usually has deals for these, or you can usually just negotiate with the guy selling them.
-
 * Prospect Park
-
   * Grand Army Plaza. It looks pretty and will make some nice photos.
   * Brooklyn Botanical Garden. Beautiful flowers, though makes sure you time your trip to
     get them when most are in season.
@@ -1170,7 +1160,6 @@ up SF or Mountain View.
   go to the one on the water for sure, but look at the others as well. They have
   some really cool crafts, but don't expect it to be cheap. These days area also
   great hipster watching opportunities.
-
 
 <section id="Area-Coopersburg-PA" />
 ### Coopersburg, PA
