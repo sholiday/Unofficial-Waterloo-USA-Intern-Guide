@@ -1131,10 +1131,10 @@ up SF or Mountain View.
 * Comedy in NYC is amazing. [Comedy Cellar](http://www.comedycellar.com/) (21+) was Graham's go to place,
   and he even saw a surprise appearance by Aziz Ansari trying out new material. They have a two item
   minimum, so be prepared to buy dinner, snacks, or beer. [Upright Citizen's Brigade](https://www.ucbtheatre.com/)
-  also has some hilarious shows. Some of the more obscure stuff is free, and still good.
+  also has some hilarious shows. Some of the more obscure stuff if free, and still good.
 * Slam Poetry is also pretty good in NYC. [Nuyorican Poet's Cafe](http://www.nuyorican.org/) had
   some good (and not so good) talent, and is all ages.
-* Wicked and Les Miz are both good. Blue man group is strange but kinda fun.
+* Wicked, Les Miz are both good. Blue man group is strange but kinda fun.
 * Don't get your hopes up for Book of Mormon.
 
 ##### Parks and Walking
