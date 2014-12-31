@@ -1027,9 +1027,11 @@ up SF or Mountain View.
 * Brooklyn (Bay Ridge) - 328 91st Street, Brooklyn (close to the subway).
   The landlord is Annette Sobczynski (718-974-0368, annetteeve@hotmail.com).
   Multiple furnished apartments.
-* 2011S - Stephen - It was fully furnished for $1900/month, 2 bedrooms,
-  large kitchen and a pullout bed in the living room. Stayed for 1 month while
-  looking for apartments in Manhattan.
+
+  * 2011S - Stephen - It was fully furnished for $1900/month, 2 bedrooms,
+    large kitchen and a pullout bed in the living room. Stayed for 1 month while
+    looking for apartments in Manhattan.
+
 * If you want a broker in Manhattan, you can contact [John Spalding](johns@nestseekers.com).
   The fee is low for NY ($1000), and he tries really hard to get you into a place you'll like.
 * [92Y](http://www.92y.org/residence) was a great place on the upper east side (Gossip Girl zone).
