@@ -36,6 +36,7 @@ request. I'll note you if you want to be noted.
 
 * [Aamir Mansoor](http://aam1r.com)
 * [Akshay Joshi](http://akshayjoshi.com)
+* [Aldrin Balisi](https://github.com/aldrincb)
 * [Amir Sharif](http://www.amirsharif.com)
 * [Avi Itskovich](http://itskovi.ch/)
 * [Chris Vandevelde](http://www.imlikeaninja.com)
@@ -148,7 +149,8 @@ Have a second (or third) copy of all travel documents:
 
 Don't call it a job or say you are working! The J-1 visa status is not meant for
 "working", but rather for "training" in the United States. Remember, you're just
-a poor little intern *training* in the United States!
+a poor little intern *training* in the United States and make sure you declare that
+you have a J1 Visa at US Customs!
 
 Some prefer keeping all the above as a digital copy in my Dropbox/Google Docs so
 they have instant access to them just in case they lose anything.
@@ -159,6 +161,13 @@ Make sure you have your US passport, health insurance card, and boarding pass.
 I-94's are are [online](https://i94.cbp.dhs.gov/I94/request.html) / supposed to be online.
 Sometimes, you'll get the stamp in your passport, and will know you did it right.
 Depending where you land, they may or may not have instituted online-only I-94's.
+
+In the event that you are admitted to the states as a visitor/tourist (B1), you may not
+legally work! You need a J1 status on your I-94 form! Check the class of admittance of 
+your I94 [online](https://i94.cbp.dhs.gov/I94/request.html). 
+To resolve/update the  admittance status on your I-94, you have two options: Re-enter
+the United States, or schedule an appointment at a US Customs and Border Protection 
+Deferred Inspection office to update your I-94 Form. Schedule an appointment [here.](http://infopass.uscis.giv/).
 
 If you are on a connection flight it doesn't hurt to ask the person at the gate
 waiting area to double-check your connection flight. Amir found out he would miss his connection flight -- Delta airlines reroute his flight for free and he was bumped to first class and also got to San Francisco earlier than he would've even without the delay.
