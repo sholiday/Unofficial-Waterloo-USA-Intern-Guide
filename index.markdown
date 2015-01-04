@@ -167,7 +167,7 @@ legally work! You need a J1 status on your I-94 form! Check the class of admitta
 your I94 [online](https://i94.cbp.dhs.gov/I94/request.html). 
 To resolve/update the  admittance status on your I-94, you have two options: Re-enter
 the United States, or schedule an appointment at a US Customs and Border Protection 
-Deferred Inspection office to update your I-94 Form. Schedule an appointment [here.](http://infopass.uscis.giv/).
+Deferred Inspection office to update your I-94 Form. Schedule an appointment [here](http://infopass.uscis.giv/).
 
 If you are on a connection flight it doesn't hurt to ask the person at the gate
 waiting area to double-check your connection flight. Amir found out he would miss his connection flight -- Delta airlines reroute his flight for free and he was bumped to first class and also got to San Francisco earlier than he would've even without the delay.
