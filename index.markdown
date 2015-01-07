@@ -172,6 +172,9 @@ Deferred Inspection office to update your I-94 Form. Schedule an appointment [he
 If you are on a connection flight it doesn't hurt to ask the person at the gate
 waiting area to double-check your connection flight. Amir found out he would miss his connection flight -- Delta airlines reroute his flight for free and he was bumped to first class and also got to San Francisco earlier than he would've even without the delay.
 
+### Leaving the Country during your Internship
+If you are planning to leave your country, make sure to have your original I-94 and DS-2019 papers with you. If you did not bring the papers with you, you will be detained at customs until they can find it in their database. If they find it, you may be issued a temporary DS-2019, but if they can't find it, you may need to provide the original papers before you can re-enter (someone needs to mail your DS-2019 and I-94 to you). 
+
 <section id="Paperwork-SSN" />
 ### Getting your SSN
 Apply for your SSN as soon as you have been in the US for at least *10 days*. It
