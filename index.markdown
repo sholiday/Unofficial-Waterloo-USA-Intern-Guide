@@ -683,8 +683,11 @@ have any concerns, you should seek a professional.
 Some people have had luck with this
 [free government program][IRS-FreeTaxReturn].
 
-CECA has [some information][CECA-USIncomeTax] on taxes. Approximately one year after completion of a J-1 Visa on the Cultural Vistas program offered by the CECA, students are offered a free code from [Glacier Tax Prep](https://www.glaciertax.com/) to do their taxes with.
+CECA has [some information][CECA-USIncomeTax] on taxes. After completion of a J-1 Visa on the Cultural Vistas program offered by the CECA, students are offered a free code from [Glacier Tax Prep](https://www.glaciertax.com/) when a survey for codes is sent out in January to do their taxes with. 
+Codes are sent in February - since W-2 forms are due from employers January 31st of every year (Tax Deadline is April 15th, FYI).
 It's a handy tool for sure, since it's a lot of plug and play for the numbers on your W-2 (that your employer sends you on January 31st). You have to send these forms in by paper mail, because the 2014 rules for e-filing require long-term (6+ months) residency in a state. (2013 rules changed!)
+Michael was able to do his 2013 and 2014 taxes through GTP, and since other programs like TurboTax don't do the 1040NR-EZ forms, GTP is a fast and easy-to-use system to get your taxes done.
+
 Stephen used "Peter Cuttini" (contact info on Waterloo site) for his 2011 taxes.
 He's heard good things about him for co-op students. (Around $300).
 Stephen was not very impressed with the work and will be likely doing them
