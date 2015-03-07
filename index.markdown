@@ -300,6 +300,7 @@ Some websites we've used successfully are:
   -- corporate housing
 * [PadMapper](http://www.padmapper.com/) -- Craigslist & Kijiji listings on a
   map
+* [Lovely](https://livelovely.com/) -- Subsidiary of RentPath; looks a lot like PadMapper, but with a lot of really cool extra features.
 
 <section id="Living-CellService" />
 ### Cell Service
@@ -682,7 +683,11 @@ have any concerns, you should seek a professional.
 Some people have had luck with this
 [free government program][IRS-FreeTaxReturn].
 
-CECA has [some information][CECA-USIncomeTax] on taxes.
+CECA has [some information][CECA-USIncomeTax] on taxes. After completion of a J-1 Visa on the Cultural Vistas program offered by the CECA, students are offered a free code from [Glacier Tax Prep](https://www.glaciertax.com/) when a survey for codes is sent out in January to do their taxes with. 
+Codes are sent in February - since W-2 forms are due from employers January 31st of every year (Tax Deadline is April 15th, FYI).
+It's a handy tool for sure, since it's a lot of plug and play for the numbers on your W-2 (that your employer sends you on January 31st). You have to send these forms in by paper mail, because the 2014 rules for e-filing require long-term (6+ months) residency in a state. (2013 rules changed!)
+Michael was able to do his 2013 and 2014 taxes through GTP, and since other programs like TurboTax don't do the 1040NR-EZ forms, GTP is a fast and easy-to-use system to get your taxes done.
+
 Stephen used "Peter Cuttini" (contact info on Waterloo site) for his 2011 taxes.
 He's heard good things about him for co-op students. (Around $300).
 Stephen was not very impressed with the work and will be likely doing them
@@ -702,7 +707,7 @@ If you are traveling on a Canadian Passport to the US to visit (not J-1), you ar
 
 <section id="Misc" />
 ## Miscellaneous
-* Amazon gives free shipping for 1 month through Prime. Get one intern to sign up
+* Amazon gives free shipping for 1 month (trial) through Prime. Get one intern to sign up
   at a time so you can have free shipping all work term. Even better is Amazon
   Student, which gives you free 6 months of Prime and subsidizes Prime at $39/year
   after that. Shale ships everything to his office. Carrying a box home is much less painful than going to the postal office to pick up a missed package.
@@ -725,6 +730,7 @@ If you are traveling on a Canadian Passport to the US to visit (not J-1), you ar
   * Shortcut for estimating from F to C: (weather in F - 30) / 2 = weather in
     C. This will be off by 1 or 2 degrees, but works well for situations like
     figuring out what to wear in the morning.
+  * Km to Miles: 1.6 km = 1 mile
 * Meetups are a great way to learn new things and meet new people.
   See [meetup.com](http://meetup.com) for more details on specific groups.
 
@@ -1449,6 +1455,7 @@ Some benefits to consider:
 
 * 401k
 * Annual bonuses (mostly large companies)
+* Relocation bonus
 * Vacation time
 
 Some resources other resources about negotiation:
@@ -1501,7 +1508,9 @@ Resources:
 * [TN Visa Bulletin](http://www.tnvisabulletin.com/)
 
 #### H1-B
-A common visa for non-Canadians.
+A common visa for non-Canadians. Only 65,000 per year are given out every year, with an extra 20,000 cap being extended to people with Master's degrees or higher.
+The application process begins in April of every year, and is basically a lottery system. Anyone who is reapplying from the previous year has the same chance of obtaining
+their H1-B as a new applicant. More details can be found on the [USCIS website](http://www.uscis.gov/working-united-states/temporary-workers/h-1b-specialty-occupations-and-fashion-models/h-1b-fiscal-year-fy-2015-cap-season).
 
 <section id="FT-Misc" />
 ### Miscellaneous
