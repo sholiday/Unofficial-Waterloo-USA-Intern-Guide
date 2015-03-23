@@ -692,9 +692,14 @@ CECA has [some information][CECA-USIncomeTax] on taxes.
   * It's a handy tool for sure, since it's a lot of plug and play for the numbers on your W-2 (that your employer sends you on January 31st). 
   * NOTE: You have to send these forms in by paper mail, because the 2014 rules for e-filing require long-term (6+ months) residency in a state. (2013 rules changed!)
 
-Michael was able to do his 2013 and 2014 taxes through GTP, and since other programs like TurboTax don't do the 1040NR-EZ forms, GTP is a fast and easy-to-use system to get your taxes done. State taxes are a different beast; each state has their own way of doing things, depending on what state you worked in. 
-For example, states such as New Jersey have eFile for non-residents, whereas NY / CA do not (as of 2014). Certain states, like WA, do not have state taxes, and therefore, you do not need to file a state tax return when working in Washington. For State taxes, Michael used TurboTax, or printed out the required forms and filled them out. 
-If you can read instructions, this isn't difficult. You can also pay a service some nominal fee (usually $100-500) to do your taxes for you; Michael doesn't recommend this, since your tax return might not be that big (his CA job only had a tax return of $450, NJ $550), and you don't actually spend all that much time filling everything out if you do it yourself.
+Michael did his 2013 and 2014 taxes through GTP, and since other programs like TurboTax don't process 1040NR-EZ forms (federal return), GTP is a fast and easy-to-use system to get your taxes done. 
+
+* NOTE: State taxes are a different beast; each state has their own way of doing things, depending on what state you worked in. 
+  * For example, states such as New Jersey have eFile for non-residents, whereas NY / CA do not (as of 2014). 
+  * Certain states, like WA, do not have state taxes, and therefore, you do not need to file a state tax return when working in Washington. 
+* For State taxes, Michael used TurboTax, or printed out the required forms and filled them out. 
+  * If you can read instructions, this isn't difficult. 
+  * You can also pay a service some nominal fee (usually $100-500) to do your taxes for you; Michael doesn't recommend this, since your tax return might not be that big (his CA job only had a tax return of $450, NJ $550), and you don't actually spend all that much time filling everything out if you do it yourself.
 
 Stephen used "Peter Cuttini" (contact info on Waterloo site) for his 2011 taxes.
 He's heard good things about him for co-op students. (Around $300).
