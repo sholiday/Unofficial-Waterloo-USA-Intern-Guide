@@ -636,16 +636,18 @@ If you are using [RBC](http://www.rbcroyalbank.com/), you can partner up with th
 RBC, like TD, does transfers for free between countries (NOTE: USD --> USD only!). RBC Bank in the US is purely online - 
 the fee for a basic account is $2.95/month, but this is easily well-worth it for no-hassle, instantaneous transfers of USD between your US and Canadian RBC accounts.
 You can use any PNC Bank ATM in the US to withdraw (USD) money from your RBC account at no fee, as well as a multitude of other ATMs across the country. 
-Transfers between the US and Canadian accounts are unlimited and instantaneous - RBC Bank in the US even accepts Direct Deposits and cheque deposits via mobile service!
+Transfers between the US and Canadian accounts are unlimited and instantaneous - RBC Bank in the US even accepts Direct Deposits and cheque deposits via mobile service (taking a picture of the front/backside of the cheque)!
 The USD account in Canada should be free if you already have an existing service with them; a good rule of thumb is that it may not be worth it to sign up if you aren't already using them.
+Signing up for two things on the Canadian side should keep you from paying anything extra, while validating your RBC US account: "Day-to-Day Chequing" account, and the "no annual fee" credit card from RBC Royal Bank.
 
 Once the USD funds are in your Canadian RBC account, feel free to use XE trade or some other mechanism to convert it to CAD without losing too much in the exchange. 
-As recently as Sept. 2014, Michael got 1.0975 USD/CAD exchanged ($1000 USD).
+When using "Debit My Account" on XE Trade (from a US account), then "ACH/EFT" (to deposit to a Canadian institution, in CAD), you don't have to pay any fees other than a brokerage fee that XE administers as part of the exchange rate.
+As recently as March 2015, Michael got 1.2647 USD/CAD exchanged ($1600 USD).
 
 #### Not Recommended Ways
 
-* Wire transfer (mad fees)
-* Cash a check (takes 20-30 days for the first I hear). Keep in mind, bank currency rates are generally terrible.
+* Wire transfer (mad fees - $40 per transaction, at minimum!)
+* Cash a check (takes 20-30 days for the first I hear). Keep in mind, bank currency rates (are generally terrible.
   usually 2.5%, Stephen doesn't do this any more). If you have family or a friend working at your bank, they may be able to waive the waiting period.
 
 #### Miscellaneous
@@ -686,7 +688,9 @@ Some people have had luck with this
 CECA has [some information][CECA-USIncomeTax] on taxes. After completion of a J-1 Visa on the Cultural Vistas program offered by the CECA, students are offered a free code from [Glacier Tax Prep](https://www.glaciertax.com/) when a survey for codes is sent out in January to do their taxes with. 
 Codes are sent in February - since W-2 forms are due from employers January 31st of every year (Tax Deadline is April 15th, FYI).
 It's a handy tool for sure, since it's a lot of plug and play for the numbers on your W-2 (that your employer sends you on January 31st). You have to send these forms in by paper mail, because the 2014 rules for e-filing require long-term (6+ months) residency in a state. (2013 rules changed!)
-Michael was able to do his 2013 and 2014 taxes through GTP, and since other programs like TurboTax don't do the 1040NR-EZ forms, GTP is a fast and easy-to-use system to get your taxes done.
+Michael was able to do his 2013 and 2014 taxes through GTP, and since other programs like TurboTax don't do the 1040NR-EZ forms, GTP is a fast and easy-to-use system to get your taxes done. State taxes are a different beast; each state has their own way of doing things, depending on what state you worked in. 
+New Jersey has eFile, NY / CA do not. Certain states, like WA, do not have state taxes, and therefore, you do not need to file a state tax return when working in Washington. For State taxes, Michael used TurboTax, or printed out the required forms and filled them out. If you can read instructions, this isn't difficult. 
+You can also pay a service some nominal fee (usually $100-500) to do your taxes for you; Michael doesn't recommend this, since your tax return might not be that big (his CA job only had a tax return of $450, NJ $550), and you don't actually spend all that much time filling everything out if you do it yourself.
 
 Stephen used "Peter Cuttini" (contact info on Waterloo site) for his 2011 taxes.
 He's heard good things about him for co-op students. (Around $300).
@@ -1180,6 +1184,63 @@ up SF or Mountain View.
   go to the one on the water for sure, but look at the others as well. They have
   some really cool crafts, but don't expect it to be cheap. These days area also
   great hipster watching opportunities.
+
+<section id="Area-Seattle-WA" />
+### Seattle, WA
+#### Housing
+There are a bunch of awesome places to live when in Seattle. If you're working for a company like Amazon or Microsoft, there is a corporate housing option that you can take.
+Otherwise, there are a few cool places to look at, but keep in mind that some of them don't do short-term leases. YMMV, but these are what someone found when looking for housing for a full-time position.
+* [Essex Apartments](http://www.essexapartmenthomes.com/search?ustext=Seattle%20Area&ustype=metro&uskey=57&beds=any&baths=any&city&state&min_rent=any&max_rent=any) - They have a lot of properties in major cities, but Seattle seems to have a few that are in great locations.
+* [Equity Apartments](http://www.equityapartments.com/washington/seattle-apartments.aspx) - This seems to be the frontrunner, since they have the lowest rent on the Belltown properties, as well as the highest number of properties per capita.
+
+The above places have the following amenities (which may or may not be important to you):
+* Washer/dryer in unit
+* Dishwasher in unit
+* On-site fitness center / party room
+#### Food
+If you're a foodie, you're in the right place! There's a lot of awesome things to eat in Seattle. Yelp really is your best friend here. 
+Belltown is a really nice area when it comes to certain kinds of restaurants, but remember that price tends to vary widely with location within Belltown. 
+Here's a selection of a few of the better ones I (Michael) enjoyed when visiting.
+
+* [The Grill From Ipanema](http://seattlegrillfromipanema.com/) - Brazilian All-You-Can-Eat Steakhouse. A little pricey ($50 per person), but great selections and cuts of meat.
+* [Shiro's Sushi](http://shiros.com/) - This place is always really busy, so make reservations well in advance. Also a little pricey ($65-75 per person), but this is as close to a Michelin star sushi place as it gets!
+* [Kushibar](http://www.yelp.ca/biz/kushibar-japanese-bar-and-restaurant-seattle) - Great ramen place. Has a decent selection of appetizers and other Japanese dishes as well, but coming here for the ramen is never a terrible idea. Great quality for price!
+* [The Lucky Diner](http://www.theluckydiner.com/index.htm) - A hole in the wall, for sure, but don't be mistaken - this place has great milkshakes and burgers! Careful of the busy periods, though - the service quality won't be as top-tier.
+* [La Parisienne](http://www.laparisienneseattle.com/) - This gem had well priced baguettes and drinks in a well-placed location. Quaint cafe-style establishment, $10 for breakfast! (coffee, breakfast sandwich, and buttered baguette)
+
+#### Activities & Misc. Fun
+The "over-21" scene is really upbeat in the Fremont / Capitol Hill areas of Seattle. When interviewing (full-time) at Microsoft, Michael was told about the following areas by the concierge.
+
+* Capitol Hill:
+  * [Molly Moon's Homemade Ice Cream](http://www.mollymoonicecream.com/) - If you're a dessert person, this is the place for you.
+  * [Cure](http://cureseattle.com/) - Charcuterie, Cheese, Cocktails.
+  * [Oddfellows](http://oddfellowscafe.com/) - All-day, all-night cafe.
+  * [Grim's](http://www.grimseattle.com/) - Bitterfly Lounge
+* Fremont: 
+  * [TROLL](http://www.yelp.ca/biz/the-fremont-troll-seattle) - A "must-see" for artsy folk who like sculptures.
+  * [Fremont Bridge](http://en.wikipedia.org/wiki/Fremont_Bridge_%28Seattle%29) - if you like seeing drawbridges open multiple times a day, go here.
+  * [Dusty String's](http://www.yelp.ca/biz/dusty-strings-seattle) - Music folk will like this. If you're familiar with "Long & McQuade's" in Waterloo, this is kind of like that!
+  * [Theo Chocolate](https://www.theochocolate.com/about-theo) - If you're a chocolate person, this is a must-go-to-immediately-because-it's-awesome.
+  * [Add-A-Ball](http://add-a-ball.com/) - Seattle arcade, located in Fremont. Largest collection of coin-operated arcade machines in Seattle, with a great selection of pinball machines.
+  * [Fremont Brewery](http://www.fremontbrewing.com/welcome) - Family-owned craft brewery, founded 2009.
+  * [Paseo](http://www.paseoseattle.com/) - Fremont Caribbean restaurant. Also has a location in Ballard.
+  * [Nectar Lounge](http://www.nectarlounge.com/) - Fremont lounge, offers live music, martinis, food, and atmosphere.
+
+#### Tourist Attractions
+The main places are really only the Space Needle and Pike Place Market. More will be added as it is explored.
+
+* [Seattle Space Needle](http://www.spaceneedle.com/home/) - Local tourist attraction. Great to visit once or twice, but can get old quickly if you're around for a while.
+* [Pike Place Market](http://www.pikeplacemarket.org/) - Local farmer's market near the water. Great location, decent prices, awesome atmosphere. Fresh seafood every day!
+
+#### Surrounding Area
+* Redmond (where Microsoft is) and Bellevue (where other parts of Microsoft are) are the "satellite cities" of Seattle. 
+  There isn't much to do here, since usually people with families and older (retired) folk tend to reside around here.
+  This unfortunately means that everything closes really early (before 10pm), and there is not a great many things to do at night.
+  Most people who work at Microsoft that want to do things will travel into Seattle somehow (usually public transit - driving is hell on the 520) to have fun.
+
+#### Getting Around
+* If you're going to and from Redmond / Bellevue from Seattle, it's probably best to take public transit. Ridesharing apps like Uber or Lyft will cost upwards of $15 per ride, where public transit would cost around $5.
+* For the most part, if you're just touring around Seattle, Lyft/Uber is pretty fair. Taxis in this area are not terrible either; since they're competing, you'll usually pay around the same price for the same distance travelled.
 
 <section id="Area-Coopersburg-PA" />
 ### Coopersburg, PA
