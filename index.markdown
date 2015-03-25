@@ -646,9 +646,9 @@ As recently as March 2015, Michael got 1.2647 USD/CAD exchanged ($1600 USD).
 
 #### Not Recommended Ways
 
-* Wire transfer (mad fees - $40 per transaction, at minimum!)
-* Cash a check (takes 20-30 days for the first I hear). Keep in mind, bank currency rates (are generally terrible.
-  usually 2.5%, Stephen doesn't do this any more). If you have family or a friend working at your bank, they may be able to waive the waiting period.
+* Wire transfer (mad fees - often upwards of $40 per transaction!)
+* Cash a check (takes 20-30 days I hear). Keep in mind, bank currency rates (are generally terrible. usually 2.5%, Stephen doesn't do this any more). 
+  If you have family or a friend working at your bank, they may be able to waive the waiting period.
 
 #### Miscellaneous
 If you end up with American funds in Canada, Stephen recommends opening a US
@@ -690,16 +690,17 @@ CECA has [some information][CECA-USIncomeTax] on taxes.
 * After completion of a J-1 Visa on the Cultural Vistas program offered by the CECA, students are offered a free code from [Glacier Tax Prep](https://www.glaciertax.com/) when a survey for codes is sent out in January to do their taxes with. 
   * Codes are sent in February - since W-2 forms are due from employers January 31st of every year (Tax Deadline is April 15th, FYI).
   * It's a handy tool for sure, since it's a lot of plug and play for the numbers on your W-2 (that your employer sends you on January 31st). 
-  * NOTE: You have to send these forms in by paper mail, because the 2014 rules for e-filing require long-term (6+ months) residency in a state. (2013 rules changed!)
+  * NOTE: You have to send these (federal tax return) forms in by paper mail.
+  * Your mileage may vary when it comes to state taxes. The rules for e-filing state taxes require long-term (6+ months) residency in a state to file state taxes for that particular state. Check your local state government taxation website for details.
 
-Michael did his 2013 and 2014 taxes through GTP, and since other programs like TurboTax don't process 1040NR-EZ forms (federal return), GTP is a fast and easy-to-use system to get your taxes done. 
+Michael did his 2013 and 2014 taxes through GTP, and since other programs like TurboTax don't process 1040NR-EZ forms (federal return), GTP is a fast and easy-to-use system to get your federal taxes done. 
 
 * NOTE: State taxes are a different beast; each state has their own way of doing things, depending on what state you worked in. 
   * For example, states such as New Jersey have eFile for non-residents, whereas NY / CA do not (as of 2014). 
   * Certain states, like WA, do not have state taxes, and therefore, you do not need to file a state tax return when working in Washington. 
-* For State taxes, Michael used TurboTax, or printed out the required forms and filled them out. 
-  * If you can read instructions, this isn't difficult. 
-  * You can also pay a service some nominal fee (usually $100-500) to do your taxes for you; Michael doesn't recommend this, since your tax return might not be that big (his CA job only had a tax return of $450, NJ $550), and you don't actually spend all that much time filling everything out if you do it yourself.
+* For State taxes, Michael used TurboTax, or printed out the required forms on the state government website and filled them out. 
+  * If you can read and follow instructions and schedules, this is a fairly easy task that should only take a few hours at maximum (your tax situation is simple if it's your first source of US income). 
+  * You can also pay a service some nominal fee (usually $100-500) to do your taxes for you; Michael doesn't recommend this, since your tax return might not be that big (his CA job only had a tax return of $450, NJ $550).
 
 Stephen used "Peter Cuttini" (contact info on Waterloo site) for his 2011 taxes.
 He's heard good things about him for co-op students. (Around $300).
