@@ -861,7 +861,7 @@ If you are an intern and have more info let me know.
 #### Housing
 * [Paramount/SFO Housing](http://www.sfohousing.com/) has decent pricing (Park
   or Herbert). The internet is slow. They are older buildings, and note that
-  there are no kitchen facilities to use in Herbert.
+  there are no kitchen facilities to use in Herbert. The Herbert and Spaulding are also located in the Tenderloin.
 
   * 2010F - Stephen has stayed at the Park. Liked it, would recommend
 
