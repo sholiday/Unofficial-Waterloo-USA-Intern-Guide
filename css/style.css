@@ -7,14 +7,36 @@
 
 
 
+
 body {
-	background-image: url(img/bgnoise.png);
-	background-position: initial initial;
-	background-repeat: initial initial;
+    background-image: url('../img/bgnoise.png');
+    background-position: initial initial;
+    background-repeat: initial initial;
+    margin-top: 40px;
+    margin-bottom: 40px;
 }
 
+@media (max-width: 980px) {
+    body {
+        margin-top: 0;
+    }
+}
 
+.main-navbar {
+    margin-bottom: 0;
+}
 
+.main-container {
+    position: relative;
+    padding-top: 20px;
+}
+
+.github-fork-link {
+    position: absolute;
+    top: 0;
+    right: 0;
+    border: 0;
+}
 
 
 
