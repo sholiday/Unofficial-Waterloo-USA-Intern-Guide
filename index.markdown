@@ -1458,18 +1458,16 @@ The main places are really only the Space Needle and Pike Place Market. More wil
 #### Housing
 * The usual websites will do. If you speak Chinese, check out [CSSA-IIT](http://www.cssa-iit.org/) or [Chinese of Chicago](http://bbs.chineseofchicago.com/) for housing. Most are near Chinatown, IIT, UIC, or Loyola.
 * Try to target your research on the North and North West of Chicago, for safety reasons. Stay close to the 'L'. Here are some nice neighbourhoods you'd want to stay in:
-<pre>
-*Lincoln Park
-*Bucktown
-*Wicker Park (Not West Wicker Park)
-*Ukrainian Village
-*East Village
-*Noble Square
-*Logan Square
-*Near North Side (Expensive) 
-*South Loop 
-*Lakeview
-</pre>
+  * Lincoln Park
+  * Bucktown
+  * Wicker Park (Not West Wicker Park)
+  * Ukrainian Village
+  * East Village
+  * Noble Square
+  * Logan Square
+  * Near North Side (Expensive)
+  * South Loop
+  * Lakeview
 * The price for a rent in those neighbourhoods is between 500$ and a 1000$/month, for a shared apartment with your own room. Normally the rooms are not furnished, so always ask details. 
 * Also, in every case, you will have to pay two rents the first month, one for your rent and one for the deposit. 
 * Demographic data is available on [NY Times](http://projects.nytimes.com/census/2010/explorer).
