@@ -38,6 +38,7 @@ request. I'll note you if you want to be noted.
 * [Akshay Joshi](http://akshayjoshi.com)
 * [Aldrin Balisi](https://github.com/aldrincb)
 * [Amir Sharif](http://www.amirsharif.com)
+* [Ankit Sardesai](https://ankitsardesai.ca)
 * [Avi Itskovich](http://itskovi.ch/)
 * [Chris Vandevelde](http://www.imlikeaninja.com)
 * [Dennis Ideler](http://dennisideler.com)
@@ -339,6 +340,17 @@ the $60 plan, but it's not much better in San Francisco because of the
 limitations of their network, and they might throttle you anyway. If you choose
 these guys, you might have to change your phone's APN settings to get data. Look
 at the instructions on their website.
+
+##### Roam Mobility
+Ankit highly recommends going with [Roam Mobility](http://roammobility.com). They're a Canadian company
+that offers cell phone services to USA travellers. All of their plans are prepaid and highly flexible, and
+range from daily plans for short-term travellers (from $4 CAD a day for unlimited everything including data) to
+monthly plans that are ideal for co-op students ($40 CAD for unlimited talk, text, and 2 gigs of data). The carrier
+uses T-Mobile's network. You can also pay for 4 months all at once and let the plan start right before you arrive
+in the United States. Also, since it's a Canadian company, you could just pay in Canadian dollars.
+
+Perhaps the main reason Ankit loves Roam Mobility is the fact that every plan has unlimited calling back to Canada,
+which is perfect for interns that still want to keep in touch with friends and family at home.
 
 ##### T-Mobile's Hidden Plan
 Gary writes in with this tip:
