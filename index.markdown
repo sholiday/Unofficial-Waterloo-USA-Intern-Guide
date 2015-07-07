@@ -114,7 +114,7 @@ your stipend will be taxed at ~26% in California. We've heard you can get
 much of it back if you save your receipts, something to look into.
 
 We recommend working at a place that covers some part of your housing,
-unless you have the financial ability to not care. Rent in major cities like SF or NYC easily tops $1500, especially if you want to live close to down town.
+unless you have the financial ability to not care. Rent in major cities like SF or NYC easily tops $1500, especially if you want to live close to downtown.
 
 <section id="Jobs-Perks" />
 ### Perks
@@ -153,28 +153,30 @@ Don't call it a job or say you are working! The J-1 visa status is not meant for
 a poor little intern *training* in the United States and make sure you declare that
 you have a J1 Visa at US Customs!
 
-Some prefer keeping all the above as a digital copy in my Dropbox/Google Docs so
+Some prefer keeping all the above as a digital copy in my Dropbox/Google Drive so
 they have instant access to them just in case they lose anything.
 
 If you are a US citizen, some of the above do not apply to you.
 Make sure you have your US passport, health insurance card, and boarding pass.
 
-I-94's are are [online](https://i94.cbp.dhs.gov/I94/request.html) / supposed to be online.
+I-94's are now entirely [online](https://i94.cbp.dhs.gov/I94/request.html).
 Sometimes, you'll get the stamp in your passport, and will know you did it right.
-Depending where you land, they may or may not have instituted online-only I-94's.
 
 In the event that you are admitted to the states as a visitor/tourist (B1), you may not
 legally work! You need a J1 status on your I-94 form! Check the class of admittance of 
-your I94 [online](https://i94.cbp.dhs.gov/I94/request.html). 
+your I-94 [online](https://i94.cbp.dhs.gov/I94/request.html). 
 To resolve/update the  admittance status on your I-94, you have two options: Re-enter
 the United States, or schedule an appointment at a US Customs and Border Protection 
-Deferred Inspection office to update your I-94 Form. Schedule an appointment [here](http://infopass.uscis.giv/).
+Deferred Inspection office to update your I-94 Form. Schedule an appointment [here](http://infopass.uscis.gov/).
 
 If you are on a connection flight it doesn't hurt to ask the person at the gate
-waiting area to double-check your connection flight. Amir found out he would miss his connection flight -- Delta airlines reroute his flight for free and he was bumped to first class and also got to San Francisco earlier than he would've even without the delay.
+waiting area to double-check your connection flight. Amir found out he would
+miss his connection flight -- Delta Airlines rerouted his flight for free and
+he was bumped to first class and also got to San Francisco earlier than he
+would've even without the delay.
 
 ### Leaving the Country during your Internship
-If you are planning to leave your country, make sure to have your original I-94 and DS-2019 papers with you. If you did not bring the papers with you, you will be detained at customs until they can find it in their database. If they find it, you may be issued a temporary DS-2019, but if they can't find it, you may need to provide the original papers before you can re-enter (someone needs to mail your DS-2019 and I-94 to you). 
+If you are planning to leave your country, make sure to have your original DS-2019 papers with you. If you did not bring the papers with you, you will be detained at customs until they can find it in their database. If they find it, you may be issued a temporary DS-2019, but if they can't find it, you may need to provide the original papers before you can re-enter (someone needs to mail your DS-2019 to you).
 
 <section id="Paperwork-SSN" />
 ### Getting your SSN
@@ -969,7 +971,7 @@ It's worth a trip after your first paycheque.
 #### Cupertino
 
 Checkout the Valley Fair Mall and Santana Row. Valley Fair Mall is a typical
-mall with everything that you expect in a Canadian Mall. Da' Anza and Stevens
+mall with everything that you expect in a Canadian mall. De Anza and Stevens
 Creek has plenty of eatery's around. If you haven't tried California Pizza
 Kitchen, you have to go immediately. If you want to go clubbing you have to hit
 up SF or Mountain View.
