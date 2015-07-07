@@ -811,6 +811,9 @@ If you are an intern and have more info let me know.
     dumb charges that you can't waive (eg. airport concession fee, terminal
     fees, etc.). They also don't give free upgrades unless forced to via
     discount codes.
+  * Some credit cards offer insurance if you pay for the entire rental with
+    that credit card. Take advantage of this! Akshay used this a whole bunch in
+	W2015.
 
 <section id="Area-SF" />
 ### San Francisco
