@@ -754,7 +754,8 @@ If you are traveling on a Canadian Passport to the US to visit (not J-1), you ar
   * Shortcut for estimating from F to C: (weather in F - 30) / 2 = weather in
     C. This will be off by 1 or 2 degrees, but works well for situations like
     figuring out what to wear in the morning.
-  * Km to Miles: 1.6 km = 1 mile
+  * Km to Miles: 1.6 km = 1 mile. If you know your Fibonacci sequence well, it
+    it's a good estimation tool (5 miles -> 8 km, 50 miles -> 80 km).
 * Meetups are a great way to learn new things and meet new people.
   See [meetup.com](http://meetup.com) for more details on specific groups.
 
