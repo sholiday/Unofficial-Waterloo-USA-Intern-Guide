@@ -227,7 +227,7 @@ Not as long of a wait to get into the office (not as much security screening),
 but took longer for the card to arrive. Tends to be less of a wait in the morning, arrive 30 minutes before it opens.
 
 ##### [San Jose - Downtown](http://www.yelp.ca/biz/social-security-administration-san-jose-3)
-Long wait just to get into the building (outdoor wait due to security
+(W2012) Long wait just to get into the building (outdoor wait due to security
 screening), but card arrived in 2 business days (was promised two weeks).
 
 ##### [Austin](http://www.yelp.com/biz/social-security-administration-austin-2)
@@ -259,9 +259,9 @@ single person for a 4-month lease.
 Contact your company and try to get emails of other Waterloo students going down
 the same time as you.
 
-The University typically sends out a spreadsheet of all students going to your area,
+The University typically posts a spreadsheet of all students going to your area on LEARN,
 grouped by employer.
-This is great, but takes a while to get started. Someone usually makes a facebook group for major areas such as New York or the Bay Area, which can provide another place to meet potential roommates.
+This is great, but takes a while to get started. Someone usually makes a Facebook group for major areas such as New York or the Bay Area, which can provide another place to meet potential roommates.
 
 Contact them and ask them to meet up somewhere in Waterloo for dinner.
 It gives everyone a great opportunity to meet each other, get a feel for who
@@ -435,22 +435,14 @@ thinks they actually are on T-Mobile).
 
 Note, if you have a Rogers/AT&T phone it will likely only get EDGE not 3G.
 
-Akshay just sticks to using Rogers' BIS One Rate Plan - $35 for 500 MB of BIS
-data. Then, he uses a SIP client on it to make calls (Google Voice/Voip.ms).
-You don't pay too much to Rogers, and you save on roaming costs as well.
-Win/win.
-
 <section id="Living-CellService-LongDistance" />
 ### Long distance
 The reason you don't need to pay extra for long distance to Canada is you can
-use Google Voice for this. Normally to use Google Voice to call Canada for free,
-you dial a number and then type in the number you want to call and they connect
-you. This is not necessary if you have an Android phone. Get the
-[Google Voice app](https://play.google.com/store/apps/details?id=com.google.android.apps.googlevoice&hl=en)
-and it does this transparently, so you can directly call Canada for free and it
-will use Google Voice. It's really, really nice.
+use Google's Hangouts Dialer for this. Get the
+[Google Hangouts Dialer](https://play.google.com/store/apps/details?id=com.google.android.apps.hangoutsdialer&hl=en)
+. It's really, really nice.
 Note that you need to have an internet connection to take advantage of
-the automated Google Voice proxying.
+the automated proxying.
 
 ---
 
@@ -589,15 +581,16 @@ Eric says the following about BoA's credit policy:
 
 #### Bank of America - Canadian Credit Check
 
-This worked for an 18 year old guy with two credit cards in good standing back
-in Canada. Apply for the card at the branch in person. When asked for your
-information, inform them that you would like to request a Canadian credit bureau
-check to augment your US credit bureau reports (especially important if it's
-your first work term in the States). If the representative is knowledgeable,
-they will process the credit card application normally and then will ask you to
-call a number (or call for you on your behalf) about 24-48 hours later
-(excluding weekends). If not, here's the number you can call: 1-888-503-6092.
-They'll ask for your Canadian SIN number and your last address in Canada. YMMV.
+This worked for Akshay (an 18 year old guy at the time -- W2012) with two credit
+cards in good standing back in Canada. Apply for the card at the branch in
+person. When asked for your information, inform them that you would like to
+request a Canadian credit bureau check to augment your US credit bureau reports
+(especially important if it's your first work term in the States). If the
+representative is knowledgeable, they will process the credit card application
+normally and then will ask you to call a number (or call for you on your behalf)
+about 24-48 hours later (excluding weekends). If not, here's the number you can
+call: 1-888-503-6092. They'll ask for your Canadian SIN number and your last
+address in Canada. YMMV.
 
 Kevin was in the same situation and followed the same process at TD Bank with similar results.
 
