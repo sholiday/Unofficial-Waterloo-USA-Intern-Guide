@@ -129,7 +129,10 @@ It's worth checking out.
 ## Paperwork
 <section id="Paperwork-J1Visa" />
 ### J-1 Visa
-Once you have your offer, email your recruiter to get all the details about pay, start date, and if they're using Cultural Vistas as a visa sponsor. Its useful for the visa.
+Once you have your offer, email your recruiter to get all the details about pay,
+start date, and if they're using Cultural Vistas as a visa sponsor. It's useful
+for the visa. If your company isn't using Cultural Vistas, good luck, and be
+ready to provide a lot of school-related paperwork such as proof of enrolment.
 
 CECA and Cultural Vistas will guide you through the process.
 
