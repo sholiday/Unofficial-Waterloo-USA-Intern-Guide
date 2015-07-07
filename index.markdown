@@ -1231,7 +1231,7 @@ Belltown is a really nice area when it comes to certain kinds of restaurants, bu
 Here's a selection of a few of the better ones I (Michael) enjoyed when visiting.
 
 * [The Grill From Ipanema](http://seattlegrillfromipanema.com/) - Brazilian All-You-Can-Eat Steakhouse. A little pricey ($50 per person), but great selections and cuts of meat.
-* [Shiro's Sushi](http://shiros.com/) - This place is always really busy, so make reservations well in advance. Also a little pricey ($65-75 per person), but this is as close to a Michelin star sushi place as it gets!
+* [Shiro's Sushi](http://shiros.com/) - This place is always really busy, so make reservations well in advance. Also a little pricey ($65-75 per person), but this is as close to a Michelin star sushi place as it gets! Akshay recommends not making a reservation (for the bar seats, they don't do reservations as of W2015) and ordering the omakase.
 * [Kushibar](http://www.yelp.ca/biz/kushibar-japanese-bar-and-restaurant-seattle) - Great ramen place. Has a decent selection of appetizers and other Japanese dishes as well, but coming here for the ramen is never a terrible idea. Great quality for price!
 * [The Lucky Diner](http://www.theluckydiner.com/index.htm) - A hole in the wall, for sure, but don't be mistaken - this place has great milkshakes and burgers! Careful of the busy periods, though - the service quality won't be as top-tier.
 * [La Parisienne](http://www.laparisienneseattle.com/) - This gem had well priced baguettes and drinks in a well-placed location. Quaint cafe-style establishment, $10 for breakfast! (coffee, breakfast sandwich, and buttered baguette)
@@ -1254,11 +1254,16 @@ The "over-21" scene is really upbeat in the Fremont / Capitol Hill areas of Seat
   * [Paseo](http://www.paseoseattle.com/) - Fremont Caribbean restaurant. Also has a location in Ballard.
   * [Nectar Lounge](http://www.nectarlounge.com/) - Fremont lounge, offers live music, martinis, food, and atmosphere.
 
+Akshay lived in Capitol Hill (W2015), and really enjoyed all it had to offer. Here's some stuff he liked:
+  * [Witness](http://witnessbar.com/) - Southern-style bar, Akshay looooves their Chicken and Waffles (W2015). Be sure to go to Saturday night sermon (9 PM).
+  * [Rhein Haus](http://www.rheinhausseattle.com/Rhein_Haus/HOME.html) - They have bocce. 'nuff said.
+
 #### Tourist Attractions
 The main places are really only the Space Needle and Pike Place Market. More will be added as it is explored.
 
 * [Seattle Space Needle](http://www.spaceneedle.com/home/) - Local tourist attraction. Great to visit once or twice, but can get old quickly if you're around for a while.
 * [Pike Place Market](http://www.pikeplacemarket.org/) - Local farmer's market near the water. Great location, decent prices, awesome atmosphere. Fresh seafood every day!
+* [Experience Music Project (EMP)](http://www.empmuseum.org/) - Awesome for music buffs, plenty of interactive exhibits.
 
 #### Surrounding Area
 * Redmond (where Microsoft is) and Bellevue (where other parts of Microsoft are) are the "satellite cities" of Seattle. 
@@ -1269,6 +1274,7 @@ The main places are really only the Space Needle and Pike Place Market. More wil
 #### Getting Around
 * If you're going to and from Redmond / Bellevue from Seattle, it's probably best to take public transit. Ridesharing apps like Uber or Lyft will cost upwards of $15 per ride, where public transit would cost around $5.
 * For the most part, if you're just touring around Seattle, Lyft/Uber is pretty fair. Taxis in this area are not terrible either; since they're competing, you'll usually pay around the same price for the same distance travelled.
+* Amazon/Microsoft provide ORCA cards. Take advantage of it. The 545 route is great to get between Redmond and Seattle.
 
 <section id="Area-Coopersburg-PA" />
 ### Coopersburg, PA
