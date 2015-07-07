@@ -8,4 +8,4 @@ source:      .
 destination: ./_site
 lsi: false
 pygments: true
-markdown: maruku
+markdown: kramdown
