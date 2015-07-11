@@ -61,6 +61,7 @@ request. I'll note you if you want to be noted.
 * [Stephen Holiday](http://stephenholiday.com)
 * [Tony Dong](http://tony-dong.com)
 * [Viktor Stanchev](http://viktorstanchev.com)
+* [Vishal Kuo](http://github.com/vishalkuo)
 * [Xenia Tay](http://xeniatay.com)
 * [Zameer Manji](http://zameermanji.com)
 
