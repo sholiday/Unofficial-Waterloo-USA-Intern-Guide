@@ -1492,6 +1492,48 @@ The main places are really only the Space Needle and Pike Place Market. More wil
 * Amazing architecture everywhere, many Frank Lloyd Wright buildings here
 * Museums are everywhere as well. Make sure you give them your Chicago ZIP code, and ask for Chicago resident discount. The biggest ones are Museum of Science & Industry, Art Institute, and Field Museum. (Note to Torontonians: ROM is bigger than Field Museum)
 
+<section id="Area-Boston-MA" />
+### Boston, MA
+#### Food
+* You can't leave Boston until you've tried the seafood:
+    * [Legal Seafoods](http://www.legalseafoods.com/) are scattered throughout Boston. You'll definitely want to give it a shot
+    * [Quincy Market](http://www.faneuilhallmarketplace.com/) has great clam chowder and lobster bisque
+    * If you're in the Somerville/Caimbridge area, consider trying [Pescatore](http://www.pescatoreseafood.com/)
+    * [The Daily Catch](http://thedailycatch.com/) is awesome too
+* If seafood isn't your thing:
+	* The food trucks are great street eats and are scattered all throughout Boston. The city of Boston provides a [list](http://www.cityofboston.gov/foodtrucks/schedule-tabs.asp) for your convenience
+	* [Boloco](http://boloco.com/) has awesome burritos that are both healthy and affordable
+	* [Tasty Burger](http://www.tastyburger.com/) is aptly named
+	* You generally can't go wrong in Downtown Boston (Park Street or Downtown Crossing stops on the 'T')
+
+#### Living
+* This will not be cheap
+* Even student housing near Harvard and BU is far pricier than Waterloo
+* You'll want to consider living closer to the outskirts and taking the 'T' (Boston's transit system) in, some areas to check out:
+	* Framingham
+	* Malden
+	* Waltham
+* Avoid South Boston if you can for safety reasons
+* As previously mentioned, Craigslist and Padmapper are good resources. However, depending on the term you're arriving, it may be difficult to find housing for just four months. You may have to end up going through a broker 
+* If you're willing to spend around $1000 per month (which is still relatively cheap), consider Somerville and Caimbridge 
+
+#### Activities
+* The state of Massachusetts has no tax on clothing or footwear! Reccomend stocking up here while you can. 
+* Assembly Row is a relatively new mall on the orange line with a great movie theatre
+* Freedom Trail is a great Historic walk through the city of Boston 
+* The Museum of Science and the Museum of Fine Arts are both really cool to check out
+* If you're into fitness, there's an outdoor gym at the intersection of Silber and Backstreet near Boston University
+* During the summer, there are free movies played on the Esplanade along Charles river. Schedule can be found [here](http://www.bostoncentral.com/events/free_friday_flicks/p974.php)
+* Revere beach is beautiful, although somewhat crowded, during the summer
+* Harvard and MIT campuses are both accessible by the 'T' 
+* Fenway Park is always a fun experience, even if you don't like baseball
+* Boston Common is a beautiful park in downtown Boston. There is plenty of shopping and sightseeing to do here
+
+#### Transportation
+* Boston's transit system, called the 'T', is the easiest way to get around Boston. A monthly pass is very reasonably priced. 
+* Driving in Boston is a nightmare. The city is 400 years old. Most of its roads were intended for horse drawn carriages. Avoid this if you can
+* Biking is also a very popular option given the density of the city. Consider renting a bike, bringing your own, or using the [Hubway](http://www.thehubway.com/) service
+
 <section id="FT-Overview" />
 ## Full-Time
 When you finish your degree, you may wish to pursue full-time employment with an
