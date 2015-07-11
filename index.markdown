@@ -114,7 +114,7 @@ your stipend will be taxed at ~26% in California. We've heard you can get
 much of it back if you save your receipts, something to look into.
 
 We recommend working at a place that covers some part of your housing,
-unless you have the financial ability to not care. Rent in major cities like SF or NYC easily tops $1500, especially if you want to live close to down town.
+unless you have the financial ability to not care. Rent in major cities like SF or NYC easily tops $1500, especially if you want to live close to downtown.
 
 <section id="Jobs-Perks" />
 ### Perks
@@ -129,7 +129,10 @@ It's worth checking out.
 ## Paperwork
 <section id="Paperwork-J1Visa" />
 ### J-1 Visa
-Once you have your offer, email your recruiter to get all the details about pay, start date, and if they're using Cultural Vistas as a visa sponsor. Its useful for the visa.
+Once you have your offer, email your recruiter to get all the details about pay,
+start date, and if they're using Cultural Vistas as a visa sponsor. It's useful
+for the visa. If your company isn't using Cultural Vistas, good luck, and be
+ready to provide a lot of school-related paperwork such as proof of enrolment.
 
 CECA and Cultural Vistas will guide you through the process.
 
@@ -153,28 +156,30 @@ Don't call it a job or say you are working! The J-1 visa status is not meant for
 a poor little intern *training* in the United States and make sure you declare that
 you have a J1 Visa at US Customs!
 
-Some prefer keeping all the above as a digital copy in my Dropbox/Google Docs so
+Some prefer keeping all the above as a digital copy in my Dropbox/Google Drive so
 they have instant access to them just in case they lose anything.
 
 If you are a US citizen, some of the above do not apply to you.
 Make sure you have your US passport, health insurance card, and boarding pass.
 
-I-94's are are [online](https://i94.cbp.dhs.gov/I94/request.html) / supposed to be online.
+I-94's are now entirely [online](https://i94.cbp.dhs.gov/I94/request.html).
 Sometimes, you'll get the stamp in your passport, and will know you did it right.
-Depending where you land, they may or may not have instituted online-only I-94's.
 
 In the event that you are admitted to the states as a visitor/tourist (B1), you may not
 legally work! You need a J1 status on your I-94 form! Check the class of admittance of 
-your I94 [online](https://i94.cbp.dhs.gov/I94/request.html). 
+your I-94 [online](https://i94.cbp.dhs.gov/I94/request.html). 
 To resolve/update the  admittance status on your I-94, you have two options: Re-enter
 the United States, or schedule an appointment at a US Customs and Border Protection 
-Deferred Inspection office to update your I-94 Form. Schedule an appointment [here](http://infopass.uscis.giv/).
+Deferred Inspection office to update your I-94 Form. Schedule an appointment [here](http://infopass.uscis.gov/).
 
 If you are on a connection flight it doesn't hurt to ask the person at the gate
-waiting area to double-check your connection flight. Amir found out he would miss his connection flight -- Delta airlines reroute his flight for free and he was bumped to first class and also got to San Francisco earlier than he would've even without the delay.
+waiting area to double-check your connection flight. Amir found out he would
+miss his connection flight -- Delta Airlines rerouted his flight for free and
+he was bumped to first class and also got to San Francisco earlier than he
+would've even without the delay.
 
 ### Leaving the Country during your Internship
-If you are planning to leave your country, make sure to have your original I-94 and DS-2019 papers with you. If you did not bring the papers with you, you will be detained at customs until they can find it in their database. If they find it, you may be issued a temporary DS-2019, but if they can't find it, you may need to provide the original papers before you can re-enter (someone needs to mail your DS-2019 and I-94 to you). 
+If you are planning to leave your country, make sure to have your original DS-2019 papers with you. If you did not bring the papers with you, you will be detained at customs until they can find it in their database. If they find it, you may be issued a temporary DS-2019, but if they can't find it, you may need to provide the original papers before you can re-enter (someone needs to mail your DS-2019 to you).
 
 <section id="Paperwork-SSN" />
 ### Getting your SSN
@@ -222,7 +227,7 @@ Not as long of a wait to get into the office (not as much security screening),
 but took longer for the card to arrive. Tends to be less of a wait in the morning, arrive 30 minutes before it opens.
 
 ##### [San Jose - Downtown](http://www.yelp.ca/biz/social-security-administration-san-jose-3)
-Long wait just to get into the building (outdoor wait due to security
+(W2012) Long wait just to get into the building (outdoor wait due to security
 screening), but card arrived in 2 business days (was promised two weeks).
 
 ##### [Austin](http://www.yelp.com/biz/social-security-administration-austin-2)
@@ -254,9 +259,9 @@ single person for a 4-month lease.
 Contact your company and try to get emails of other Waterloo students going down
 the same time as you.
 
-The University typically sends out a spreadsheet of all students going to your area,
+The University typically posts a spreadsheet of all students going to your area on LEARN,
 grouped by employer.
-This is great, but takes a while to get started. Someone usually makes a facebook group for major areas such as New York or the Bay Area, which can provide another place to meet potential roommates.
+This is great, but takes a while to get started. Someone usually makes a Facebook group for major areas such as New York or the Bay Area, which can provide another place to meet potential roommates.
 
 Contact them and ask them to meet up somewhere in Waterloo for dinner.
 It gives everyone a great opportunity to meet each other, get a feel for who
@@ -430,22 +435,14 @@ thinks they actually are on T-Mobile).
 
 Note, if you have a Rogers/AT&T phone it will likely only get EDGE not 3G.
 
-Akshay just sticks to using Rogers' BIS One Rate Plan - $35 for 500 MB of BIS
-data. Then, he uses a SIP client on it to make calls (Google Voice/Voip.ms).
-You don't pay too much to Rogers, and you save on roaming costs as well.
-Win/win.
-
 <section id="Living-CellService-LongDistance" />
 ### Long distance
 The reason you don't need to pay extra for long distance to Canada is you can
-use Google Voice for this. Normally to use Google Voice to call Canada for free,
-you dial a number and then type in the number you want to call and they connect
-you. This is not necessary if you have an Android phone. Get the
-[Google Voice app](https://play.google.com/store/apps/details?id=com.google.android.apps.googlevoice&hl=en)
-and it does this transparently, so you can directly call Canada for free and it
-will use Google Voice. It's really, really nice.
+use Google's Hangouts Dialer for this. Get the
+[Google Hangouts Dialer](https://play.google.com/store/apps/details?id=com.google.android.apps.hangoutsdialer&hl=en)
+. It's really, really nice.
 Note that you need to have an internet connection to take advantage of
-the automated Google Voice proxying.
+the automated proxying.
 
 ---
 
@@ -584,15 +581,16 @@ Eric says the following about BoA's credit policy:
 
 #### Bank of America - Canadian Credit Check
 
-This worked for an 18 year old guy with two credit cards in good standing back
-in Canada. Apply for the card at the branch in person. When asked for your
-information, inform them that you would like to request a Canadian credit bureau
-check to augment your US credit bureau reports (especially important if it's
-your first work term in the States). If the representative is knowledgeable,
-they will process the credit card application normally and then will ask you to
-call a number (or call for you on your behalf) about 24-48 hours later
-(excluding weekends). If not, here's the number you can call: 1-888-503-6092.
-They'll ask for your Canadian SIN number and your last address in Canada. YMMV.
+This worked for Akshay (an 18 year old guy at the time -- W2012) with two credit
+cards in good standing back in Canada. Apply for the card at the branch in
+person. When asked for your information, inform them that you would like to
+request a Canadian credit bureau check to augment your US credit bureau reports
+(especially important if it's your first work term in the States). If the
+representative is knowledgeable, they will process the credit card application
+normally and then will ask you to call a number (or call for you on your behalf)
+about 24-48 hours later (excluding weekends). If not, here's the number you can
+call: 1-888-503-6092. They'll ask for your Canadian SIN number and your last
+address in Canada. YMMV.
 
 Kevin was in the same situation and followed the same process at TD Bank with similar results.
 
@@ -756,7 +754,8 @@ If you are traveling on a Canadian Passport to the US to visit (not J-1), you ar
   * Shortcut for estimating from F to C: (weather in F - 30) / 2 = weather in
     C. This will be off by 1 or 2 degrees, but works well for situations like
     figuring out what to wear in the morning.
-  * Km to Miles: 1.6 km = 1 mile
+  * Km to Miles: 1.6 km = 1 mile. If you know your Fibonacci sequence well, it
+    it's a good estimation tool (5 miles -> 8 km, 50 miles -> 80 km).
 * Meetups are a great way to learn new things and meet new people.
   See [meetup.com](http://meetup.com) for more details on specific groups.
 
@@ -812,6 +811,9 @@ If you are an intern and have more info let me know.
     dumb charges that you can't waive (eg. airport concession fee, terminal
     fees, etc.). They also don't give free upgrades unless forced to via
     discount codes.
+  * Some credit cards offer insurance if you pay for the entire rental with
+    that credit card. Take advantage of this! Akshay used this a whole bunch in
+	W2015.
 
 <section id="Area-SF" />
 ### San Francisco
@@ -866,7 +868,10 @@ If you are an intern and have more info let me know.
   any hotel. I used GO Lorrie's Airport Shuttle to get to Park Hotel.
 * From Palo Alto, the [KX Bus](http://www.samtrans.com/schedulesandmaps/timetables/KX.html) leaves from the bus area at the Palo Alto Caltrain station. It's cheaper than taking the Caltrain to SFO.
 * Some people prefer [Super Shuttle](http://www.supershuttle.com/). From a hotel, they cost ~$25 for the first person. After the initial person, the cost goes down to ~$10 per person for the next people.
-* Others like getting an Uber from the airport. It is a $65 flat fee to/from the airport.
+* Others like getting an Uber from the airport. It is a $65 flat fee to/from
+  the airport (for an UberBLACK). If you're okay with sharing your ride,
+  UberPOOL is a much cheaper option to get to the city ($15 for up to two
+  passengers as of W2015).
 * If you are flying Delta, the curbside luggage check at SFO is free, and they can print you a boarding pass. This means you don't need to carry your luggage that much further, and it usually has a much shorter line.
 * Unless you live nearby, It is almost never worth flying to/from Oakland.
 
@@ -969,7 +974,7 @@ It's worth a trip after your first paycheque.
 #### Cupertino
 
 Checkout the Valley Fair Mall and Santana Row. Valley Fair Mall is a typical
-mall with everything that you expect in a Canadian Mall. Da' Anza and Stevens
+mall with everything that you expect in a Canadian mall. De Anza and Stevens
 Creek has plenty of eatery's around. If you haven't tried California Pizza
 Kitchen, you have to go immediately. If you want to go clubbing you have to hit
 up SF or Mountain View.
@@ -1226,7 +1231,7 @@ Belltown is a really nice area when it comes to certain kinds of restaurants, bu
 Here's a selection of a few of the better ones I (Michael) enjoyed when visiting.
 
 * [The Grill From Ipanema](http://seattlegrillfromipanema.com/) - Brazilian All-You-Can-Eat Steakhouse. A little pricey ($50 per person), but great selections and cuts of meat.
-* [Shiro's Sushi](http://shiros.com/) - This place is always really busy, so make reservations well in advance. Also a little pricey ($65-75 per person), but this is as close to a Michelin star sushi place as it gets!
+* [Shiro's Sushi](http://shiros.com/) - This place is always really busy, so make reservations well in advance. Also a little pricey ($65-75 per person), but this is as close to a Michelin star sushi place as it gets! Akshay recommends not making a reservation (for the bar seats, they don't do reservations as of W2015) and ordering the omakase.
 * [Kushibar](http://www.yelp.ca/biz/kushibar-japanese-bar-and-restaurant-seattle) - Great ramen place. Has a decent selection of appetizers and other Japanese dishes as well, but coming here for the ramen is never a terrible idea. Great quality for price!
 * [The Lucky Diner](http://www.theluckydiner.com/index.htm) - A hole in the wall, for sure, but don't be mistaken - this place has great milkshakes and burgers! Careful of the busy periods, though - the service quality won't be as top-tier.
 * [La Parisienne](http://www.laparisienneseattle.com/) - This gem had well priced baguettes and drinks in a well-placed location. Quaint cafe-style establishment, $10 for breakfast! (coffee, breakfast sandwich, and buttered baguette)
@@ -1249,11 +1254,16 @@ The "over-21" scene is really upbeat in the Fremont / Capitol Hill areas of Seat
   * [Paseo](http://www.paseoseattle.com/) - Fremont Caribbean restaurant. Also has a location in Ballard.
   * [Nectar Lounge](http://www.nectarlounge.com/) - Fremont lounge, offers live music, martinis, food, and atmosphere.
 
+Akshay lived in Capitol Hill (W2015), and really enjoyed all it had to offer. Here's some stuff he liked:
+  * [Witness](http://witnessbar.com/) - Southern-style bar, Akshay looooves their Chicken and Waffles (W2015). Be sure to go to Saturday night sermon (9 PM).
+  * [Rhein Haus](http://www.rheinhausseattle.com/Rhein_Haus/HOME.html) - They have bocce. 'nuff said.
+
 #### Tourist Attractions
 The main places are really only the Space Needle and Pike Place Market. More will be added as it is explored.
 
 * [Seattle Space Needle](http://www.spaceneedle.com/home/) - Local tourist attraction. Great to visit once or twice, but can get old quickly if you're around for a while.
 * [Pike Place Market](http://www.pikeplacemarket.org/) - Local farmer's market near the water. Great location, decent prices, awesome atmosphere. Fresh seafood every day!
+* [Experience Music Project (EMP)](http://www.empmuseum.org/) - Awesome for music buffs, plenty of interactive exhibits.
 
 #### Surrounding Area
 * Redmond (where Microsoft is) and Bellevue (where other parts of Microsoft are) are the "satellite cities" of Seattle. 
@@ -1264,6 +1274,7 @@ The main places are really only the Space Needle and Pike Place Market. More wil
 #### Getting Around
 * If you're going to and from Redmond / Bellevue from Seattle, it's probably best to take public transit. Ridesharing apps like Uber or Lyft will cost upwards of $15 per ride, where public transit would cost around $5.
 * For the most part, if you're just touring around Seattle, Lyft/Uber is pretty fair. Taxis in this area are not terrible either; since they're competing, you'll usually pay around the same price for the same distance travelled.
+* Amazon/Microsoft provide ORCA cards. Take advantage of it. The 545 route is great to get between Redmond and Seattle.
 
 <section id="Area-Coopersburg-PA" />
 ### Coopersburg, PA
