@@ -1480,7 +1480,8 @@ The main places are really only the Space Needle and Pike Place Market. More wil
 * Bunch of theaters.
 * Amazing architecture everywhere, many Frank Lloyd Wright buildings here
 * Museums are everywhere as well. Make sure you give them your Chicago ZIP code, and ask for Chicago resident discount. The biggest ones are Museum of Science & Industry, Art Institute, and Field Museum. (Note to Torontonians: ROM is bigger than Field Museum)
- 
+
+<section id="Area-Boston-MA" />
 ### Boston, MA
 #### Food
 * You can't leave Boston until you've tried the seafood:
