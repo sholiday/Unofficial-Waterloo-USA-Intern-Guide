@@ -1494,6 +1494,7 @@ The main places are really only the Space Needle and Pike Place Market. More wil
 
 <section id="Area-Boston-MA" />
 ### Boston, MA
+
 #### Food
 * You can't leave Boston until you've tried the seafood:
     * [Legal Seafoods](http://www.legalseafoods.com/) are scattered throughout Boston. You'll definitely want to give it a shot
