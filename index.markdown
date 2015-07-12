@@ -61,6 +61,7 @@ request. I'll note you if you want to be noted.
 * [Stephen Holiday](http://stephenholiday.com)
 * [Tony Dong](http://tony-dong.com)
 * [Viktor Stanchev](http://viktorstanchev.com)
+* [Vishal Kuo](http://github.com/vishalkuo)
 * [Xenia Tay](http://xeniatay.com)
 * [Zameer Manji](http://zameermanji.com)
 
@@ -1494,7 +1495,8 @@ The main places are really only the Space Needle and Pike Place Market. More wil
 
 <section id="Area-Boston-MA" />
 ### Boston, MA
-#### Food
+
+#### Food ####
 * You can't leave Boston until you've tried the seafood:
     * [Legal Seafoods](http://www.legalseafoods.com/) are scattered throughout Boston. You'll definitely want to give it a shot
     * [Quincy Market](http://www.faneuilhallmarketplace.com/) has great clam chowder and lobster bisque
