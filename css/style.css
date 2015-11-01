@@ -1,43 +1,55 @@
 
-
 /* ===== Primary Styles ========================================================
    Author:
    ========================================================================== */
-
-
-
-
 
 body {
     background-image: url('../img/bgnoise.png');
     background-position: initial initial;
     background-repeat: initial initial;
-    margin-top: 40px;
-    margin-bottom: 40px;
-}
-
-@media (max-width: 980px) {
-    body {
-        margin-top: 0;
-    }
+    margin-top: 50px;
+    margin-bottom: 50px;
+    position: relative;
+    width: 100%;
+    overflow-x: hidden;
 }
 
 .main-navbar {
     margin-bottom: 0;
 }
 
-.main-container {
-    position: relative;
-    padding-top: 20px;
-}
-
-.github-fork-link {
+/**
+ * Code obtained from http://www.kirilv.com/fork-ribbon-css-builder/
+ */
+.github-ribbon {
+    /* positioning */
     position: absolute;
-    top: 0;
-    right: 0;
-    border: 0;
+    padding: 5px 45px;
+    width: 128px;
+    /* top right of the page */
+    top: 50px;
+    right: -50px;
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+    /* flat ribbon effects */
+    box-shadow: 0 0 0 3px #fcd450;
+    text-shadow: 0 0 0 #555555;
+    /* looks */
+    background-color: #fcd450;
+    color: #000 !important;
+    font-size: 13px;
+    font-family: sans-serif;
+    text-decoration: none !important;
+    font-weight: bold;
+    /* ribbon effects */
+    border: 2px dotted #555555;
+    /* webkit antialias fix */
+    -webkit-backface-visibility: hidden;
+    letter-spacing: .5px;
+    box-sizing: content-box;
+    overflow: hidden;
 }
-
-
 
 
