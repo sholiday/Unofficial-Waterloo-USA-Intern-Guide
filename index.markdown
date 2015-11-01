@@ -119,10 +119,11 @@ unless you have the financial ability to not care. Rent in major cities like SF 
 
 <section id="Jobs-Perks" />
 ### Perks
-Some companies have cool perks like food, bikes, transit passes, happy hour,
+Some companies have cool perks like catered lunches/dinners, bikes, transit passes, happy hour,
 snacks, game rooms, pool tables, ping pong, foosball, museum passes, etc.
 
-It's worth checking out.
+It's worth checking out. Catered lunches/dinners can drastically help reduce your daily spending,
+potentially allowing you to save more money from your internship.
 
 ---
 
@@ -135,10 +136,13 @@ start date, and if they're using Cultural Vistas as a visa sponsor. It's useful
 for the visa. If your company isn't using Cultural Vistas, good luck, and be
 ready to provide a lot of school-related paperwork such as proof of enrolment.
 
-CECA and Cultural Vistas will guide you through the process.
+CECA and Cultural Vistas will guide you through the process. If you're an international
+student (i.e your passport isn't Canadian), this process will involve making a trip
+to the US consulate in Toronto for an interview.
 
 Note: It is possible to extend your visa up to one year total if you are staying at the same company.
 However, you will not be able to work for a different employer in a consecutive term unless you applied for the visa before you leave for the US.
+
 <section id="Paperwork-BeforeYouGo" />
 ### Before You Go
 Have a second (or third) copy of all travel documents:
@@ -200,7 +204,8 @@ A couple notes for those with name that contain hyphens (like Amir's) but go by 
 
 Ensure your full name is on the mailbox that the Social Security Card will be delivered to. If your full name is not on the mailbox, USPS will return your card back to the Social Security Administration processing centre to be shredded. 
 
-Once you receive your SSN, it is important to let your bank know, so you start building a credit score in the U.S.
+Once you receive your SSN, it is important to let your bank know, so you start
+building a credit score in the U.S. Also make sure you let your employer know.
 
 #### SSN Application
 1. Fill in form SS-5 available at the
@@ -252,6 +257,7 @@ As with everything else, your mileage may vary.
 You'll want to start your search early.
 
 Check out the area specific section for more info.
+
 <section id="Living-Roommates" />
 ### Roommates
 It's easier (and cheaper) to find a place for 3 or 4 people than it is for a
@@ -347,7 +353,7 @@ limitations of their network, and they might throttle you anyway. If you choose
 these guys, you might have to change your phone's APN settings to get data. Look
 at the instructions on their website.
 
-##### Roam Mobility
+#### Roam Mobility
 Ankit highly recommends going with [Roam Mobility](http://roammobility.com). They're a Canadian company
 that offers cell phone services to USA travellers. All of their plans are prepaid and highly flexible, and
 range from daily plans for short-term travellers (from $4 CAD a day for unlimited everything including data) to
@@ -355,17 +361,17 @@ monthly plans that are ideal for co-op students ($40 CAD for unlimited talk, tex
 uses T-Mobile's network. You can also pay for 4 months all at once and let the plan start right before you arrive
 in the United States. Also, since it's a Canadian company, you could just pay in Canadian dollars.
 
-Perhaps the main reason Ankit loves Roam Mobility is the fact that every plan has unlimited calling back to Canada,
+The main reason Ankit loves Roam Mobility is the fact that every plan has unlimited calling back to Canada,
 which is perfect for interns that still want to keep in touch with friends and family at home.
 
-##### T-Mobile's Hidden Plan
+#### T-Mobile's Hidden Plan
 Gary writes in with this tip:
 
 T-Mobile offers a sort of "hidden" $30/month plan. It has unlimited international text and 100 nationwide minutes of talk. You get 5GB of data a month at 4G LTE speeds and it drops to 2G speeds (~56kb/s) if you go over the limit. To get this plan you MUST purchase an unactivated SIM card. You can pick up a T-Mobile "SIM kit" with an unactivated SIM from either a Walgreens (most convenient since they are literally everywhere), a Best Buy or a Wal-Mart; simply look in the electronics section. You can also purchase the SIM card online and get it delivered in advance to where you work or will live (2 - 4 business days). T-Mobile doesn't sell this special SIM card in its own stores. The SIM kit should cost $15, not including tax. Note that this only works if you own an unlocked phone (of course if you have a locked phone you can simply purchase an unlock code online for as little as $10 although you might need to check if your phone works on T-Mobile's band).
 
 The kit will direct you online where you can activate the card as well as choose the plan. The plan will only show up if you do it this way. You cannot find this plan in T-Mobile stores. The SIM kits come in micro, mini, and regular sizes.
 
-##### Micro/Mini-SIM cards
+#### Micro/Mini-SIM cards
 Sometimes, locations that sell packages for prepaid plans only have normal SIM
 cards that aren't compatible with newer smartphones which require micro-SIMs.
 However, normal SIM cards are actually the same as micro-SIM cards, just with a
@@ -375,7 +381,7 @@ To turn the SIM into a micro-SIM, either find a store that cuts SIM cards, or
 DIY. There are tutorials online that teach you how to cut it, either with a
 scissors (risky) or a cutter you can get off Amazon for less than $5.
 
-##### Straight Talk
+#### Straight Talk
 
 [Straight Talk](https://www.straighttalk.com/) is an option if data speeds are
 a concern. They have unlimited calling, texting and data for $45 a month without
@@ -401,7 +407,7 @@ have the APN settings built in for data. The package you receive contains the
 APN settings you need. You will need to figure out how to set the settings for
 your phone.
 
-##### [WIND Mobile](http://www.windmobile.ca/usunlimited)
+#### [WIND Mobile](http://www.windmobile.ca/usunlimited)
 A special deal offered by WIND goes like this: for $15/mo, you keep your Canadian plan (with WIND), and you get the US Unlimited Add-on; which includes unlimited data, talk/text/MMS between US/CAN numbers, and the best part, you're using the AT&T or T-Mobile network, so it'll always be connected!
 
 The cell service in Waterloo & Toronto is [pretty good too](http://www.windmobile.ca/network-and-coverage/coverage).
@@ -572,6 +578,7 @@ credit. Many say you should use less than 30% of your credit to maintain a good
 score.
 
 Eric says the following about BoA's credit policy:
+
 > BoA credit card policy is to not tell you what the maximum credit limit you
 > can get. You have to request a number and then they'll negotiate via phone. My
 > suggestion is once you have about a month or two of usage on your credit card,
@@ -593,12 +600,20 @@ about 24-48 hours later (excluding weekends). If not, here's the number you can
 call: 1-888-503-6092. They'll ask for your Canadian SIN number and your last
 address in Canada. YMMV.
 
-Kevin was in the same situation and followed the same process at TD Bank with similar results.
+Kevin was in the same situation and followed the same process at TD Bank with
+similar results.
 
 One surefire way of getting a credit card fairly soon would be to apply for a
 Capital One credit card that's directly targeted for people with no credit
 history/newcomers. Beware this card is free for the first year, but costs around
 $30 per year after that.
+
+<section id="Money-Use" />
+### Using Credit Cards
+
+Keep in mind that in the US, tap-to-pay isn't as common as it is in Canada. Most
+places now will still swipe your credit card and make you sign the reciept with a
+pen.
 
 <section id="Money-Convert" />
 ### Bringing Money Back
@@ -751,14 +766,28 @@ If you are traveling on a Canadian Passport to the US to visit (not J-1), you ar
 * Learn how to do some basic conversions from metric to imperial so you can
   make conversation about the weather (fahrenheit), order ham from the deli
   (ounces), drive without speeding (miles), etc.
-
   * Shortcut for estimating from F to C: (weather in F - 30) / 2 = weather in
     C. This will be off by 1 or 2 degrees, but works well for situations like
     figuring out what to wear in the morning.
-  * Km to Miles: 1.6 km = 1 mile. If you know your Fibonacci sequence well, it
+  * Kilometres to Miles: 1.6 km = 1 mile. If you know your Fibonacci sequence well, it
     it's a good estimation tool (5 miles -> 8 km, 50 miles -> 80 km).
 * Meetups are a great way to learn new things and meet new people.
   See [meetup.com](http://meetup.com) for more details on specific groups.
+* [Uber](http://uber.com) or [Lyft](http://lyft.com): popular, stylish, and
+  cheaper alternative to taxis that's available in most cities. You get a private
+  driver and payment is hassle free--they'll automatically charge the credit card
+  you have on file (including tip). UberX is the cheapest option when ordering a
+  ride, and if you have a large group it can be cheaper to order multiple UberX
+  vehicles instead of a SUV. You can request an Uber via SMS, or from their
+  iPhone or Android app. The seats are extremely comfortable.
+* [Venmo](http://venmo.com) is a popular US-only service for giving money to your
+  friends, similar to PayPal. It connects to your bank account and saves you the
+  effort of withdrawing cash by just using their mobile app. It's also completely
+  free and allows you to charge your friends. Ankit finds it very useful when
+  splitting things like restaurant bills between friends.
+* [Splitwise](http://splitwise.com): Allows you to keep track of expenses you made
+  for other people, and tracks who owes how much money. Ankit likes to use this
+  alongside Venmo.
 
 ---
 
@@ -772,8 +801,12 @@ If you are an intern and have more info let me know.
 * In-N-Out burger is a must try. Checkout the Animal Style burger on their
   [secret menu](http://www.in-n-out.com/menu/not-so-secret-menu.aspx).
 * Many people like [Chipotle](https://www.chipotle.com/)
-* Eric found [USAA](https://www.usaa.com) very useful for car rentals.
+* There's a very good list of concerts that is automatically updated every week
+    (ish) from [a mailing list](http://www.calweb.com/~skoepke/). It's simple
+    and comprehensive. Found [here](http://www.foopee.com/punk/the-list/).
 
+#### Car Rentals
+* Eric found [USAA](https://www.usaa.com) very useful for car rentals.
   * The website will make it seem like its for active-duty military or veterans,
     but everyone with an SSN is eligible for the shopping discounts.
     Not eligible for the insurance, however.
@@ -789,12 +822,7 @@ If you are an intern and have more info let me know.
     which lets you build points for stuff like free day rentals, weekend
     rentals, etc.
   * Being with USAA is also helps if you are under 20 and want to rent a car.
-* There's a very good list of concerts that is automatically updated every week
-    (ish) from [a mailing list](http://www.calweb.com/~skoepke/). It's simple
-    and comprehensive. Found [here](http://www.foopee.com/punk/the-list/).
-
 * Tips when actually renting:
-
   * Insurance is usually peddled with the car rental at the counter
     (eg. liability, loss damage insurance, collision). If you have car
     insurance in Canada either on your own or with your parents, they may cover
@@ -817,9 +845,13 @@ If you are an intern and have more info let me know.
 	W2015.
 
 <section id="Area-SF" />
-### San Francisco
+### San Francisco, CA
 * Since SF is a city, prices are pretty high.
-* It's very tough to find housing in the city, especially for cheap.
+* It's very tough to find housing in the city, especially for cheap. No, seriously.
+  The average rent in San Francisco is
+  [$3458 a month](http://www.sfchronicle.com/business/networth/article/Average-S-F-rent-hits-shocking-new-high-3-458-6232039.php).
+* Don't be discouraged, though. It's easy to find places as low as $1400, but don't
+  expect anything less than that in a non-sketchy area.
 * Stuff is slanted. They're not exaggerating in movies and pictures, the hills
   are *steep*. You know that scene in The Princess Diaries where she's pushing
   her scooter up the hill? We know you watched it - that's not a cheap scooter,
@@ -834,7 +866,7 @@ If you are an intern and have more info let me know.
   Bridge), some crazy parts (Haight-Ashbury has things you never imagined
   existed. Everyone is high.), and some very sketchy parts (Stay out of the
   Tenderloin, especially at night. We repeat,
-  *stay out of the Tenderloin at night*.) Familiarize yourself with the
+  **stay out of the Tenderloin at night**.) Familiarize yourself with the
   neighbourhoods and use common sense.
 * Fun fact - it has [the lowest proportion of children](http://www.huffingtonpost.com/2012/03/09/families-flee-san-francisco_n_1335639.html)
   of any major city in the US!
@@ -852,16 +884,10 @@ If you are an intern and have more info let me know.
   often check tickets though, and you need to buy them before you board.
 * Clipper Card is a free card you can get and load with money which can be used
   on all of these transit systems seamlessly. Get one.
+* Many people use services such as Uber or Lyft to get around.
 * For larger road trips, rent a [Zipcar](http://www.zipcar.com/) (car sharing
   service). 5 people in a car only end up paying $15 each, don't need to pay for
   gas.
-* [Uber](http://uber.com): popular and stylish alternative to taxis.
-  You get a private driver and payment is hassle free--they'll automatically
-  charge the credit card you have on file (including tip). UberX is the cheapest
-  option when ordering a ride, and if you have a large group it can be cheaper to
-  order multiple UberX vehicles instead of a SUV.
-  You can request an Uber via SMS, or from their iPhone or Android app. The
-  seats are extremely comfortable.
 
 #### Airports
 * An airport shuttle is a good alternative to taxies and BART, especially if you
@@ -874,32 +900,65 @@ If you are an intern and have more info let me know.
   UberPOOL is a much cheaper option to get to the city ($15 for up to two
   passengers as of W2015).
 * If you are flying Delta, the curbside luggage check at SFO is free, and they can print you a boarding pass. This means you don't need to carry your luggage that much further, and it usually has a much shorter line.
-* Unless you live nearby, It is almost never worth flying to/from Oakland.
+* Unless you live nearby, it is almost never worth flying to/from Oakland.
 
 #### Housing
 * [Paramount/SFO Housing](http://www.sfohousing.com/) has decent pricing (Park
   or Herbert). The internet is slow. They are older buildings, and note that
   there are no kitchen facilities to use in Herbert. The Herbert and Spaulding are also located in the Tenderloin.
-
   * 2010F - Stephen has stayed at the Park. Liked it, would recommend
-
 * [Pacific Tradewinds](http://www.san-francisco-hostel.com/) is highly
   recommended by one intern who is adventurous and enjoyed living in hostel-like
   accommodations.
-
   * 2012W - Recommended by an intern. It's feels very home-y
     and undoubtedly a great place to meet technical folks and entrepreneurs.
-
 * If you would rather live in a more student-populated area, Berkeley is an
   option. The commute to the downtown area is 15-20 min, but is worth it if you
   want to meet people your age.
 
-### Food
+#### Neighbourhoods
+* Tenderloin - There's some great Indian and African food here, but it is by far the sketchiest
+  neighbourhood in SF. Hobos everywhere, and it smells like shit.
+* SoMa (south of market) - Relatively boring, many things close at 6. Your tech office might be here.
+* Financial District/Embarcadero - Expensive as hell, everything closes early here too.
+* Telegraph Hill/North Beach - Great Italian food and bars.
+* Mission - The best Mexican food and burritos in SF are here.
+* Hayes Valley - Expensive place with lots of hipster restaurants and stores.
+* Nob Hill - Extremely beautiful area. Pretty sketchy at night due to how close it is to the Tenderloin.
+* The Castro - San Francisco's famous gay neighbourhood.
+* Fisherman's Wharf - Apparently lots of great seafood, but it feels like a big tourist trap.
+
+#### Activities
+* Biking the Golden Gate Bridge is a must.
+  * Ankit recommends renting a bike at Fisherman's Wharf, biking all the way to Sausalito and
+    taking the ferry back from Sausalito to Fisherman's Wharf.
+  * If there's time, Ankit recommends checking out Battery Spencer for a great view of the bridge.
+* Go to Twin Peaks if you want a really breathtaking view of the San Francisco skyline from a mountain.
+* Coit tower is also a great place to get a view of San Francisco's skyline and its rolling hills.
+* Some buildings in the Financial district have [publicly accessible rooftops](https://www.thrillist.com/entertainment/san-francisco/financial-district/secret-sf-rooftop-parks-fidi-soma-popos-thrillist-san-francisco)
+  with some really nice views. Keep in mind some of them are only open during work hours (9 to 5
+  on weekdays).
+* SF has many beaches, such as Ocean Beach and Baker Beach, where you can catch a great sunset.
+* Alcatraz Island is worth going to.
+  * You should book the ferry ticket a month or two in advance.
+* If you like exploring, San Francisco has many great parks:
+  * Golden Gate Park - Ankit recommends spending a Sunday renting a bike and exploring the park, since
+    they close some of the roads to cars on Sundays.
+  * Mission Dolores Park
+  * Alamo Square Park - home of the famous [painted ladies](https://en.wikipedia.org/wiki/Painted_ladies).
+  * Land's End and the Presidio - Lots of great views of the Golden Gate bridge.
+
+#### Food
 * If you are looking for cheap, delicious meals, head over to Chinatown.
-Big boxes of dim sum for ~$4, bubble tea is only ~$2 (they call it boba)
-* If you want a burrito, most places in the Mission are dirt cheap and
-  give you an amazing Burrito. Josh's favourite is El Farolito at 24th
-  and Mission (Cash Only).
+  Big boxes of dim sum for ~$4, bubble tea is only ~$2 (they call it boba)
+* San Francisco is known for great burritos, and most places in the Mission
+  are dirt cheap and give you an amazing Burrito. Josh's favourite is El
+  Farolito at 24th and Mission (Cash Only).
+* The [cioppino](https://en.wikipedia.org/wiki/Cioppino) is a San Francisco staple,
+  and you can find some great cioppino in North Beach.
+* For a very satisfying and stereotypically American burger, check out Super Duper Burgers.
+* Ghirardelli's is San Francisco's famous chocolate and is worth trying.
+* Philz coffee is usually everywhere and has many flavours of coffee.
 
 <section id="Area-BayArea" />
 ### Bay Area
@@ -914,7 +973,6 @@ It's worth a trip after your first paycheque.
 * If you want to get a second hand bike, there is a place in Burlingame operated by a very nice man named Alan Gorman that's pretty good. Search "Alan Gorman Bicycle Specialist" on Yelp. 
 
 #### Activities
-
 
 * [Helicopter Flying](http://verticalcfi.com/) Yes you get to control the
   helicopter. No license or classes required. Ask for the introductory flight
@@ -933,22 +991,42 @@ It's worth a trip after your first paycheque.
   You can easily spend a whole day here.
 * [Planet Granite](http://planetgranite.com/locations/sunnyvale/sv_faq.php) for
   those who want to indoor rock climb
+* [Go Karting](https://www.k1speed.com/santa-clara-location.html)
 * Stanford football game - Eric says they're just like the movies!
 
 #### Trips
 
 * Yosemite National Park
-  * Upper Yosemite falls is a long hike (4 hours) but its well worth the views.
+  * If you want to stay in a cabin, make sure you book several weeks in advance since
+    they fill up really fast.
+  * Booking hotels in nearby towns that are about an hour away, like Mariposa, is also
+    an option, but they fill up fast as well.
+  * If you want a breathtaking view with minimal walking, check out Glacier Point.
+  * Upper Yosemite Falls is a long hike (4 hours) but its also well worth the views.
     Fairly popular route. Bring water and good shoes and be prepared to be tired.
   * If you're willing to spend two days hiking, you can hike the famous half
     dome.
+
+* Highway One
+  * Very scenic highway that runs along California's coastline.
+
+* Mono Lake
+  * If you end up in this area, Ankit highly recommends hiking the Parker Lake trail,
+    a 4-mile hike with amazing views of the Sierras.
+  * There's also a historic Wild West [ghost town](https://en.wikipedia.org/wiki/Bodie,_California)
+    in the area.
+
+* Los Angeles
+  * Lots of things to see such the famous Hollywood sign, and beaches such as Venice
+    Beach, where all the nightlife is.
+
 * Las Vegas
   * Cirque de Soleil shows are a must.
   * Grand Canyon if you have a day or two. Drive out is about 4 hours each way
     however so be warned.
   * Hoover Dam has a nice indoor tour where you get to see the generators and
     water tunnels. Also a beautiful sight.
-  * Casinos and restaurants of course on the strip.
+  * Casinos and restaurants of course on the strip, for those 21 and over.
 
 * Hawaii (you will need at least four days to a week)
   * One thing about Hawaii is you need to pick which island(s) you want to see.
@@ -1042,7 +1120,7 @@ up SF or Mountain View.
   ~20-30 pages and they try to squeeze all the money you have out of you.
 
 <section id="Area-BayArea" />
-### San Diego
+### San Diego, CA
 
 #### Food
 * Stephen waited in the rain for 2 hours to eat at
@@ -1050,7 +1128,7 @@ up SF or Mountain View.
 
 
 <section id="Area-NYC" />
-### New York City
+### New York City, NY
 * Really expensive
 * Paying first and last months rent plus one month of security is super common.
 * Brokers fees are usually 1 month rent, often more than you'd like.
@@ -1215,6 +1293,7 @@ up SF or Mountain View.
 
 <section id="Area-Seattle-WA" />
 ### Seattle, WA
+
 #### Housing
 There are a bunch of awesome places to live when in Seattle. If you're working for a company like Amazon or Microsoft, there is a corporate housing option that you can take.
 Otherwise, there are a few cool places to look at, but keep in mind that some of them don't do short-term leases. YMMV, but these are what someone found when looking for housing for a full-time position.
@@ -1496,7 +1575,7 @@ The main places are really only the Space Needle and Pike Place Market. More wil
 <section id="Area-Boston-MA" />
 ### Boston, MA
 
-#### Food ####
+#### Food
 * You can't leave Boston until you've tried the seafood:
     * [Legal Seafoods](http://www.legalseafoods.com/) are scattered throughout Boston. You'll definitely want to give it a shot
     * [Quincy Market](http://www.faneuilhallmarketplace.com/) has great clam chowder and lobster bisque
