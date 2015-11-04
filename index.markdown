@@ -119,11 +119,10 @@ unless you have the financial ability to not care. Rent in major cities like SF 
 
 <section id="Jobs-Perks" />
 ### Perks
-Some companies have cool perks like catered lunches/dinners, bikes, transit passes, happy hour,
-snacks, game rooms, pool tables, ping pong, foosball, museum passes, etc.
+Some companies have cool perks like food, bikes, transit passes, happy hour, snacks, game rooms,
+pool tables, ping pong, foosball, museum passes, etc.
 
-It's worth checking out. Catered lunches/dinners can drastically help reduce your daily spending,
-potentially allowing you to save more money from your internship.
+It's worth checking out.
 
 ---
 
@@ -136,9 +135,9 @@ start date, and if they're using Cultural Vistas as a visa sponsor. It's useful
 for the visa. If your company isn't using Cultural Vistas, good luck, and be
 ready to provide a lot of school-related paperwork such as proof of enrolment.
 
-CECA and Cultural Vistas will guide you through the process. If you're an international
-student (i.e your passport isn't Canadian), this process will involve making a trip
-to the US consulate in Toronto for an interview.
+CECA and Cultural Vistas will guide you through the process. If you're not a Canadian citizen, this
+process will involve making a trip to the US consulate in Toronto or Ottawa (if the wait is too
+long in Toronto) for an interview.
 
 Note: It is possible to extend your visa up to one year total if you are staying at the same company.
 However, you will not be able to work for a different employer in a consecutive term unless you applied for the visa before you leave for the US.
@@ -847,9 +846,8 @@ If you are an intern and have more info let me know.
 <section id="Area-SF" />
 ### San Francisco, CA
 * Since SF is a city, prices are pretty high.
-* It's very tough to find housing in the city, especially for cheap. No, seriously.
-  The average rent in San Francisco is
-  [$3458 a month](http://www.sfchronicle.com/business/networth/article/Average-S-F-rent-hits-shocking-new-high-3-458-6232039.php).
+* It's very tough to find housing in the city, especially for cheap.
+  [No, seriously.](http://www.sfchronicle.com/business/networth/article/Average-S-F-rent-hits-shocking-new-high-3-458-6232039.php)
 * Don't be discouraged, though. It's easy to find places as low as $1400, but don't
   expect anything less than that in a non-sketchy area.
 * Stuff is slanted. They're not exaggerating in movies and pictures, the hills
@@ -917,8 +915,8 @@ If you are an intern and have more info let me know.
   want to meet people your age.
 
 #### Neighbourhoods
-* Tenderloin - There's some great Indian and African food here, but it is by far the sketchiest
-  neighbourhood in SF. Hobos everywhere, and it smells like shit.
+* Tenderloin - There's some great Indian and African food here, but it is one of the sketchiest
+  neighbourhoods in San Francisco.
 * SoMa (south of market) - Relatively boring, many things close at 6. Your tech office might be here.
 * Financial District/Embarcadero - Expensive as hell, everything closes early here too.
 * Telegraph Hill/North Beach - Great Italian food and bars.
@@ -1026,7 +1024,7 @@ It's worth a trip after your first paycheque.
     however so be warned.
   * Hoover Dam has a nice indoor tour where you get to see the generators and
     water tunnels. Also a beautiful sight.
-  * Casinos and restaurants of course on the strip, for those 21 and over.
+  * Casinos and restaurants of course on the strip.
 
 * Hawaii (you will need at least four days to a week)
   * One thing about Hawaii is you need to pick which island(s) you want to see.
