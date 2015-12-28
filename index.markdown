@@ -140,7 +140,7 @@ CECA and Cultural Vistas will guide you through the process. If you're not a Can
 process will involve making a trip to the US consulate in Toronto or Ottawa (if the wait is too
 long in Toronto) for an interview.
 
-Note: It is possible to extend your visa up to one year total if you are staying at the same company.  For different companies, Brad was able to work for two different employers on two different J1 visas on consecutive terms.  He applied for the second J1 while already in the US on the first, and got it approved once he returned to Canada in between internships. YMMV.
+Note: It is possible to extend your visa up to one year total if you are staying at the same company. For different companies, Brad was able to work for two different employers on two different J1 visas on consecutive terms. He applied for the second J1 while already in the US on the first, and got it approved once he returned to Canada in between internships. YMMV.
 
 <section id="Paperwork-BeforeYouGo" />
 ### Before You Go
@@ -183,7 +183,7 @@ he was bumped to first class and also got to San Francisco earlier than he
 would've even without the delay.
 
 ### Leaving the Country during your Internship
-If you are planning to leave your country, make sure to have your original DS-2019 papers with you. If you did not bring the papers with you, you will be detained at customs until they can find it in their database. If they find it, you may be issued a temporary DS-2019, but if they can't find it, you may need to provide the original papers before you can re-enter (someone needs to mail your DS-2019 to you).  Note that travel outside North America requires a travel validation signature on your DS-2019 that you need to get ahead of time.
+If you are planning to leave your country, make sure to have your original DS-2019 papers with you. If you did not bring the papers with you, you will be detained at customs until they can find it in their database. If they find it, you may be issued a temporary DS-2019, but if they can't find it, you may need to provide the original papers before you can re-enter (someone needs to mail your DS-2019 to you). Note that travel outside North America requires a travel validation signature on your DS-2019 that you need to get ahead of time.
 
 <section id="Paperwork-SSN" />
 ### Getting your SSN
@@ -201,7 +201,7 @@ Buffalo can take an hour and a half.
 
 A couple notes for those with name that contain hyphens (like Amir's) but go by a shorter version (Amir is short for Amir-Reza). My training plan had "Amir-Reza", while my I-94 has "Amir", while my passport has "Amir Reza". When applying for my SSN, I ran into some issues since each document had a slightly different variation, but the lady at the counter was nice enough to do it anyway. Bottom line: Always use your full name (exclude hyphens since hyphens are not used in government registries) when applying for, as well dealing with any documents you'll need for your SSN.
 
-Ensure your full name is on the mailbox that the Social Security Card will be delivered to. If your full name is not on the mailbox, USPS will return your card back to the Social Security Administration processing centre to be shredded.  If your mailbox is part of a shared "superbox", taping your full name to the inside of your mailbox door seems to work well.
+Ensure your full name is on the mailbox that the Social Security Card will be delivered to. If your full name is not on the mailbox, USPS will return your card back to the Social Security Administration processing centre to be shredded. If your mailbox is part of a shared "superbox", taping your full name to the inside of your mailbox door seems to work well.
 
 Once you receive your SSN, it is important to let your bank know, so you start
 building a credit score in the U.S. Also make sure you let your employer know.
@@ -236,7 +236,7 @@ but took longer for the card to arrive. Tends to be less of a wait in the mornin
 screening), but card arrived in 2 business days (was promised two weeks).
 
 ##### [West San Jose - Campbell](http://www.yelp.ca/biz/social-security-administration-office-campbell)
-Opens at 9 AM, but the lineup outside starts more than half an hour before that.  Get there early and you can be out shortly after 9.  Card arrival takes about 10 days.
+Opens at 9 AM, but the lineup outside starts more than half an hour before that. Get there early and you can be out shortly after 9. Card arrival takes about 10 days.
 
 ##### [Austin](http://www.yelp.com/biz/social-security-administration-austin-2)
 No security screening outdoors, short waiting time and very friendly service.
@@ -410,11 +410,11 @@ APN settings you need. You will need to figure out how to set the settings for
 your phone.
 
 #### [WIND Mobile](http://www.windmobile.ca/usunlimited)
-A special deal offered by WIND goes like this: for $15/mo, you keep your Canadian plan (with WIND), and you get the US Unlimited Add-on; which includes unlimited data, talk/text/MMS between US/CAN numbers, and the best part, you're using the AT&T or T-Mobile network, so it'll always be connected!  This is convenient because you can keep your Canadian phone number.  But, keep in mind that your US friends may start racking up fees for texting your Canadian number, even when you're in the US.
+A special deal offered by WIND goes like this: for $15/mo, you keep your Canadian plan (with WIND), and you get the US Unlimited Add-on; which includes unlimited data, talk/text/MMS between US/CAN numbers, and the best part, you're using the AT&T or T-Mobile network, so it'll always be connected! This is convenient because you can keep your Canadian phone number. But, keep in mind that your US friends may start racking up fees for texting your Canadian number, even when you're in the US.
 
 The cell service in Waterloo & Toronto is [pretty good too](http://www.windmobile.ca/network-and-coverage/coverage).
 
-Note that your "unlimited" data is actually capped at 1GB in the US, regardless of your Canadian plan, as per their [usage policy](https://www.windmobile.ca/docs/default-source/default-document-library/data-fair-usage-policy).  Brad used this for a month, but then switched to T-Mobile's hidden plan in search of more data.
+Note that your "unlimited" data is actually capped at 1GB in the US, regardless of your Canadian plan, as per their [usage policy](https://www.windmobile.ca/docs/default-source/default-document-library/data-fair-usage-policy). Brad used this for a month, but then switched to T-Mobile's hidden plan in search of more data.
 
 <section id="Living-CellService-BlackBerry" />
 #### BlackBerry
@@ -517,7 +517,7 @@ in the future.
 Some people want to close their account to avoid bank fees.
 Most banks (BoA, Chase, Wells Fargo, TD) offer a _student account_ for 5 years from
 when you sign up. Bring your student ID card. They don't require any minimum
-activity other than some nominal balance.  Some banks may say that this is limited to US students only.  YMMV.
+activity other than some nominal balance. Some banks may say that this is limited to US students only. YMMV.
 
 Alternatively, BoA offers an eBanking Checking account that is free if you
 choose online eStatements and only use self-service options (ATMs, no tellers)
@@ -575,7 +575,7 @@ US after you graduate.
 
 Shale would like to stress the importance of *linking* your bank accounts to your SSN, once it arrives. You likely **will not** build a credit history until this happens.
 
-Brad couldn't get approved for a credit card with his own bank (Chase), but applied for a Discover Card as a 20 year old with no credit history and a brand new SSN and got approved.  They really just looked for proof of steady income.  Note that Discover isn't accepted everywhere like MC/Visa, so have a debit card handy as backup.
+Brad couldn't get approved for a credit card with his own bank (Chase), but applied for a Discover Card as a 20 year old with no credit history and a brand new SSN and got approved. They really just looked for proof of steady income. Note that Discover isn't accepted everywhere like MC/Visa, so have a debit card handy as backup.
 
 There are some
 [things to consider](http://www.mint.com/blog/how-to/10-credit-score-commandments/)
@@ -677,7 +677,7 @@ When using "Debit My Account" on XE Trade (from a US account), then "ACH/EFT" (t
 As recently as March 2015, Michael got 1.2647 USD/CAD exchanged ($1600 USD).
 
 #### What Brad Does
-Set up an account on [Transfer Wise](https://transferwise.com/).  Transfer Wise is a British startup that does peer-to-peer money transfers at mid-market rates, with only a ~1% fee (calculated in the original currency).  As of writing, they only support USD->CAD and not the reverse.  Setting up an account requires two pieces of (Canadian) ID.  They withdraw the funds from your US checking and deposit into your Canadian checking, and can be as fast as 1-2 business days door-to-door.  They even have an app.  A similar service is [Currency Fair](https://currencyfair.com/), although their signup process seemed more convoluted.  Both of these will generally beat XE (by at least 0.5%) and banks (by a lot).
+Set up an account on [Transfer Wise](https://transferwise.com/). Transfer Wise is a British startup that does peer-to-peer money transfers at mid-market rates, with only a ~1% fee (calculated in the original currency). As of writing, they only support USD->CAD and not the reverse. Setting up an account requires two pieces of (Canadian) ID. They withdraw the funds from your US checking and deposit into your Canadian checking, and can be as fast as 1-2 business days door-to-door. They even have an app. A similar service is [Currency Fair](https://currencyfair.com/), although their signup process seemed more convoluted. Both of these will generally beat XE (by at least 0.5%) and banks (by a lot).
 
 #### Not Recommended Ways
 
@@ -1093,7 +1093,7 @@ up SF or Mountain View.
 * [Orenchi](http://www.yelp.com/biz/orenchi-ramen-santa-clara) for ramen
   (long wait).
 * [Sandwich Spot](http://thesandwichspot.com/) for amazing sandwiches. Get the tri-tip.
-* [W XYZ Bar @ Aloft Hotel](http://www.aloftcupertino.com/cupertino-bar) for an awesome happy hour that hardly IDs anyone
+* [W XYZ Bar @ Aloft Hotel](http://www.aloftcupertino.com/cupertino-bar) for an awesome happy hour that hardly IDs anyone.
 
 #### Mountain View
 
@@ -1106,13 +1106,13 @@ Everything here is pretty much centered around University Ave.
 ##### Restaurants/Bars
 * [Nola](http://www.nolas.com/index.html) for creole/cajun food.
 * [Pizza My Heart](http://pizzamyheart.com/) for a late-night slice.
-* [The Patio](http://www.thepatiopa.com/) for a bar with a great patio
-* [Antonio's Nut House](http://www.yelp.ca/biz/antonios-nut-house-palo-alto) for a cheap bar with free peanuts
-* [Old Pro](http://www.oldpropa.com/) for a sports bar with a mechanical bull
+* [The Patio](http://www.thepatiopa.com/) for a bar with a great patio.
+* [Antonio's Nut House](http://www.yelp.ca/biz/antonios-nut-house-palo-alto) for a cheap bar with free peanuts.
+* [Old Pro](http://www.oldpropa.com/) for a sports bar with a mechanical bull.
 
 ##### Beaches
 * [Santa Cruz Boardwalk](http://www.beachboardwalk.com)
-There's a $7 bus from San Jose that takes ~50 minutes, but renting a car may be cheaper if you have a few people or don't feel like taking the Caltrain to San Jose.  There can be some pretty good surfing here depending on the season, and there's a few places to rent equipment.  Get lessons if it's your first time.
+There's a $7 bus from San Jose that takes ~50 minutes, but renting a car may be cheaper if you have a few people or don't feel like taking the Caltrain to San Jose. There can be some pretty good surfing here depending on the season, and there are a few places to rent equipment. Get lessons if it's your first time.
 
 #### Housing
 * Foster City - [Sand Cove Apartments](http://www.woodmontrentals.com/sand-cove-apartments)
@@ -1194,9 +1194,9 @@ There's a $7 bus from San Jose that takes ~50 minutes, but renting a car may be 
   hated it because it was only the room (kitchen and bathroom were shared). They also have a very restrictive guest
   policy, where guests have to be signed in for $10/night.
 
-* [NYU](http://www.nyu.edu/summer/housing/) offers summer housing in various locations, but demand is high and these places go fast.  Be ready to start your application in January.  Also, note that some buildings don't have air conditioning, others don't offer single rooms, and all have fixed move-in/out dates that may not fit your start/end dates.  You can Airbnb for a week or two if you need a slightly longer term.
+* [NYU](http://www.nyu.edu/summer/housing/) offers summer housing in various locations, but demand is high and these places go fast. Be ready to start your application in January. Also, note that some buildings don't have air conditioning, others don't offer single rooms, and all have fixed move-in/out dates that may not fit your start/end dates. You can Airbnb for a week or two if you need a slightly longer term.
 
-* [Educational Housing Services](https://www.studenthousing.org/) offers intern and student housing all over NYC throughout the year (not just summer).  Think of it like residence without being affiliated to a school.  These places also go fast, so be ready to apply several months beforehand.  Some of their many buildings are really nice.  The sales agents are really helpful, but they will hound you in a more salesman-like way than you'd expect.
+* [Educational Housing Services](https://www.studenthousing.org/) offers intern and student housing all over NYC throughout the year (not just summer). Think of it like residence without being affiliated to a school. These places also go fast, so be ready to apply several months beforehand. Some of their many buildings are really nice. The sales agents are really helpful, but they will hound you in a more salesman-like way than you'd expect.
 
 #### Food
 * There are so many places to eat in NYC, try new stuff!
@@ -1267,7 +1267,7 @@ There's a $7 bus from San Jose that takes ~50 minutes, but renting a car may be 
   such as the [Museum of Sex](http://www.museumofsex.com/) (sorry, no corporate discounts here,
   also, VERY graphic. When I say graphic, I mean like 10ft screen playing the porno "Deep Throat"
   when you walk in.) or [Museum of Math](momath.org).
-* [Kayak on the river](http://www.downtownboathouse.org/) for free!  There's alos several places along the Hudson River that have this.
+* [Kayak on the river](http://www.downtownboathouse.org/) for free!  There's also several places along the Hudson River that have this.
 * Grand Central and New York Public Library are iconic, close together, and free to look at, however,
   they don't provide entertainment for long.
 * Yankee and Mets games are pretty cheep if you sit in the nosebleeds, and the stadiums are on the subway lines.
