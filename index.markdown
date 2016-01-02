@@ -1038,7 +1038,7 @@ It's worth a trip after your first paycheque.
   * The famous Hollywood Sign and the Hollywood Walk of Fame are must-sees.
   * Some of the nicest beaches are in this area: Venice Beach and its boardwalk, Santa Monica Beach and its pier, and Malibu.
   * Griffith Observatory also has a nice view of the Hollywood Sign and a huge telescope you can actually look through! Don't miss the live-narrarated planetarium show.
-  * Rodeo St is a super high end shopping district, very nicely decorated and an awesome place for people watching and car spotting.
+  * Rodeo Dr. is a super high end shopping district, very nicely decorated and an awesome place for people watching and car spotting.
   * Larchmont Village is a quaint old-towny shopping street, with a lot of hipster stores and a nice Farmer's Market.
 
 * Las Vegas
