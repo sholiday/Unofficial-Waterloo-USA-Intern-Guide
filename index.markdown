@@ -897,7 +897,7 @@ If you are an intern and have more info let me know.
 * For larger road trips, rent a [Zipcar](http://www.zipcar.com/) (car sharing
   service). 5 people in a car only end up paying $15 each, don't need to pay for
   gas.
-* Victor also had luck with [Getaround](https://www.getaround.com/), gas isn't covered, but it can be more convenient for renting larger vehicles and longer term (1 week) rentals. A 7-seat minivan cost around $10 per person per day to rent, with plenty of mileage.
+* Victor also had luck with [Getaround](https://www.getaround.com/). Gas isn't covered, but it can be more convenient for renting larger vehicles and longer term (1 week) rentals. A 7-seat minivan cost around $10 per person per day to rent, with plenty of mileage.
 
 #### Airports
 * An airport shuttle is a good alternative to taxies and BART, especially if you
@@ -937,7 +937,7 @@ If you are an intern and have more info let me know.
 * Nob Hill - Extremely beautiful area. Pretty sketchy at night due to how close it is to the Tenderloin.
 * The Castro - San Francisco's famous gay neighbourhood.
 * Fisherman's Wharf - Apparently lots of great seafood, but it feels like a big tourist trap.
-* Sunset - Somewhat inaccessible, but has some excellent Chinese food and dim sum.
+* Sunset - Somewhat inaccessible by public transit, but has some excellent Chinese food and dim sum.
 
 #### Activities
 * Biking the Golden Gate Bridge is a must.
@@ -1035,11 +1035,11 @@ It's worth a trip after your first paycheque.
     in the area.
 
 * Los Angeles
-  * The famous Hollywood Sign and the Walk of Fame are a must see.
-  * Some of the nicest beaches are in this area: Venice Beach and the boardwalk, Santa Monica Beach and the pier, and Malibu.
+  * The famous Hollywood Sign and the Hollywood Walk of Fame are must-sees.
+  * Some of the nicest beaches are in this area: Venice Beach and its boardwalk, Santa Monica Beach and its pier, and Malibu.
   * Griffith Observatory also has a nice view of the Hollywood Sign and a huge telescope you can actually look through! Don't miss the live-narrarated planetarium show.
-  * Rodeo St is a high end shopping district, really nicely decorated and an awesome place for people watching and car spotting.
-  * Larchmont Village is a quaint old-town feeling shopping street, a lot of hipster stores and a nice Farmer's Market.
+  * Rodeo St is a super high end shopping district, very nicely decorated and an awesome place for people watching and car spotting.
+  * Larchmont Village is a quaint old-towny shopping street, with a lot of hipster stores and a nice Farmer's Market.
 
 * Las Vegas
   * Cirque de Soleil shows are a must.
