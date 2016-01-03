@@ -955,14 +955,14 @@ If you are an intern and have more info let me know.
 * If you like exploring, San Francisco has many great parks:
   * Golden Gate Park - Ankit recommends spending a Sunday renting a bike and exploring the park, since
     they close some of the roads to cars on Sundays. Make sure you get to Ocean Beach to watch the sunset!
-	* Golden Gate Park is so huge that it deserves multiple visits. Rent a boat and row around Stow Lake (don't get a pedal boat, they're noisy and slower), then climbing up Strawberry Hill for some awesome views of the city!
+    * Golden Gate Park is so huge that it deserves multiple visits. Rent a boat and row around Stow Lake (don't get a pedal boat, they're noisy and slower), then climbing up Strawberry Hill for some awesome views of the city!
   * Mission Dolores Park - Great for sitting around and people watching. Bring blankets and a frisbee! Bi-Rite Creamery is a staple and really close to the park. It also has great views of the Bay Bridge!
   * Alamo Square Park - home of the famous [painted ladies](https://en.wikipedia.org/wiki/Painted_ladies).
   * Land's End - A relatively easy hike ending in an excellent view of the Golden Gate Bridge. Sutro Baths are interesting, as well as the Legion of Honor.
   * The Presidio - Fort Point is the closest you can physically get to the Golden Gate Bridge. Take a picture from under it! The Palace of Fine Arts and the Walt Disney Museum are worth checking out.
-* Bouldering/Top roping is a super popular hobby in the city, Mission Cliffs and Dogpatch Boulders are the main places people go to. You can try out a day pass or get a monthly membership.
+* Bouldering/Top roping is a super popular hobby in the city. Mission Cliffs and Dogpatch Boulders are the main places people go to. You can try out a day pass or get a monthly membership.
 * Lyon St Steps - Incredible views of the Bay, Sausalito, Alcatraz, and the Palace of Fine Arts make this part of the most expensive neighborhood in SF. Beware - it's quite the hike and some sections are steep, but it's well worth the view.
-* Escape Rooms - Get locked in a room with your friends, and solve puzzles and find clues to escape it in less than an hour. There's a lot of really good ones in SF. Victor particularly liked EscapeSF in Chinatown.
+* Escape Rooms - Get locked in a room with your friends, and solve puzzles and find clues to escape it in less than an hour. There are a lot of really good ones in SF. Victor particularly liked EscapeSF in Chinatown.
 
 #### Food
 * If you are looking for cheap, delicious meals, head over to Chinatown.
