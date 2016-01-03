@@ -890,8 +890,9 @@ If you are an intern and have more info let me know.
 * Caltrain is a light-rail system that goes through all of Silicon Valley for
   under $10. If you've heard of the GO train in the GTA, it's similar. They do
   often check tickets though, and you need to buy them before you board.
-* Clipper Card is a free card you can get and load with money which can be used
-  on all of these transit systems seamlessly. Get one.
+* A Clipper Card is a reloadable smart card that lets you pay for a variety of
+  transit systems seamlessly. It's convinent and will work with MUNI, BART, and
+  the Caltrain.
 * Many people use services such as Uber or Lyft to get around.
 * For larger road trips, rent a [Zipcar](http://www.zipcar.com/) (car sharing
   service). 5 people in a car only end up paying $15 each, don't need to pay for
