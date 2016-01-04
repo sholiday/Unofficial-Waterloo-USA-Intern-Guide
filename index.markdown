@@ -58,6 +58,7 @@ request. I'll note you if you want to be noted.
 * [Nansen Lin](http://www.linkedin.com/pub/nansen-lin/28/6b4/92a)
 * [Prashanth Madhi](http://ece.uwaterloo.ca/~pmadhiya)
 * [Rickey Wang](http://www.rickeyw.com/)
+* [Samson Choi](https://github.com/shlchoi)
 * [Shale Craig](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 * [Stephen Holiday](http://stephenholiday.com)
 * [Tony Dong](http://tony-dong.com)
