@@ -371,6 +371,8 @@ Gary writes in with this tip:
 
 T-Mobile offers a sort of "hidden" $30/month plan. It has unlimited international text and 100 nationwide minutes of talk. You get 5GB of data a month at 4G LTE speeds and it drops to 2G speeds (~56kb/s) if you go over the limit. To get this plan you MUST purchase an unactivated SIM card. You can pick up a T-Mobile "SIM kit" with an unactivated SIM from either a Walgreens (most convenient since they are literally everywhere), a Best Buy or a Wal-Mart; simply look in the electronics section. You can also purchase the SIM card online from T Mobile and get it delivered in advance to where you work or will live (2 - 4 business days). T-Mobile doesn't sell this special SIM card in its own stores. The SIM kit should cost $15, not including tax. Note that this only works if you own an unlocked phone (of course if you have a locked phone you can simply purchase an unlock code online for as little as $10 although you might need to check if your phone works on T-Mobile's band).
 
+If you want to save a bit of money, you can buy a SIM starter kit at Walmart. The kit contains one nano-sized SIM, adapters for micro and mini sizes, and $30 pre-loaded on the card.  This is exclusive to Walmart, and normally costs $40.  However, it sometimes goes on sale and you can effectively get the SIM card for free.  You can also order it online [here](http://www.walmart.com/ip/T-Mobile-Complete-SIM-Kit/39081494).
+
 The kit will direct you online where you can activate the card as well as choose the plan. The plan will only show up if you do it this way. You cannot find this plan in T-Mobile stores. The SIM kits come in micro, mini, and regular sizes.
 
 #### Micro/Mini-SIM cards
