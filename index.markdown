@@ -61,6 +61,7 @@ request. I'll note you if you want to be noted.
 * [Shale Craig](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 * [Stephen Holiday](http://stephenholiday.com)
 * [Tony Dong](http://tony-dong.com)
+* [Victor Szeto](https://victorszeto.com)
 * [Viktor Stanchev](http://viktorstanchev.com)
 * [Vishal Kuo](http://github.com/vishalkuo)
 * [Xenia Tay](http://xeniatay.com)
@@ -897,6 +898,7 @@ If you are an intern and have more info let me know.
 * For larger road trips, rent a [Zipcar](http://www.zipcar.com/) (car sharing
   service). 5 people in a car only end up paying $15 each, don't need to pay for
   gas.
+* Victor also had luck with [Getaround](https://www.getaround.com/). Gas isn't covered, but it can be more convenient for renting larger vehicles and longer term (1 week) rentals. A 7-seat minivan cost around $10 per person per day to rent, with plenty of mileage.
 
 #### Airports
 * An airport shuttle is a good alternative to taxies and BART, especially if you
@@ -936,6 +938,7 @@ If you are an intern and have more info let me know.
 * Nob Hill - Extremely beautiful area. Pretty sketchy at night due to how close it is to the Tenderloin.
 * The Castro - San Francisco's famous gay neighbourhood.
 * Fisherman's Wharf - Apparently lots of great seafood, but it feels like a big tourist trap.
+* Sunset - Somewhat inaccessible by public transit, but has some excellent Chinese food and dim sum.
 
 #### Activities
 * Biking the Golden Gate Bridge is a must.
@@ -943,7 +946,7 @@ If you are an intern and have more info let me know.
     taking the ferry back from Sausalito to Fisherman's Wharf.
   * If there's time, Ankit recommends checking out Battery Spencer for a great view of the bridge.
 * Go to Twin Peaks if you want a really breathtaking view of the San Francisco skyline from a mountain.
-* Coit tower is also a great place to get a view of San Francisco's skyline and its rolling hills.
+* Coit Tower is also a great place to get a view of San Francisco's skyline and its rolling hills.
 * Some buildings in the Financial district have [publicly accessible rooftops](https://www.thrillist.com/entertainment/san-francisco/financial-district/secret-sf-rooftop-parks-fidi-soma-popos-thrillist-san-francisco)
   with some really nice views. Keep in mind some of them are only open during work hours (9 to 5
   on weekdays).
@@ -952,10 +955,15 @@ If you are an intern and have more info let me know.
   * You should book the ferry ticket a month or two in advance.
 * If you like exploring, San Francisco has many great parks:
   * Golden Gate Park - Ankit recommends spending a Sunday renting a bike and exploring the park, since
-    they close some of the roads to cars on Sundays.
-  * Mission Dolores Park
+    they close some of the roads to cars on Sundays. Make sure you get to Ocean Beach to watch the sunset!
+    * Golden Gate Park is so huge that it deserves multiple visits. Rent a boat and row around Stow Lake (don't get a pedal boat, they're noisy and slower), then climbing up Strawberry Hill for some awesome views of the city!
+  * Mission Dolores Park - Great for sitting around and people watching. Bring blankets and a frisbee! Bi-Rite Creamery is a staple and really close to the park. It also has great views of the Bay Bridge!
   * Alamo Square Park - home of the famous [painted ladies](https://en.wikipedia.org/wiki/Painted_ladies).
-  * Land's End and the Presidio - Lots of great views of the Golden Gate bridge.
+  * Land's End - A relatively easy hike ending in an excellent view of the Golden Gate Bridge. Sutro Baths are interesting, as well as the Legion of Honor.
+  * The Presidio - Fort Point is the closest you can physically get to the Golden Gate Bridge. Take a picture from under it! The Palace of Fine Arts and the Walt Disney Museum are worth checking out.
+* Bouldering/Top roping is a super popular hobby in the city. Mission Cliffs and Dogpatch Boulders are the main places people go to. You can try out a day pass or get a monthly membership.
+* Lyon St Steps - Incredible views of the Bay, Sausalito, Alcatraz, and the Palace of Fine Arts make this part of the most expensive neighborhood in SF. Beware - it's quite the hike and some sections are steep, but it's well worth the view.
+* Escape Rooms - Get locked in a room with your friends, and solve puzzles and find clues to escape it in less than an hour. There are a lot of really good ones in SF. Victor particularly liked EscapeSF in Chinatown.
 
 #### Food
 * If you are looking for cheap, delicious meals, head over to Chinatown.
@@ -967,7 +975,9 @@ If you are an intern and have more info let me know.
   and you can find some great cioppino in North Beach.
 * For a very satisfying and stereotypically American burger, check out Super Duper Burgers.
 * Ghirardelli's is San Francisco's famous chocolate and is worth trying.
-* Philz coffee is usually everywhere and has many flavours of coffee.
+* Philz Coffee is everywhere and has many flavours of coffee.
+* La Mejor Bakery near 24th Mission BART station has delicious bread and pastries baked daily, well worth checking out.
+* Pineapple King is an awesome Hong Kong style bakery in the Sunset. Try their butter pineapple bun!
 
 <section id="Area-BayArea" />
 ### Bay Area
@@ -1026,8 +1036,11 @@ It's worth a trip after your first paycheque.
     in the area.
 
 * Los Angeles
-  * Lots of things to see such the famous Hollywood sign, and beaches such as Venice
-    Beach, where all the nightlife is.
+  * The famous Hollywood Sign and the Hollywood Walk of Fame are must-sees.
+  * Some of the nicest beaches are in this area: Venice Beach and its boardwalk, Santa Monica Beach and its pier, and Malibu.
+  * Griffith Observatory also has a nice view of the Hollywood Sign and a huge telescope you can actually look through! Don't miss the live-narrarated planetarium show.
+  * Rodeo Dr. is a super high end shopping district, very nicely decorated and an awesome place for people watching and car spotting.
+  * Larchmont Village is a quaint old-towny shopping street, with a lot of hipster stores and a nice Farmer's Market.
 
 * Las Vegas
   * Cirque de Soleil shows are a must.
