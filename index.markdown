@@ -35,6 +35,7 @@ request. I'll note you if you want to be noted.
 ### Contributors
 
 * [Aamir Mansoor](http://aam1r.com)
+* [Adrian Gaw](http://adriangaw.com)
 * [Akshay Joshi](http://akshayjoshi.com)
 * [Aldrin Balisi](https://github.com/aldrincb)
 * [Amir Sharif](http://www.amirsharif.com)
@@ -753,7 +754,7 @@ If you are traveling on a Canadian Passport to the US to visit (not J-1), you ar
 
 [Unofficial-Tax-Guide]: http://feli.xxx/taxguide
 [IRS-FreeTaxReturn]: http://www.irs.gov/Individuals/Free-Tax-Return-Preparation-for-You-by-Volunteers
-[CECA-USIncomeTax]: https://uwaterloo.ca/co-operative-education/working-abroad/common-terms-questions#If%20I%20work%20in%20the%20U.S.A,%20how%20does%20that%20affect%20my%20income%20tax?
+[CECA-USIncomeTax]: https://uwaterloo.ca/co-operative-education/working-abroad/frequently-asked-questions#If%20I%20work%20in%20the%20U.S.A,%20how%20does%20that%20affect%20my%20income%20tax?
 [IRS-AlienExemptions]: http://www.irs.gov/Individuals/International-Taxpayers/Aliens---How-Many-Exemptions-Can-Be-Claimed%3F
 
 ---
