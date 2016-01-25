@@ -835,6 +835,11 @@ If you are an intern and have more info let me know.
     which lets you build points for stuff like free day rentals, weekend
     rentals, etc.
   * Being with USAA is also helps if you are under 20 and want to rent a car.
+  * Adrian thinks that a discount that is seem to be particularly useful for
+    long weekends is Budget's free weekend day. It is basically a buy 2 free 1
+    day deal.
+  * Make sure to have your USAA ID when going to get your car if you rented
+    online.
 * Tips when actually renting:
   * Insurance is usually peddled with the car rental at the counter
     (eg. liability, loss damage insurance, collision). If you have car
@@ -844,6 +849,11 @@ If you are an intern and have more info let me know.
     at the start, but you can often ask for a free upgrade at the counter and
     they'll give you one. You can get a Civic, Corolla, Jetta or sometimes even
     a VW Passat/other full size sedan just by asking.
+  * Expanding on the point above, if you do want a bigger car, and they do not
+    want to give a free upgrade, upgrading there seems to be cheaper anyways.
+    Granted that there is no guarantee that a bigger car is available, so if you
+    need 6 seats for example, do not go for a 5 seater and expect to have it
+    upgradable.
   * Some rental companies will often pick you up from where you are
     living/working and drive you to their rental location.
   * For Hertz, try and layer the discounts (CDP and PC codes). You can get cheap
@@ -853,9 +863,19 @@ If you are an intern and have more info let me know.
     dumb charges that you can't waive (eg. airport concession fee, terminal
     fees, etc.). They also don't give free upgrades unless forced to via
     discount codes.
+  * Expanding on the point above, sometimes renting cars from airports (tested
+    in SFO and OAK) might be cheaper than renting from the city even with the
+    extra charges stated above. This might be because they have more inventory.
+    Also, airport location usually have nicer/newer cars!
+  * At least in the bay area, Adrian found that other car rental companies such
+    as Budget are cheaper than Hertz but they usually have a renter's age limit
+    of 21+ and an age limit of 25 for additional drivers. Hertz seems to be the
+    only company to be laxed on age restrictions. So if you need to rent a car
+    but do not need additional drivers or fit the criteria above, test out
+    companies other than Hertz.
   * Some credit cards offer insurance if you pay for the entire rental with
     that credit card. Take advantage of this! Akshay used this a whole bunch in
-	W2015.
+    W2015.
 
 <section id="Area-SF" />
 ### San Francisco, CA
