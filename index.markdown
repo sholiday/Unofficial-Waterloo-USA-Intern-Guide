@@ -835,9 +835,9 @@ If you are an intern and have more info let me know.
     which lets you build points for stuff like free day rentals, weekend
     rentals, etc.
   * Being with USAA is also helps if you are under 20 and want to rent a car.
-  * Adrian thinks that a discount that is seem to be particularly useful for
-    long weekends is Budget's free weekend day. It is basically a buy 2 free 1
-    day deal.
+  * Adrian thinks that a discount that seems to be particularly useful for long
+    weekends is Budget's free weekend day. It is basically a buy 2 get 1 day
+    free deal.
   * Make sure to have your USAA ID when going to get your car if you rented
     online.
 * Tips when actually renting:
