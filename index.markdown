@@ -66,6 +66,7 @@ request. I'll note you if you want to be noted.
 * [Victor Szeto](https://victorszeto.com)
 * [Viktor Stanchev](http://viktorstanchev.com)
 * [Vishal Kuo](http://github.com/vishalkuo)
+* [Volodymyr Lyubinets](http://linkedin.com/in/lyubinets)
 * [Xenia Tay](http://xeniatay.com)
 * [Zameer Manji](http://zameermanji.com)
 
@@ -141,7 +142,7 @@ ready to provide a lot of school-related paperwork such as proof of enrollment.
 
 CECA and Cultural Vistas will guide you through the process. If you're not a Canadian citizen, this
 process will involve making a trip to the US consulate in Toronto or Ottawa (if the wait is too
-long in Toronto) for an interview.
+long in Toronto) for an interview. You can schedule this meeting at any US consulate, including one in your home country. Note that for most consulates (including Toronto), you cannot leave your bag in the building, so you shouldn't take it, or you will have to ask some coffee shop barista to hold it for you. The consulate has lockers for smartphones, so you can bring it with you.
 
 Note: It is possible to extend your visa up to one year total if you are staying at the same company. For different companies, Brad was able to work for two different employers on two different J1 visas on consecutive terms. He applied for the second J1 while already in the US on the first, and got it approved once he returned to Canada in between internships. YMMV.
 
@@ -319,6 +320,7 @@ Some websites we've used successfully are:
 * [PadMapper](http://www.padmapper.com/) -- Craigslist & Kijiji listings on a
   map
 * [Lovely](https://livelovely.com/) -- Subsidiary of RentPath; looks a lot like PadMapper, but with a lot of really cool extra features.
+* [HousingAnywhere](https://housinganywhere.com/) -- Short-term rentals; especially good for Berkeley housing.
 
 <section id="Living-CellService" />
 ### Cell Service
