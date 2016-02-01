@@ -1348,10 +1348,14 @@ There's a $7 bus from San Jose that takes ~50 minutes, but renting a car may be 
 #### Housing
 There are a bunch of awesome places to live when in Seattle. If you're working for a company like Amazon or Microsoft, there is a corporate housing option that you can take.
 Otherwise, there are a few cool places to look at, but keep in mind that some of them don't do short-term leases. YMMV, but these are what someone found when looking for housing for a full-time position.
+
 * [Essex Apartments](http://www.essexapartmenthomes.com/search?ustext=Seattle%20Area&ustype=metro&uskey=57&beds=any&baths=any&city&state&min_rent=any&max_rent=any) - They have a lot of properties in major cities, but Seattle seems to have a few that are in great locations.
 * [Equity Apartments](http://www.equityapartments.com/washington/seattle-apartments.aspx) - This seems to be the frontrunner, since they have the lowest rent on the Belltown properties, as well as the highest number of properties per capita.
+* [Mill Creek Apartments](http://www.millcreekplaces.com/find_an_apartment?region=Pacific%20Northwest&market=Seattle) - Opening two new buildings in Q3 2016, close to the downtown core.
 
 The above places have the following amenities (which may or may not be important to you):
+
+* Heating / Ventilation / Air Conditioning (sometimes referred to as HVAC) in unit
 * Washer/dryer in unit
 * Dishwasher in unit
 * On-site fitness center / party room
@@ -1363,12 +1367,16 @@ Here's a selection of a few of the better ones I (Michael) enjoyed when visiting
 
 * [The Grill From Ipanema](http://seattlegrillfromipanema.com/) - Brazilian All-You-Can-Eat Steakhouse. A little pricey ($50 per person), but great selections and cuts of meat.
 * [Shiro's Sushi](http://shiros.com/) - This place is always really busy, so make reservations well in advance. Also a little pricey ($65-75 per person), but this is as close to a Michelin star sushi place as it gets! Akshay recommends not making a reservation (for the bar seats, they don't do reservations as of W2015) and ordering the omakase.
+* [Sushi Kashiba](http://sushikashiba.com/) - This place is "Shiro's 2.0"; cheaper, better quality fish, and more modern look. Shiro Kashiba (the world-famous sushi chef who studied under Jiro himself) opened this place in December 2015. A must-go for sushi lovers!
 * [Kushibar](http://www.yelp.ca/biz/kushibar-japanese-bar-and-restaurant-seattle) - Great ramen place. Has a decent selection of appetizers and other Japanese dishes as well, but coming here for the ramen is never a terrible idea. Great quality for price!
 * [The Lucky Diner](http://www.theluckydiner.com/index.htm) - A hole in the wall, for sure, but don't be mistaken - this place has great milkshakes and burgers! Careful of the busy periods, though - the service quality won't be as top-tier.
 * [La Parisienne](http://www.laparisienneseattle.com/) - This gem had well priced baguettes and drinks in a well-placed location. Quaint cafe-style establishment, $10 for breakfast! (coffee, breakfast sandwich, and buttered baguette)
+* [Chili & Sesame](http://chilisesame.com/) - If you're not into the Korean BBQ scene, and just want good-quality Korean dishes in the Belltown area, this is the place to go.
+* [Paseo](http://www.paseorestaurants.com/) - Caribbean sandwich place. Great selection of sandwich types - on the top 20 list of "great cheap eats" for 2016 by the Seattle Times.
+* [U:Don](http://freshudon.com/) - A mix-and-match Udon bowl restaurant with an establishment in Capitol Hill and U-District. Great Japanese Udon - great prices, great selection of ingredients, and awesome side dish/appetizer selection.
 
 #### Activities & Misc. Fun
-The "over-21" scene is really upbeat in the Fremont / Capitol Hill areas of Seattle. When interviewing (full-time) at Microsoft, Michael was told about the following areas by the concierge.
+The "over-21" scene is really upbeat in the Fremont / Capitol Hill areas of Seattle. When interviewing (full-time) at Microsoft, Michael was told about the following areas by the concierge, as well as found a few places through exploration.
 
 * Capitol Hill:
   * [Molly Moon's Homemade Ice Cream](http://www.mollymoonicecream.com/) - If you're a dessert person, this is the place for you.
@@ -1384,6 +1392,9 @@ The "over-21" scene is really upbeat in the Fremont / Capitol Hill areas of Seat
   * [Fremont Brewery](http://www.fremontbrewing.com/welcome) - Family-owned craft brewery, founded 2009.
   * [Paseo](http://www.paseoseattle.com/) - Fremont Caribbean restaurant. Also has a location in Ballard.
   * [Nectar Lounge](http://www.nectarlounge.com/) - Fremont lounge, offers live music, martinis, food, and atmosphere.
+* Downtown:
+  * [GameWorks](http://www.gameworks.com/locations/seattle-washington) - Mostly known for its amazing selection of arcade games, the new gaming lounge is a great place to hang out if you need the power of a fast PC / gaming system at a fair price, without bringing all of your stuff with you.
+  * [Italian Family Pizza](http://www.yelp.ca/biz/italian-family-pizza-seattle) - Mom-and-Pop-owned Italian pizza restaurant. Great quality pizza with a family-friendly atmosphere.
 
 Akshay lived in Capitol Hill (W2015), and really enjoyed all it had to offer. Here's some stuff he liked:
   * [Witness](http://witnessbar.com/) - Southern-style bar, Akshay looooves their Chicken and Waffles (W2015). Be sure to go to Saturday night sermon (9 PM).
@@ -1395,12 +1406,20 @@ The main places are really only the Space Needle and Pike Place Market. More wil
 * [Seattle Space Needle](http://www.spaceneedle.com/home/) - Local tourist attraction. Great to visit once or twice, but can get old quickly if you're around for a while.
 * [Pike Place Market](http://www.pikeplacemarket.org/) - Local farmer's market near the water. Great location, decent prices, awesome atmosphere. Fresh seafood every day!
 * [Experience Music Project (EMP)](http://www.empmuseum.org/) - Awesome for music buffs, plenty of interactive exhibits.
+* [Gas Works Park](http://www.seattle.gov/parks/park_detail.asp?id=293) - Great view of the Seattle skyline, as well as the beautiful Lake Union.
+* [Pacific Science Center](https://www.pacificsciencecenter.org/) - On the ASTC list of reciprocity - if you have a membership with this museum or any other one on the list, you can get admission here for free!
+* [Seattle Aquarium](http://www.seattleaquarium.org/) - Opened in 1977, this is the ninth largest aquarium in the US by attendance and the top five paid visitor attraction in the Puget Sound region.
 
 #### Surrounding Area
 * Redmond (where Microsoft is) and Bellevue (where other parts of Microsoft are) are the "satellite cities" of Seattle. 
-  There isn't much to do here, since usually people with families and older (retired) folk tend to reside around here.
-  This unfortunately means that everything closes really early (before 10pm), and there is not a great many things to do at night.
-  Most people who work at Microsoft that want to do things will travel into Seattle somehow (usually public transit - driving is hell on the 520) to have fun.
+ * There isn't much to do here, since usually people with families and older (retired) folk tend to reside around here.
+ This unfortunately means that everything closes really early (before 10pm), and there is not a great many things to do at night.
+ Most people who work at Microsoft that want to do things will travel into Seattle somehow (usually public transit - driving is hell on the 520) to have fun.
+* [Mount Rainier](http://www.nps.gov/mora/index.htm) - Great place to go hiking around and on, however during the winter it can get difficult to drive around.
+* [Stevens Pass](https://www.stevenspass.com/site) - Great skiing and snowboarding location, for both beginners and experienced folks. (small-ish mountain, little variety in slopes)
+* [Snoqualmie Pass](http://www.summitatsnoqualmie.com/) - Another great place to ski and snowboard, only an hour drive away from Bellevue!
+* [Mount Baker](http://www.mtbaker.us/) - Closer to Bellingham (a bit further of a drive), another great place to ski and snowboard.
+* [Mercer Island](https://www.mercergov.org/) - Fantastic area for outdoorsy peopl
 
 #### Getting Around
 * If you're going to and from Redmond / Bellevue from Seattle, it's probably best to take public transit. Ridesharing apps like Uber or Lyft will cost upwards of $15 per ride, where public transit would cost around $5.
