@@ -1424,6 +1424,20 @@ The main places are really only the Space Needle and Pike Place Market. More wil
 * [Musikfest](http://www.fest.org/), a popular free music festival during summer
 * Climate is similar to ON but slightly warmer on average
 
+<section id="Area-Pittsburgh-PA" />
+### Pittsburgh, PA
+* Pittsburgh is not super big so biking and busing are pretty decent means of transportation. Though be warned about biking since there are a lot more hills than you would expect.
+* There is a pretty vibrant downtown and a bunch of cool neighborhoods to check out.
+* There is a very vibrant underground music and arts scene which is not closed off to outsiders. There are "frist Friday" gallery crawls that are free and take place on the first Friday of every month in Garfield (Garfield is a neighborhood).
+* There is a lot of nature in Pittsburgh and you can go hiking in Frick Park or Schenly Park.
+* If you like public markets the Strip is the place to be. It has local merchants and awesome restaurants and cafes.
+
+#### Eats
+* Peace, love and little donuts - They sell tiny donuts in the Strip that may be more delicious than Tim's.
+* Impressionz - A hole in the wall jerk chicken place in East Liberty. This place is super small and the owner is super friendly.
+* Dave and Andy's - An ice cream place in Oakland beside Schenly Park.
+* Jean-Marc Chatellier - An amazing French Bakery
+
 <section id="Area-Austin-TX" />
 ### Austin, TX
 * Live music capital of the world, try to attend at least one live music event
