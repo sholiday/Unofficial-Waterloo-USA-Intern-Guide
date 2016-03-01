@@ -1425,7 +1425,7 @@ The main places are really only the Space Needle and Pike Place Market. More wil
 * [Snoqualmie Pass](http://www.summitatsnoqualmie.com/) - Another great place to ski and snowboard, only an hour drive away from Bellevue!
 * [Mount Baker](http://www.mtbaker.us/) - Closer to Bellingham (a bit further of a drive), another great place to ski and snowboard.
 * [Mercer Island](https://www.mercergov.org/) - Fantastic area for outdoorsy people who like exploring.
-* [Norway Pass](http://www.wta.org/go-hiking/hikes/norway-pass) - Fantastic hiking 4.4 mile (860-4500ft elevation) hike, roundtrip.
+* [Norway Pass](http://www.wta.org/go-hiking/hikes/norway-pass) - Great hiking location - 4.4 miles, roundtrip. (860-4500ft elevation)
 
 #### Getting Around
 * If you're going to and from Redmond / Bellevue from Seattle, it's probably best to take public transit. Ridesharing apps like Uber or Lyft will cost upwards of $15 per ride, where public transit would cost around $5.
