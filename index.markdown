@@ -1372,18 +1372,22 @@ Otherwise, there are a few cool places to look at, but keep in mind that some of
 * [Essex Apartments](http://www.essexapartmenthomes.com/search?ustext=Seattle%20Area&ustype=metro&uskey=57&beds=any&baths=any&city&state&min_rent=any&max_rent=any) - They have a lot of properties in major cities, but Seattle seems to have a few that are in great locations.
 * [Equity Apartments](http://www.equityapartments.com/washington/seattle-apartments.aspx) - This seems to be the frontrunner, since they have the lowest rent on the Belltown properties, as well as the highest number of properties per capita.
 * [Mill Creek Apartments](http://www.millcreekplaces.com/find_an_apartment?region=Pacific%20Northwest&market=Seattle) - Opening two new buildings in Q3 2016, close to the downtown core.
+* [AMLI Residential](http://www.amli.com/apartments/seattle) - Some of the interns working at Amazon were living in the AMLI South Lake Union property; the location and pricing is not terrible given the location & age of the properties.
+* [Avalon Communities](http://www.avaloncommunities.com/washington/seattle-apartments) - Upscale (more expensive than average) apartment homes in Seattle, Redmond, Kirkland, and Bellevue.
 
-The above places have the following amenities (which may or may not be important to you):
+The above places may have the following amenities (which may or may not be important to you):
 
 * Heating / Ventilation / Air Conditioning (sometimes referred to as HVAC) in unit
 * Washer/dryer in unit
 * Dishwasher in unit
 * On-site fitness center / party room
+* Business Center (usually a meeting room, separate computer area)
 
 #### Food
 If you're a foodie, you're in the right place! There's a lot of awesome things to eat in Seattle. Yelp really is your best friend here. 
 Belltown is a really nice area when it comes to certain kinds of restaurants, but remember that price tends to vary widely with location within Belltown. 
-Here's a selection of a few of the better ones I (Michael) enjoyed when visiting.
+If you're a foodie, be sure to check out the [top 20 new cheap eats for 2016 by the Seattle Times article](http://www.seattletimes.com/life/top-20-new-cheap-eats-for-2016/); all of which are worth checking out.
+Here's another selection of the better places enjoyed when eating in Seattle.
 
 * [The Grill From Ipanema](http://seattlegrillfromipanema.com/) - Brazilian All-You-Can-Eat Steakhouse. A little pricey ($50 per person), but great selections and cuts of meat.
 * [Shiro's Sushi](http://shiros.com/) - This place is always really busy, so make reservations well in advance. Also a little pricey ($65-75 per person), but this is as close to a Michelin star sushi place as it gets! Akshay recommends not making a reservation (for the bar seats, they don't do reservations as of W2015) and ordering the omakase.
@@ -1394,6 +1398,7 @@ Here's a selection of a few of the better ones I (Michael) enjoyed when visiting
 * [Chili & Sesame](http://chilisesame.com/) - If you're not into the Korean BBQ scene, and just want good-quality Korean dishes in the Belltown area, this is the place to go.
 * [Paseo](http://www.paseorestaurants.com/) - Caribbean sandwich place. Great selection of sandwich types - on the top 20 list of "great cheap eats" for 2016 by the Seattle Times.
 * [U:Don](http://freshudon.com/) - A mix-and-match Udon bowl restaurant with an establishment in Capitol Hill and U-District. Great Japanese Udon - great prices, great selection of ingredients, and awesome side dish/appetizer selection.
+* [MOD Pizza](https://modpizza.com/) - One price, any number of toppings. Amazing value for price, plus the milkshakes are pretty decent. Multiple locations in Seattle / Bellevue area.
 
 #### Activities & Misc. Fun
 The "over-21" scene is really upbeat in the Fremont / Capitol Hill areas of Seattle. When interviewing (full-time) at Microsoft, Michael was told about the following areas by the concierge, as well as found a few places through exploration.
@@ -1439,12 +1444,13 @@ The main places are really only the Space Needle and Pike Place Market. More wil
 * [Stevens Pass](https://www.stevenspass.com/site) - Great skiing and snowboarding location, for both beginners and experienced folks. (small-ish mountain, little variety in slopes)
 * [Snoqualmie Pass](http://www.summitatsnoqualmie.com/) - Another great place to ski and snowboard, only an hour drive away from Bellevue!
 * [Mount Baker](http://www.mtbaker.us/) - Closer to Bellingham (a bit further of a drive), another great place to ski and snowboard.
-* [Mercer Island](https://www.mercergov.org/) - Fantastic area for outdoorsy peopl
+* [Mercer Island](https://www.mercergov.org/) - Fantastic area for outdoorsy people who like exploring.
+* [Norway Pass](http://www.wta.org/go-hiking/hikes/norway-pass) - Great hiking location - 4.4 miles, roundtrip. (860-4500ft elevation)
 
 #### Getting Around
 * If you're going to and from Redmond / Bellevue from Seattle, it's probably best to take public transit. Ridesharing apps like Uber or Lyft will cost upwards of $15 per ride, where public transit would cost around $5.
 * For the most part, if you're just touring around Seattle, Lyft/Uber is pretty fair. Taxis in this area are not terrible either; since they're competing, you'll usually pay around the same price for the same distance travelled.
-* Amazon/Microsoft provide ORCA cards. Take advantage of it. The 545 route is great to get between Redmond and Seattle.
+* Amazon/Microsoft provide ORCA cards. Take advantage of it. The [545 route](http://www.soundtransit.org/schedules/ST-Express-Bus/545) is great to get between Redmond and Seattle, and the [550 route](http://www.soundtransit.org/schedules/st-express-bus/550) is great to get from Bellevue to Seattle.
 
 <section id="Area-Coopersburg-PA" />
 ### Coopersburg, PA
