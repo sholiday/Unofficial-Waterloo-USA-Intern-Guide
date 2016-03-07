@@ -1134,15 +1134,12 @@ Everything here is pretty much centered around University Ave.
 
 #### San Mateo
 
-Restaurant heaven. Did a 8 month co-op here for a startup. 4 by 4 block of 
-just pure restaurants (all within 2-8 minutes walk of the caltrain station)
-my favorites:
 - [Bon Chon](http://us.bonchon.com/) Korean chicken wings and drumsticks. So good
 - [Mango Garden](http://www.yelp.com/biz/mango-garden-san-mateo) Go for lunch, amazing meals and portions for under 10$
 - [Ikes](http://www.ilikeikesplace.com/) Best sandwich places hands down. Huge selection, either 9$ or 10$
 - [Ben tre](http://bentrerestaurant.com/) Another amazing place (Viet food). 9-12.50$ their 5 spice chicken is the best
-- Mexican indian fusion B st between 2nd and 3rd.
-- Lots of japanese places
+- Mexican Indian fusion B st between 2nd and 3rd.
+- Lots of Japanese places
 
 ##### Restaurants/Bars
 * [Nola](http://www.nolas.com/index.html) for creole/cajun food.
