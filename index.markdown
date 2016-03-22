@@ -68,6 +68,7 @@ request. I'll note you if you want to be noted.
 * [Vishal Kuo](http://github.com/vishalkuo)
 * [Volodymyr Lyubinets](http://linkedin.com/in/lyubinets)
 * [Xenia Tay](http://xeniatay.com)
+* [Yu Chen Hou](http://yuchenhou.com)
 * [Zameer Manji](http://zameermanji.com)
 
 ### License
@@ -170,8 +171,11 @@ they have instant access to them just in case they lose anything.
 If you are a US citizen, some of the above do not apply to you.
 Make sure you have your US passport, health insurance card, and boarding pass.
 
-I-94's are now entirely [online](https://i94.cbp.dhs.gov/I94/request.html).
+I-94's are now entirely [online](https://i94.cbp.dhs.gov/I94/request.html) if you enter the country by air.
 Sometimes, you'll get the stamp in your passport, and will know you did it right.
+
+Unfortunately if you are entering by land, you still responsible for obtaining a paper I-94 form. 
+The border agents should handle it for you, but they might forget.There may be a fee for this.
 
 In the event that you are admitted to the states as a visitor/tourist (B1), you may not
 legally work! You need a J1 status on your I-94 form! Check the class of admittance of 
@@ -217,7 +221,7 @@ building a credit score in the U.S. Also make sure you let your employer know.
 
 OR
 
-1. Show up, fill out the form while waiting. There's a good chance that they'll
+1. Show up, fill out the form while waiting (it takes less than 2 minutes). There's a good chance that they'll
    have a pile of those forms for you and you have to wait a long time anyway.
 
 #### SSA Offices
@@ -249,6 +253,9 @@ promised.
 
 ##### [Boston / Cambridge](http://www.yelp.ca/biz/social-security-administration-cambridge-3)
 No security screening outdoors, ID check as you enter. Short waiting time and friendly service. Application process took 15 minutes and card arrived in 3 business days (was promised two weeks).
+
+##### [New York City - Downtown](https://www.yelp.ca/biz/u-s-social-security-administration-new-york)
+No security screening but location might be hard to find since you need to take the elevator (security through obscurity). Ask around if you really can't find it. There never was too many people when I was there, and was able to get everything done in about 30 minutes. Card took about a week to get.
 
 ##### [New York City - Brooklyn](http://www.yelp.ca/biz/social-security-administration-office-brooklyn)
 If you get there when it opens (8 AM), you can be in and out within 45 minutes. Security check on the way in - main entrance is on the side street with a small label marking "Social Security Administration Office". Quoted 10 business days to get the card.
@@ -488,7 +495,8 @@ Stephen suggests you stick to one of:
 
 Kevin suggests you use TD Bank, especially if ATMs are convenient for where you live / work. TD Bank hours are generally better than any other American banks (they are open late on weekdays and for several hours on weekends).
 
-If you are in NY, Chase is the one to open.
+If you are in NY, Chase is the one to open. TD Bank has a ton of branches in NYC as well, and they have a chequing plan (with a 1k$ balance to waive fees) that gives you covers ATM fees in the whole country which is super useful.
+
 There are so many Chase branches and ATMs.
 Several people have been told that Chase is pretty conservative when it
 comes to giving credit cards to "new Americans". You can, however, get a credit (yes, you heard me right, CREDIT) card with RBC Bank in the US if you are a Canadian citizen and have built a Canadian credit history.
@@ -1311,7 +1319,8 @@ There's a $7 bus from San Jose that takes ~50 minutes, but renting a car may be 
 * Grand Central and New York Public Library are iconic, close together, and free to look at, however,
   they don't provide entertainment for long.
 * Yankee and Mets games are pretty cheep if you sit in the nosebleeds, and the stadiums are on the subway lines.
-
+* Subscribe to [Nonsense NYC](http://www.nonsensenyc.com/) and [Nerd York City](http://nerdyorkcity.com/) for offbeat events weekly.
+* Also useful: [Calendar of events in the city](http://www.linkedlistnyc.org/calendar.html)
 ##### Shows
 * Try getting [rush tickets](http://www.nytix.com/Links/Broadway/lotteryschedule.html)
   (going to theatre day of and buying) or go to [TKTS](https://www.tdf.org/nyc/7/TKTS-ticket-booths)
