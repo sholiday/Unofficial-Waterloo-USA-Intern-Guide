@@ -812,6 +812,10 @@ If you are traveling on a Canadian Passport to the US to visit (not J-1), you ar
 * [Splitwise](http://splitwise.com): Allows you to keep track of expenses you made
   for other people, and tracks who owes how much money. Ankit likes to use this
   alongside Venmo.
+* [Square Cash](https://cash.me/): Similar to Venmo. You give them your debit card
+  or credit card and you can transfer money to anyone (even people without the app
+  for free. Both you and the person you invite gets 5$ (you just need to make them
+  transfer 50$. You can give them 50 and they give you the 50 back).
 
 ---
 
@@ -1150,6 +1154,15 @@ Pretty much anything on Castro Street.
 #### Palo Alto
 
 Everything here is pretty much centered around University Ave.
+
+#### San Mateo
+
+- [Bon Chon](http://us.bonchon.com/) Korean chicken wings and drumsticks. So good
+- [Mango Garden](http://www.yelp.com/biz/mango-garden-san-mateo) Go for lunch, amazing meals and portions for under 10$
+- [Ikes](http://www.ilikeikesplace.com/) Best sandwich places hands down. Huge selection, either 9$ or 10$
+- [Ben tre](http://bentrerestaurant.com/) Another amazing place (Viet food). 9-12.50$ their 5 spice chicken is the best
+- Mexican Indian fusion B st between 2nd and 3rd.
+- Lots of Japanese places
 
 ##### Restaurants/Bars
 * [Nola](http://www.nolas.com/index.html) for creole/cajun food.
