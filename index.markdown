@@ -621,11 +621,6 @@ Capital One credit card that's directly targeted for people with no credit
 history/newcomers. Beware this card is free for the first year, but costs around
 $30 per year after that.
 
-#### Wells Fargo
-
-Stefan got declined twice trying to get a secured credit card there. Both times they 
-said my SSN was invalid. If you want a CC, wouldn't recommend Wells Fargo.
-
 <section id="Money-Use" />
 ### Using Credit Cards
 
