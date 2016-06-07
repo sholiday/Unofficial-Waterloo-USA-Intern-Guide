@@ -46,6 +46,7 @@ request. I'll note you if you want to be noted.
 * [Dennis Ideler](http://dennisideler.com)
 * [Edward Sun](http://www.edwardsun.com)
 * [Elisa Lou](http://aimango.wordpress.com/)
+* [Elvin Yung](http://elvinyung.com)
 * [Eric Yam](http://www.ericyam.com)
 * [Felix Fung](http://feli.xxx)
 * [Felix Mo](http://felixmo.com)
@@ -1008,7 +1009,7 @@ If you are an intern and have more info let me know.
   Big boxes of dim sum for ~$4, bubble tea is only ~$2 (they call it boba)
 * San Francisco is known for great burritos, and most places in the Mission
   are dirt cheap and give you an amazing Burrito. Josh's favourite is El
-  Farolito at 24th and Mission (Cash Only).
+  Farolito at 24th and Mission (Cash Only). ([The one further down 24th](https://www.yelp.ca/biz/el-farolito-san-francisco-4) takes card.)
 * The [cioppino](https://en.wikipedia.org/wiki/Cioppino) is a San Francisco staple,
   and you can find some great cioppino in North Beach.
 * For a very satisfying and stereotypically American burger, check out Super Duper Burgers.
@@ -1016,6 +1017,10 @@ If you are an intern and have more info let me know.
 * Philz Coffee is everywhere and has many flavours of coffee.
 * La Mejor Bakery near 24th Mission BART station has delicious bread and pastries baked daily, well worth checking out.
 * Pineapple King is an awesome Hong Kong style bakery in the Sunset. Try their butter pineapple bun!
+* There aren't many good AYCE KBBQ places in SF - [Carbon Grill](https://www.yelp.ca/biz/carbon-grill-san-francisco-3) is probably the best one.
+* The [SoMa StrEAT Food Park](http://www.somastreatfoodpark.com/) has a rotating selection of (decently good) food trucks.
+* SF is the world capital of coffee. Some of the more well-known ones include [Sightglass](https://sightglasscoffee.com/), [Four Barrel](http://fourbarrelcoffee.com/), [Ritual](https://www.ritualroasters.com/), [Mazarine](http://www.mazarinecoffee.com/), [Andytown](http://www.andytownsf.com/)...
+* If you want to splurge on sushi, Michelin-starred [Kusakabe](http://kusakabe-sf.com/) is a must-try.
 
 <section id="Area-BayArea" />
 ### Bay Area
