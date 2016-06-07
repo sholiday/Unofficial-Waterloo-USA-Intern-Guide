@@ -203,6 +203,10 @@ hand and deliver the data by pigeon. If you apply early, they'll lie to you
 that it will be okay if you do it, but it will not work and you will just have
 to try again later.
 
+Note that some companies may not pay you until you get your SSN. It takes around
+2 weeks for SSN to get mailed to you after you apply, so you may not get paid until
+one month into your term. Bring enough money to last for a month!
+
 Some people have entered the US ahead of time by driving to Buffalo or Detroit.
 They enter on their J-1 to to get the SEVIS wait process started as well as get
 a cell phone or bank account. Keep in mind that the immigration center in
