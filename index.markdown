@@ -99,10 +99,6 @@ Ask the pay in the interview. There is no reason not to. If they give you some
 '*competitive pay*' can range from $25/hr - $45/hr with or without housing and
 plane tickets.
 
-The
-[Intern Project](http://internproject.io/choosing-an-internship/dont-take-your-highest-paying-offer/)
-has a recent blog post about 'average' pay rates, whatever that means.
-
 <section id="Jobs-Relocation" />
 ### Relocation
 Ask if they offer any help in terms of relocation.
