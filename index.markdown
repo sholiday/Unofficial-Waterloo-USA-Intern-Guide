@@ -59,6 +59,7 @@ request. I'll note you if you want to be noted.
 * [Michael Tu](http://www.tuzhucheng.com)
 * [Nansen Lin](http://www.linkedin.com/pub/nansen-lin/28/6b4/92a)
 * [Prashanth Madhi](http://ece.uwaterloo.ca/~pmadhiya)
+* [Raunaq Suri] (https://www.linkedin.com/in/raunaqsuri)
 * [Rickey Wang](http://www.rickeyw.com/)
 * [Samson Choi](https://github.com/shlchoi)
 * [Shale Craig](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
@@ -520,8 +521,9 @@ Wells Fargo has been seen by at least one person as being tougher for a CC.
 
 You will *not* need a SSN to open an account at the four listed banks.
 They will need your J-1 visa for filling in your bank details, so bring your
-passport and visa. You don't even need a permanent address. Some have had luck
-with using their hotel's or their company's. Once you do receive your SSN, it is a good idea to update this with your bank in order to build a credit rating in America.
+passport and visa. You don't even need a permanent address. Some have had luck with using their hotel's or their company's. Once you do receive your SSN, it is a good idea to update this with your bank in order to build a credit rating in America.
+
+Chase has been known not to give a bank account unless you have proof of address. To show proof of address, you have to show some document that has your name and your address on it, such as a utility bill. If you have corporate housing and don't have something which has your name and address, people have also gotten by with a letter from your employer saying that you work here and the address at which you reside with the company's letterhead, but your best bet is to see what the banker says as acceptable proof of address.  
 
 Stephen's always kept a US bank account open.
 It's super useful to have. If you come back to the US again you're all setup.
@@ -1084,6 +1086,10 @@ It's worth a trip after your first paycheque.
   * Griffith Observatory also has a nice view of the Hollywood Sign and a huge telescope you can actually look through! Don't miss the live-narrarated planetarium show.
   * Rodeo Dr. is a super high end shopping district, very nicely decorated and an awesome place for people watching and car spotting.
   * Larchmont Village is a quaint old-towny shopping street, with a lot of hipster stores and a nice Farmer's Market.
+  * The Third Street Promenade is also really pretty and fun to walk through.
+  * The Getty is a free art gallery and has beautiful paintings and scenery -- only cost is the parking.
+  * Raunaq says Koreatown has the best Korean BBQ
+  * Sawtelle Blvd has really nice Japanese restaurants
 
 * Las Vegas
   * Cirque de Soleil shows are a must.
