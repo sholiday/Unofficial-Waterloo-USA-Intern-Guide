@@ -41,6 +41,7 @@ request. I'll note you if you want to be noted.
 * [Amir Sharif](http://www.amirsharif.com)
 * [Ankit Sardesai](https://ankitsardesai.ca)
 * [Avi Itskovich](http://itskovi.ch/)
+* [Baker Humadi] (https://www.linkedin.com/in/bakerhumadi)
 * [Brad Kotsopoulos](https://ca.linkedin.com/in/bradkotsopoulos)
 * [Chris Vandevelde](http://www.imlikeaninja.com)
 * [Dennis Ideler](http://dennisideler.com)
@@ -856,6 +857,16 @@ If you are an intern and have more info let me know.
     free deal.
   * Make sure to have your USAA ID when going to get your car if you rented
     online.
+* Baker and his friends found [SmartLease] (http://www.smartlease.co/) to be the 
+  best option for short term car lease in the San Francisco Bay Area.
+  * Their rates start with $390/mo not including insurance, and tax 
+  * Minimum lease period is three months 
+  * If you're under 25, you'll still receive the lowest rates (no underage fees)
+  * Cheaper Insurance: The cost of insuring a leased car is substantially less 
+    than the insurance rates charged by car rental companies. They will even help
+    you find a great insurance deal
+  * Their cars are few years old but are in great condition and they are absolutely 
+    much more affordable than rental car companies 
 * Tips when actually renting:
   * Insurance is usually peddled with the car rental at the counter
     (eg. liability, loss damage insurance, collision). If you have car
@@ -1166,6 +1177,8 @@ Everything here is pretty much centered around University Ave.
 - [Mango Garden](http://www.yelp.com/biz/mango-garden-san-mateo) Go for lunch, amazing meals and portions for under 10$
 - [Ikes](http://www.ilikeikesplace.com/) Best sandwich places hands down. Huge selection, either 9$ or 10$
 - [Ben tre](http://bentrerestaurant.com/) Another amazing place (Viet food). 9-12.50$ their 5 spice chicken is the best
+- [Rave Burger] (https://www.yelp.com/biz/rave-burger-san-mateo-3). The best burger in San Mateo.
+- [Pancho Villa Taqueria] (https://www.yelp.com/biz/pancho-villa-taqueria-san-mateo). Really awesome Mexican food, fresh juices, and smoothies 
 - Mexican Indian fusion B st between 2nd and 3rd.
 - Lots of Japanese places
 
