@@ -1729,15 +1729,25 @@ The main places are really only the Space Needle and Pike Place Market. More wil
 * You generally can't go wrong in Downtown Boston (Park Street or Downtown Crossing stops on the 'T')
 
 #### Living
-* This will not be cheap
-* Even student housing near Harvard and BU is far pricier than Waterloo
-* You'll want to consider living closer to the outskirts and taking the 'T' (Boston's transit system) in, some areas to check out:
+* Boston is an expensive city to live in. Multiple sources ([1](https://www.apartmentlist.com/rentonomics/national-rent-data/))([2](http://www.businessinsider.com/the-most-expensive-places-for-rent-in-us-2016-4/#no-17-long-beach-california-tie-the-median-rent-for-a-one-bedroom-here-is-1200-a-month-4))will put it as the third most expensive rent city, behind San Francisco and New York City.
+* Public Transportation in Boston isn't fantastic, so a big thing to think about is how you'll get from where you live to where you work. For example, all of Boston's subway lines connect in the downtown core, which means if you live on one line and work on another, you'll likely end up having to go into the city and then back out as part of your commute. Therefore:
+  * Biking is super popular if you can
+  * living and working on the same line makes a lot of sense
+* To get a sense of what cost of living is like on various subway lines, [check this out](http://bostinno.streetwise.co/2017/01/17/rent-for-one-bedroom-in-boston-mapped-by-mbta-stop/)
+  * Note: these medians are...medians. If you're willing to look, it's very possible to find housing significantly below the medians here.
+* Myles recommends these neighborhoods for a co-op term:
+  * Central Square: Between Harvard and MIT, you're in a young and culturally diverse environment with a ton going on, and quick access to the city
+  * Porter Square: A bit more suburban than Central square, but typically less expensive
+  * Jamaica Plain: Another young and hip neighborhood southwest of Boston
+* Less expensive options can be found by living in the geater suburbs of Boston. Some areas to check out:
 	* Framingham
 	* Malden
 	* Waltham
 * Avoid South Boston if you can for safety reasons
 * As previously mentioned, Craigslist and Padmapper are good resources. However, depending on the term you're arriving, it may be difficult to find housing for just four months. You may have to end up going through a broker 
-* If you're willing to spend around $1000 per month (which is still relatively cheap), consider Somerville and Caimbridge 
+* Some Boston-specific resources for finding housing:
+  * [MIT off-campus housing](https://www.mitoffcampus.com/) (you don't need to go to MIT)
+  * [Harvard off-campus housing](https://www.harvardhousingoffcampus.com/) (you need to go to Harvard or be a Harvard affiliate)
 
 #### Activities
 * The state of Massachusetts has no tax on clothing or footwear! Reccomend stocking up here while you can. 
