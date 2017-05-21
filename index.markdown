@@ -1732,39 +1732,64 @@ The main places are really only the Space Needle and Pike Place Market. More wil
 ### Boston, MA
 
 #### Food
-* You can't leave Boston until you've tried the seafood:
+* Being a seaside city, Boston is well-known for their seafood. Classic dishes are clam chowder, lobster rolls, and oysters. Some great options are:
+    * [James Hook & Co.](http://www.jameshooklobster.com/) serves some unreal lobster rolls. They're not cheap, but worth trying
+    * [Yankee Lobster Co.](http://www.yankeelobstercompany.com/) Has a good variety of seafood
+    * [Neptune Oyster](http://www.neptuneoyster.com/) is a high-end seafood restaraunt in the North End which is fantastic
     * [Legal Seafoods](http://www.legalseafoods.com/) are scattered throughout Boston. You'll definitely want to give it a shot
     * [Quincy Market](http://www.faneuilhallmarketplace.com/) has great clam chowder and lobster bisque
     * If you're in the Somerville/Caimbridge area, consider trying [Pescatore](http://www.pescatoreseafood.com/)
-    * [The Daily Catch](http://thedailycatch.com/) is awesome too
-* If seafood isn't your thing:
-	* The food trucks are great street eats and are scattered all throughout Boston. The city of Boston provides a [list](http://www.cityofboston.gov/foodtrucks/schedule-tabs.asp) for your convenience
+    * [The Daily Catch](http://thedailycatch.com/) is awesome too 
+* Some local chains worth checking out:
 	* [Boloco](http://boloco.com/) has awesome burritos that are both healthy and affordable
-	* [Tasty Burger](http://www.tastyburger.com/) is aptly named
-	* You generally can't go wrong in Downtown Boston (Park Street or Downtown Crossing stops on the 'T')
+	* [Tasty Burger](http://www.tastyburger.com/) is a well-known chain in Boston that serves great burgers, and is often open very late
+  * [Clover](https://www.cloverfoodlab.com/) is a new chain serving some fantastic and simple vegeterian meals
+* The food trucks are great street eats and are scattered all throughout Boston. The city of Boston provides a [list](http://www.cityofboston.gov/foodtrucks/schedule-tabs.asp) for your convenience
+* You generally can't go wrong in Downtown Boston (Park Street or Downtown Crossing stops on the 'T')
 
 #### Living
-* This will not be cheap
-* Even student housing near Harvard and BU is far pricier than Waterloo
-* You'll want to consider living closer to the outskirts and taking the 'T' (Boston's transit system) in, some areas to check out:
+* Boston is an expensive city to live in. Multiple sources ([1](https://www.apartmentlist.com/rentonomics/national-rent-data/))([2](http://www.businessinsider.com/the-most-expensive-places-for-rent-in-us-2016-4/#no-17-long-beach-california-tie-the-median-rent-for-a-one-bedroom-here-is-1200-a-month-4))will put it as the third most expensive rent city, behind San Francisco and New York City.
+* Public Transportation in Boston isn't fantastic, so a big thing to think about is how you'll get from where you live to where you work. For example, all of Boston's subway lines connect in the downtown core, which means if you live on one line and work on another, you'll likely end up having to go into the city and then back out as part of your commute. Therefore:
+  * Biking is super popular if you can
+  * living and working on the same line makes a lot of sense
+* To get a sense of what cost of living is like on various subway lines, [check this out](http://bostinno.streetwise.co/2017/01/17/rent-for-one-bedroom-in-boston-mapped-by-mbta-stop/)
+  * Note: these medians are...medians. If you're willing to look, it's very possible to find housing significantly below the medians here.
+* Myles recommends these neighborhoods for a co-op term:
+  * Central Square: Between Harvard and MIT, you're in a young and culturally diverse environment with a ton going on, and quick access to the city
+  * Porter Square: A bit more suburban than Central square, but typically less expensive
+  * Jamaica Plain: Another young and hip neighborhood southwest of Boston
+* Less expensive options can be found by living in the geater suburbs of Boston. Some areas to check out:
 	* Framingham
 	* Malden
 	* Waltham
 * Avoid South Boston if you can for safety reasons
 * As previously mentioned, Craigslist and Padmapper are good resources. However, depending on the term you're arriving, it may be difficult to find housing for just four months. You may have to end up going through a broker 
-* If you're willing to spend around $1000 per month (which is still relatively cheap), consider Somerville and Caimbridge 
+* Some Boston-specific resources for finding housing:
+  * [MIT off-campus housing](https://www.mitoffcampus.com/) (you don't need to go to MIT)
+  * [Harvard off-campus housing](https://www.harvardhousingoffcampus.com/) (you need to go to Harvard or be a Harvard affiliate)
 
 #### Activities
-* The state of Massachusetts has no tax on clothing or footwear! Reccomend stocking up here while you can. 
-* Assembly Row is a relatively new mall on the orange line with a great movie theatre
-* Freedom Trail is a great Historic walk through the city of Boston 
-* The Museum of Science and the Museum of Fine Arts are both really cool to check out
-* If you're into fitness, there's an outdoor gym at the intersection of Silber and Backstreet near Boston University
-* During the summer, there are free movies played on the Esplanade along Charles river. Schedule can be found [here](http://www.bostoncentral.com/events/free_friday_flicks/p974.php)
-* Revere beach is beautiful, although somewhat crowded, during the summer
-* Harvard and MIT campuses are both accessible by the 'T' 
+* History
+  * The Freedom Trail is a great Historic walk through the city of Boston
+  * The North End is quaint and old, definitely worth walking around
+* Museums
+  * The Museum of Fine Art (MFA) and The institute of Contemporary Art (ICA) are both fantastic, and have First Friday events worth going to (21+)
+  * Harvard Art Museum is worth seeing
+  * The Museum of Science is cool to check out
+* Walking around
+  * Harvard and MIT campuses are both accessible by the 'T'
+  * The Boston Common and the Boston Public Gardens are beautiful parks in downtown Boston.
+  * Mt. Auburn Cemetery is gorgeous and a must-see
+* Summer
+  * If you're into fitness, there's an outdoor gym at the intersection of Silber and Backstreet near Boston University
+  * During the summer, there are free movies played on the Esplanade along Charles river. Schedule can be found [here](http://www.bostoncentral.com/events/free_friday_flicks/p974.php)
+  * Revere beach is beautiful, although somewhat crowded, during the summer
+  * Boston is big on sailing, and there are tons of sailing clubs you can join to learn!
+* Shopping
+  * The state of Massachusetts has no tax on clothing or footwear! Recommend stocking up here while you can.
+  * Boylston and Beacon Street in Back Bay have a ton of shopping options
+  * Assembly Row is a relatively new mall on the orange line with a great movie theatre
 * Fenway Park is always a fun experience, even if you don't like baseball
-* Boston Common is a beautiful park in downtown Boston. There is plenty of shopping and sightseeing to do here
 
 #### Transportation
 * Boston's transit system, called the 'T', is the easiest way to get around Boston. A monthly pass is very reasonably priced. 
