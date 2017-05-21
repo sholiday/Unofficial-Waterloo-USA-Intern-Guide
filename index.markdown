@@ -1750,16 +1750,27 @@ The main places are really only the Space Needle and Pike Place Market. More wil
   * [Harvard off-campus housing](https://www.harvardhousingoffcampus.com/) (you need to go to Harvard or be a Harvard affiliate)
 
 #### Activities
-* The state of Massachusetts has no tax on clothing or footwear! Reccomend stocking up here while you can. 
-* Assembly Row is a relatively new mall on the orange line with a great movie theatre
-* Freedom Trail is a great Historic walk through the city of Boston 
-* The Museum of Science and the Museum of Fine Arts are both really cool to check out
-* If you're into fitness, there's an outdoor gym at the intersection of Silber and Backstreet near Boston University
-* During the summer, there are free movies played on the Esplanade along Charles river. Schedule can be found [here](http://www.bostoncentral.com/events/free_friday_flicks/p974.php)
-* Revere beach is beautiful, although somewhat crowded, during the summer
-* Harvard and MIT campuses are both accessible by the 'T' 
+* History
+  * The Freedom Trail is a great Historic walk through the city of Boston
+  * The North End is quaint and old, definitely worth walking around
+* Museums
+  * The Museum of Fine Art (MFA) and The institute of Contemporary Art (ICA) are both fantastic, and have First Friday events worth going to (21+)
+  * Harvard Art Museum is worth seeing
+  * The Museum of Science is cool to check out
+* Walking around
+  * Harvard and MIT campuses are both accessible by the 'T'
+  * The Boston Common and the Boston Public Gardens are beautiful parks in downtown Boston.
+  * Mt. Auburn Cemetery is gorgeous and a must-see
+* Summer
+  * If you're into fitness, there's an outdoor gym at the intersection of Silber and Backstreet near Boston University
+  * During the summer, there are free movies played on the Esplanade along Charles river. Schedule can be found [here](http://www.bostoncentral.com/events/free_friday_flicks/p974.php)
+  * Revere beach is beautiful, although somewhat crowded, during the summer
+  * Boston is big on sailing, and there are tons of sailing clubs you can join to learn!
+* Shopping
+  * The state of Massachusetts has no tax on clothing or footwear! Recommend stocking up here while you can.
+  * Boylston and Beacon Street in Back Bay have a ton of shopping options
+  * Assembly Row is a relatively new mall on the orange line with a great movie theatre
 * Fenway Park is always a fun experience, even if you don't like baseball
-* Boston Common is a beautiful park in downtown Boston. There is plenty of shopping and sightseeing to do here
 
 #### Transportation
 * Boston's transit system, called the 'T', is the easiest way to get around Boston. A monthly pass is very reasonably priced. 
