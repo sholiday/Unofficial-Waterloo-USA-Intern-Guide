@@ -1713,16 +1713,20 @@ The main places are really only the Space Needle and Pike Place Market. More wil
 ### Boston, MA
 
 #### Food
-* You can't leave Boston until you've tried the seafood:
+* Being a seaside city, Boston is well-known for their seafood. Classic dishes are clam chowder, lobster rolls, and oysters. Some great options are:
+    * [James Hook & Co.](http://www.jameshooklobster.com/) serves some unreal lobster rolls. They're not cheap, but worth trying
+    * [Yankee Lobster Co.](http://www.yankeelobstercompany.com/) Has a good variety of seafood
+    * [Neptune Oyster](http://www.neptuneoyster.com/) is a high-end seafood restaraunt in the North End which is fantastic
     * [Legal Seafoods](http://www.legalseafoods.com/) are scattered throughout Boston. You'll definitely want to give it a shot
     * [Quincy Market](http://www.faneuilhallmarketplace.com/) has great clam chowder and lobster bisque
     * If you're in the Somerville/Caimbridge area, consider trying [Pescatore](http://www.pescatoreseafood.com/)
-    * [The Daily Catch](http://thedailycatch.com/) is awesome too
-* If seafood isn't your thing:
-	* The food trucks are great street eats and are scattered all throughout Boston. The city of Boston provides a [list](http://www.cityofboston.gov/foodtrucks/schedule-tabs.asp) for your convenience
+    * [The Daily Catch](http://thedailycatch.com/) is awesome too 
+* Some local chains worth checking out:
 	* [Boloco](http://boloco.com/) has awesome burritos that are both healthy and affordable
-	* [Tasty Burger](http://www.tastyburger.com/) is aptly named
-	* You generally can't go wrong in Downtown Boston (Park Street or Downtown Crossing stops on the 'T')
+	* [Tasty Burger](http://www.tastyburger.com/) is a well-known chain in Boston that serves great burgers, and is often open very late
+  * [Clover](https://www.cloverfoodlab.com/) is a new chain serving some fantastic and simple vegeterian meals
+* The food trucks are great street eats and are scattered all throughout Boston. The city of Boston provides a [list](http://www.cityofboston.gov/foodtrucks/schedule-tabs.asp) for your convenience
+* You generally can't go wrong in Downtown Boston (Park Street or Downtown Crossing stops on the 'T')
 
 #### Living
 * This will not be cheap
