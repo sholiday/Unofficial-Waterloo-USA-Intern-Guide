@@ -254,8 +254,8 @@ No security screening outdoors, short waiting time and very friendly service.
 Application process took less than 10 minutes and card arrived in 2 weeks as
 promised.
 
-##### [Boston / Cambridge](http://www.yelp.ca/biz/social-security-administration-cambridge-3)
-No security screening outdoors, ID check as you enter. Short waiting time and friendly service. Application process took 15 minutes and card arrived in 3 business days (was promised two weeks).
+##### Boston / [Cambridge](http://www.yelp.ca/biz/social-security-administration-cambridge-3)
+No security screening outdoors, ID check as you enter for the Cambridge office. Security screening for the downtown Boston office, but no ID check. Short waiting time and friendly service. Application process took 15 minutes and card arrived in 3 business days (was promised two weeks).
 
 ##### [New York City - Downtown](https://www.yelp.ca/biz/u-s-social-security-administration-new-york)
 No security screening but location might be hard to find since you need to take the elevator (security through obscurity). Ask around if you really can't find it. There never was too many people when I was there, and was able to get everything done in about 30 minutes. Card took about a week to get.
@@ -426,12 +426,12 @@ have the APN settings built in for data. The package you receive contains the
 APN settings you need. You will need to figure out how to set the settings for
 your phone.
 
-#### [WIND Mobile](http://www.windmobile.ca/usunlimited)
-A special deal offered by WIND goes like this: for $15/mo, you keep your Canadian plan (with WIND), and you get the US Unlimited Add-on; which includes unlimited data, talk/text/MMS between US/CAN numbers, and the best part, you're using the AT&T or T-Mobile network, so it'll always be connected! This is convenient because you can keep your Canadian phone number. But, keep in mind that your US friends may start racking up fees for texting your Canadian number, even when you're in the US.
+#### [Freedom Mobile](https://www.freedommobile.ca/network-and-coverage/international-roaming)
+A special deal offered by Freedom Mobile goes like this: for $15/mo, you keep your Canadian plan (with WIND), and you get the US Unlimited Add-on; which includes service on AT&T with 1GB of data, and talk/text/MMS between US/CAN numbers. This is convenient because you can keep your Canadian phone number. But, keep in mind that your US friends may start racking up fees for texting your Canadian number, even when you're in the US.
 
 The cell service in Waterloo & Toronto is [pretty good too](http://www.windmobile.ca/network-and-coverage/coverage).
 
-Note that your "unlimited" data is actually capped at 1GB in the US, regardless of your Canadian plan, as per their [usage policy](https://www.windmobile.ca/docs/default-source/default-document-library/data-fair-usage-policy). Brad used this for a month, but then switched to T-Mobile's hidden plan in search of more data.
+Note that your data is capped at 1GB in the US, regardless of your Canadian plan, as per their [usage policy](https://www.freedommobile.ca/docs/default-source/default-document-library/data-fair-usage-policy). Brad used this for a month, but then switched to T-Mobile's hidden plan in search of more data. Also, note that you are no longer able to use T-Mobile's network.
 
 <section id="Living-CellService-BlackBerry" />
 #### BlackBerry
@@ -696,7 +696,7 @@ When using "Debit My Account" on XE Trade (from a US account), then "ACH/EFT" (t
 As recently as March 2015, Michael got 1.2647 USD/CAD exchanged ($1600 USD).
 
 #### What Brad Does
-Set up an account on [Transfer Wise](https://transferwise.com/). Transfer Wise is a British startup that does peer-to-peer money transfers at mid-market rates, with only a ~1% fee (calculated in the original currency). As of writing, they only support USD->CAD and not the reverse. Setting up an account requires two pieces of (Canadian) ID. They withdraw the funds from your US checking and deposit into your Canadian checking, and can be as fast as 1-2 business days door-to-door. They even have an app. A similar service is [Currency Fair](https://currencyfair.com/), although their signup process seemed more convoluted. Both of these will generally beat XE (by at least 0.5%) and banks (by a lot).
+Set up an account on [Transfer Wise](https://transferwise.com/). Transfer Wise is a British startup that does peer-to-peer money transfers at mid-market rates, with only a ~1% fee (calculated in the original currency). Setting up an account requires two pieces of (Canadian) ID. They withdraw the funds from your US checking and deposit into your Canadian checking, and can be as fast as 1-2 business days door-to-door. They even have an app. A similar service is [Currency Fair](https://currencyfair.com/), although their signup process seemed more convoluted. Both of these will generally beat XE (by at least 0.5%) and banks (by a lot).
 
 #### Not Recommended Ways
 
