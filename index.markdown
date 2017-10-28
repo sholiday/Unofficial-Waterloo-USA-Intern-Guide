@@ -66,6 +66,7 @@ request. I'll note you if you want to be noted.
 * [Shale Craig](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 * [Stephen Holiday](http://stephenholiday.com)
 * [Tony Dong](http://tony-dong.com)
+* [Tieme Togola](https://tiemetogola.com)
 * [Victor Szeto](https://victorszeto.com)
 * [Viktor Stanchev](http://viktorstanchev.com)
 * [Vishal Kuo](http://github.com/vishalkuo)
@@ -127,7 +128,10 @@ unless you have the financial ability to not care. Rent in major cities like SF 
 Some companies have cool perks like food, bikes, transit passes, happy hour, snacks, game rooms,
 pool tables, ping pong, foosball, museum passes, etc.
 
-It's worth checking out.
+It's worth checking out. Some perks might be exclusive to full-time employees, but don't hesitate to ask even if that's the case.
+For instance, one of us was working at a company where full-timers got quarterly "learning stipends". One quarter a few team members
+decided to use their stipends to attend a tech conference ([ODSC](https://odsc.com)). He asked the company's university recruiters
+directly if he could get a ticket, and they got him one.
 
 ---
 
@@ -380,6 +384,11 @@ in the United States. Also, since it's a Canadian company, you could just pay in
 
 The main reason Ankit loves Roam Mobility is the fact that every plan has unlimited calling back to Canada,
 which is perfect for interns that still want to keep in touch with friends and family at home.
+
+#### Project Fi
+Google's [Project Fi](https://fi.google.com/about) is an option if you have a [Fi-ready phone](https://fi.google.com/about/phones).
+You pay only for the data you use, and outside of the US you get the same data speed at the same cost. To register you need a US address
+so you can wait until you get there, although some people managed to do it using a VPN.
 
 #### T-Mobile's Hidden Plan
 Gary writes in with this tip:
