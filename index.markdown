@@ -168,7 +168,7 @@ Don't call it a job or say you are working! The J-1 visa status is not meant for
 a poor little intern *training* in the United States and make sure you declare that
 you have a J1 Visa at US Customs!
 
-Some prefer keeping all the above as a digital copy in my Dropbox/Google Drive so
+Some prefer keeping all the above as a digital copy in their Dropbox/Google Drive so
 they have instant access to them just in case they lose anything.
 
 If you are a US citizen, some of the above do not apply to you.
