@@ -184,7 +184,7 @@ Some people have entered the US ahead of time by driving to Buffalo or Detroit. 
 
 A couple notes for those with name that contain hyphens (like Amir's) but go by a shorter version (Amir is short for Amir-Reza). My training plan had "Amir-Reza", while my I-94 has "Amir", while my passport has "Amir Reza". When applying for my SSN, I ran into some issues since each document had a slightly different variation, but the lady at the counter was nice enough to do it anyway. Bottom line: Always use your full name (exclude hyphens since hyphens are not used in government registries) when applying for, as well dealing with any documents you'll need for your SSN.
 
-Ensure your full name is on the mailbox that the Social Security Card will be delivered to. If your full name is not on the mailbox, USPS will return your card back to the Social Security Administration processing centre to be shredded. If your mailbox is part of a shared "superbox", taping your full name to the inside of your mailbox door seems to work well.
+Ensure your full name is on the mailbox that the Social Security Card will be delivered to. If your full name is not on the mailbox, USPS will return your card back to the Social Security Administration processing centre to be shredded. If your mailbox is part of a shared "super mailbox", taping your full name to the inside of your mailbox door seems to work well.
 
 Once you receive your SSN, it is important to let your bank know, so you start building a credit score in the U.S. Also make sure you let your employer know.
 
@@ -691,7 +691,6 @@ I've been to three main areas and will focus on info for those. If you are an in
 #### Housing
 
 -	[Paramount/SFO Housing](http://www.sfohousing.com/) has decent pricing (Park or Herbert). The internet is slow. They are older buildings, and note that there are no kitchen facilities to use in Herbert. The Herbert and Spaulding are also located in the Tenderloin.
-	-	2010F - Stephen has stayed at the Park. Liked it, would recommend
 -	[Pacific Tradewinds](http://www.san-francisco-hostel.com/) is highly recommended by one intern who is adventurous and enjoyed living in hostel-like accommodations.
 	-	2012W - Recommended by an intern. It's feels very home-y and undoubtedly a great place to meet technical folks and entrepreneurs.
 -	If you would rather live in a more student-populated area, Berkeley is an option. The commute to the downtown area is 15-20 min, but is worth it if you want to meet people your age.
@@ -884,11 +883,7 @@ Everything here is pretty much centered around University Ave.
 
 -	Foster City - [Sand Cove Apartments](http://www.woodmontrentals.com/sand-cove-apartments) is a good apartment complex and they are very helpful with setting up housing for people out of the country. They do flexible leasing and month to month rentals. In the past, QuinStreet co-ops have lived at the other properties owned by the parent company (Woodmont, who seem to own a lot of land around here).
 
-	-	2010W - Stephen - Liked it, very close to the old QuinStreet buildings. 2 Bedroom 2 Bath $1909/mo.
-
 -	Mountain View - [Central Park at Whisman Station](http://www.centralpark-apts.com/) is a good apartment complex and they are very helpful with setting up housing for people out of the country. 20 minute walk from Caltrain. Not that convent for transit. Safeway is about 2 miles away.
-
-	-	2012W - Stephen - We pay $2700/mo unfurnished plus utilities for 3 bedrooms. Clean and very nice. Less than 20 minute bike ride to Google.
 
 -	Mountain View - [AvalonBay](http://www.avalonbay.com) is okay if you have 1 person in the living room. ~$2600 a month for 2 bedroom, unfurnished. Very close to the CalTrain; very close to Castro Street (restaurants) and it's a 15 minute bike ride through a biking trail to Google/LinkedIn. They have 3 pools and a gym.
 
@@ -900,7 +895,7 @@ Everything here is pretty much centered around University Ave.
 
 #### Food
 
--	Stephen waited in the rain for 2 hours to eat at[Phil's BBQ](http://www.philsbbq.net/). The ribs are amazing.
+-	Stephen waited in the rain for 2 hours to eat at[Phil's BBQ](http://www.philsbbq.net/). The ribs are amazing. In 2017 Stephen visited San Diego and found it just as tasty as he remembered.
 
 <section id="Area-NYC" />
 
@@ -926,12 +921,6 @@ Everything here is pretty much centered around University Ave.
 -	Flying into LGA is cheaper, NJ transit is good, hard with two suitcases
 
 #### Housing
-
--	Brooklyn (Bay Ridge) - 328 91st Street, Brooklyn (close to the subway). The landlord is Annette Sobczynski (718-974-0368, annetteeve@hotmail.com). Multiple furnished apartments.
-
-	-	2011S - Stephen - It was fully furnished for $1900/month, 2 bedrooms, large kitchen and a pullout bed in the living room. Stayed for 1 month while looking for apartments in Manhattan.
-
--	If you want a broker in Manhattan, you can contact [John Spalding](johns@nestseekers.com). The fee is low for NY ($1000), and he tries really hard to get you into a place you'll like.
 
 -	[92Y](http://www.92y.org/residence) was a great place on the upper east side (Gossip Girl zone). It was clean, had a brand new gym, weekly cleaning of sheets and stuff, had security 24/7. Be warned that many students hated it because it was only the room (kitchen and bathroom were shared). They also have a very restrictive guest policy, where guests have to be signed in for $10/night.
 
