@@ -160,11 +160,11 @@ Some prefer keeping all the above as a digital copy in their Dropbox/Google Driv
 
 If you are a US citizen, some of the above do not apply to you. Make sure you have your US passport, health insurance card, and boarding pass.
 
-I-94's are now entirely [online](https://i94.cbp.dhs.gov/I94/request.html) if you enter the country by air. Sometimes, you'll get the stamp in your passport, and will know you did it right.
+I-94's are now entirely [online](https://i94.cbp.dhs.gov) if you enter the country by air. Sometimes, you'll get the stamp in your passport, and will know you did it right.
 
 Unfortunately if you are entering by land, you still responsible for obtaining a paper I-94 form. The border agents should handle it for you, but they might forget.There may be a fee for this.
 
-In the event that you are admitted to the states as a visitor/tourist (B1), you may not legally work! You need a J1 status on your I-94 form! Check the class of admittance of your I-94 [online](https://i94.cbp.dhs.gov/I94/request.html). To resolve/update the admittance status on your I-94, you have two options: Re-enter the United States, or schedule an appointment at a US Customs and Border Protection Deferred Inspection office to update your I-94 Form. Schedule an appointment [here](http://infopass.uscis.gov/).
+In the event that you are admitted to the states as a visitor/tourist (B1), you may not legally work! You need a J1 status on your I-94 form! Check the class of admittance of your I-94 [online](https://i94.cbp.dhs.gov). To resolve/update the admittance status on your I-94, you have two options: Re-enter the United States, or schedule an appointment at a US Customs and Border Protection Deferred Inspection office to update your I-94 Form. Schedule an appointment [here](http://infopass.uscis.gov/).
 
 If you are on a connection flight it doesn't hurt to ask the person at the gate waiting area to double-check your connection flight. Amir found out he would miss his connection flight -- Delta Airlines rerouted his flight for free and he was bumped to first class and also got to San Francisco earlier than he would've even without the delay.
 
