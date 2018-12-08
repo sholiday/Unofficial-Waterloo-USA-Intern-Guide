@@ -523,9 +523,9 @@ Stephen sucks at playing the market so he just transfer money over ~$1k at a tim
 -	Buying equity on a cross listed item and selling it on a Canadian exchange (best rate I hear, but sounds tricky). This is called[Norbert's Gambit](http://www.finiki.org/wiki/Norbert's_Gambit).
 -	Using your family member who works at a bank and gets currency exchanged at cost (We're told this is the best possible)
 
-#### What Kevin Does If you are with TD Canada and TD Bank, they will transfer
+#### What Kevin Does
 
-your money between countries. For Kevin, this involved a five-minute phone call and a 2 business day wait. You can either open an American dollar account in TD Canada or have them exchange your money for CAD and deposit it in your Canadian checking account. It may be a good idea to use a USD account at TD Canada, then exchange money when the exchange rate is better.
+If you are with TD Canada and TD Bank, they will transfer your money between countries. For Kevin, this involved a five-minute phone call and a 2 business day wait. You can either open an American dollar account in TD Canada or have them exchange your money for CAD and deposit it in your Canadian checking account. It may be a good idea to use a USD account at TD Canada, then exchange money when the exchange rate is better.
 
 TD insists that [there are no fees for this service](http://www.tdbank.com/personal/cross-border-banking.html), but it may be the case that they charge somewhere between 0.5% and 1.5% depending on the amount transferred. YMMV.
 
