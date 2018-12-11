@@ -173,7 +173,7 @@ If you are on a connection flight it doesn't hurt to ask the person at the gate 
 
 If you are planning to leave your country, make sure to have your original DS-2019 papers with you. If you did not bring the papers with you, you will be detained at customs until they can find it in their database. If they find it, you may be issued a temporary DS-2019, but if they can't find it, you may need to provide the original papers before you can re-enter (someone needs to mail your DS-2019 to you). Note that travel outside North America requires a travel validation signature on your DS-2019 that you need to get ahead of time.
 
-To get the travel validation signature, make sure you plan ahead and inform your visa sponsor beforehand (usually two weeks before). You might need to mail your DS2019 to their office. For the ones with Intrax,you can book a time and go to their SF office to get the form signed directly (this is probably the fastest way if you are in the Bay area).
+To get the travel validation signature, make sure you plan ahead and inform your visa sponsor beforehand (usually two weeks before). You might need to mail your DS2019 to their office. For the ones with Intrax, you can book a time and go to their SF office to get the form signed directly (this is probably the fastest way if you are in the Bay area).
 
 <section id="Paperwork-SSN" />
 
