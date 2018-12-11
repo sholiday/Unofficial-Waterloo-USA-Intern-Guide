@@ -53,7 +53,7 @@ If you are a past intern and have thoughts/ideas to add to this document, [let m
 -	[Felix Mo](http://felixmo.com)
 -	[Gary Guo](http://ca.linkedin.com/pub/gary-guo/46/b0a/55b)
 -	[Graham Bleaney](http://bleaney.ca)
-- [Jay Shi](https://github.com/jay-shi)
+-	[Jay Shi](https://github.com/jay-shi)
 -	[Joshua Kalpin](http://joshuakalp.in)
 -	[Kevin James](http://thekev.in)
 -	[Michael Shao](http://michaelshao.com)
