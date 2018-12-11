@@ -809,9 +809,9 @@ I've been to three main areas and will focus on info for those. If you are an in
 	-	Grand Canyon if you have a day or two. Drive out is about 4 hours each way however so be warned.
 	-	Hoover Dam has a nice indoor tour where you get to see the generators and water tunnels. Also a beautiful sight.
 	-	Casinos and restaurants of course on the strip.
-	- Penn & Teller is pretty much a must-see magic show in Vegas
-	- [Dancing fountains](https://www.bellagio.com/en/entertainment/fountains-of-bellagio.html) in Bellagio is a lot of fun to watch. It's free.
-	- Luxor has $5 minimum bet blackjack if you are into that
+	-	Penn & Teller is pretty much a must-see magic show in Vegas
+	-	[Dancing fountains](https://www.bellagio.com/en/entertainment/fountains-of-bellagio.html) in Bellagio is a lot of fun to watch. It's free.
+	-	Luxor has $5 minimum bet blackjack if you are into that
 
 -	Hawaii (you will need at least four days to a week)
 
