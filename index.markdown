@@ -48,6 +48,7 @@ If you are a past intern and have thoughts/ideas to add to this document, [let m
 -	[Edward Sun](http://www.edwardsun.com)
 -	[Elisa Lou](http://aimango.wordpress.com/)
 -	[Elvin Yung](http://elvinyung.com)
+-	[Eric Pickup](http://pickuperic.com)
 -	[Eric Yam](http://www.ericyam.com)
 -	[Felix Fung](http://feli.xxx)
 -	[Felix Mo](http://felixmo.com)
@@ -137,7 +138,7 @@ Once you have your offer, email your recruiter to get all the details about pay,
 
 CECA and Cultural Vistas will guide you through the process. If you're not a Canadian citizen, this process will involve making a trip to the US consulate in Toronto or Ottawa (if the wait is too long in Toronto) for an interview. You can schedule this meeting at any US consulate, including one in your home country. Note that for most consulates (including Toronto), you cannot leave your bag in the building, so you shouldn't take it, or you will have to ask some coffee shop barista to hold it for you. The consulate has lockers for smartphones, so you can bring it with you.
 
-Note: It is possible to extend your visa up to one year total if you are staying at the same company. For different companies, Brad was able to work for two different employers on two different J1 visas on consecutive terms. He applied for the second J1 while already in the US on the first, and got it approved once he returned to Canada in between internships. YMMV.
+Note: It is possible to extend your visa up to one year total if you are staying at the same company. For different companies, Brad was able to work for two different employers on two different J1 visas on consecutive terms. He applied for the second J1 while already in the US on the first, and got it approved once he returned to Canada in between internships. YMMV. Eric's Cultural Vistas rep informed him that you are eligible to apply for a second (consecutive) J1 while on your first visa as long as your current internship is required by your degree (i.e. co-op). He was also informed that you can transfer a J1 visa to another company if your internship dates are consecutive (no break in between) and they use the same sponsor.
 
 <section id="Paperwork-BeforeYouGo" />
 
