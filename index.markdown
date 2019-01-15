@@ -687,7 +687,7 @@ I've been to three main areas and will focus on info for those. If you are an in
 -	An airport shuttle is a good alternative to taxies and BART, especially if you have a lot of luggage. For only $16 they will drop you off in front of almost any hotel. I used GO Lorrie's Airport Shuttle to get to Park Hotel.
 -	From Palo Alto, the [KX Bus](http://www.samtrans.com/schedulesandmaps/timetables/KX.html) leaves from the bus area at the Palo Alto Caltrain station. It's cheaper than taking the Caltrain to SFO.
 -	Some people prefer [Super Shuttle](http://www.supershuttle.com/). From a hotel, they cost ~$25 for the first person. After the initial person, the cost goes down to ~$10 per person for the next people.
--	Others like getting an Uber from the airport. It is a $65 flat fee to/from the airport (for an UberBLACK). If you're okay with sharing your ride, UberPOOL is a much cheaper option to get to the city ($15 for up to two passengers as of W2015). For SFO airport, uber can only pick passengers up on certain floors. Make sure you are on the right floor and the right pickup spot.
+-	Others like getting an Uber from the airport. It is a $65 flat fee to/from the airport (for an UberBLACK). If you're okay with sharing your ride, UberPOOL is a much cheaper option to get to the city ($15 for up to two passengers as of W2015). For SFO airport, Uber can only pick passengers up on certain floors. Make sure you are on the right floor and the right pickup spot.
 -	If you are flying Delta, the curbside luggage check at SFO is free, and they can print you a boarding pass. This means you don't need to carry your luggage that much further, and it usually has a much shorter line.
 -	Unless you live nearby, it is almost never worth flying to/from Oakland.
 
@@ -809,9 +809,9 @@ I've been to three main areas and will focus on info for those. If you are an in
 	-	Grand Canyon if you have a day or two. Drive out is about 4 hours each way however so be warned.
 	-	Hoover Dam has a nice indoor tour where you get to see the generators and water tunnels. Also a beautiful sight.
 	-	Casinos and restaurants of course on the strip.
-	-	Penn & Teller is pretty much a must-see magic show in Vegas
+	-	Penn & Teller is pretty much a must-see magic show in Vegas.
 	-	[Dancing fountains](https://www.bellagio.com/en/entertainment/fountains-of-bellagio.html) in Bellagio is a lot of fun to watch. It's free.
-	-	Luxor has $5 minimum bet blackjack if you are into that
+	-	Luxor has $5 minimum bet blackjack.
 
 -	Hawaii (you will need at least four days to a week)
 
