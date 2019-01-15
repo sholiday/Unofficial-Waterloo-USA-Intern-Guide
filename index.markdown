@@ -568,7 +568,7 @@ Stephen's favourite method is still xe.com.
 
 You will owe taxes in the US, which will likely be deducted directly from your paycheques. When you file your return, you may end up receiving much of that back (50% is not unreasonable). You will first file your US returns before filing your Canadian returns, where you may end up paying a bit to Canada as well.
 
-If you situation is uncomplicated, you can try to file your returns yourself. Someone wrote an [Unofficial Waterloo Intern Tax Guide](http://feli.xxx/taxguide) that will walk you through all the forms you need and answer most questions that come up. The author of that document was as thorough as he could, but if you have any concerns, you should seek a professional.
+If you situation is uncomplicated, you can try to file your returns yourself. Someone wrote an [Unofficial Waterloo Intern Tax Guide](https://csclub.uwaterloo.ca/~f2fung/taxguide.html) that will walk you through all the forms you need and answer most questions that come up. The author of that document was as thorough as he could, but if you have any concerns, you should seek a professional.
 
 Some people have had luck with this [free government program](http://www.irs.gov/Individuals/Free-Tax-Return-Preparation-for-You-by-Volunteers).
 
