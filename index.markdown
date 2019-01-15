@@ -53,6 +53,7 @@ If you are a past intern and have thoughts/ideas to add to this document, [let m
 -	[Felix Mo](http://felixmo.com)
 -	[Gary Guo](http://ca.linkedin.com/pub/gary-guo/46/b0a/55b)
 -	[Graham Bleaney](http://bleaney.ca)
+-	[Jay Shi](https://github.com/jay-shi)
 -	[Joshua Kalpin](http://joshuakalp.in)
 -	[Kevin James](http://thekev.in)
 -	[Michael Shao](http://michaelshao.com)
@@ -171,6 +172,8 @@ If you are on a connection flight it doesn't hurt to ask the person at the gate 
 ### Leaving the Country during your Internship
 
 If you are planning to leave your country, make sure to have your original DS-2019 papers with you. If you did not bring the papers with you, you will be detained at customs until they can find it in their database. If they find it, you may be issued a temporary DS-2019, but if they can't find it, you may need to provide the original papers before you can re-enter (someone needs to mail your DS-2019 to you). Note that travel outside North America requires a travel validation signature on your DS-2019 that you need to get ahead of time.
+
+To get the travel validation signature, make sure you plan ahead and inform your visa sponsor beforehand (usually two weeks before). You might need to mail your DS2019 to their office. For the ones with Intrax, you can book a time and go to their SF office to get the form signed directly (this is probably the fastest way if you are in the Bay area).
 
 <section id="Paperwork-SSN" />
 
@@ -684,7 +687,7 @@ I've been to three main areas and will focus on info for those. If you are an in
 -	An airport shuttle is a good alternative to taxies and BART, especially if you have a lot of luggage. For only $16 they will drop you off in front of almost any hotel. I used GO Lorrie's Airport Shuttle to get to Park Hotel.
 -	From Palo Alto, the [KX Bus](http://www.samtrans.com/schedulesandmaps/timetables/KX.html) leaves from the bus area at the Palo Alto Caltrain station. It's cheaper than taking the Caltrain to SFO.
 -	Some people prefer [Super Shuttle](http://www.supershuttle.com/). From a hotel, they cost ~$25 for the first person. After the initial person, the cost goes down to ~$10 per person for the next people.
--	Others like getting an Uber from the airport. It is a $65 flat fee to/from the airport (for an UberBLACK). If you're okay with sharing your ride, UberPOOL is a much cheaper option to get to the city ($15 for up to two passengers as of W2015).
+-	Others like getting an Uber from the airport. It is a $65 flat fee to/from the airport (for an UberBLACK). If you're okay with sharing your ride, UberPOOL is a much cheaper option to get to the city ($15 for up to two passengers as of W2015). For SFO airport, uber can only pick passengers up on certain floors. Make sure you are on the right floor and the right pickup spot.
 -	If you are flying Delta, the curbside luggage check at SFO is free, and they can print you a boarding pass. This means you don't need to carry your luggage that much further, and it usually has a much shorter line.
 -	Unless you live nearby, it is almost never worth flying to/from Oakland.
 
@@ -806,6 +809,9 @@ I've been to three main areas and will focus on info for those. If you are an in
 	-	Grand Canyon if you have a day or two. Drive out is about 4 hours each way however so be warned.
 	-	Hoover Dam has a nice indoor tour where you get to see the generators and water tunnels. Also a beautiful sight.
 	-	Casinos and restaurants of course on the strip.
+	-	Penn & Teller is pretty much a must-see magic show in Vegas
+	-	[Dancing fountains](https://www.bellagio.com/en/entertainment/fountains-of-bellagio.html) in Bellagio is a lot of fun to watch. It's free.
+	-	Luxor has $5 minimum bet blackjack if you are into that
 
 -	Hawaii (you will need at least four days to a week)
 
