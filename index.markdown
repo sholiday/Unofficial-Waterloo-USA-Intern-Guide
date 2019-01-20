@@ -217,7 +217,8 @@ Not as long of a wait to get into the office (not as much security screening), b
 
 ##### [San Jose - Downtown](http://www.yelp.ca/biz/social-security-administration-san-jose-3)
 
-(W2012) Long wait just to get into the building (outdoor wait due to security screening), but card arrived in 2 business days (was promised two weeks).
+(W2012) Long wait just to get into the building (outdoor wait due to security screening), but card arrived in 2 business days (was promised two weeks).  
+(W2019) Stil a long wait just to get into the building (there's shelter overhead, but it's still outdoors), however the business card arrived in 5 business days (was still promised two weeks).
 
 ##### [West San Jose - Campbell](http://www.yelp.ca/biz/social-security-administration-office-campbell)
 
@@ -629,8 +630,9 @@ I've been to three main areas and will focus on info for those. If you are an in
 
 ### California (General)
 
--	In-N-Out burger is a must try. Checkout the Animal Style burger on their[secret menu](http://www.in-n-out.com/menu/not-so-secret-menu.aspx).
+-	In-N-Out burger is a must try. Checkout the Animal Style burger on their [secret menu](http://www.in-n-out.com/menu/not-so-secret-menu.aspx).
 -	Many people like [Chipotle](https://www.chipotle.com/)
+-	You also might want to try out local taquerias. You can get good prices, fast service and authentic Mexican food in most places.
 -	There's a very good list of concerts that is automatically updated every week (ish) from [a mailing list](http://www.calweb.com/~skoepke/). It's simple and comprehensive. Found [here](http://www.foopee.com/punk/the-list/).
 
 #### Car Rentals
