@@ -164,7 +164,7 @@ If you are a US citizen, some of the above do not apply to you. Make sure you ha
 
 I-94's are now entirely [online](https://i94.cbp.dhs.gov) if you enter the country by air. Sometimes, you'll get the stamp in your passport, and will know you did it right.
 
-Unfortunately if you are entering by land, you still responsible for obtaining a paper I-94 form. The border agents should handle it for you, but they might forget.There may be a fee for this.
+Unfortunately if you are entering by land, you still responsible for obtaining a paper I-94 form. You may expedite this process by completing a provisional I-94 [online](https://i94.cbp.dhs.gov/I94/#/apply-document) ahead of time. The border agents should handle it for you, but they might forget. You must obtain an I-94! There may be a fee for this.
 
 In the event that you are admitted to the states as a visitor/tourist (B1), you may not legally work! You need a J1 status on your I-94 form! Check the class of admittance of your I-94 [online](https://i94.cbp.dhs.gov). To resolve/update the admittance status on your I-94, you have two options: Re-enter the United States, or schedule an appointment at a US Customs and Border Protection Deferred Inspection office to update your I-94 Form. Schedule an appointment [here](http://infopass.uscis.gov/).
 
