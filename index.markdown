@@ -283,6 +283,7 @@ Contact them and ask them to meet up somewhere in Waterloo for dinner. It gives 
 -	Some places are very low tech, so, if looking for a hotel, you are best off walking around the area and asking every hotel about their rates.
 
 *Vacation Rentals* or *Corporate Housing* work well for our 4-month terms. Some websites we've used successfully are:
+-	[Faros](http://gofaros.com) (UWaterloo-founded) -- furnished apartments and housemates for 1+ months
 
 -	[Airbnb Sublets](http://www.airbnb.com/sublets) -- monthly vacation rentals
 -	[Airbnb](http://www.airbnb.com/) -- nightly vacation rentals
@@ -295,7 +296,7 @@ Contact them and ask them to meet up somewhere in Waterloo for dinner. It gives 
 
 -	[Corporate Housing by Owner](http://www.corporatehousingbyowner.com/) -- corporate housing
 
--	[PadMapper](http://www.padmapper.com/) -- Craigslist & Kijiji listings on a map
+-	[PadMapper](http://www.padmapper.com/) -- Zumper-owned, listings on a map
 
 -	[Lovely](https://livelovely.com/) -- Subsidiary of RentPath; looks a lot like PadMapper, but with a lot of really cool extra features.
 
