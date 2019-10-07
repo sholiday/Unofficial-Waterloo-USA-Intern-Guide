@@ -180,7 +180,7 @@ To get the travel validation signature, make sure you plan ahead and inform your
 
 ### Getting your SSN
 
-Apply for your SSN as soon as you have been in the US for at least *10 days*. It takes 10 days for SEVIS to sync up with the SSA's database of people eligible to apply for a social security number. Yes, you have to wait for them to copy by hand and deliver the data by pigeon. If you apply early, they'll lie to you that it will be okay if you do it, but it will not work and you will just have to try again later.
+Apply for your SSN as soon as possible given you meet the requirements of your J-1 sponsor (2 business days after checking in for intrax). I-94 is now digital so there is no 10 day wait.
 
 Note that some companies may not pay you until you get your SSN. It takes around 2 weeks for SSN to get mailed to you after you apply, so you may not get paid until one month into your term. Bring enough money to last for a month!
 
