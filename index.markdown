@@ -43,6 +43,7 @@ If you are a past intern and have thoughts/ideas to add to this document, [let m
 -	[Avi Itskovich](http://itskovi.ch/)
 -	[Baker Humadi](https://www.linkedin.com/in/bakerhumadi)
 -	[Brad Kotsopoulos](https://ca.linkedin.com/in/bradkotsopoulos)
+-	[Charles Yu](https://www.linkedin.com/in/charlesmattyu/)
 -	[Chris Vandevelde](http://www.imlikeaninja.com)
 -	[Dennis Ideler](http://dennisideler.com)
 -	[Edward Sun](http://www.edwardsun.com)
@@ -189,6 +190,10 @@ Some people have entered the US ahead of time by driving to Buffalo or Detroit. 
 A couple notes for those with name that contain hyphens (like Amir's) but go by a shorter version (Amir is short for Amir-Reza). My training plan had "Amir-Reza", while my I-94 has "Amir", while my passport has "Amir Reza". When applying for my SSN, I ran into some issues since each document had a slightly different variation, but the lady at the counter was nice enough to do it anyway. Bottom line: Always use your full name (exclude hyphens since hyphens are not used in government registries) when applying for, as well dealing with any documents you'll need for your SSN.
 
 Ensure your full name is on the mailbox that the Social Security Card will be delivered to. If your full name is not on the mailbox, USPS will return your card back to the Social Security Administration processing centre to be shredded. If your mailbox is part of a shared "super mailbox", taping your full name to the inside of your mailbox door seems to work well.
+
+As of February 14th, 2022, it appears that it is possible to mail your SSN to your company's office instead of your home's mailbox. Just fill in your office's address in the "Mailing Address" section of the SS-5. This was attempted in NYC thru the Manhattan office, and made it a lot more convenient to collect the card because we didn't have unfettered access to our house's mailbox.
+
+Also note that during Covid, it has become necessary to call ahead for an appointment. Look up your local SSA office online, and call their number (not the general hotline!) to schedule an appointment. It appears that you can only call for an appointment 14 days after you arrive, at which point they will give you an appointment another 10-14 days later, so be sure to factor this extra 20-28 day delay into your plans, especially if your employer cannot pay you without the SSN. 
 
 Once you receive your SSN, it is important to let your bank know, so you start building a credit score in the U.S. Also make sure you let your employer know.
 
@@ -420,7 +425,7 @@ Choosing a bank is up to you and your preferences. Stephen suggests you stick to
 
 Kevin suggests you use TD Bank, especially if ATMs are convenient for where you live / work. TD Bank hours are generally better than any other American banks (they are open late on weekdays and for several hours on weekends).
 
-If you are in NY, Chase is the one to open. TD Bank has a ton of branches in NYC as well, and they have a chequing plan (with a 1k$ balance to waive fees) that gives you covers ATM fees in the whole country which is super useful.
+If you are in NY, Chase is the one to open. TD Bank has a ton of branches in NYC as well, and they have a chequing plan (with a $100 balance to waive fees) that gives you covers ATM fees in the whole country which is super useful. Note that it seems TD has the lowest minimum balance for fee waiver out of all the big banks ($100 vs $1k or $3k)
 
 There are so many Chase branches and ATMs. Several people have been told that Chase is pretty conservative when it comes to giving credit cards to "new Americans". You can, however, get a credit (yes, you heard me right, CREDIT) card with RBC Bank in the US if you are a Canadian citizen and have built a Canadian credit history.
 
@@ -526,12 +531,12 @@ Stephen sucks at playing the market so he just transfer money over ~$1k at a tim
 -	Capital One Credit Card - I heard that they [eat the 1% MasterCard / Visa network fee](http://www.bankrate.com/finance/credit-cards/latest-currency-conversion-fees-1.aspx).
 -	Bring it in cash across the border (if it's over 10k you need to declare it. it's a lot in $20's, Stephen doesn't do this anymore).
 -	Mailing it by UPS/FedEx insured (got this from a TD Canada banker)
--	Buying equity on a cross listed item and selling it on a Canadian exchange (best rate I hear, but sounds tricky). This is called[Norbert's Gambit](http://www.finiki.org/wiki/Norbert's_Gambit).
+-	Buying equity on a cross listed item and selling it on a Canadian exchange (best rate I hear, but sounds tricky). This is called[Norbert's Gambit](http://www.finiki.org/wiki/Norbert's_Gambit). This can be made easy and cheap if you sit purely within the TD ecosystem, and open a TD Direct Investing account. 
 -	Using your family member who works at a bank and gets currency exchanged at cost (We're told this is the best possible)
 
 #### What Kevin Does
 
-If you are with TD Canada and TD Bank, they will transfer your money between countries. For Kevin, this involved a five-minute phone call and a 2 business day wait. You can either open an American dollar account in TD Canada or have them exchange your money for CAD and deposit it in your Canadian checking account. It may be a good idea to use a USD account at TD Canada, then exchange money when the exchange rate is better.
+If you are with TD Canada and TD Bank, they will transfer your money between countries. For Kevin, this involved a five-minute phone call and a 2 business day wait. You can either open an American dollar account in TD Canada or have them exchange your money for CAD and deposit it in your Canadian checking account. It may be a good idea to use a USD account at TD Canada, then exchange money when the exchange rate is better. Nowadays, it is possible to initiate this transaction online in EasyWeb and have it transferred within 2-4 hours. There is a $5,000 limit when transferring [from the USA](https://www.td.com/ca/en/personal-banking/how-to/easy-web/transfer-money-from-us-to-canada/), and a $3,000 limit the other way around (this uses Visa Direct). All fees are still waived, but this may be applied as a refund to the fee after the transaction occurs.  
 
 TD insists that [there are no fees for this service](http://www.tdbank.com/personal/cross-border-banking.html), but it may be the case that they charge somewhere between 0.5% and 1.5% depending on the amount transferred. YMMV.
 
@@ -988,7 +993,7 @@ Everything here is pretty much centered around University Ave.
 
 -	Wicked and Les Miz are both good. Blue man group is strange but kinda fun.
 
--	Don't get your hopes up for Book of Mormon.
+-	Don't get your hopes up for Book of Mormon. Hadestown is phenomenal.
 
 ##### Parks and Walking
 
