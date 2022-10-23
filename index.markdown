@@ -6,6 +6,7 @@ title: Unofficial Waterloo USA Intern Guide
 <div class="page-header">
   <h1>Unofficial Waterloo USA Intern Guide</h1>
   <small>Or: How I Learned to Stop Worrying and Love the Greenback</small>
+  <p>Last Updated: October 2022</p>
 </div>
 
 Table of Contents
@@ -24,13 +25,13 @@ Table of Contents
 Introduction
 ------------
 
-**This document is unofficial and not endorsed by my school or employers.**
+**This document is unofficial and not endorsed by the University of Waterloo or employers.**
 
-We're not lawyers, tax specialists nor do we purport to have any real knowledge.
+We're not lawyers or tax specialists, nor do we purport to have any official knowledge.
 
-This is a collection of things we wished we knew when we went away on our first co-op terms in the US. We hope it helps you out. Many things contained in this document were gained through mistakes and conversations with older students.
+This is a collection of things we wished we knew when we went away on our first co-op terms in the US. We hope it helps you out. Many insights contained in this document were gained through mistakes and conversations with older students.
 
-If you are a past intern and have thoughts/ideas to add to this document, [let me know](mailto:stephen.holiday@gmail.com). Even better submit a pull request. I'll note you if you want to be noted.
+If you are a past intern and have thoughts/ideas to add to this document, [let me know](mailto:stephen.holiday@gmail.com). Even better submit a [pull request](https://github.com/sholiday/Unofficial-Waterloo-USA-Intern-Guide/pulls). I'll note you if you want to be noted.
 
 ### Contributors
 
@@ -64,6 +65,7 @@ If you are a past intern and have thoughts/ideas to add to this document, [let m
 -	[Nansen Lin](http://www.linkedin.com/pub/nansen-lin/28/6b4/92a)
 -	[Prashanth Madhi](http://ece.uwaterloo.ca/~pmadhiya)
 -	[Raunaq Suri](https://www.linkedin.com/in/raunaqsuri)
+-	[Raymond Li](https://raymond.li)
 -	[Rickey Wang](http://www.rickeyw.com/)
 -	[Samson Choi](https://github.com/shlchoi)
 -	[Shale Craig](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
@@ -89,9 +91,9 @@ If you are a past intern and have thoughts/ideas to add to this document, [let m
 Jobs
 ----
 
-For many, the JobMine process is familiar so we won't speak about that. You probably know how to get a job.
+For many, the WaterlooWorks process is familiar so we won't speak about that. You probably know how to get a job.
 
-Something to note is that many companies in the US (particularly California) are much more laid back and don't care if you wear a suit or not. Depends on the company. We suit up for Morgan Stanley but not Facebook.
+Something to note is that most tech companies nowadays (particularly west-coast) are much more laid back and don't care if you wear a suit or not. Depends on the company. We suit up for Morgan Stanley but not Facebook.
 
 CECA says not to do US in your first year. Even if you only have 4 months of school under your belt, there is no actual restriction for going in first year. Some of us have done it without trouble successfully.
 
@@ -99,7 +101,7 @@ CECA says not to do US in your first year. Even if you only have 4 months of sch
 
 ### Pay
 
-Ask the pay in the interview. There is no reason not to. If they give you some '*competitive pay*' ask them in an email before you accept their offer. '*competitive pay*' can range from $25/hr - $45/hr with or without housing and plane tickets.
+Ask the pay in the interview. There is no reason not to. If they give you some '*competitive pay*' ask them in an email before you accept their offer. '*competitive pay*' can range from $25/hr - $45/hr with or without housing, plane tickets, food, etc.
 
 <section id="Jobs-Relocation" />
 
@@ -121,7 +123,7 @@ We recommend working at a place that covers some part of your housing, unless yo
 
 ### Perks
 
-Some companies have cool perks like food, bikes, transit passes, happy hour, snacks, game rooms, pool tables, ping pong, foosball, museum passes, etc.
+Some companies have cool perks like food, bikes, transit passes, happy hours, snacks, game rooms (ping-pong, foosball, pool tables, gaming consoles), museum passes, etc.
 
 It's worth checking out. Some perks might be exclusive to full-time employees, but don't hesitate to ask even if that's the case. For instance, one of us was working at a company where full-timers got quarterly "learning stipends". One quarter a few team members decided to use their stipends to attend a tech conference ([ODSC](https://odsc.com)). He asked the company's university recruiters directly if he could get a ticket, and they got him one.
 
@@ -136,15 +138,19 @@ Paperwork
 
 ### J-1 Visa
 
-Once you have your offer, email your recruiter to get all the details about pay, start date, and if they're using Cultural Vistas as a visa sponsor. It's useful for the visa. If your company isn't using Cultural Vistas, good luck, and be ready to provide a lot of school-related paperwork such as proof of enrollment.
+Further reading: https://uwaterloo.ca/co-operative-education/work-abroad/visa-permits/us-j1-visa
+
+Once you have your offer, email your recruiter to get all the details about pay, start date, and if they're using Cultural Vistas or Intrax (the two CECA preferred agencies) as a visa sponsor. It's useful for the visa. If your company isn't using Cultural Vistas or Intrax, good luck, and be ready to provide a lot of school-related paperwork such as proof of enrollment.
 
 CECA and Cultural Vistas will guide you through the process. If you're not a Canadian citizen, this process will involve making a trip to the US consulate in Toronto or Ottawa (if the wait is too long in Toronto) for an interview. You can schedule this meeting at any US consulate, including one in your home country. Note that for most consulates (including Toronto), you cannot leave your bag in the building, so you shouldn't take it, or you will have to ask some coffee shop barista to hold it for you. The consulate has lockers for smartphones, so you can bring it with you.
 
-Note: It is possible to extend your visa up to one year total if you are staying at the same company. For different companies, Brad was able to work for two different employers on two different J1 visas on consecutive terms. He applied for the second J1 while already in the US on the first, and got it approved once he returned to Canada in between internships. YMMV. Eric's Cultural Vistas rep informed him that you are eligible to apply for a second (consecutive) J1 while on your first visa as long as your current internship is required by your degree (i.e. co-op). He was also informed that you can transfer a J1 visa to another company if your internship dates are consecutive (no break in between) and they use the same sponsor.
+Note: It is possible to extend your visa up to one year total if you are staying at the same company. For different companies, Brad was able to work for two different employers on two different J1 visas on consecutive terms. He applied for the second J1 while already in the US on the first, and got it approved once he returned to Canada in-between internships. YMMV. Eric's Cultural Vistas rep informed him that you are eligible to apply for a second (consecutive) J1 while on your first visa as long as your current internship is required by your degree (i.e. co-op). He was also informed that you can transfer a J1 visa to another company if your internship dates are consecutive (no break in between) and they use the same sponsor.
 
 <section id="Paperwork-BeforeYouGo" />
 
 ### Before You Go
+
+Further reading: https://uwaterloo.ca/co-operative-education/work-abroad/before-you-go
 
 Have a second (or third) copy of all travel documents:
 
@@ -223,7 +229,7 @@ Not as long of a wait to get into the office (not as much security screening), b
 ##### [San Jose - Downtown](http://www.yelp.ca/biz/social-security-administration-san-jose-3)
 
 (W2012) Long wait just to get into the building (outdoor wait due to security screening), but card arrived in 2 business days (was promised two weeks).  
-(W2019) Stil a long wait just to get into the building (there's shelter overhead, but it's still outdoors), however the business card arrived in 5 business days (was still promised two weeks).
+(W2019) Still a long wait just to get into the building (there's shelter overhead, but it's still outdoors), however the business card arrived in 5 business days (was still promised two weeks).
 
 ##### [West San Jose - Campbell](http://www.yelp.ca/biz/social-security-administration-office-campbell)
 
@@ -256,7 +262,7 @@ Housing
 
 You'll want to start your search early.
 
-Check out the area specific section for more info.
+Check out the area-specific section for more info.
 
 <section id="Living-Roommates" />
 
@@ -293,7 +299,6 @@ Contact them and ask them to meet up somewhere in Waterloo for dinner. It gives 
 
 -	[Airbnb Sublets](http://www.airbnb.com/sublets) -- monthly vacation rentals
 -	[Airbnb](http://www.airbnb.com/) -- nightly vacation rentals
-
 	-	Good for when you're unable to move in for a couple of days, especially in the SF Bay Area. Typically cheaper than a hotel. Use common sense and good judgment, always read the reviews.
 
 -	[Vacation Rentals by Owner](http://vrbo.com) -- vacation rentals
@@ -312,9 +317,9 @@ Contact them and ask them to meet up somewhere in Waterloo for dinner. It gives 
 
 ### Cell Service
 
-Unless you're one of those crazy people who wanders around for Wi-Fi (I'm looking at you Deepinder), you'll want to get cell service.
+Unless you're one of those crazy people who wanders around for Wi-Fi, you'll want to get cell service.
 
-If you just want a phone that makes phone calls and texts (weirdo) you can get some cheap pay as you go phone. Stephen has a [BOOST](http://www.boostmobile.com/) prepaid phone which he uses for when people come to visit him and hasn't had any trouble with it.
+If you just want a phone that makes phone calls and texts, you can get a cheap pay as you go phone. Stephen has a [BOOST](http://www.boostmobile.com/) prepaid phone which he uses for when people come to visit him and hasn't had any trouble with it.
 
 <section id="Living-CellService-Smartphones" />
 
@@ -332,9 +337,7 @@ AT&T might also offer good options for pay-as-you-go plans.
 
 #### Roam Mobility
 
-Ankit highly recommends going with [Roam Mobility](http://roammobility.com). They're a Canadian company that offers cell phone services to USA travellers. All of their plans are prepaid and highly flexible, and range from daily plans for short-term travellers (from $4 CAD a day for unlimited everything including data) to monthly plans that are ideal for co-op students ($40 CAD for unlimited talk, text, and 2 gigs of data). The carrier uses T-Mobile's network. You can also pay for 4 months all at once and let the plan start right before you arrive in the United States. Also, since it's a Canadian company, you could just pay in Canadian dollars.
-
-The main reason Ankit loves Roam Mobility is the fact that every plan has unlimited calling back to Canada, which is perfect for interns that still want to keep in touch with friends and family at home.
+Shut down in 2020.
 
 #### Project Fi
 
@@ -371,26 +374,6 @@ A special deal offered by Freedom Mobile goes like this: for $15/mo, you keep yo
 The cell service in Waterloo & Toronto is [pretty good too](http://www.windmobile.ca/network-and-coverage/coverage).
 
 Note that your data is capped at 1GB in the US, regardless of your Canadian plan, as per their [usage policy](https://www.freedommobile.ca/docs/default-source/default-document-library/data-fair-usage-policy). Brad used this for a month, but then switched to T-Mobile's hidden plan in search of more data. Also, note that you are no longer able to use T-Mobile's network.
-
-<section id="Living-CellService-BlackBerry" />
-
-#### BlackBerry
-
-Getting data for your smartphone is a lot easier with a BlackBerry. If you have an unlocked phone, it's really easy. You can get a plan with a SIM card, pop it in, and walk out of the store Facebooking up a storm.
-
-Amir unlocked his BlackBerry 9900 phone [for a couple dollars](http://freemyblackberry.com/index.php) then bought the $50/mo T-Mobile pre-paid plan. $10 for the new SIM, and it has Unlimited Text/Unlimited Talk/500MB Data. The data is actually unlimited, but the first 500MB is 4G while anything after is throttled at 2G but with no extra cost. Incoming calls and texts from Canada are free, but outgoing is not (ask people to text you, then call them using Google Talk). All in all he paid for everything under $220 (including tax) for the 4 months, up-front.
-
-##### BIS
-
-There are a few options. Stephen's a BlackBerry user who would die without BBM and Google Maps. The main problem is that people don't like giving you data without a 1-2 year commitment. This section is only about getting your BlackBerry on the network *with BIS*.
-
-He used to use T-Mobile with a weird prepaid plan but they stopped that and make you put down a deposit. He's told that this may have changed, you may want to check this one in your state.
-
-His one friend knows a trick with AT&T where you can get them to check your Canadian credit history. He tried it and spend an hour arguing with the staff telling them it could be done and gave up. His friend told him it takes about three hours before they will relent, uggh.
-
-He tried SimpleMobile Winter '12 and had mixed feelings. Their customer support is pretty terrible, they don't know what BIS is and they think data is data. But you can get it to work, and the service itself is fine (he thinks they actually are on T-Mobile).
-
-Note, if you have a Rogers/AT&T phone it will likely only get EDGE not 3G.
 
 <section id="Living-CellService-LongDistance" />
 
@@ -504,7 +487,7 @@ One surefire way of getting a credit card fairly soon would be to apply for a Ca
 
 ### Using Credit Cards
 
-Keep in mind that in the US, tap-to-pay isn't as common as it is in Canada. Most places now will still swipe your credit card and make you sign the reciept with a pen.
+Keep in mind that in the US, tap-to-pay isn't as common as it is in Canada. Most places now will still swipe your credit card and make you sign the reciept with a pen. When you ask for the bill, U.S. restaurants will give you a folded bill book, which you put your credit card in and give it to your server. They'll take your credit card to the service area, then return it with it, a pen and two receipts - a customer copy and a merchant copy. You must sign the merchant copy and write down what tip you want to give, then add it up yourself and write down the total, and then sign at the bottom. You can then leave with the customer copy and your credit card. If expensing/reimbursing the meal with your company, make sure you write the tip on the customer copy as well and keep it.
 
 <section id="Money-Convert" />
 
@@ -575,7 +558,7 @@ Stephen's favourite method is still xe.com.
 
 You will owe taxes in the US, which will likely be deducted directly from your paycheques. When you file your return, you may end up receiving much of that back (50% is not unreasonable). You will first file your US returns before filing your Canadian returns, where you may end up paying a bit to Canada as well.
 
-If you situation is uncomplicated, you can try to file your returns yourself. Someone wrote an [Unofficial Waterloo Intern Tax Guide](https://csclub.uwaterloo.ca/~f2fung/taxguide.html) that will walk you through all the forms you need and answer most questions that come up. The author of that document was as thorough as he could, but if you have any concerns, you should seek a professional.
+If you situation is uncomplicated, you can try to file your returns yourself. Someone wrote an [Unofficial Waterloo Intern Tax Guide](https://csclub.uwaterloo.ca/~r389li/taxguide/) that will walk you through all the forms you need and answer most questions that come up. The author of that document was as thorough as he could, but if you have any concerns, you should seek a professional.
 
 Some people have had luck with this [free government program](http://www.irs.gov/Individuals/Free-Tax-Return-Preparation-for-You-by-Volunteers).
 
@@ -600,7 +583,7 @@ Stephen used "Peter Cuttini" (contact info on Waterloo site) for his 2011 taxes.
 
 H&R Block will also do it for around $300.
 
-If you are traveling on a Canadian Passport to the US to visit (not J-1), you are likely on a B-2 visa. This tidbit is useful if you travel to the US for pleasure after the completion of your J-1.
+If you are traveling on a non-Canadian Passport to the US to visit (not J-1) (Canadians don't need visas to visit the U.S. to have meetings, as a tourist, etc), you are likely on a B-2 visa. This tidbit is useful if you travel to the US for pleasure after the completion of your J-1.
 
 ---
 
@@ -612,7 +595,7 @@ Miscellaneous
 -	Amazon gives free shipping for 1 month (trial) through Prime. Get one intern to sign up at a time so you can have free shipping all work term. Even better is Amazon Student, which gives you free 6 months of Prime and subsidizes Prime at $39/year after that. Shale ships everything to his office. Carrying a box home is much less painful than going to the postal office to pick up a missed package.
 -	Woot.com is awesome
 -	Waterloo holds [alumni events](http://alumni.uwaterloo.ca/alumni/events/usa/), [Facebook Page](https://www.facebook.com/uwaterloosf) which are often open to students.
--	CECA runs a photo contest every term, one for US co-ops and one for international co-ops. They encourage you to take pictures with other Waterloo co-ops and of the places you visit. They do have the right to use it for promotional purposes. You get a certificate for participation as well as money for the top 3 winners. It's a good way to share your experiences and you might be up for some money for grabs.
+-	CECA runs a [photo contest](https://uwaterloo.ca/co-operative-education/work-abroad/photo-contest) every term, one for US co-ops and one for international co-ops. They encourage you to take pictures with other Waterloo co-ops and of the places you visit. They do have the right to use it for promotional purposes. You get a certificate for participation as well as money for the top 3 winners. It's a good way to share your experiences and you might be up for some money for grabs.
 -	Daily deal sites like Groupon, Living Social and Amazon Local are good sources for activities that you might not know exist in your area.
 -	Learn how to do some basic conversions from metric to imperial so you can make conversation about the weather (fahrenheit), order ham from the deli (ounces), drive without speeding (miles), etc.
 	-	Shortcut for estimating from F to C: (weather in F - 30) / 2 = weather in C. This will be off by 1 or 2 degrees, but works well for situations like figuring out what to wear in the morning.
@@ -644,7 +627,7 @@ I've been to three main areas and will focus on info for those. If you are an in
 #### Car Rentals
 
 -	Eric found [USAA](https://www.usaa.com) very useful for car rentals.
-	-	The website will make it seem like its for active-duty military or veterans, but everyone with an SSN is eligible for the shopping discounts. Not eligible for the insurance, however.
+	-	Everyone with an SSN is eligible for the shopping discounts. Not eligible for the insurance, however.
 	-	Car rental benefits are[here](https://www.usaa.com/inet/pages/rental_cars_main_public?wa_ref=pub_global_products_travel_rentalcars)
 	-	The main thing is that the underage fee is waived for all car companies (which saves a heck of a lot of money) and there's a discount (usually 10%) woven into there as well. You can also get these without going through USAA but USAA has the benefit of combining the two into one discount code. Hertz in particular allows for two discount codes, so you can often layer the discounts on and save a lot.
 	-	Being part of USAA also means you get free club gold membership into Hertz, which lets you build points for stuff like free day rentals, weekend rentals, etc.
@@ -771,8 +754,8 @@ I've been to three main areas and will focus on info for those. If you are an in
 
 #### Activities
 
--	[Helicopter Flying](http://verticalcfi.com/) Yes you get to control the helicopter. No license or classes required. Ask for the introductory flight lesson.
--	[Aerobatic Flying](http://www.aerodynamicaviation.com/store_gift_certificates.php) Yes you get to fly the plane and make it do loops and stuff. No license or classes required. Look for the gift certificate for aerobatic flying.
+-	Helicopter Flying - Yes you get to control the helicopter. No license or classes required. Ask for the introductory flight lesson.
+-	[Aerobatic Flying](http://www.aerodynamicaviation.com/store_gift_certificates.php) - Yes you get to fly the plane and make it do loops and stuff. No license or classes required. Look for the gift certificate for aerobatic flying.
 -	[Skydiving](http://www.santacruz-skydiving.com/) - Eric says it's much better than the one near Toronto (he's done both). This one you fall for a full minute and you land on the beach. Try and time for an hour or so before sunset. He says it's awesome skydiving onto a beach while the sun sets.
 -	[Paintballing](http://santaclarapaintball.com/) - They usually have good Groupon deals.
 -	[Skeet shooting](http://www.coyoteclays.com/) - no license or classes required.
